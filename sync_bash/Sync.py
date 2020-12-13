@@ -19,7 +19,7 @@ def parse_url(str1,file):
       print( 'We failed to reache a server.')
       print('Reason:', e.reason)
     else:
-      data=resp.read().decode('utf-8')
+      data=resp.read().decode('ISO-8859-1')
       soup = BeautifulSoup(data,'lxml')
       file.writelines("\n\n### [" +str(soup.title.get_text())+"]("+url+")")
 
