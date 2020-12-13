@@ -42,7 +42,7 @@ jobs:
           git config --local user.name "flaging-bot"
           git remote set-url origin https://${{ github.actor }}:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
           git pull --rebase
-          python3 sync_bash/instapaper_rss_parse.py
+          python3 sync_bash/Sync.py
           git add .
           git commit -m "update by github action"
           git push
