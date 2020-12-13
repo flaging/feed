@@ -4,9 +4,8 @@ import urllib.request
 import sys
 import os
 import time
-def parse_url(str,file):
-  data = feedparser.parse(str)
-  
+def parse_url(str1,file):
+  data = feedparser.parse(str1)
   for entry in data.entries:
     url = entry.link
     print(url)
