@@ -9,7 +9,7 @@ def parse_url(str1,file, file_name):
   for entry in data.entries:
     url = entry.link
     file_back_name= file_name[0:-3]+'.bk'
-    file_back = open(file_back_name,"a")
+    file_back = open(file_back_name,"ra")
     lines = file_back.read().splitlines()
     if url not in lines:
       file_back.writelines(url)
@@ -35,7 +35,7 @@ def main():
   file=open(file_name,"a")
   if not is_exists:
     file.write("\n# "+str(localtime.tm_year)+"-"+str(localtime.tm_mon)+"-"+str(localtime.tm_mday))
-  url_list = open('list.txt').read().splitlines()
+  url_list = open('list.txt','r').read().splitlines()
   for url in url_list:
     parse_url(url, file, file_name)
   file.close()
