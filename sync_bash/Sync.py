@@ -31,11 +31,11 @@ def parse_url(str1,file, file_name):
 def main():
   localtime = time.localtime(time.time())
   file_name = str(localtime.tm_year)+"/"+str(localtime.tm_mon)+str(localtime.tm_mday)+".md"
-  is_exits = os.path.exists(file_name)
+  is_exists = os.path.exists(file_name)
   file=open(file_name,"a")
   if not is_exists:
     file.write("\n# "+str(localtime.tm_year)+"-"+str(localtime.tm_mon)+"-"+str(localtime.tm_mday))
-  url_list = ['http://export.arxiv.org/rss/cs.AR','http://120.53.237.72:1200/weibo/user/6134470959']
+  url_list = open('list.txt').read().splitlines()
   for url in url_list:
     parse_url(url, file, file_name)
   file.close()
