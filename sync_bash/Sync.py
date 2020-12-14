@@ -11,7 +11,7 @@ def parse_url(str1,file, file_name):
     file_back_name= '.' + file_name[0:-3]+'.bk'
     file_back = open(file_back_name,"a")
     lines = file_back.read().splitlines()
-    if url not in lines
+    if url not in lines:
       file_back.writelines(url)
       headers = {'User-Agent':'Mozilla/5.0 (Windows NT 6.1; WOW64; rv:23.0) Gecko/20100101 Firefox/23.0'}
       req=urllib.request.Request(url, headers=headers)
@@ -39,9 +39,10 @@ def main():
   for url in url_list:
     parse_url(url, file, file_name)
   file.close()
-  readme = open("README.md","a")
-  readme.writelines("\n\n["+str(localtime.tm_year)+"-"+str(localtime.tm_mon)+"-"+str(localtime.tm_mday)+"]("+file_name+")")
-  readme.close()
+  if not is_exists:
+    readme = open("README.md","a")
+    readme.writelines("\n\n["+str(localtime.tm_year)+"-"+str(localtime.tm_mon)+"-"+str(localtime.tm_mday)+"]("+file_name+")")
+    readme.close()
   
 
 if __name__ == "__main__":
