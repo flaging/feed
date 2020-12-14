@@ -26,7 +26,7 @@ def parse_url(str1,file, file_name):
       else:
         data=resp.read().decode('ISO-8859-1')
         soup = BeautifulSoup(data,'lxml')
-        file.writelines("\n\n### [" +str(soup.title.get_text())+"]("+url+")
+        file.writelines("\n\n### [" +str(soup.title.get_text())+"]("+url+")")
   file_back.close()
 
 
