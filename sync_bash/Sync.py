@@ -8,10 +8,10 @@ def parse_url(str1,file, file_name):
   data = feedparser.parse(str1)
   file_back_name= file_name[0:-3]+'.bk'
   file_back = open(file_back_name,"a+")
-  lines = file_back.read().splitlines()
+  List<String> lines = file_back.read().splitlines()
   for entry in data.entries:
     url = entry.link
-    if str(url) not in lines:
+    if not lines.__contains__(url):
       file_back.writelines(url+'\n')
       lines.append(url)
       headers = {'User-Agent':'Mozilla/5.0 (Windows NT 6.1; WOW64; rv:23.0) Gecko/20100101 Firefox/23.0'}
