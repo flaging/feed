@@ -8,7 +8,7 @@ def parse_url(str1,file, file_name):
   data = feedparser.parse(str1)
   for entry in data.entries:
     url = entry.link
-    file_back_name= '.' + file_name[0:-3]+'.bk'
+    file_back_name= file_name[0:-3]+'.bk'
     file_back = open(file_back_name,"a")
     lines = file_back.read().splitlines()
     if url not in lines:
