@@ -1,3 +1,3 @@
 http://120.53.237.72:1200/weibo/user/1402400261
 http://export.arxiv.org/rss/cs.LG
-http://feeds.feedburner.com/ruanyifeng
+https://jiqizhixin.com/rss
