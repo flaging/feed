@@ -44,5 +44,5 @@ jobs:
           git pull --rebase
           python3 sync_bash/Sync.py
           git add .
-          git commit -m "update by github action"
+          git diff-index --quiet HEAD || git commit -m "update rss-list once per hour by flaging-bot"
           git push
