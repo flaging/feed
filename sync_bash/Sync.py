@@ -53,7 +53,7 @@ def parse_url(str1,file):
         try:
           file.writelines("\n\n"+str(soup.find_all('p',attrs={'class':'article__summary'})))
         except e:
-          time.sleep(1)
+          print("get_data_failed")
 
 
 def main():
