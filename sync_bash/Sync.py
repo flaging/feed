@@ -50,6 +50,8 @@ def parse_url(str1,file):
         data=resp.read().decode('utf-8','ignore')
         soup = BeautifulSoup(data,'lxml')
         file.writelines("\n\n### [" +str(soup.title.get_text())+"]("+url+")")
+        try:
+          file.writelines("\n\n"+str(soup.find_all('p',attrs={'class':'article__summary'})))
 
 
 def main():
