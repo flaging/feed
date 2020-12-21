@@ -47,13 +47,18 @@ def parse_url(str1,file):
         print( 'We failed to reache a server.')
         print('Reason:', e.reason)
       else:
-        data=resp.read().decode('utf-8','ignore')
-        soup = BeautifulSoup(data,'lxml')
-        file.writelines("\n\n### [" +str(soup.title.get_text())+"]("+url+")")
         try:
-          file.writelines("\n\n"+str(soup.find_all('p',attrs={'class':'article__summary'})))
-        except e:
-          print("get_data_failed")
+          data=resp.read().decode('utf-8','ignore')
+          soup = BeautifulSoup(data,'lxml')
+          file.writelines("\n\n### [" +str(soup.title.get_text())+"]("+url+")")
+          try:
+            file.writelines("\n\n"+str(soup.find_all('p',attrs={'class':'article__summary'})))
+          except e:
+            print("get_data_failed")
+        except:
+          print("except")
+        else:
+           print('data get failed')
 
 
 def main():
