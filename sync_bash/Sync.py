@@ -52,6 +52,8 @@ def parse_url(str1,file):
         file.writelines("\n\n### [" +str(soup.title.get_text())+"]("+url+")")
         try:
           file.writelines("\n\n"+str(soup.find_all('p',attrs={'class':'article__summary'})))
+        except e:
+          time.sleep(1)
 
 
 def main():
