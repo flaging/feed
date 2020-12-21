@@ -1,4 +1,3 @@
-http://export.arxiv.org/rss/cs.LG
 https://jiqizhixin.com/rss
 https://sspai.com/feed
 http://feed.appinn.com/
