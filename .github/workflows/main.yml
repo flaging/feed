@@ -34,15 +34,21 @@ jobs:
         uses: actions/setup-python@v2
         with:
           python-version: '3.8'
-      - name: git clone
+      - name: py-env
         run: |
           python -m pip install --upgrade pip
           pip install -r requirements.txt
+      - name: git clone
+        run: |
           git config --local user.email "liyupeng341@163.com"
           git config --local user.name "flaging-bot"
           git remote set-url origin https://${{ github.actor }}:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
           git pull --rebase
+      - name: update
+        run:
           python3 sync_bash/Sync.py
+      - name: git push
+        run: |
           git add .
           git diff-index --quiet HEAD || git commit -m "update rss-list once per hour by flaging-bot"
           git push
