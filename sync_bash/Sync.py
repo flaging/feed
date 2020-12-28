@@ -41,22 +41,16 @@ def parse_url(str1,file):
       req=urllib.request.Request(url, headers=headers)
       try:
         resp=urllib.request.urlopen(req)
-      except (urllib.error.HTTPError,e):
-        print('Error code:', e.code)
-      except (urlllib.error.URLError, e):
+      except:
         print( 'We failed to reache a server.')
-        print('Reason:', e.reason)
       else:
         try:
           data=resp.read().decode('utf-8','ignore')
           soup = BeautifulSoup(data,'lxml')
           file.writelines("\n\n### [" +str(soup.title.get_text())+"]("+url+")")
-          try:
-            contentdata=soup.find_all('p', attrs={'class':'article__summary'})
-            for content_i in contentdata:
-              file.writelines("\n\n"+content_i)
-          except e:
-            print("get_data_failed")
+          contentdata=soup.find_all('p', attrs={'class':'article__summary'})
+          for content_i in contentdata:
+            file.writelines("\n\n"+content_i)
         except:
           print("except")
         else:
