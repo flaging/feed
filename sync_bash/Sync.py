@@ -54,7 +54,7 @@ def parse_url(str1,file):
           try:
             contentdata=soup.find_all('p', attrs={'class':'article__summary'})
             for content_i in contentdata:
-              file.writelines("\n\n"+content_i))
+              file.writelines("\n\n"+content_i)
           except e:
             print("get_data_failed")
         except:
