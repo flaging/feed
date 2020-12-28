@@ -52,7 +52,9 @@ def parse_url(str1,file):
           soup = BeautifulSoup(data,'lxml')
           file.writelines("\n\n### [" +str(soup.title.get_text())+"]("+url+")")
           try:
-            file.writelines("\n\n"+str(soup.find_all('p',attrs={'class':'article__summary'})))
+            contentdata=soup.find_all('p', attrs={'class':'article__summary'})
+            for content_i in contentdata:
+              file.writelines("\n\n"+content_i))
           except e:
             print("get_data_failed")
         except:
