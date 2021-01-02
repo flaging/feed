@@ -59,7 +59,7 @@ def parse_url(str1,file):
 
 def main():
   localtime = time.localtime(time.time())
-  file_name = str(localtime.tm_year)+"/"+str(localtime.tm_mon)+str(localtime.tm_mday)+".md"
+  file_name = str(localtime.tm_year)+"/"+str(localtime.tm_mon)+'-'+str(localtime.tm_mday)+".md"
   is_exists = os.path.exists(file_name)
   file=open(file_name,"a")
   if not is_exists:
