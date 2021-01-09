@@ -59,4 +59,4 @@
 
 [2021-1-9](2021/1-9.md)
 
-@import "https://github.com/flaging/feed/2021/1-9.md"
+@import "https://github.com/flaging/feed/blob/main/2021/1-9.md"
