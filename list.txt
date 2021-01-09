@@ -31,7 +31,6 @@ https://coolcao.com/atom.xml
 https://crossoverjie.top/atom.xml
 https://algorithm.yuanbin.me/zh-hans//feed.xml
 https://interrupt.memfault.com/blog/feed.xml
-http://www.matrix67.com/blog/feed.asp
 http://matt.might.net/articles/feed.rss
 https://pharr.org/matt/blog/feed.xml
 https://mbinary.xyz/atom.xml
