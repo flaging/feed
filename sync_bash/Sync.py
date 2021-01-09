@@ -35,8 +35,15 @@ def parse_url(str1,file):
         cur.execute(exe1)
         conn.commit()
         file.writelines('\n\n### ['+articletitle +']('+url+')')
+        try:
+          art_content = entry.content[0].value
+          file.writelines('\n\n '+str(art_content))
+        except:
+          print(url+' content parse failed!\n')
+        else:
+          print(url+' parse success!\n')
   except:
-    file.writelines('\n\n; error read: '+str1)
+    file.writelines('\n\n### error read: '+str1)
   else:
     print('parse success')
 
