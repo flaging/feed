@@ -5,9 +5,13 @@ import sys
 import os
 import time
 import sqlite3
+import eventlet
+
 def parse_url(str1,file):
   try:
-    data = feedparser.parse(str1)
+    eventlet.monkey_patch()
+    with eventlet.Timeout(15, False):
+      data = feedparser.parse(str1)
     if os.path.exists('test.db'):
       conn = sqlite3.connect('test.db')
       cur = conn.cursor()
