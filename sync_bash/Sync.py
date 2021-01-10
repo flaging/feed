@@ -10,7 +10,7 @@ import eventlet
 def parse_url(str1,file):
   try:
     eventlet.monkey_patch()
-    with eventlet.Timeout(15, False):
+    with eventlet.Timeout(20, False):
       data = feedparser.parse(str1)
     if os.path.exists('test.db'):
       conn = sqlite3.connect('test.db')
