@@ -1,0 +1,529 @@
+# Feed
+
+## 介绍
+
+本repo是一个RSS的内容更新repo，使用github action实现新消息的更新。
+
+每小时拉取[RSS列表](./list.txt)中的RSS源，并将内容更新在每页上。
+
+历史存档在[这里](./ARCHIVED.md)
+
+### TODO
+
+- [ ] 将RSSHUB迁移到repo上，直接在更新时构建RSSHUB镜像然后本地读取对应端口信息
+- [ ] 实现最README页直接展示今天新更新的信息
+- [ ] 重新设计sqlite3数据库中字段信息，包括但不限于文章更新时间、拉取时间，文章标题，文章正文内容等
+- [ ] 优化更新和对比效率
+- [ ] 做好所有rss源适配
+
+## 今日更新
+# 2021-1-10
+
+### [Reproduced YOLOv3 based on Pytorch (darknet)](https://www.reddit.com/r/pytorch/comments/kts9zp/reproduced_yolov3_based_on_pytorch_darknet/)
+
+ <!-- SC_OFF --><div class="md"><p>I reproduced YOLOv3 by a single short script.</p> <p>It loads the pre-training parameters provided by the darknet official website directly without conversion. This means that a model trained with Darknet can be converted to a Pytorch model using this script.</p> <p>The required weight file and test picture are automatically downloaded from the official website, and no other files are dependent.</p> <p>Except for the basic library of Python, it only depends on OpenCV and Pytorch 1.7 (including TorchVision).</p> <p>The Forward does not use the advanced features of Pytorch, and can be directly Scripted or Traced for further deployment.</p> <p><a href="https://gist.github.com/devymex/1f76224b2428d0ddbf92b93def6c587c">https://gist.github.com/devymex/1f76224b2428d0ddbf92b93def6c587c</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/devymex"> /u/devymex </a> <br /> <span><a href="https://www.reddit.com/r/pytorch/comments/kts9zp/reproduced_yolov3_based_on_pytorch_darknet/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/pytorch/comments/kts9zp/reproduced_yolov3_based_on_pytorch_darknet/">[comments]</a></span>
+
+### [1、寒潮带来雨雪 低温天气仍将持续2、《互联网信息服务管理办法（修订草案征求意见稿）》公开征求意见3、生猪期货在大连商品交易所上市4、《高级社会工作师评审...](https://t.me/tgchinanews/909)
+
+### [🖼Sat, 09 Jan 2021 12:24:04 GMT](https://t.me/tgchinanews/908)
+
+### [弟弟 211 毕业后，一直没啥好出路，工业设计专业，一直公考靠不上，转行当程序员，难吗？](https://www.v2ex.com/t/743322)
+
+### [有没有四十岁的前辈](https://www.v2ex.com/t/743242)
+
+### [2021年1月9日新闻联播文字版](http://www.xwlb.net.cn/17443.html)
+
+### [📹A new video shows a crew of Boston Dynamics robots busting some impressive dance moves.IMHO: That advances of technology have also led to fears th...](https://t.me/computer_science_and_programming/1040)
+
+### [🖼TgStat team provided channel's progress for 2020 year. We are keeping growing in every categories: new members, global ranking, the average re...](https://t.me/computer_science_and_programming/1039)
+
+### [🖼Project Page:https://github.com/TZYSJTU/Sketch-Generation-with-Drawing-Process-Guided-by-Vector-Flow-and-GrayscalePaper: https://arxiv.org/pdf/201...](https://t.me/computer_science_and_programming/1038)
+
+### [🖼Sketch-Generation-with-Drawing-Process-Guided-by-Vector-Flow-and-Grayscale](https://t.me/computer_science_and_programming/1036)
+
+### [📎zetane_demo.gif / 50.9 MB](https://t.me/computer_science_and_programming/1035)
+
+### [🖼Montreal AI startup, Zetane, releases free software platform for the detailed analysis and visualization of popular deep learning models used in i...](https://t.me/computer_science_and_programming/1033)
+
+### [🖼NeurIPS 2020 highlights at:https://crossminds.ai/category/neurips%202020/Also follow recent conferences and discover your inspirations and see wha...](https://t.me/computer_science_and_programming/1032)
+
+### [🖼NeurIPS 2020 is the largest machine learning conference and is just around the corner! Check out this exclusive collection of 100+ pre-recorded ta...](https://t.me/computer_science_and_programming/1030)
+
+### [Project page: https://video-nerf.github.io/Paper: https://arxiv.org/pdf/2011.12950.pdfCode: coming soon](https://t.me/computer_science_and_programming/1029)
+
+### [3D photo is great, but have you ever seen 3D *free-viewpoint video*? Space-time neural rendering from a single, casually captured video! https://youtu...](https://t.me/computer_science_and_programming/1028)
+
+### [https://laconicml.com/coursera-artificial-intelligence-courses/?fbclid=IwAR2UlS5rr5ya9f3YtxQFdyQnA69ll-m3xTN5kdQVaiUpRp5nkaIyOuq5e8gYann LeCun’s Deep...](https://t.me/computer_science_and_programming/1027)
+
+### [🖼Top 40 COMPLETELY FREE Coursera Artificial Intelligence and Computer Science Courses](https://t.me/computer_science_and_programming/1026)
+
+### [https://medium.com/the-innovation/130-machine-learning-projects-solved-and-explained-605d188fb392](https://t.me/computer_science_and_programming/1025)
+
+### [🖼Mon, 02 Nov 2020 11:08:59 GMT](https://t.me/computer_science_and_programming/1024)
+
+### [Top deep learning Github repositorieshttps://github.com/mbadry1/Top-Deep-Learning](https://t.me/computer_science_and_programming/1023)
+
+### [🖼List of top 200 deep learning Github repositories sorted by the number of stars.](https://t.me/computer_science_and_programming/1022)
+
+### [Rotated Binary Neural NetworkGithub (Pytorch implementation): https://github.com/lmbxmu/RBNNPaper: https://arxiv.org/abs/2009.13055](https://t.me/computer_science_and_programming/1021)
+
+### [🖼Binary Neural Network (BNN) is best feet for reducing the complexity of deep neural networks. But, it suffers severe performance degradation. Rota...](https://t.me/computer_science_and_programming/1020)
+
+### [https://github.com/brinesoftwares/Flutter-AI-Rubik-cube-Solver?fbclid=IwAR0agon7_lmFDOoBeT3ru9skWvTer3syzLFz_vHDZy9isC3FzWTJJ3JufsE](https://t.me/computer_science_and_programming/1019)
+
+### [【Rust日报】2021-01-09 GTK-RS Channel问题中的多线程处理](https://rustcc.cn/article?id=b6283c4a-8857-4e9e-b79d-219803f6854f)
+
+### [Lucene 中的 Stored Fields 存储优化](https://www.infoq.cn/article/RgSYhHhcKwDV4b65cSyx)
+
+### [PostgreSQL 中如何启用/禁用及验证外键约束](https://www.infoq.cn/article/kahUTf7ZLid0BiYhAdIq)
+
+### [探寻繁杂定时任务的解决方案：分布式任务调度系统](https://www.infoq.cn/article/PdIkyOTaO6tfOcvPfm3w)
+
+### [聊一聊微服务架构中的服务发现系统](https://www.infoq.cn/article/bcY0CCtSrx20urYw6ili)
+
+### [晚安～ [月亮] #晚安# [图片][图片][图片][图片]](https://weibo.com/1402400261/JCqlChNAz)
+
+### [《爱可可老师24小时热门分享(2021.1.9)》  爱可可老师24小时热门分享(2021.1.9)](https://weibo.com/1402400261/JCqkY2fRP)
+
+### [【Undocumented arm64 ISA extension present on the Apple M1】网页链接 Apple M1上存在未记录的arm64 ISA扩展。 [图片]](https://weibo.com/1715118170/JCr8mgvYK)
+
+### [【Comparing C to Machine Language】网页链接 将C与机器语言进行比较。（油管视频） [图片]](https://weibo.com/1715118170/JCqK1rjGL)
+
+### [【Why the iPhone Timer app displays a fake time】网页链接 为什么iPhone Timer应用程序显示假时间？ [图片]](https://weibo.com/1715118170/JCqlzlzfk)
+
+### [“利他是人生、企业最好的商业模式”，这话虽然看着很鸡汤但是觉得蛮对的。](https://weibo.com/1642628345/JCqyS0nMI)
+
+### [我要是现在还有PDD的股票，看了这么多负面新闻，都会有吃人血馒头的感觉啊，有的钱不该赚还是算了吧。](https://weibo.com/1642628345/JCquYz7XB)
+
+### [南北差距根本上是市场化程度的差距](http://www.jintiankansha.me/t/KXuW9a5sFb)
+
+### [讨厌电梯里的可视广告，更讨厌的是这些广告的声音“关不掉”](https://www.v2ex.com/t/743413)
+
+### [物理学家发现了一种全新的物质状态](http://jandan.net/p/108306)
+
+### [美初创公司欲打造超音速客运航班](http://jandan.net/p/108304)
+
+### [#绿洲摄影#深谷幽潭 绿洲 [图片]](https://weibo.com/1715118170/JCrE02TDa)
+
+### [【Cosmopolitan Libc: build-once run-anywhere C library】网页链接 Cosmopolitan Libc: 构建一次，到处运行的C语言库。网路冷眼技术分享 #科技暖心季# [图片]](https://weibo.com/1715118170/JCrwM2K8t)
+
+### error read: http://www.bigdatainterview.com/feed/
+
+### [早！[太阳] #早安# [图片]](https://weibo.com/1402400261/JCt8U4tjj)
+
+### [【New Hard Disk Write Head Analytical Technology Can Increase Hard Disk Capacities】网页链接 新的硬盘写头分析技术可以增加硬盘容量。网路冷眼技术分享 #...](https://weibo.com/1715118170/JCti0ooe5)
+
+### [【I made a slack + gitlab integration to notify teams of merge requests!】网页链接 我进行了Slack + gitlab集成，以通知团队合并请求！ [图片]](https://weibo.com/1715118170/JCt6cxPt2)
+
+### [FlowchartProcess_ChartJ8HUUDMNXkEmo25744eSiqzWVbCl00r37624-pAp9bg-7OrrGYp-17304](https://www.xmind.net/q4QEUe)
+
+### [Spending Category](https://www.xmind.net/NVNrfd)
+
+### [My Wish List](https://www.xmind.net/gjX85x)
+
+### [EJMPLO DE UN PROCESO PRODUCTIVO](https://www.xmind.net/iEJyJP)
+
+### [FlowchartProcess_ChartJ8HUUDMNXkEmo25744-eSiqzW-VbCl00r-37624](https://www.xmind.net/pAp9bg)
+
+### [Caracteristicas de las Inteligencias Múltiples](https://www.xmind.net/Chtp3f)
+
+### [What is My Birthstone?](https://www.xmind.net/HSjLKG)
+
+### [คำไวพจน์](https://www.xmind.net/F7trvd)
+
+### [各位现在听歌都是用什么软件呀](https://www.v2ex.com/t/743394)
+
+### [[CL]《Did Aristotle Use a Laptop? A Question Answering Benchmark with Implicit Reasoning Strategies》M Geva, D Khashabi, E Segal, T Khot, D Roth, J Be...](https://weibo.com/1402400261/JCtxMyzMi)
+
+### [【A tool for changing Windows drivers code without revert/reboot/unload】网页链接 无需还原/重启/卸载即可更改Windows驱动程序代码的工具。 网路冷眼技术分...](https://weibo.com/1715118170/JCtGmqFni)
+
+### [【I built a website for video game cinematics】网页链接 我建立了一个视频游戏电影网站。网路冷眼技术分享 #科技暖心季# [图片]](https://weibo.com/1715118170/JCtuiciUS)
+
+### [比特币突破3万美元：数字黄金、货币革命还是投机泡沫？](http://www.jintiankansha.me/t/lrUhSf0qKG)
+
+### [中国十大最具发展潜力城市排名](http://www.jintiankansha.me/t/8WOcSCM6ey)
+
+### [小事 · 不着急](https://daily.zhihu.com/story/9731833)
+
+### [剧本杀怎么入门？](https://daily.zhihu.com/story/9731840)
+
+### [元气森林乳茶等宣传 0 蔗糖的饮料，真的无糖吗？](https://daily.zhihu.com/story/9731863)
+
+### [以油养肤是真的能把皮肤养好吗？](https://daily.zhihu.com/story/9731856)
+
+### [用烤箱可以做什么好吃简单便宜的美食？](https://daily.zhihu.com/story/9731857)
+
+### [有哪些方法可以提高一个人的决策能力？](https://daily.zhihu.com/story/9731866)
+
+### [青年图摘0110！身在曹营心在汉](https://qingniantuzhai.com/qing-nian-tu-zhai-0110-3/)
+
+ <!--kg-card-begin: markdown--><img alt="青年图摘0110！身在曹营心在汉" src="https://qingniantuzhai.com/content/images/2021/01/981aad41ly1gmhp3z828lj20go0ftt9y_---.jpg" /><p>【1】给每一位被逼996的同胞们<br />
+<img alt="青年图摘0110！身在曹营心在汉" src="https://wx4.sinaimg.cn/mw600/00893JKXly1gmhsltjcmwj31hc0u0ju4.jpg" /></p>
+<p>【2】毫无实战经验<br />
+<img alt="青年图摘0110！身在曹营心在汉" src="https://wx1.sinaimg.cn/mw1024/00893JKXly1gmhs5fnosvg306i08eb29.gif" /></p>
+<p>【3】传说中六亲不认的步伐？<br />
+<img alt="青年图摘0110！身在曹营心在汉" src="https://wx4.sinaimg.cn/mw1024/00893JKXly1gmhpz9uwl5g306507z7wh.gif" /></p>
+<p>【4】虚晃一枪<br />
+<img alt="青年图摘0110！身在曹营心在汉" src="https://wx1.sinaimg.cn/mw1024/00893JKXly1gmhpyyv5feg308c07anpd.gif" /></p>
+<p>【5】身在曹营心在汉<br />
+<img alt="青年图摘0110！身在曹营心在汉" src="https://ww1.sinaimg.cn/mw600/981aad41ly1gmhp3z828lj20go0ftt9y.jpg" /></p>
+<p>【6】炮打司令部<br />
+<img alt="青年图摘0110！身在曹营心在汉" src="https://wx4.sinaimg.cn/mw1024/00893JKXly1gmhn5vjv9qg30b406oe81.gif" /></p>
+<p>【7】真“电脑”。。。<br />
+<img alt="青年图摘0110！身在曹营心在汉" src="https://wx1.sinaimg.cn/mw600/00893JKXly1gmhn6jo6q2j30u00hgdh5.jpg" /></p>
+<p>【8】不要指责没有水，只要努力就可以陆上行舟<br />
+<img alt="青年图摘0110！身在曹营心在汉" src="https://wx2.sinaimg.cn/mw600/00893JKXly1gmhn8ychp3j30dw099wf0.jpg" /></p>
+<p>【9】以上都将成为领导克扣你工资的借口<br />
+<img alt="青年图摘0110！身在曹营心在汉" src="https://wx2.sinaimg.cn/mw600/00893JKXly1gmhn9aocwjj30u015qn1s.jpg" /></p>
+<p>【10】说是黑洞也不过分<br />
+<img alt="青年图摘0110！身在曹营心在汉" src="https://wx2.sinaimg.cn/mw600/00893JKXly1gmhncyx9xmj30hs0lf75q.jpg" /></p>
+<p>【11】“没有一个‘棒棒’能逃脱我的掌心”<br />
+<img alt="青年图摘0110！身在曹营心在汉" src="https://wx4.sinaimg.cn/mw1024/00893JKXly1gmhn5lo49ug3052080u0y.gif" /></p>
+<p>【12】看他天灵盖就知道他还有大招没出<br />
+<img alt="青年图摘0110！身在曹营心在汉" src="https://wx3.sinaimg.cn/mw1024/00893JKXly1gmhn296q7gg305x07ee89.gif" /></p>
+<p>【13】这么实诚的广告不多了<br />
+<img alt="青年图摘0110！身在曹营心在汉" src="https://wx4.sinaimg.cn/mw600/00893JKXly1gmhm73ri4zj31qg0u0ql1.jpg" /><br />
+<img alt="青年图摘0110！身在曹营心在汉" src="https://wx2.sinaimg.cn/mw600/00893JKXly1gmhm6xa6efj31qg0u04gp.jpg" /><br />
+<img alt="青年图摘0110！身在曹营心在汉" src="https://wx1.sinaimg.cn/mw600/00893JKXly1gmhm6r6v8zj31qg0u0h3x.jpg" /></p>
+<p>【14】父爱如山，见着落泪<br />
+<img alt="青年图摘0110！身在曹营心在汉" src="https://wx4.sinaimg.cn/mw600/0085KTY1gy1ghh9gisqk5j30pb0h2n0k.jpg" /></p>
+<p>【15】老板，这就是我今天迟到的原因<br />
+<img alt="青年图摘0110！身在曹营心在汉" src="https://ww1.sinaimg.cn/mw600/00745YaMgy1gmh7dglreej30k00qojsj.jpg" /></p>
+<p>【16】来嘛来嘛，不要不要<br />
+<img alt="青年图摘0110！身在曹营心在汉" src="https://ww1.sinaimg.cn/mw1024/007xjvi3ly1gmhawaiqilg30b4069u1b.gif" /></p>
+<p>【17】这是我发明的拒客门，肥肠的银杏<br />
+<img alt="青年图摘0110！身在曹营心在汉" src="https://ww1.sinaimg.cn/mw1024/6ac8cd7dly1gmhars70zjg20dc06ekjw.gif" /></p>
+<p>【18】孤独无助的圣诞老人遭神秘女子暴打<br />
+<img alt="青年图摘0110！身在曹营心在汉" src="https://wx1.sinaimg.cn/mw1024/575ed5f7ly1gmdyw0x9tag207h08ce84.gif" /></p>
+<p>【19】姑娘你下盘不稳……告辞<br />
+<img alt="青年图摘0110！身在曹营心在汉" src="https://ww3.sinaimg.cn/mw1024/0073tLPGgy1g2p5fg1utzg308j06hb2b.gif" /></p>
+<p>【20】这智商。。。<br />
+<img alt="青年图摘0110！身在曹营心在汉" src="https://ww1.sinaimg.cn/mw600/006CU92zly1gmhu88rk38j30g20k3aap.jpg" /></p>
+<!--kg-card-end: markdown-->
+
+### [【Thonny is a Simple Python IDE for Beginners Top 10 features】网页链接 Thonny是面向初学者的十大简单Python IDE功能。网路冷眼技术分享 #科技暖心季# 网路...](https://weibo.com/1715118170/JCu4IBKnP)
+
+### [【Bash streams handbook】网页链接 Bash Streams手册：了解从初学者到高级的Bash流，管道和重定向教程。网路冷眼技术分享 #科技暖心季# [图片]](https://weibo.com/1715118170/JCtSLhQeZ)
+
+### error read: http://www.bigdatainterview.com/feed/
+
+### [How implicit registration of modules work](https://www.reddit.com/r/pytorch/comments/ku4ngk/how_implicit_registration_of_modules_work/)
+
+ <!-- SC_OFF --><div class="md"><p>Hey Guys,</p> <p>I have a question which is more about Python than Pytorch. When we assign a module to a member field in the construction (e.g. self.linear = nn.Linear(5,10)) it gets registered implicitly, how does that work?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/hhh312"> /u/hhh312 </a> <br /> <span><a href="https://www.reddit.com/r/pytorch/comments/ku4ngk/how_implicit_registration_of_modules_work/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/pytorch/comments/ku4ngk/how_implicit_registration_of_modules_work/">[comments]</a></span>
+
+### [Daily Hacker News for 2021-01-09](https://www.daemonology.net/hn-daily/2021-01-09.html)
+
+### [Springboot 开发环境搭建和项目启动](https://www.infoq.cn/article/bde9709a1e4f9a77be22e84a4)
+
+### [【FAA issuing new rules to allow drones to fly over people and at night】网页链接 美国联邦航空局发布新规则，允许无人机在夜间飞越人上空。 [图片]](https://weibo.com/1715118170/JCuForCcU)
+
+### [【Tuchu – Automatically highlight the important parts of a document】网路冷眼技术分享 #科技暖心季# [图片]](https://weibo.com/1715118170/JCuh1iTBn)
+
+### [转发 - 转发 @网路冷眼:&ensp;【Cosmopolitan Libc: build-once run-anywhere C library】网页链接 Cosmopolitan Libc: 构建一次，到处运行的C语言库。网路冷眼...](https://weibo.com/1642628345/JCum59VwD)
+
+### [Project Lightspeed – 任何人都能部署的开源亚秒级延迟直播平台](https://www.appinn.com/project-lightspeed/)
+
+ <p><strong>Project Lightspeed</strong> 是一个开源项目，包含 OBS、FTL 协议和 WebRTC 三部分，实现亚秒级的浏览器直播，可以让任何人都能部署一个快速的直播平台。@<a class="rank-math-link" href="https://www.appinn.com/project-lightspeed/">Appinn</a></p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><img alt="Project Lightspeed - 任何人都能部署的开源亚秒级延迟直播平台 1" src="https://img3.appinn.net/images/202101/project-lightspeed.jpg!o" title="Project Lightspeed - 任何人都能部署的开源亚秒级延迟直播平台 1" /></figure></div>
+
+
+
+<p>来自 <a class="rank-math-link" href="https://www.producthunt.com/posts/project-lightspeed" rel="noopener" target="_blank">PH</a>。</p>
+
+
+
+<p>虽然大平台事实上垄断了视频平台，但如果你只是想自己玩玩，其实还是可以在摆脱这些大平台的情况下玩的很爽的。</p>
+
+
+
+<p>Project Lightspeed 包含了 OBS（<a class="rank-math-link" href="https://www.appinn.com/open-broadcaster-software/">Open Broadcaster Software</a>）、FTL 协议和 WebRTC 三个部分，可以通过 <a class="rank-math-link" href="https://github.com/GRVYDEV/Project-Lightspeed/issues/2" rel="noopener" target="_blank">Docker</a> 部署，跟着 <a class="rank-math-link" href="https://github.com/GRVYDEV/Project-Lightspeed" rel="noopener" target="_blank">GitHub</a> 页面教程即可部署。</p>
+
+
+
+<figure class="wp-block-image size-large"><img alt="Project Lightspeed - 任何人都能部署的开源亚秒级延迟直播平台 2" src="https://img3.appinn.net/images/202101/103556736-7f311380-4eb2-11eb-886c-039867d0b9ff.jpg!o" title="Project Lightspeed - 任何人都能部署的开源亚秒级延迟直播平台 2" /></figure>
+
+
+
+<p>当然这是一个很早期的项目，有同好的开发者能参与进去就更好了。开发者还演示了一段视频，在 <a class="rank-math-link" href="https://www.youtube.com/watch?v=Dzin4_A8RDs" rel="noopener" target="_blank">YouTube</a>。</p>
+
+
+
+<p>注：青小蛙并未尝试部署，仅做云介绍。部署 Project Lightspeed 需要一定的专业知识和经验。</p>
+<hr /><h2>相关阅读</h2><ul><li><a href="https://www.appinn.com/project-naptha-demo/" rel="bookmark" title="Permanent Link: Project Naptha &#8211; 革命性图像文字识别技术 [Chrome Demo]">Project Naptha &#8211; 革命性图像文字识别技术 [Chrome Demo]</a></li><li><a href="https://www.appinn.com/project-rome/" rel="bookmark" title="Permanent Link: Project ROME &#8211; 漂亮的内容编辑平台">Project ROME &#8211; 漂亮的内容编辑平台</a></li><li><a href="https://www.appinn.com/google-art-project-chrome/" rel="bookmark" title="Permanent Link: Google Art Project &#8211; 让博物馆进入新标签页[Chrome]">Google Art Project &#8211; 让博物馆进入新标签页[Chrome]</a></li><li><a href="https://www.appinn.com/project-loon-new-zealand/" rel="bookmark" title="Permanent Link: Loon 飞向新西兰 &#8211; Google Project Loon[视频]">Loon 飞向新西兰 &#8211; Google Project Loon[视频]</a></li><li><a href="https://www.appinn.com/cunzai-a-microsoft-garage-project/" rel="bookmark" title="Permanent Link: 存在 &#8211; 微软车库推出的一款十分接地气的云笔记工具[微信/iPhone]">存在 &#8211; 微软车库推出的一款十分接地气的云笔记工具[微信/iPhone]</a></li></ul><hr />
+<a href="http://www.appinn.com/copyright/?utm_source=feeds&amp;utm_medium=copyright&amp;utm_campaign=feeds" title="版权声明">&#169;</a>2019 青小蛙 for <a href="http://www.appinn.com/?utm_source=feeds&amp;utm_medium=appinn&amp;utm_campaign=feeds" title="本文来自小众软件">小众软件</a> | <a href="http://www.appinn.com/join-us/?utm_source=feeds&amp;utm_medium=joinus&amp;utm_campaign=feeds" title="加入小众软件">加入我们</a> | <a href="https://meta.appinn.com/c/faxian/?utm_source=feeds&amp;utm_medium=contribute&amp;utm_campaign=feeds" rel="noopener" target="_blank" title="给小众软件投稿">投稿</a> | <a href="http://www.appinn.com/feeds-subscribe/?utm_source=feeds&amp;utm_medium=feedsubscribe&amp;utm_campaign=feeds" target="_blank" title="可以分类订阅小众，Windows/MAC/游戏"><font color="red">订阅指南</font></a><br /> 3659b075e72a5b7b1b87ea74aa7932ff <br />
+<a href="https://www.appinn.com/project-lightspeed/#comments" title="to the comments">点击这里留言、和原作者一起评论</a>
+
+### [KCP1.4源码分析](https://www.codedump.info/post/20201105-kcp/)
+
+### error read: http://www.bigdatainterview.com/feed/
+
+### [成为世界首富第一天，马斯克全网求助：这钱该怎么花？](http://www.jintiankansha.me/t/8pIDsjFN8J)
+
+### [低价买特斯拉？还是高价买蔚来?](http://www.jintiankansha.me/t/BinfUNIiMx)
+
+### [拜登上台之后，美国数万亿刺激计划就要来了？](http://www.jintiankansha.me/t/3If0Um1lot)
+
+### [比特币最大问题：何时见顶？](http://www.jintiankansha.me/t/vaSCchyWiW)
+
+### [燃料电池风起2021：一个超越锂电的新能源“高维战场”](http://www.jintiankansha.me/t/5tFeRkENYl)
+
+### [和谁在一起，的确很重要](http://www.jintiankansha.me/t/D75rAm9MGf)
+
+### [通胀会不会来？ ——解读12月PMI数据](http://www.jintiankansha.me/t/NMcSvHXqbJ)
+
+### [从程序员转型职业投资！人生如投资，选择比努力重要](http://www.jintiankansha.me/t/VgDaNcI1ZH)
+
+### [连爆三雷！董秘跑了！27个银行账户被冻结！股价创十年新低！3万多股东欲哭无泪！证监会出手：立案调查！](http://www.jintiankansha.me/t/z0kQQ3WJKT)
+
+### [当分化变成习惯，谁会亏在牛市？](http://www.jintiankansha.me/t/WBX94Cw9sY)
+
+### [医疗信息化：BAT战略布局的高景气赛道](http://www.jintiankansha.me/t/ZlKS86u9id)
+
+### [“特朗普悲剧”已经拉开帷幕](http://www.ftchinese.com/story/001090952)
+
+### [Kylin 在贝壳的性能挑战和 HBase 优化实践](https://www.infoq.cn/article/WV0OLFE1mNVQVcj33oF7)
+
+### [11 月 29 日， 在 TGO 鲲鹏会举办的第二届的 TGO TALKS 专题分享演讲上，贝壳金服小微企业生态 CTO & TGO 鲲鹏会（北京）学员史海峰带来他极其精彩的分享——《...](https://weibo.com/1746173800/JCvrXcKZL)
+
+### [#小Q分享# 《Kylin 在贝壳的性能挑战和 HBase 优化实践》Kylin 在贝壳的使用情况介绍Kylin 从 2017 年开始作为贝壳公司级 OLAP 引擎对外提供服务， 目前有 100 ...](https://weibo.com/1746173800/JCvaxu1UM)
+
+### [【NumPy Illustrated: The Visual Guide to NumPy 】网页链接 NumPy插图：NumPy的视觉指南。 [图片]](https://weibo.com/1715118170/JCvQvz7fm)
+
+### [【In-Depth: Functional programming in C++ 】网页链接 John Carmack：深入探讨：C ++中的函数式编程。 [图片]](https://weibo.com/1715118170/JCvsjpGiO)
+
+### [【Physicists challenge Google’s ‘quantum advantage’】网页链接 物理学家挑战谷歌的“量子优势” 。网路冷眼技术分享 #科技暖心季# [图片]](https://weibo.com/1715118170/JCv3N6jW9)
+
+### [转发微博 - 转发 @网路冷眼:&ensp;【In-Depth: Functional programming in C++ 】网页链接 John Carmack：深入探讨：C ++中的函数式编程。 [图片]](https://weibo.com/1642628345/JCvx6mKP6)
+
+### [《KCP1.4源码分析》网页链接 [图片][图片]](https://weibo.com/1642628345/JCvj4tcWk)
+
+### [药物重定位新框架，人工智能使「旧药新用」研究取得进展](https://www.jiqizhixin.com/articles/2021-01-10-4)
+
+ 
+
+### [深耕软件行业45年，这位「老前辈」在退休之际分享了他的职业感悟](https://www.jiqizhixin.com/articles/2021-01-10-3)
+
+ 
+
+### [如何入门线性代数？这里有一份Python线性代数讲义](https://www.jiqizhixin.com/articles/2021-01-10-2)
+
+ 
+
+### [Dropout也能自动化了，谷歌Quoc Le等人利用强化学习自动找寻模型专用Dropout](https://www.jiqizhixin.com/articles/2021-01-10)
+
+ 
+
+### [快速清理 Windows 大文件，它比「老牌」更好用：WizTree | App +1](https://sspai.com/post/64363)
+
+### [「少数派们」的 2020 回顾：JJ Ying 的年度推荐](https://sspai.com/post/64305)
+
+### [SwitchKey – 根据不同软件自动切换输入法，已支持 Apple M1 芯片[macOS]](https://www.appinn.com/switchkey-for-macos/)
+
+ <p><strong>SwitchKey</strong> 是一款可以根据不同软件自动切换输入的 macOS 开源软件，自动无感、切换自如，今日已支持 Apple M1 芯片。@<a class="rank-math-link" href="https://www.appinn.com/switchkey-for-macos/">Appinn</a></p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><img alt="SwitchKey - 根据不同软件自动切换输入法，已支持 Apple M1 芯片[macOS]" src="https://img3.appinn.net/images/202101/switchkey.jpg!o" title="SwitchKey - 根据不同软件自动切换输入法，已支持 Apple M1 芯片[macOS] 1" /></figure></div>
+
+
+
+<p>感谢小众软件的老朋友 @Tru 同学发布了 M1 版本，虽然青小蛙目前还没有 M1 设备，不过并不影响使用。</p>
+
+
+
+<h2>SwitchKey</h2>
+
+
+
+<p>SwitchKey 在后台运行后十分自动、无感，添加方式也简单，首先打开你要设置的软件，切换好输入法，然后点击菜单栏上的 SwitchKey，并按下 <strong>Add Current</strong>，当前软件以及当前输入法就被绑定添加至 SwitchKey 中。</p>
+
+
+
+<p>以后，只要切换至该软件，输入法就自动切换，最好的例子就是终端类工具，比如 <strong><a class="rank-math-link" href="https://iterm2.com/?ref=appinn" rel="noopener" target="_blank">iTerm2</a></strong>，因为在终端中输入中文的可能性很低，所以设置为英文输入法，这时在默认中文输入法的情况下，任何时候切换至 iTerm2 窗口，都会自动切换至英文输入法，而当离开 iTerm2 窗口，又会恢复之前的输入法，完美。</p>
+
+
+
+<h3>如何删除绑定</h3>
+
+
+
+<p>青小蛙就完全没想到删除方式是选中 SwitchKey 界面中的软件，然后按下 delete 键就能删除了，另外只需要取消勾选即可临时禁用自动切换。</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img alt="SwitchKey - 根据不同软件自动切换输入法，已支持 Apple M1 芯片[macOS] 1" height="272" src="https://img3.appinn.net/images/202101/screen-appinn2021-01-10_17_40_31.jpg!o" title="SwitchKey - 根据不同软件自动切换输入法，已支持 Apple M1 芯片[macOS] 2" width="384" /></figure></div>
+
+
+
+<h2>SwitchKey 下载</h2>
+
+
+
+<p>SwitchKey 官网<a class="rank-math-link" href="https://itsuhane.github.io/switchkey/?ref=appinn" rel="noopener" target="_blank">在这里</a>，在 <a class="rank-math-link" href="https://github.com/itsuhane/SwitchKey/?ref=appinn" rel="noopener" target="_blank">GitHub</a> 开源及下载，可通过 brew 安装：</p>
+
+
+<pre class="brush: bash; title: ; notranslate">
+brew cask install switchkey
+
+</pre>
+
+
+<p>其他同学可点击下面的按钮前往搬运网盘下载：</p>
+
+
+
+<div align="center"><a href="https://d.appinn.com/switchkey-for-macos/" rel="noopener" target="view_window"><img alt="SwitchKey - 根据不同软件自动切换输入法，已支持 Apple M1 芯片[macOS] 2" src="https://img3.appinn.net/images/201507/down.png" title="SwitchKey - 根据不同软件自动切换输入法，已支持 Apple M1 芯片[macOS] 3" /></a></div>
+<hr /><h2>相关阅读</h2><ul><li><a href="https://www.appinn.com/macos-big-sur-is-released/" rel="bookmark" title="Permanent Link: macOS Big Sur 正式版 11.0.1 发布">macOS Big Sur 正式版 11.0.1 发布</a></li><li><a href="https://www.appinn.com/alternative-adobe/" rel="bookmark" title="Permanent Link: Adobe 软件的替代品们">Adobe 软件的替代品们</a></li><li><a href="https://www.appinn.com/open-source-mac-os-apps/" rel="bookmark" title="Permanent Link: 34 个大类，超过 400 个「macOS 绝赞开源应用」列表">34 个大类，超过 400 个「macOS 绝赞开源应用」列表</a></li><li><a href="https://www.appinn.com/ntfstool-for-macos/" rel="bookmark" title="Permanent Link: NTFSTool &#8211; 让 Mac 读写 NTFS 硬盘，免费开源的 NTFS 磁盘管理工具">NTFSTool &#8211; 让 Mac 读写 NTFS 硬盘，免费开源的 NTFS 磁盘管理工具</a></li><li><a href="https://www.appinn.com/wechatplugin-macos/" rel="bookmark" title="Permanent Link: WeChatPlugin-MacOS &#8211; 微信小助手：自动回复、防撤回、远程控制[macOS]">WeChatPlugin-MacOS &#8211; 微信小助手：自动回复、防撤回、远程控制[macOS]</a></li></ul><hr />
+<a href="http://www.appinn.com/copyright/?utm_source=feeds&amp;utm_medium=copyright&amp;utm_campaign=feeds" title="版权声明">&#169;</a>2019 青小蛙 for <a href="http://www.appinn.com/?utm_source=feeds&amp;utm_medium=appinn&amp;utm_campaign=feeds" title="本文来自小众软件">小众软件</a> | <a href="http://www.appinn.com/join-us/?utm_source=feeds&amp;utm_medium=joinus&amp;utm_campaign=feeds" title="加入小众软件">加入我们</a> | <a href="https://meta.appinn.com/c/faxian/?utm_source=feeds&amp;utm_medium=contribute&amp;utm_campaign=feeds" rel="noopener" target="_blank" title="给小众软件投稿">投稿</a> | <a href="http://www.appinn.com/feeds-subscribe/?utm_source=feeds&amp;utm_medium=feedsubscribe&amp;utm_campaign=feeds" target="_blank" title="可以分类订阅小众，Windows/MAC/游戏"><font color="red">订阅指南</font></a><br /> 3659b075e72a5b7b1b87ea74aa7932ff <br />
+<a href="https://www.appinn.com/switchkey-for-macos/#comments" title="to the comments">点击这里留言、和原作者一起评论</a>
+
+### [走心VLOG！「别让梦想害了你」](https://app.vmovier.com/apiv3/post/view?postid=60936)
+
+### [青春热血！「海贼王」连载1000话纪念](https://app.vmovier.com/apiv3/post/view?postid=60925)
+
+### [你们为什么分手「你好，前任」](https://app.vmovier.com/apiv3/post/view?postid=60930)
+
+### [Flag的正确用法「新的一年要减肥」](https://app.vmovier.com/apiv3/post/view?postid=60927)
+
+### error read: http://www.bigdatainterview.com/feed/
+
+### [1、债券“结构化发行”再次被明确禁止 交易商协会发出四张自律处分信息2、至少23个省份已启动新冠疫苗接种工作3、欧洲多地遭遇大雪降温4、城投债收紧，发行人将...](https://t.me/tgchinanews/912)
+
+### [Sun, 10 Jan 2021 07:42:50 GMT](https://t.me/tgchinanews/911)
+
+### [老爸 iPhone6 淘汰了 现在想换 iPhone8 咋样](https://www.v2ex.com/t/743490)
+
+### [360 浏览器开始不停弹广告了](https://www.v2ex.com/t/743487)
+
+### [新年开始写作，希望得到大家鼓励！](https://www.v2ex.com/t/743484)
+
+### [我这个内存使用情况，换成 8G 的 M1 够不够？（现在 16G 的 Intel mbp，平时一般 65-70%内存使用率）](https://www.v2ex.com/t/743470)
+
+### [如何看待小米 MIUI 的这种流氓行为？](https://www.v2ex.com/t/743466)
+
+### [现在成熟的，真正有价值的智能家居的场景有哪些？](https://www.v2ex.com/t/743447)
+
+### [M1 Mac 现在自动重启现象还严重吗？](https://www.v2ex.com/t/743405)
+
+### [关于全文搜索引擎的选择，小型后端项目用 Elasticsearch 合适吗？](https://www.v2ex.com/t/743402)
+
+### [【喷嚏图卦20210110】把钱花光，为国争光](https://www.dapenti.com/blog/more.asp?name=xilei&id=154270)
+
+### [新的侧通道攻击可以从硬件 2FA 密钥中获得加密密钥](https://linux.cn/article-13001-1.html?utm_source=rss&utm_medium=rss)
+
+### [通过编写“猜数字”游戏学习 Lua](https://linux.cn/article-13000-1.html?utm_source=rss&utm_medium=rss)
+
+### [为 Linux 爱好者打造的极简 Mac 终端](https://linux.cn/article-12999-1.html?utm_source=rss&utm_medium=rss)
+
+### [区块链后端工程师](https://rustcc.cn/article?id=13f9b686-6791-40c6-b692-5ad7aa895406)
+
+### [AI周报：拼多多通报一员工于家中自杀离世；应届生拒绝996被辞；饿了么回应骑手猝死：平台保额将提至60万元](https://www.infoq.cn/article/gwRb5cc3Hq0PZlOeUOss)
+
+### [爱奇艺SOAR探索与实践](https://www.infoq.cn/article/fb402517b6e6d8c7440044699)
+
+### [面向垂直领域的OpenIE图谱构建技术](https://www.infoq.cn/article/4a361e701603f0eb98ba311e3)
+
+### [案例研究之聊聊 QLExpress 源码 (一)](https://www.infoq.cn/article/cab7d959586516642e98cbbb8)
+
+### [电商平台如何激发内容生态](https://www.infoq.cn/article/b93bf804a5d0832319708de0d)
+
+### [#小Q分享# 《Apache Kylin 在中通快递的实践》大数据技术自诞生之日起就一直在不断的发展，痛点推动着技术的革新。2019 年双十一当天，中通快递的日订单量超 2 ...](https://weibo.com/1746173800/JCycriM5R)
+
+### [工作中应该如何选择合适的岗位？在 TGO 鲲鹏会学员、小米集团的潘英超看来，人应该用辩证与发展的眼光去探索、去思考，不该被标签所定义，也不应该给自己和岗位...](https://weibo.com/1746173800/JCx1msC63)
+
+### [Carla Notarobot ：写好文档，就是给未来的自己埋下一颗时间胶囊。](https://weibo.com/1402400261/JCyzV8WAl)
+
+### [François Chollet：做出好软件的最简单方法，就是做你想要用的东西。最好的工具，是由它的用户创造的。](https://weibo.com/1402400261/JCyz4hs9k)
+
+### [【EverythingToolbar：将Everything集成到任务条】’EverythingToolbar - Everything integration for the Windows taskbar.' by Stephan Rumswinkel GitHub: 网...](https://weibo.com/1402400261/JCyvPoDPz)
+
+### [几篇论文实现代码：《Neural Unsigned Distance Fields for Implicit Function Learning》(NeurIPS 2020) GitHub:网页链接 [fig1]《SoftSort: A Continuous Rela...](https://weibo.com/1402400261/JCyu8sr0n)
+
+### [‘教程：用 450 行 Go 代码实现简单编程语言' by karminski GitHub: 网页链接 #开源##编程语言# [图片]](https://weibo.com/1402400261/JCy09emOv)
+
+### [【Free Fullstack Development Foundations Program】网页链接 免费的全栈开发基础计划。 [图片]](https://weibo.com/1715118170/JCwDskHOd)
+
+### [投票：在清剧中，经常提到将某大臣封为“两江总督”，知道“两江总督”的“两江”代表哪两个省吗？[疑问] “两江总督”的“两江”代表哪两个省？](https://weibo.com/1715118170/JCwzO2eKM)
+
+### [【I made an esoteric language for configuration files】网页链接 我为配置文件做了深奥的语言。 [图片]](https://weibo.com/1715118170/JCweQDImy)
+
+### [难得过年有十几天假期，这次春节要在医院里面度过了，高血糖很久了需要做一个全身的检查，看看身体有没有什么病变的情况发生，需要连续一个礼拜，平时没那么多时...](https://weibo.com/1642628345/JCxncddsi)
+
+### [//@分布式实验室:Service 数量不断增长时，iptables 规则的数量增长会更快。而且，每个包都需要 遍历这些规则，直到最终匹配到一条相应的规则。如果不幸匹配到最...](https://weibo.com/1642628345/JCx8UgJPE)
+
+### error read: http://www.bigdatainterview.com/feed/
+
+### [Rust的一些科学计算相关经验（稀疏矩阵计算的相关生态仍有很大欠缺）](https://rustcc.cn/article?id=15a3a248-d6da-4094-8bc9-3411faf79668)
+
+### [语言模型当场崩溃…… - 转发 @问号哥哥:&ensp;#社畜和乞丐的区别# 确实[doge] #新年开新事# [图片]](https://weibo.com/1402400261/JCyUiapx3)
+
+### [是时候出现个工具让类似视频制作更容易了——语音识别-视频索引-自动检索拼接-自动打点-自动接缝——关键技术基本成熟，就差创业小能手了 - 转发 @根正苗红的贫...](https://weibo.com/1402400261/JCyOXqxAX)
+
+### [[偷笑] [图片]](https://weibo.com/1402400261/JCyLlrw96)
+
+### [[笑而不语] [图片]](https://weibo.com/1402400261/JCyGPiUVC)
+
+### [激光焊，看起来好爽 [酷]  爱可可-爱生活的微博视频](https://weibo.com/1402400261/JCyFCfEwT)
+
+### error read: http://www.waerfa.com/feed
+
+### error read: http://120.53.237.72:1200/zhihu/zhuanlan/paperweekly
+
+### error read: http://120.53.237.72:1200/zhihu/zhuanlan/chicken-life
+
+### error read: https://www.codesky.me/feed/
+
+### [Feedback Transformer PyTorch implementation](https://www.reddit.com/r/pytorch/comments/kufh9e/feedback_transformer_pytorch_implementation/)
+
+ <!-- SC_OFF --><div class="md"><p>Added Feedback Transformer implementation/guide to our collection of neural network architectures/algorithms. Feedback Transformer uses recurrent attention to previous steps, and there for can give fast predictions.</p> <p>Github Repo: <a href="https://github.com/lab-ml/nn">https://github.com/lab-ml/nn</a></p> <p>Source code with side-by-side notes: <a href="https://lab-ml.com/labml_nn/transformers/feedback/">https://lab-ml.com/labml_nn/transformers/feedback/</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/mlvpj"> /u/mlvpj </a> <br /> <span><a href="https://www.reddit.com/r/pytorch/comments/kufh9e/feedback_transformer_pytorch_implementation/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/pytorch/comments/kufh9e/feedback_transformer_pytorch_implementation/">[comments]</a></span>
+
+### error read: http://www.jintiankansha.me/rss/GE2DK7BQMI2DKYLDGM2DMMBVMY3WKY3FMQ4TMY3FME4DOOJQGBSWCNLDMZRTEYLGGBRTGZQ=
+
+### error read: http://www.jintiankansha.me/rss/GEYDCOBUPRRWGMDBGFSDIZTGMM2GCZRVMQZGGNRQHBRTQZLEME4TQYLFGJRDKZBTGI2TSZJUGM======
+
+### error read: http://www.jintiankansha.me/rss/GEYDCNRWPQ2TIZJWGJQTINLEMUYGGNRXMVRDSNZSG4ZDMNJQMU4WEMBZGAYTMMZQMEZGCMZZGE======
+
+### [家里联网设备有点多 ，峰值时能达到 13 个左右，求推荐路由](https://www.v2ex.com/t/743514)
+
+### [PHP 程序员们, 团结起来, 我们去学点新东西吧](https://www.v2ex.com/t/743513)
+
+### [M1 到手了，感觉非常惊喜](https://www.v2ex.com/t/743507)
+
+### [又熬夜到这个点了，想死](https://www.v2ex.com/t/743458)
+
+### [2021年1月10日新闻联播文字版](http://www.xwlb.net.cn/17458.html)
+
+### [中共中央印发《法治中国建设规划（2020－2025年）》](http://www.gov.cn/zhengce/2021-01/10/content_5578659.htm)
+
+### error read: http://www.qingniantuzhai.com/feed
+
+### [📎GAN.png / 630.4 KB](https://t.me/computer_science_and_programming/1042)
+
+### [📹Super new addition to GANsStyleFlow: Attribute-conditioned Exploration of StyleGAN-Generated Images using Conditional Continuous Normalizing Flows](https://t.me/computer_science_and_programming/1041)
+
+### error read: http://www.cppblog.com/rss.aspx
+
+### [【Rust日报】2021-01-10 时隔一年 tower 终于发布新版本啦](https://rustcc.cn/article?id=a91ab5a1-cb03-4219-982d-a117ac76193e)
+
+### [ClickHouse的实践之路](https://www.infoq.cn/article/ebfe0a6b0d6bdbbb4eae642ff)
+
+### [晚安～ [月亮] #晚安#  爱可可-爱生活的微博视频](https://weibo.com/1402400261/JCzP59Tah)
+
+### [《爱可可老师24小时热门分享(2021.1.10)》  爱可可老师24小时热门分享(2021.1.10)](https://weibo.com/1402400261/JCzOAdMx7)
+
+### [《怎么写文献综述? - 知乎》 怎么写文献综述? #文献综述# [图片]](https://weibo.com/1402400261/JCza0BKC7)
+
+### [【LinkAce – Your self-hosted, FOSS bookmark archive】网页链接 LinkAce –您的自托管FOSS书签存档。 [图片]](https://weibo.com/1715118170/JCAaE3OQx)
+
+### [【Against Essential and Accidental Complexity】网页链接 应对基本和偶然的复杂性。 [图片]](https://weibo.com/1715118170/JCzMaC1vh)
+
+### [【Thruhikes – A list of long distance hikes around the world】网页链接 徒步旅行–世界各地的长途徒步旅行清单。 [图片]](https://weibo.com/1715118170/JCznIu6ne)
+
+### [【Haskell is a Bad Programming Language】网页链接 Haskell是一种不良的编程语言。网路冷眼技术分享 #科技暖心季# [图片]](https://weibo.com/1715118170/JCzbjCX4e)
+
+### [【HackerDaily – What if HN updates only once a day?】网页链接 HackerDaily –如果HN每天只更新一次怎么办？ [图片]](https://weibo.com/1715118170/JCyZp8FlF)
+
+### error read: http://www.waerfa.com/feed
