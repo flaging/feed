@@ -59,7 +59,7 @@ def main():
     parse_url(url, file)
   file.close()
   if not is_exists:
-    readme = open("README.md","a")
+    readme = open("ARCHIVED.md","a")
     readme.writelines("\n\n["+str(localtime.tm_year)+"-"+str(localtime.tm_mon)+"-"+str(localtime.tm_mday)+"]("+file_name+")")
     readme.close()
   

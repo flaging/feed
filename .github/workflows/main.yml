@@ -47,6 +47,11 @@ jobs:
       - name: update
         run:
           python3 sync_bash/Sync.py
+      - name: update readme
+        run: |
+          rm README.md
+          mv README_ORIGIN.md README.md
+          cat $(date "+%Y/%-m-%-d.md'") >> README.md
       - name: git push
         run: |
           git add .
