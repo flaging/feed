@@ -43,3 +43,10 @@
 ### [【Reviving the 1973 Unix text to voice translator】网页链接  恢复1973年的Unix文本到语音翻译器。网路冷眼技术分享 [图片]](https://weibo.com/1715118170/JCJZvF87V)
 
 ### error read: http://www.bigdatainterview.com/feed/
+
+### [The Cookie](http://feedproxy.google.com/~r/PoorlyDrawnLines/~3/ByZJg61bGmM/)
+
+ <div class="wp-block-image"><figure class="aligncenter size-full is-resized"><a href="http://www.poorlydrawnlines.com/wp-content/uploads/2021/01/the_cookie.png"><img alt="" class="wp-image-7870" height="1036" src="http://www.poorlydrawnlines.com/wp-content/uploads/2021/01/the_cookie.png" width="810" /></a></figure></div>
+<div class="feedflare">
+<a href="http://feeds.feedburner.com/~ff/PoorlyDrawnLines?a=ByZJg61bGmM:pRTlzNJNHIE:yIl2AUoC8zA"><img border="0" src="http://feeds.feedburner.com/~ff/PoorlyDrawnLines?d=yIl2AUoC8zA" /></a> <a href="http://feeds.feedburner.com/~ff/PoorlyDrawnLines?a=ByZJg61bGmM:pRTlzNJNHIE:qj6IDK7rITs"><img border="0" src="http://feeds.feedburner.com/~ff/PoorlyDrawnLines?d=qj6IDK7rITs" /></a> <a href="http://feeds.feedburner.com/~ff/PoorlyDrawnLines?a=ByZJg61bGmM:pRTlzNJNHIE:gIN9vFwOqvQ"><img border="0" src="http://feeds.feedburner.com/~ff/PoorlyDrawnLines?i=ByZJg61bGmM:pRTlzNJNHIE:gIN9vFwOqvQ" /></a>
+</div><img alt="" height="1" src="http://feeds.feedburner.com/~r/PoorlyDrawnLines/~4/ByZJg61bGmM" width="1" />
