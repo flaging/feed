@@ -401,3 +401,39 @@
 ### [2021年过去的第一周太魔幻、疯狂了，我有点前菜就吃的噎住的感觉。](https://weibo.com/1642628345/JCEd5wmwi)
 
 ### error read: http://www.waerfa.com/feed
+
+### error read: http://120.53.237.72:1200/zhihu/zhuanlan/coding-future
+
+### [【LeetCode每日一题】240.搜索二维矩阵II.md](http://coolcao.com/2021/01/11/%E3%80%90LeetCode%E6%AF%8F%E6%97%A5%E4%B8%80%E9%A2%98%E3%80%91240.%E6%90%9C%E7%B4%A2%E4%BA%8C%E7%BB%B4%E7%9F%A9%E9%98%B5II/)
+
+ <p><a href="https://leetcode-cn.com/problems/search-a-2d-matrix-ii/" rel="noopener" target="_blank">240. 搜索二维矩阵 II</a></p>
+<blockquote>
+<p>编写一个高效的算法来搜索 m x n 矩阵 matrix 中的一个目标值 target 。该矩阵具有以下特性：</p>
+<p>每行的元素从左到右升序排列。<br />每列的元素从上到下升序排列。</p>
+<p><strong>示例 1：</strong><br /><img alt="alt" src="https://img-vnote-1251075307.cos.ap-beijing.myqcloud.com/1610337100_20210111114634992_1297285897.png" /><br />输入：matrix = [[1,4,7,11,15],[2,5,8,12,19],[3,6,9,16,22],[10,13,14,17,24],[18,21,23,26,30]], target = 5<br />输出：true<br /><strong>示例 2：</strong><br /><img alt="alt" src="https://img-vnote-1251075307.cos.ap-beijing.myqcloud.com/1610337101_20210111114648787_82602888.png" /><br />输入：matrix = [[1,4,7,11,15],[2,5,8,12,19],[3,6,9,16,22],[10,13,14,17,24],[18,21,23,26,30]], target = 20<br />输出：false<br /><strong>提示：</strong></p>
+<ul>
+<li>m == matrix.length</li>
+<li>n == matrix[i].length</li>
+<li>1 &lt;= n, m &lt;= 300</li>
+<li>-10^9 &lt;= matix[i][j] &lt;= 10^9</li>
+<li>每行的所有元素从左到右升序排列</li>
+<li>每列的所有元素从上到下升序排列</li>
+<li>-10^9 &lt;= target &lt;= 10^9</li>
+</ul>
+</blockquote>
+<a id="more"></a>
+<p>这个题目是<a href="https://leetcode-cn.com/problems/search-a-2d-matrix/description/" rel="noopener" target="_blank">74.搜索二维矩阵</a>的升级版，升级的地方在于，这个二维矩阵的元素，每一列从上到下是升序的，但每一行的第一个元素并不比上一行的最后一个元素大，这样就不能和74题一样，我们拍平整个二维矩阵后能得到一个升序的数组。</p>
+<p>这里我们仅仅能够得到，每一行是一个升序序列， 每一列是一个升序序列。</p>
+<p>我们可以选取左下角或者右上角的元素作为初始位置。这里选取左下角。<br />如果元素大于target，那么上移，即row–。<br />如果元素小于target，那么右移，即col++。</p>
+<p>因为左下角的元素，在行方向上是最小的，在列方向上是最大的。同样，右上角元素在行方向上是最大的，列方向上是最小的。</p>
+<p>比如，我们要在下面这个二维矩阵中查找元素8，可以按照下面的查找路径：</p>
+<p><img alt="alt" src="https://img-vnote-1251075307.cos.ap-beijing.myqcloud.com/1610344415_20210111135329815_332134507.png" /></p>
+<figure class="highlight golang"><table><tr><td class="gutter"><pre><span class="line">1</span><br /><span class="line">2</span><br /><span class="line">3</span><br /><span class="line">4</span><br /><span class="line">5</span><br /><span class="line">6</span><br /><span class="line">7</span><br /><span class="line">8</span><br /><span class="line">9</span><br /><span class="line">10</span><br /><span class="line">11</span><br /><span class="line">12</span><br /><span class="line">13</span><br /><span class="line">14</span><br /><span class="line">15</span><br /><span class="line">16</span><br /><span class="line">17</span><br /><span class="line">18</span><br /></pre></td><td class="code"><pre><span class="line"><span class="function"><span class="keyword">func</span> <span class="title">searchMatrix</span><span class="params">(matrix [][]<span class="keyword">int</span>, target <span class="keyword">int</span>)</span> <span class="title">bool</span></span> &#123;</span><br /><span class="line">    m, n := <span class="built_in">len</span>(matrix), <span class="built_in">len</span>(matrix[<span class="number">0</span>])</span><br /><span class="line">    <span class="keyword">if</span> m == <span class="number">0</span> &#123;</span><br /><span class="line">        <span class="keyword">return</span> <span class="literal">false</span></span><br /><span class="line">    &#125;</span><br /><span class="line">    row, col := m<span class="number">-1</span>, <span class="number">0</span></span><br /><span class="line">    <span class="keyword">for</span> row &gt;= <span class="number">0</span> &amp;&amp; col &lt;= n<span class="number">-1</span> &#123;</span><br /><span class="line">        <span class="keyword">if</span> matrix[row][col] == target &#123;</span><br /><span class="line">            <span class="keyword">return</span> <span class="literal">true</span></span><br /><span class="line">        &#125;</span><br /><span class="line">        <span class="keyword">if</span> matrix[row][col] &gt; target &#123;</span><br /><span class="line">            row--</span><br /><span class="line">        &#125; <span class="keyword">else</span> &#123;</span><br /><span class="line">            col++</span><br /><span class="line">        &#125;</span><br /><span class="line">    &#125;</span><br /><span class="line">    <span class="keyword">return</span> <span class="literal">false</span></span><br /><span class="line">&#125;</span><br /></pre></td></tr></table></figure>
+
+### [pdd 配辞退用户的脉脉匿名发言是怎么被查出来的](https://www.v2ex.com/t/743750)
+
+### [有人退出代码转行做木工吗？](https://www.v2ex.com/t/743722)
+
+### [到底该不该在周末随时回复公司发的消息？](https://www.v2ex.com/t/743704)
+
+### error read: http://www.waerfa.com/feed
