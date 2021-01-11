@@ -653,3 +653,43 @@
 ### [【Automated build for Sublime in Windows】网页链接 Windows中Sublime的自动构建。网路冷眼技术分享 #科技暖心季# 网路冷眼的微博视频](https://weibo.com/1715118170/JCIBP1eaA)
 
 ### error read: http://www.waerfa.com/feed
+
+### error read: http://www.waerfa.com/feed
+
+### error read: http://120.53.237.72:1200/zhihu/zhuanlan/paperweekly
+
+### error read: http://120.53.237.72:1200/zhihu/zhuanlan/chicken-life
+
+### [Hiring](https://blog.veitheller.de/Hiring.html)
+
+### error read: http://www.bigdatainterview.com/feed/
+
+### [App Store 上了款 GBA 模拟器，搜全名 GBA Emu](https://www.v2ex.com/t/743827)
+
+### [iQOO 7正式发布：搭载骁龙888处理器和120W 超快闪充 售价3798元起](https://www.cfan.com.cn/2021/0111/134743.shtml)
+
+### [2021年1月11日新闻联播文字版](http://www.xwlb.net.cn/17473.html)
+
+### [GitHub 上一份开源的程序员公考指南。GitHub：网页链接 [图片]](https://weibo.com/5722964389/JCJ2bsxDo)
+
+### [服务治理最佳实践：如何快速依据请求参数值进行服务路由、鉴权、限流？](https://www.infoq.cn/article/CXVldkelhhBQU0mzLju8)
+
+### [Kafka集群突破百万partition 的技术探索](https://www.infoq.cn/article/UexTTwNfhz3L04b42itG)
+
+### [#小Q分享# 《避免不完全的云原生（五）：目标和收益》本文最初发布于 The Startup 博客，经原作者授权由 InfoQ 中文站翻译并分享。注意：这是该系列文章的第 5 ...](https://weibo.com/1746173800/JCJclrVz4)
+
+### [来，睡前再练练脑子～ [嘻嘻] [图片]](https://weibo.com/1402400261/JCJ9gxt3Q)
+
+### [Donald Knuth(《计算机编程艺术》作者)生日快乐！ [蛋糕] [图片]](https://weibo.com/1402400261/JCIHYhIkm)
+
+### [Anna Kirstine Ancher(1859–1935)作品 [图片][图片][图片][图片]](https://weibo.com/1402400261/JCIELCTFJ)
+
+### [[笑而不语] [图片]](https://weibo.com/1402400261/JCIDMdyjM)
+
+### [【免费书：现代CPU上的性能分析与调优】《Performance Analysis and Tuning on Modern CPUs》by Denis Bakhvalov 网页链接 #编程# [图片]](https://weibo.com/1402400261/JCICiiyeh)
+
+### [几篇论文实现代码：《Input-Aware Dynamic Backdoor Attack》(NeurIPS 2020) GitHub:网页链接 [fig3]《Graph Information Bottleneck》(NeurIPS 2020) GitHub:网...](https://weibo.com/1402400261/JCIoqbhv7)
+
+### [【Cabal: A peer-to-peer, off-grid, community-first, hackable chat platform】网页链接 Cabal：点对点，离网格，社区优先，带命令行的聊天平台。 网路冷眼技...](https://weibo.com/1715118170/JCJ0b1hYK)
+
+### error read: http://www.waerfa.com/feed
