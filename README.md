@@ -469,3 +469,27 @@
 ### [《面试现场》到手仅 55，新人首单 9.9面试总被 Pass ？IBM 软件商务系统经理白海飞，带你全方位梳理经验、总结技能、找出潜能、调整动机，让你充分理解面试场景...](https://weibo.com/1746173800/JCGrRCoVG)
 
 ### error read: http://www.waerfa.com/feed
+
+### error read: https://jiqizhixin.com/rss
+
+### [音乐平台横评：Apple Music、QQ 音乐、网易云、咪咕、Spotify、YouTube Music、Tidal](https://sspai.com/post/64477)
+
+### error read: https://szpzs.oschina.io/atom.xml
+
+### error read: http://www.cyhone.com/atom.xml
+
+### error read: http://www.bigdatainterview.com/feed/
+
+### [把书法和菜名结合，AI 模型创作独特的中国书法艺术](https://segmentfault.com/a/1190000038932232)
+
+### [1、数九寒天 沿海现“冰挂墙”景观2、中共中央印发《法治中国建设规划（2020－2025年）》3、商务部发布《阻断外国法律与措施不当域外适用办法》4、证监会发布《...](https://t.me/tgchinanews/914)
+
+### [Mon, 11 Jan 2021 07:47:13 GMT](https://t.me/tgchinanews/913)
+
+### [Rust Report Card - 为你的 Rust 代码生成质量报告](https://rustcc.cn/article?id=ea8e6589-c303-4980-b7fb-904c293217ce)
+
+### [【开年特惠】骨灰级程序员「左耳朵耗子」的全年独家专栏《左耳听风》，目前已经52000+订阅了，好评如潮。目前订阅可享受双重优惠，秒杀+口令「chenhao11」立省¥...](https://weibo.com/1746173800/JCGQdEE5c)
+
+### [家庭健身愈发火爆，都有哪些黑科技在背后支撑？HarmonyOS 2.0 先行者计划都有什么有趣的故事？点击视频，为你解析 HarmonyOS 2.0 与 Fit 联合打造沉浸式家庭健身...](https://weibo.com/1746173800/JC4JT6Mmn)
+
+### error read: http://segmentfault.com/feeds/blogs
