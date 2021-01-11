@@ -437,3 +437,35 @@
 ### [到底该不该在周末随时回复公司发的消息？](https://www.v2ex.com/t/743704)
 
 ### error read: http://www.waerfa.com/feed
+
+### [今天的卷积网络，Yann LeCun在93年就已经玩得很溜了](https://www.jiqizhixin.com/articles/2021-01-11-6)
+
+ 
+
+### [Manning、陈丹琦讲座，2021斯坦福CS224N即将开课](https://www.jiqizhixin.com/articles/2021-01-11-5)
+
+ 
+
+### [波士顿动力机器人热舞背后藏着哪些秘密？工程副总裁揭秘](https://www.jiqizhixin.com/articles/2021-01-11-4)
+
+ 
+
+### [人工智能十年回顾：CNN、AlphaGo、GAN……它们曾这样改变世界](https://www.jiqizhixin.com/articles/2021-01-11-3)
+
+ 
+
+### [全新训练及数据采样&增强策略、跨尺度泛化能力强，FB全景分割实现新SOTA](https://www.jiqizhixin.com/articles/2021-01-11-2)
+
+ 
+
+### error read: http://www.waerfa.com/feed
+
+### error read: https://rsshub.app/gov/ndrc/xwdt
+
+### [苹果与韩国现代合作，2024 年开始生产苹果汽车](https://segmentfault.com/a/1190000038930805)
+
+### [Wasmer 可以在各种操作系统上运行 WebAssembly 通用二进制文件](https://linux.cn/article-13004-1.html?utm_source=rss&utm_medium=rss)
+
+### [《面试现场》到手仅 55，新人首单 9.9面试总被 Pass ？IBM 软件商务系统经理白海飞，带你全方位梳理经验、总结技能、找出潜能、调整动机，让你充分理解面试场景...](https://weibo.com/1746173800/JCGrRCoVG)
+
+### error read: http://www.waerfa.com/feed
