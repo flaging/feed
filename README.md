@@ -73,3 +73,74 @@
 ### [【How to Simulate I/O Faults at Runtime?】网页链接 如何在运行时模拟I / O故障？源代码GitHub托管地址：网页链接  网路冷眼技术分享 #科技暖心季# [图片][图...](https://weibo.com/1715118170/JCVzuDtSW)
 
 ### [【Software Testing Best Practices FAQ】网页链接 软件测试最佳实践常见问题 。网路冷眼技术分享 #科技暖心季# [图片]](https://weibo.com/1715118170/JCVnxDnqi)
+
+### [世界上有哪些独特而美丽的旅行景点？](https://daily.zhihu.com/story/9731966)
+
+### [为什么有些人冬天不每天洗澡？可能是「怕痒」](https://daily.zhihu.com/story/9731942)
+
+### [孩子怕黑不敢自己睡，家长应该如何应对？](https://daily.zhihu.com/story/9731960)
+
+### [为什么刘备那么幸运，结拜了两个都是「万人敌」的兄弟？](https://daily.zhihu.com/story/9731950)
+
+### [大脑自闭了，为什么是肠道的锅？](https://daily.zhihu.com/story/9731949)
+
+### [瞎扯 · 如何正确地吐槽](https://daily.zhihu.com/story/9731901)
+
+### [青年图摘0113！有本事抽我啊](https://qingniantuzhai.com/qing-nian-tu-zhai-0113-3/)
+
+ <!--kg-card-begin: markdown--><img alt="青年图摘0113！有本事抽我啊" src="https://qingniantuzhai.com/content/images/2021/01/00893JKXly1gml1z8w5d0j30dw0ii751_---.jpg" /><p>【1】突然可爱<br />
+<img alt="青年图摘0113！有本事抽我啊" src="https://wx1.sinaimg.cn/mw1024/7283506bly1g04yqdp05kg205m0a0npi.gif" /></p>
+<p>【2】只要我喝的够快就淹不死<br />
+<img alt="青年图摘0113！有本事抽我啊" src="https://wx3.sinaimg.cn/mw1024/00893JKXly1gml6eaavxqg3074074x6w.gif" /></p>
+<p>【3】司机:这是什么魔术？<br />
+<img alt="青年图摘0113！有本事抽我啊" src="https://wx4.sinaimg.cn/mw1024/00893JKXly1gml3iw8uzag30a907inpk.gif" /></p>
+<p>【4】大象，大象，你的鼻子为什么那么长<br />
+<img alt="青年图摘0113！有本事抽我啊" src="https://wx4.sinaimg.cn/mw1024/81fa7475gy1gml3c1m0vag208q0bokjs.gif" /></p>
+<p>【5】你想来我家看看裤裆里的鸟吗<br />
+<img alt="青年图摘0113！有本事抽我啊" src="https://wx4.sinaimg.cn/mw1024/81fa7475gy1gml3c4gt0ng206u0c44qs.gif" /></p>
+<p>【6】这也太好玩了 冰棒生成器<br />
+<img alt="青年图摘0113！有本事抽我啊" src="https://wx4.sinaimg.cn/mw1024/81fa7475gy1gml3c996fcg206s0by7wn.gif" /></p>
+<p>【7】我要看切开的样子！！！！<br />
+<img alt="青年图摘0113！有本事抽我啊" src="https://wx3.sinaimg.cn/mw1024/81fa7475gy1gml3c92sekg205w0agnpk.gif" /></p>
+<p>【8】有本事抽我啊<br />
+<img alt="青年图摘0113！有本事抽我啊" src="https://wx2.sinaimg.cn/mw600/00893JKXly1gml1z8w5d0j30dw0ii751.jpg" /></p>
+<p>【9】饿死鬼托生的。<br />
+<img alt="青年图摘0113！有本事抽我啊" src="https://wx2.sinaimg.cn/mw1024/007ee61jly1gml0p3qzu7g30af08lu14.gif" /></p>
+<p>【10】很有年代感<br />
+<img alt="青年图摘0113！有本事抽我啊" src="https://wx4.sinaimg.cn/mw600/00893JKXly1gmkxf9j2vgj30cx0mzdic.jpg" /><br />
+<img alt="青年图摘0113！有本事抽我啊" src="https://wx1.sinaimg.cn/mw600/00893JKXly1gmkxf3gsboj30cw082q4j.jpg" /><br />
+<img alt="青年图摘0113！有本事抽我啊" src="https://wx2.sinaimg.cn/mw600/00893JKXly1gmkxev23mej30cx0h9taz.jpg" /><br />
+<img alt="青年图摘0113！有本事抽我啊" src="https://wx2.sinaimg.cn/mw600/00893JKXly1gmkxentjt9j309o0byt9y.jpg" /></p>
+<p>【11】走的很安详。<br />
+<img alt="青年图摘0113！有本事抽我啊" src="https://ww1.sinaimg.cn/mw600/00814FKVgy1gmkudu04ioj30cs0h2408.jpg" /></p>
+<p>【12】这有难度啊老友，成功戒掉的家伙没法给你分享经验<br />
+<img alt="青年图摘0113！有本事抽我啊" src="https://wx3.sinaimg.cn/mw600/00893JKXly1gmkubpihrzj30j615jjuy.jpg" /></p>
+<p>【13】巨乘佛法！<br />
+<img alt="青年图摘0113！有本事抽我啊" src="https://wx4.sinaimg.cn/mw1024/00893JKXly1gmkub9p2pkg307h0csx6s.gif" /></p>
+<p>【14】粮食永动机<br />
+<img alt="青年图摘0113！有本事抽我啊" src="https://wx3.sinaimg.cn/mw1024/0089pNo8ly1gmktv8a168g30dw0af4r4.gif" /></p>
+<p>【15】你就说换没换底吧<br />
+<img alt="青年图摘0113！有本事抽我啊" src="https://wx4.sinaimg.cn/mw600/002sWkUBgy1gmkspjq7efj60rw0c244w02.jpg" /><br />
+<img alt="青年图摘0113！有本事抽我啊" src="https://wx2.sinaimg.cn/mw600/002sWkUBgy1gmkspkdfv0j60wi12zb2902.jpg" /><br />
+<img alt="青年图摘0113！有本事抽我啊" src="https://wx3.sinaimg.cn/mw600/002sWkUBgy1gmksplaiyyj60wi148b2902.jpg" /></p>
+<p>【16】你就说性不性感吧？<br />
+<img alt="青年图摘0113！有本事抽我啊" src="https://wx2.sinaimg.cn/mw600/00893JKXly1gmkslrhxq5j30js14fk1b.jpg" /></p>
+<p>【17】这人从来没理过我<br />
+<img alt="青年图摘0113！有本事抽我啊" src="https://wx1.sinaimg.cn/mw600/00893JKXly1gmkslmas9yj30j80li408.jpg" /></p>
+<p>【18】姜狗........<br />
+<img alt="青年图摘0113！有本事抽我啊" src="https://wx2.sinaimg.cn/mw600/00893JKXly1gmksl9c5nqj30hs0mtdzc.jpg" /></p>
+<p>【19】一鹿一个角<br />
+<img alt="青年图摘0113！有本事抽我啊" src="https://tvax2.sinaimg.cn/mw1024/83a551acgy1gmkrzlsw99g20hs0i67wu.gif" /></p>
+<p>【20】3号马必赢！本汪有内幕消息下注了20根骨头了！<br />
+<img alt="青年图摘0113！有本事抽我啊" src="https://tvax3.sinaimg.cn/mw1024/83a551acgy1gmkrnx86hgg207h0dn4r4.gif" /></p>
+<!--kg-card-end: markdown-->
+
+### [“头腾”大战硝烟再起](https://www.infoq.cn/article/tCYvF9vFR2hLEu2U1ykR)
+
+### [数据仓库项目中的数据建模和ETL日志体系](https://www.infoq.cn/article/YiWmCJXJTqTQLQKjlGl0)
+
+### [【Understanding Connections and Pools】网页链接 了解连接和池。](https://weibo.com/1715118170/JCWa5cyK9)
+
+### [【Re-Introducing Hash Indexes in PostgreSQL】网页链接 在PostgreSQL中重新引入哈希索引。网路冷眼技术分享 #科技暖心季# [图片][图片][图片][图片][图片]](https://weibo.com/1715118170/JCVXR0TUu)
+
+### [【Security tools from Google】网页链接 Google的安全工具。 网路冷眼技术分享 #科技暖心季# [图片]](https://weibo.com/1715118170/JCVLSCwSn)
