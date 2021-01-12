@@ -743,3 +743,25 @@
 ### [【Flutter App from scratch - A Mindmap App】网页链接 从头开始Flutter App-构建一个思维导图应用程序。网路冷眼技术分享 #科技暖心季# 网路冷眼的微博视频](https://weibo.com/1715118170/JCSqFBAON)
 
 ### error read: http://www.waerfa.com/feed
+
+### [追剧学院 | 来看看贴片广告背后的技术大片](https://www.jiqizhixin.com/articles/2021-01-12-7)
+
+ 
+
+### error read: http://www.waerfa.com/feed
+
+### error read: http://120.53.237.72:1200/zhihu/zhuanlan/chicken-life
+
+### error read: http://www.bigdatainterview.com/feed/
+
+### [【谣言】感染新冠可以“以毒攻毒”治疗癌症](https://vp.fact.qq.com/article?id=1290a9c134afca7187a0ba20626d23ca)
+
+### [【谣言】憋气30秒可以测试肺部是否健康](https://vp.fact.qq.com/article?id=14646a563607e0862ac4843c4c116d24)
+
+### [【Rust日报】2021-01-12 用 gcc 编译 Rust](https://rustcc.cn/article?id=09c3ac64-7b9c-41e7-ad8d-675fb4b82f79)
+
+### [【A Schelling point is a solution people choose by default in a coordination game】网页链接) Schelling点是人们在协作游戏中默认选择的解决方案。 [图片]](https://weibo.com/1715118170/JCT1zfl6u)
+
+### [【An alternative to Decentralized Web】网页链接 去中心化网络的替代方案。 #科技暖心季# [图片][图片][图片][图片]](https://weibo.com/1715118170/JCT0sFR36)
+
+### [【GNOME has no thumbnails in the file picker and my toilets are blocked】网页链接 GNOME文件选择器中没有缩略图。网路冷眼技术分享 #科技暖心季# [图片][图...](https://weibo.com/1715118170/JCSP1hTq6)
