@@ -63,3 +63,13 @@
 ### [Paper: Deep learning and computer vision will transform entomology](https://www.reddit.com/r/DeepLearningPapers/comments/kvztel/paper_deep_learning_and_computer_vision_will/)
 
  <!-- SC_OFF --><div class="md"><p>Maybe some of you will find the application of deep learning in ecology/entomology interesting.</p> <p>Entomology is not just dusty old museum collections and insects on needles (nothing wrong with either). It is also cutting-edge technology, big data and AI. The vast number of insect species and the challenging task of studying them makes entomology the perfect playground for collaborative efforts, in this case between biologists, statisticians, and mechanical, electrical and software engineers. In the paper, we demonstrate the relevance of high-tech solutions in entomological research.</p> <p>&#x200b;</p> <p><a href="https://www.pnas.org/content/118/2/e2002545117">Paper: Deep learning and computer vision will transform entomology</a></p> <p>&#x200b;</p> <p><a href="https://preview.redd.it/go6n8yzymya61.png?width=1145&amp;format=png&amp;auto=webp&amp;s=52d9dee24bfd8d93f241e7cd340fdbbb1ae7f0e9">https://preview.redd.it/go6n8yzymya61.png?width=1145&amp;format=png&amp;auto=webp&amp;s=52d9dee24bfd8d93f241e7cd340fdbbb1ae7f0e9</a></p> <p>Disclaimer: Co-author of paper</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/HjalteM"> /u/HjalteM </a> <br /> <span><a href="https://www.reddit.com/r/DeepLearningPapers/comments/kvztel/paper_deep_learning_and_computer_vision_will/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/DeepLearningPapers/comments/kvztel/paper_deep_learning_and_computer_vision_will/">[comments]</a></span>
+
+### error read: https://www.codesky.me/feed/
+
+### [《今日学术视野(2021.1.13)》网页链接](https://weibo.com/1402400261/JCVssfneN)
+
+### [早！[太阳] #早安# [图片]](https://weibo.com/1402400261/JCVqAsCAh)
+
+### [【How to Simulate I/O Faults at Runtime?】网页链接 如何在运行时模拟I / O故障？源代码GitHub托管地址：网页链接  网路冷眼技术分享 #科技暖心季# [图片][图...](https://weibo.com/1715118170/JCVzuDtSW)
+
+### [【Software Testing Best Practices FAQ】网页链接 软件测试最佳实践常见问题 。网路冷眼技术分享 #科技暖心季# [图片]](https://weibo.com/1715118170/JCVnxDnqi)
