@@ -713,3 +713,33 @@
 ### [一个关于TCP连接的（可能）冷知识：客户端显示连接状态切换到了establish，并不表示连接就建立成功了。如下图TCP连接状态转换图左下客户端部分，这个时候这个连...](https://weibo.com/1642628345/JCRR3mMYa)
 
 ### error read: http://www.waerfa.com/feed
+
+### error read: http://www.waerfa.com/feed
+
+### [知识表示与融入技术前沿进展及应用](https://zhuanlan.zhihu.com/p/343814502)
+
+### error read: http://120.53.237.72:1200/zhihu/zhuanlan/chicken-life
+
+### error read: https://www.codesky.me/feed/
+
+### error read: http://120.53.237.72:1200/mobdata/report
+
+### [希望 no means no 原则可以作为员工是否被强迫加班的认定](https://www.v2ex.com/t/744007)
+
+### error read: http://120.53.237.72:1200/cfan/news
+
+### [#小Q分享# 《被特朗普带火后，这款软件却被苹果、谷歌和亚马逊全面封杀》在刚过去的周末，一款因特朗普迅速火起来的社交 App，也或将因特朗普而走向消亡。被特朗...](https://weibo.com/1746173800/JCSCQzrHO)
+
+### [晚安～ [月亮] #晚安# [图片][图片][图片][图片]](https://weibo.com/1402400261/JCSzFpvoX)
+
+### [《爱可可老师24小时热门分享(2021.1.12)》  爱可可老师24小时热门分享(2021.1.12)](https://weibo.com/1402400261/JCSzmehu9)
+
+### error read: http://120.53.237.72:1200/manong-weekly
+
+### [【3D-Parallax, labelfree 3D experience from a 2D image using parallax】网页链接 3D-Parallax, l使用视差从2D图像获得无标签的3D体验。 [图片]](https://weibo.com/1715118170/JCSD4a5uz)
+
+### [【Pyroscope - continuous profiling tool to help debug performance issues. 】网页链接 Pyroscope （高温镜）-连续性能剖析开源工具，可帮助调试性能问题。源...](https://weibo.com/1715118170/JCSrqeEAv)
+
+### [【Flutter App from scratch - A Mindmap App】网页链接 从头开始Flutter App-构建一个思维导图应用程序。网路冷眼技术分享 #科技暖心季# 网路冷眼的微博视频](https://weibo.com/1715118170/JCSqFBAON)
+
+### error read: http://www.waerfa.com/feed
