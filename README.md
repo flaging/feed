@@ -217,3 +217,84 @@
 ### [【An automated pipeline for the discovery of conspiracy theories】网页链接 用于发现阴谋理论的自动化管道。](https://weibo.com/1715118170/JCOjcBuRP)
 
 ### [【The Simple Ways to Refactor Terrible Code】网页链接 重构糟糕代码的简单方法。](https://weibo.com/1715118170/JCNUPuZQu)
+
+### [Access Dots –  实时提醒，有应用正在用你的摄像头和麦克风[Android]](https://www.appinn.com/access-dots-for-android/)
+
+ <p><strong>Access Dots</strong> 是一款能够在屏幕顶部用小绿点、小黄点提醒，有应用正在用你的摄像头和麦克风的 Android 应用。@<a class="rank-math-link" href="https://www.appinn.com/access-dots-for-android/">Appinn</a></p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><img alt="Access Dots -  实时提醒，有应用正在用你的摄像头和麦克风[Android]" src="https://img3.appinn.net/images/202101/access-dots.jpg!o" title="Access Dots -  实时提醒，有应用正在用你的摄像头和麦克风[Android] 1" /></figure></div>
+
+
+
+<p>坊间一直流传，我和朋友在聊天，提到了某款商品，打开某电商应用，就恰巧出现了该商品，还不止一次发生这样的情况，怎么办？</p>
+
+
+
+<p>虽然青小蛙觉得这种情况下，绝大多数都是巧合，但你可能还是不信，那么就只能自己验证一下咯。验证方法也简单，就是看到底有没有应用在偷摸的使用摄像头和麦克风。</p>
+
+
+
+<h2>Access Dots</h2>
+
+
+
+<p>安装 Access Dots 并提供系统的无障碍权限之后，Access Dots 就可以工作了。需要 Android 7.0+ 系统。</p>
+
+
+
+<div class="wp-block-columns">
+<div class="wp-block-column">
+<figure class="wp-block-image size-large"><img alt="Access Dots -  实时提醒，有应用正在用你的摄像头和麦克风[Android] 1" src="https://img3.appinn.net/images/202101/photo_2021-01-12_11-03-40.jpg!o" title="Access Dots -  实时提醒，有应用正在用你的摄像头和麦克风[Android] 2" /></figure>
+</div>
+
+
+
+<div class="wp-block-column">
+<figure class="wp-block-image size-large"><img alt="Access Dots -  实时提醒，有应用正在用你的摄像头和麦克风[Android] 2" src="https://img3.appinn.net/images/202101/photo_2021-01-12_11-03-39.jpg!o" title="Access Dots -  实时提醒，有应用正在用你的摄像头和麦克风[Android] 3" /></figure>
+</div>
+</div>
+
+
+
+<p>相机和麦克风的提示信息在屏幕上，可以自定义位置、大小与颜色。即使在锁屏下也可看到。</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><img alt="Access Dots -  实时提醒，有应用正在用你的摄像头和麦克风[Android]" src="https://img3.appinn.net/images/202101/1610419040116.jpg!o" title="Access Dots -  实时提醒，有应用正在用你的摄像头和麦克风[Android] 4" /></figure></div>
+
+
+
+<p>青小蛙也咨询了一下群友，这个功能已经逐渐在各大 ROM 里推开了，相信未来那种“坊间的流传”能够被攻破。</p>
+
+
+
+<p>对于还没有该功能的 Android 设备，可以先用 Access Dots 盯上，青小蛙测试感觉还是很不错的。可以在 <a class="rank-math-link" href="https://play.google.com/store/apps/details?id=you.in.spark.access.dots" rel="noopener" target="_blank">Google Play</a> 免费安装，无法访问的同学，请点击下面的按钮前往搬运网盘：</p>
+
+
+
+<div align="center"><a href="https://d.appinn.com/access-dots-for-android/" rel="noopener" target="view_window"><img alt="Access Dots -  实时提醒，有应用正在用你的摄像头和麦克风[Android] 3" src="https://img3.appinn.net/images/201507/down.png" title="Access Dots -  实时提醒，有应用正在用你的摄像头和麦克风[Android] 5" /></a></div>
+<hr /><h2>相关阅读</h2><ul><li><a href="https://www.appinn.com/logic-dots/" rel="bookmark" title="Permanent Link: Logic Dots &#8211; 有点「挖地雷」意思的点点益智游戏[iOS/Android]">Logic Dots &#8211; 有点「挖地雷」意思的点点益智游戏[iOS/Android]</a></li><li><a href="https://www.appinn.com/brain-dots-game/" rel="bookmark" title="Permanent Link: Brain Dots（脑点子）- 划线让两球相撞，益智小游戏[iOS/Android]">Brain Dots（脑点子）- 划线让两球相撞，益智小游戏[iOS/Android]</a></li><li><a href="https://www.appinn.com/dots-co/" rel="bookmark" title="Permanent Link: Dots &#038; Co &#8211; 再进化，Dots 新版来袭[iOS/Android]">Dots &#038; Co &#8211; 再进化，Dots 新版来袭[iOS/Android]</a></li><li><a href="https://www.appinn.com/splashy-dots/" rel="bookmark" title="Permanent Link: Splashy Dots &#8211; 这是一个有艺术气息的益智解谜游戏[iOS/Android]">Splashy Dots &#8211; 这是一个有艺术气息的益智解谜游戏[iOS/Android]</a></li><li><a href="https://www.appinn.com/sound-cycle-access-perfect-3/" rel="bookmark" title="Permanent Link: 静音 3.0 &#8211; 保持专注和平静，带番茄钟的白噪音应用 [iOS/Android]">静音 3.0 &#8211; 保持专注和平静，带番茄钟的白噪音应用 [iOS/Android]</a></li></ul><hr />
+<a href="http://www.appinn.com/copyright/?utm_source=feeds&amp;utm_medium=copyright&amp;utm_campaign=feeds" title="版权声明">&#169;</a>2019 青小蛙 for <a href="http://www.appinn.com/?utm_source=feeds&amp;utm_medium=appinn&amp;utm_campaign=feeds" title="本文来自小众软件">小众软件</a> | <a href="http://www.appinn.com/join-us/?utm_source=feeds&amp;utm_medium=joinus&amp;utm_campaign=feeds" title="加入小众软件">加入我们</a> | <a href="https://meta.appinn.com/c/faxian/?utm_source=feeds&amp;utm_medium=contribute&amp;utm_campaign=feeds" rel="noopener" target="_blank" title="给小众软件投稿">投稿</a> | <a href="http://www.appinn.com/feeds-subscribe/?utm_source=feeds&amp;utm_medium=feedsubscribe&amp;utm_campaign=feeds" target="_blank" title="可以分类订阅小众，Windows/MAC/游戏"><font color="red">订阅指南</font></a><br /> 3659b075e72a5b7b1b87ea74aa7932ff <br />
+<a href="https://www.appinn.com/access-dots-for-android/#comments" title="to the comments">点击这里留言、和原作者一起评论</a>
+
+### error read: http://www.waerfa.com/feed
+
+### error read: http://120.53.237.72:1200/zhihu/zhuanlan/chicken-life
+
+### error read: https://www.codesky.me/feed/
+
+### [总公司明年打算拓展新疆业务系统，要不要报名？双倍工资诱惑](https://www.v2ex.com/t/743914)
+
+### [找一款真全面屏手机就这么难？](https://www.v2ex.com/t/743877)
+
+### [有人用 61 键键盘写代码吗？](https://www.v2ex.com/t/743829)
+
+### [公司谈离职：因为我越过上级直属领导提涨薪，想辞退我，请问如何做？](https://www.v2ex.com/t/743817)
+
+### [分享 GitHub 上一款汉化的红队浏览器插件：HackTools (如当) ，开源自 s7ck Team 红队武器库 F-Box。这是一个可用于 Web 应用程序渗透测试的 Web 插件，它包括渗...](https://weibo.com/5722964389/JCOHi3SqX)
+
+### [初识 D3.js ：打造专属可视化](https://segmentfault.com/a/1190000038945351)
+
+### [【Organizedly – Linked notes, todo's, calendar and queries】网页链接 Organizedly – 链接笔记，待办事项，日历和查询。 [图片]](https://weibo.com/1715118170/JCOHowzZi)
