@@ -141,3 +141,35 @@
 ### [在游戏公司的音频部门工作是一种怎样的体验？](https://daily.zhihu.com/story/9731921)
 
 ### [【OpenAI's DALL-E Can Create Images From Just Text Description】网页链接 OpenAI的DALL-E可以根据文字描述创建图像。网路冷眼技术分享 #科技暖心季# 网路冷...](https://weibo.com/1715118170/JCMVIkWvP)
+
+### [面向认知，智源研究院联合清华大学、阿里巴巴、搜狗等发布超大规模新型预训练模型“悟道·文汇”](https://www.jiqizhixin.com/articles/2021-01-12)
+
+ 
+
+### error read: http://www.waerfa.com/feed
+
+### error read: https://www.codesky.me/feed/
+
+### [ErrorQuestion about NSPopoverBarltemButton](https://www.reddit.com/r/pytorch/comments/kvfudr/errorquestion_about_nspopoverbarltembutton/)
+
+ <!-- SC_OFF --><div class="md"><p>When I try to run OpenAI’ gym CartPole I got this</p> <p>Warning: Expected min height of view: (&lt;NSPopoverTouchBarItemButton: 0x7fcd151c7b10&gt;) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.</p> <p>Anyone got idea what is this error?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/reyScrooge"> /u/reyScrooge </a> <br /> <span><a href="https://www.reddit.com/r/pytorch/comments/kvfudr/errorquestion_about_nspopoverbarltembutton/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/pytorch/comments/kvfudr/errorquestion_about_nspopoverbarltembutton/">[comments]</a></span>
+
+### [经济持续复苏，通胀温和回升——点评12月物价数据](http://www.jintiankansha.me/t/5dvttiImBl)
+
+### [AC+AP 的方案并没有传说的这么香甜，起码我用 H3C 是如此](https://www.v2ex.com/t/743770)
+
+### [ChineseDiachronicCorpus，中文历时语料库，横跨六十余年，收录多个消息平台的新闻预料。可用于历时语言变化计算、语言监测、社会文化变迁研究提供基础性的语料...](https://weibo.com/5722964389/JCN7T5Ans)
+
+### [Daily Hacker News for 2021-01-11](https://www.daemonology.net/hn-daily/2021-01-11.html)
+
+### [云原生数据库设计新思路](https://www.infoq.cn/article/2urzLXGzykx0VmYYVekO)
+
+### [从 DAU 5 万到用户数破亿，揭秘腾讯会议增长背后的技术实践](https://www.infoq.cn/article/Z79oEaZtwQByEurvPIKM)
+
+### [如何优雅地重试](https://www.infoq.cn/article/5fBoevKaL0GVGvgeac4Z)
+
+### [#小Q分享# 《放弃微服务，我们为什么重回单体架构？》本文最初发表于 Ben Nadel 的个人网站，经作者同意由 InfoQ 中文站翻译并分享。每当我们将InVision的一个微...](https://weibo.com/1746173800/JCN7Tm5tq)
+
+### [【How to Become a Data Engineer in 2021】网页链接 如何在2021年成为一名数据工程师？#科技暖心季# [图片]](https://weibo.com/1715118170/JCNEJfdQ0)
+
+### [【Hundreds of Google Employees Unionize, Culminating Years of Activism】 网页链接 数以百计的谷歌员工成立了工会，多年的激进主义达到了顶峰 。 [图片]](https://weibo.com/1715118170/JCNwvyYgm)
