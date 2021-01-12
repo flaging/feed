@@ -173,3 +173,47 @@
 ### [【How to Become a Data Engineer in 2021】网页链接 如何在2021年成为一名数据工程师？#科技暖心季# [图片]](https://weibo.com/1715118170/JCNEJfdQ0)
 
 ### [【Hundreds of Google Employees Unionize, Culminating Years of Activism】 网页链接 数以百计的谷歌员工成立了工会，多年的激进主义达到了顶峰 。 [图片]](https://weibo.com/1715118170/JCNwvyYgm)
+
+### [买数控机床也不投资机器人？专家揭秘美中小制造业自动化关键难题](https://www.jiqizhixin.com/articles/2021-01-12-2)
+
+ 
+
+### [派早报：iQOO 7 正式发布、微软推出 Surface Pro 7 Plus 等](https://sspai.com/post/64524)
+
+### error read: http://www.13775.org/feed/
+
+### [ICYMI](https://www.reddit.com/r/DeepLearningPapers/comments/kvitna/icymi/)
+
+ &#32; submitted by &#32; <a href="https://www.reddit.com/user/MLtinkerer"> /u/MLtinkerer </a> <br /> <span><a href="https://www.reddit.com/r/LatestInML/comments/kvinzm/icymi/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/DeepLearningPapers/comments/kvitna/icymi/">[comments]</a></span>
+
+### [我和蓝桥杯的那两年](https://segmentfault.com/a/1190000038945468)
+
+### [前端也能学算法：由浅入深讲解动态规划](https://segmentfault.com/a/1190000038943814)
+
+### [特朗普是如何被社交媒体全面封杀的](http://www.ftchinese.com/story/001090946)
+
+### [医护人员不愿接种疫苗在欧美引发震惊](http://www.ftchinese.com/story/001090937)
+
+### [1月12日新闻茶泡Fan](https://www.cfan.com.cn/2021/0112/134745.shtml)
+
+### [光速！搜索、学习和实践 Linux 命令！！](https://linux.cn/article-13005-1.html?utm_source=rss&utm_medium=rss)
+
+### [历时四年，分布式文件系统 JuiceFS 正式开源](https://www.infoq.cn/article/LN7TrSx364aMgVds05Vo)
+
+### [TiDB 常⻅架构应⽤场景](https://www.infoq.cn/article/scAzEyUQlRqbc2XczIWj)
+
+### [Kylin 5 年的成长与未来规划](https://www.infoq.cn/article/ZGe7IzisQ7FAwUY5kdes)
+
+### [技术干货！HDFS读写原理和代码简单实现](https://www.infoq.cn/article/404e1cbff9542e53fccea8638)
+
+### [当我们聊起亚马逊云计算的时候，我们会聊什么？飞轮效应，两个披萨原则，还是Amazon SageMaker，Redshift？这里有一份AWS 2020全年技术路线回顾，一文看懂AWS！...](https://weibo.com/1746173800/JCOiXfIDD)
+
+### [阿里面试官：MySQL如何设计索引更高效？](https://segmentfault.com/a/1190000038921156)
+
+### [Vue.js笔试题解决业务中常见问题](https://segmentfault.com/a/1190000038940839)
+
+### [从打字机效果的 N 种实现看JS定时器机制和前端动画](https://segmentfault.com/a/1190000038915675)
+
+### [【An automated pipeline for the discovery of conspiracy theories】网页链接 用于发现阴谋理论的自动化管道。](https://weibo.com/1715118170/JCOjcBuRP)
+
+### [【The Simple Ways to Refactor Terrible Code】网页链接 重构糟糕代码的简单方法。](https://weibo.com/1715118170/JCNUPuZQu)
