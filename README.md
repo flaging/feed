@@ -686,3 +686,27 @@
 ### [转发微博 - 转发 @网路冷眼:&ensp;#冷眼赠书福利# 转发赠书# 网路冷眼联合@华章图书 @华章计算机科学 送出 5 本《ECharts数据可视化》，截至 1 月 20 日，转发此...](https://weibo.com/1715118170/JD1Xfr64x)
 
 ### [【Plotting Propositions – the Mathematics of Persuasion】 网页链接 策划命题——说服的数学 。 [图片][图片][图片]](https://weibo.com/1715118170/JD1Ra8R9K)
+
+### error read: http://www.waerfa.com/feed
+
+### error read: http://120.53.237.72:1200/zhihu/zhuanlan/paperweekly
+
+### error read: http://120.53.237.72:1200/segmentfault/channel/ai
+
+### [2021年1月13日新闻联播文字版](http://www.xwlb.net.cn/17507.html)
+
+### [晚安～ [月亮] #晚安# 爱可可-爱生活的微博视频](https://weibo.com/1402400261/JD2eZ14IS)
+
+### [《爱可可老师24小时热门分享(2021.1.13)》  爱可可老师24小时热门分享(2021.1.13)](https://weibo.com/1402400261/JD2dzwV3t)
+
+### [【2021 will demand new kinds of video conferencing】网页链接 2021年将需要新型视频会议。](https://weibo.com/1715118170/JD2s4Fylb)
+
+### [#绿洲摄影#一楼阅尽深圳繁华 深圳招商局 绿洲 [图片]](https://weibo.com/1715118170/JD2k7hS7i)
+
+### [【Why do we need Computational Graphs in TensorFlow?】网页链接 为什么在TensorFlow中需要计算图？ 网路冷眼技术分享 #科技暖心季# 网路冷眼的微博视频](https://weibo.com/1715118170/JD2fwokqp)
+
+### [转发 - 转发 @网路冷眼:&ensp;【Build Your Own Text Editor】网页链接 建立自己的文字编辑器。 [图片]](https://weibo.com/1642628345/JD2bIyZHE)
+
+### [//@_阿楠_:竟然找到一些安慰[doge]//@纪录片之家:转发微博 - 转发 @疯魔娱乐:&ensp;#流金岁月#袁泉把南孙小姨身上的睿智且体贴诠释的恰到好处[抱一抱] 全剧最喜...](https://weibo.com/1642628345/JD2bm8QFy)
+
+### error read: http://www.waerfa.com/feed
