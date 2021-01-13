@@ -283,3 +283,23 @@
 ### [【When Amazon Switched from Sun to Linux】网页链接 当Amazon从Sun切换到Linux时。 [图片]](https://weibo.com/1715118170/JCYwslD55)
 
 ### [【How to monitor your system dependencies】网页链接 如何监视系统依赖性？](https://weibo.com/1715118170/JCY862Sls)
+
+### error read: http://www.waerfa.com/feed
+
+### error read: http://www.bigdatainterview.com/feed/
+
+### [你们公司是业务说得算，还是技术说得算](https://www.v2ex.com/t/744478)
+
+### [如果不能回家，在京过年，一个人，能怎么过](https://www.v2ex.com/t/744237)
+
+### [使用 Atom 文本编辑器的 5 个理由](https://linux.cn/article-13009-1.html?utm_source=rss&utm_medium=rss)
+
+### [微软发布Linux版Edge](https://www.infoq.cn/article/iwpBa1z8ho5HaNZRpkAt)
+
+### [在特朗普“干掉”TikTok之前，TikTok先出手了](https://www.infoq.cn/article/5DtYU4L0UlZ2fwdYhEcC)
+
+### [基于机器学习的分子动力学模拟获得戈登·贝尔奖](https://www.infoq.cn/article/G8sAXL0bNOQSRqPONiCl)
+
+### [谷歌将逐步淘汰Android Things](https://www.infoq.cn/article/LVHk7OvJzNNWN1VgaLO5)
+
+### [这才是真为梦想窒息的选手[挤眼] [图片]](https://weibo.com/1715118170/JCYNteY3U)
