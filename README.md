@@ -339,3 +339,17 @@
 ### [【隐性神经网络模型文献集锦，包括神经常微分方程、平衡网络，可微优化层等】’awesome-implicit-neural-models - A collection of resources on Implicit learn...](https://weibo.com/1402400261/JCYZyzNuF)
 
 ### [#冷眼赠书福利# 转发赠书# 网路冷眼联合@华章图书 @华章计算机科学 送出 5 本《ECharts数据可视化》，截至 1 月 20 日，转发此微博即可参与。本书是一部ECharts...](https://weibo.com/1715118170/JCZ917Xus)
+
+### [分心不是你的错——成人 ADHD 问诊指南](https://sspai.com/post/64519)
+
+### error read: http://www.waerfa.com/feed
+
+### [1、我国建成全球规模最大的通信网络2、西班牙遭遇五十年来最强降雪3、巴西试验显示科兴新冠疫苗总体有效率为 50.4%4、推特和亚马逊下架特朗普 各方质疑科技公司...](https://t.me/tgchinanews/918)
+
+### [📹Wed, 13 Jan 2021 07:29:12 GMT](https://t.me/tgchinanews/917)
+
+### [欧盟计划建立欧版防火墙](https://www.v2ex.com/t/744499)
+
+### [为什么训练数据是自然语言处理的瓶颈？](https://www.infoq.cn/article/el4T76D4Ypd0rHlQ4yW0)
+
+### [面向认知，智源研究院联合多家单位发布超大规模新型预训练模型“悟道·文汇”](https://www.infoq.cn/article/Gd0sEkaqyRY58zMpVLOB)
