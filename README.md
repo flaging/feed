@@ -602,3 +602,37 @@
 ### [【funct.Array：从Python内置list继承而来的函数式可变序列，提供了100多个高阶方法和更多函数，类似NumPy arrays，不依赖于其他第三方包】’funct.Array - Like...](https://weibo.com/1402400261/JD17NARMV)
 
 ### [【dynamic-analysis：针对各种编程语言、二进制文件的动态分析工具大列表】'dynamic-analysis - A curated list of dynamic analysis tools for all programming...](https://weibo.com/1402400261/JD11ihiKu)
+
+### error read: http://www.waerfa.com/feed
+
+### error read: http://120.53.237.72:1200/zhihu/zhuanlan/paperweekly
+
+### error read: http://120.53.237.72:1200/zhihu/zhuanlan/coding-future
+
+### error read: http://feed.cnblogs.com/blog/picked/rss
+
+### error read: http://www.cppblog.com/rss.aspx
+
+### [最近，网易技术团队对外开放了几场 Python 技术进阶公开课。其中包含 Python 量化金融入门与进阶、数据分析技术进阶，数据可视化及爬取处理等内容，感兴趣的同学...](https://weibo.com/5722964389/JD1EYuZWj)
+
+### [#小Q分享# 《单元测试 vs 集成测试，你该怎么选？》在 1998 年，Kent Beck 编写了 sUnit，一个面向 SmallTalk 的单元测试框架。之后，他将这个框架移植到 Java，...](https://weibo.com/1746173800/JD1EZb1tx)
+
+### [【YouTube上千个计算机科学课程视频精选】《Entire Computer Science Curriculum in 1000 YouTube Videos | Laconicml》 网页链接 #计算机科学# [图片][图片]](https://weibo.com/1402400261/JD1Kn3fa2)
+
+### [Emile Octave Denis Victor Guillonnet(1872-1967)作品 [图片][图片][图片][图片]](https://weibo.com/1402400261/JD1GwBtCu)
+
+### [#抽奖##赠书# 联合@华章图书 @华章计算机科学 送出5本《ECharts数据可视化》，截至2021.1.21 12:00，*可可粉*转发即可参与  一部ECharts的实战手册，内容系统而...](https://weibo.com/1402400261/JD1CAwTWh)
+
+### [SqUID的仓储物流机器人 [酷] 爱可可-爱生活的微博视频](https://weibo.com/1402400261/JD1AHsJRW)
+
+### [“用户界面应该非常简单，让初学者在紧急状况下十秒内就能理解。” - Ted Nelson](https://weibo.com/1402400261/JD1zSEgZW)
+
+### [几篇论文实现代码：《Data Augmentation for Graph Neural Networks》(AAAI 2021) GitHub:网页链接《Neural Architecture Search on ImageNet in Four GPU Hours...](https://weibo.com/1402400261/JD1v07FIa)
+
+### [【Build Your Own Text Editor】网页链接 建立自己的文字编辑器。 [图片]](https://weibo.com/1715118170/JD1FbeyKH)
+
+### [【Real-time image registration on GPU with VkFFT library】网页链接 使用VkFFT库在GPU上进行实时图像配准。如何使用快速傅立叶变换检测图像的平移，旋转和缩...](https://weibo.com/1715118170/JD1sO7Hy5)
+
+### [【Creating self-contained executable JARs】网页链接 创建独立的可执行JAR包。 [图片]](https://weibo.com/1715118170/JD1gUzIMn)
+
+### error read: http://www.waerfa.com/feed
