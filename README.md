@@ -650,3 +650,39 @@
 ### [【New York City proposes regulating algorithms used in hiring】网页链接 纽约市提议在招聘中使用调节算法。 [图片]](https://weibo.com/1715118170/JDb5GEOJj)
 
 ### [【Steam's login method is kinda interesting】网页链接 Steam的登录方法很有趣。 网路冷眼技术分享 #科技暖心季# [图片][图片][图片][图片][图片][图片]](https://weibo.com/1715118170/JDaTj0VUr)
+
+### error read: http://www.waerfa.com/feed
+
+### error read: http://120.53.237.72:1200/zhihu/zhuanlan/paperweekly
+
+### error read: http://120.53.237.72:1200/zhihu/zhuanlan/chicken-life
+
+### error read: https://www.codesky.me/feed/
+
+### error read: http://feed.cnblogs.com/blog/picked/rss
+
+### error read: http://www.bigdatainterview.com/feed/
+
+### [2021年1月14日新闻联播文字版](http://www.xwlb.net.cn/17522.html)
+
+### [用 Portainer.io 来监控和管理 Docker 容器（2）](https://linux.cn/article-13015-1.html?utm_source=rss&utm_medium=rss)
+
+### [#小Q分享# 《Shopify如何在浏览器之外使用WebAssembly？》Shopify 致力于让大多数商家都需要的功能变得简单易用，并通过接口在 Shopify 平台上执行查询、扩展和...](https://weibo.com/1746173800/JDbtQ13Uf)
+
+### [《爱可可老师24小时热门分享(2021.1.14)》  爱可可老师24小时热门分享(2021.1.14)](https://weibo.com/1402400261/JDbzZqkSe)
+
+### [技术创新简史 [酷] [图片][图片][图片]](https://weibo.com/1402400261/JDbtgtXUJ)
+
+### [Ivan Konstantinovich Aivazovsky(1817-1900)作品 [图片][图片][图片][图片]](https://weibo.com/1402400261/JDbrvsTmT)
+
+### [拿到某些同学提交的代码 [坏笑] 爱可可-爱生活的微博视频](https://weibo.com/1402400261/JDblApwNb)
+
+### [Naval：痛苦是智慧的源泉。](https://weibo.com/1402400261/JDbkrxGBo)
+
+### [“编程关键不在编，在想。” - Rich Hickey](https://weibo.com/1402400261/JDbedF717)
+
+### [【Now Dug (DNS propagation checker on the CLI) has a documentation site!】网页链接 现在，Dug（CLI上的DNS传播检查器）具有一个文档站点！](https://weibo.com/1715118170/JDbu76073)
+
+### [转发微博 - 转发 @网路冷眼:&ensp;#冷眼赠书福利# 转发赠书# 网路冷眼联合@华章图书 @华章计算机科学 送出 5 本《ECharts数据可视化》，截至 1 月 20 日，转发此...](https://weibo.com/1715118170/JDbnK2KGC)
+
+### [【Economic Failures of the IPCC Process】网页链接 IPCC进程的经济失败。网路冷眼技术分享 #科技暖心季# [图片][图片][图片][图片][图片][图片]](https://weibo.com/1715118170/JDbhEFRhM)
