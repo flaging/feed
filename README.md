@@ -628,3 +628,25 @@
 ### [2021年1月14日外交部发言人赵立坚主持例行记者会(2021-01-14)](https://www.fmprc.gov.cn/web/wjdt_674879/fyrbt_674889/t1846416.shtml)
 
 ### [【喷嚏图卦20210114】Chinese Baijiu](https://www.dapenti.com/blog/more.asp?name=xilei&id=154371)
+
+### error read: https://www.codesky.me/feed/
+
+### [全球屏息以待！或达2万亿美元，拜登经济刺激计划要公布了](http://www.jintiankansha.me/t/adEXIg3XuT)
+
+### [股市现“重大变化”信号](http://www.jintiankansha.me/t/vUUC1yMKVJ)
+
+### [高盛首席Hatzius：美股回调可能马上就来](http://www.jintiankansha.me/t/eB57qUMKre)
+
+### [“牛市女皇”：四十年来第一次，股票和比特币的大牛市来了](http://www.jintiankansha.me/t/s7q1RQzsHe)
+
+### [【已询问】德威华泰科技股份有限公司](http://kcb.sse.com.cn//renewal/xmxq/index.shtml?auditId=796)
+
+### [发布了头条文章：《400万Docker镜像中，51%的镜像存在高危漏洞》  400万Docker镜像中，51%的镜像存在高危漏洞](https://weibo.com/1746173800/JDb5CwICX)
+
+### [几篇论文实现代码：《You Only Need Adversarial Supervision for Semantic Image Synthesis》(ICLR 2021) GitHub:网页链接 [fig3]《Revisiting Parameter Shari...](https://weibo.com/1402400261/JDbc6tgIs)
+
+### [【Markdown详尽指南】’Markdown Guide - The comprehensive Markdown reference guide.' by Matt Cone 网页链接 GitHub: 网页链接 #开源##Markdown# [图片]](https://weibo.com/1402400261/JDbbP2jCh)
+
+### [【New York City proposes regulating algorithms used in hiring】网页链接 纽约市提议在招聘中使用调节算法。 [图片]](https://weibo.com/1715118170/JDb5GEOJj)
+
+### [【Steam's login method is kinda interesting】网页链接 Steam的登录方法很有趣。 网路冷眼技术分享 #科技暖心季# [图片][图片][图片][图片][图片][图片]](https://weibo.com/1715118170/JDaTj0VUr)
