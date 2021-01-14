@@ -77,3 +77,5 @@
 ### error read: http://www.bigdatainterview.com/feed/
 
 ### [Word Ladders and Equivalence Classes](https://datagenetics.com/blog/january52021/index.html)
+
+### [【A Brief History of Consumer Culture】网页链接 消费文化简史。在20世纪的整个过程中，资本主义通过将普通人塑造成对更多东西有不可抑制的渴望的消费者来保持...](https://weibo.com/1715118170/JDeeve5Ho)
