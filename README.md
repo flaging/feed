@@ -592,3 +592,17 @@
 ### [#绿洲摄影#中国.浙江.淳安.千岛湖 这蓝绿色令人赏心悦目[太开心] 绿洲 [图片]](https://weibo.com/1715118170/JD9rq4hXc)
 
 ### [评论里有地址。 - 转发 @Hotneca:&ensp;动视有个讲游戏技术的专栏，里面很多干货PPT，包含游戏设计技术、计算机图形学等各种知识。对这方面有兴趣的发烧友和游戏...](https://weibo.com/1642628345/JD9hAr1nf)
+
+### [为什么你的皮肤这么干？](https://sspai.com/post/64562)
+
+### error read: http://www.bigdatainterview.com/feed/
+
+### [批量面值退市大戏震撼开场：“翡翠第一股”*ST金钰成2021年首退，还有89只股票命悬一线](https://m.21jingji.com/article/20210114/herald/26b2bceee27cc1be338c0d96e09ef44b.html)
+
+### error read: https://rsshub.app/telegram/channel/tgchinanews
+
+### [BAT 有 6 点半下班的程序员么](https://www.v2ex.com/t/744870)
+
+### [#小Q分享# 《英特尔 CEO 换帅：首任 CTO 回归》英特尔换帅了。北京时间 1 月 13 日，英特尔宣布，公司董事会已任命帕特·基辛格（Pat Gelsinger）为新一任首席执...](https://weibo.com/1746173800/JD9UqnOCY)
+
+### error read: http://www.waerfa.com/feed
