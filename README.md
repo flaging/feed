@@ -423,3 +423,33 @@
 ### [【Foam: A personal knowledge management and sharing system for VSCode】网页链接 #科技暖心季# [图片][图片]](https://weibo.com/1715118170/JD8Eb2TtZ)
 
 ### [熵增定律确实是最让人沮丧的定律，再牛逼的系统运行久了也会混乱无序，无可奈何。 - 转发 @玩家老C:&ensp;早十几年前，淘宝靠着本土化的运营更懂中国人，打败了...](https://weibo.com/1642628345/JD8qXCE8D)
+
+### [告别繁琐的记账步骤，专为「懒人」打造的记账工具：多少资产](https://sspai.com/post/64506)
+
+### error read: http://www.waerfa.com/feed
+
+### error read: https://www.codesky.me/feed/
+
+### [尽调过200家私募机构后，我是这样挑选基金的...](http://www.jintiankansha.me/t/OpOJ0Kd8Kx)
+
+### [白酒崩！军工崩！汽车崩！但这两个板块却逆市大涨...前期高位股是假摔还是真瓦解？新的抱团方向出现了？](http://www.jintiankansha.me/t/ivw4kShJHd)
+
+### [永远不要低估银行的价值](http://www.jintiankansha.me/t/UAsP424fP3)
+
+### [冰火两重天的2020年，我的成长和反思](http://www.jintiankansha.me/t/hDAdc4jxR1)
+
+### [疫苗多久产生抗体？有慢性病能不能打？你关心的答案来了](https://m.21jingji.com/article/20210114/herald/a133a4c0f36a92f9062c499ee04d3fc4.html)
+
+### [1、《工业互联网创新发展行动计划（2021—2023年）》发布2、2020年社会融资规模增量为34.86万亿元3、特朗普弹劾案过关华盛顿气氛紧张4、美国约翰霍普金斯大学：...](https://t.me/tgchinanews/920)
+
+### [Thu, 14 Jan 2021 07:19:01 GMT](https://t.me/tgchinanews/919)
+
+### [Intel 正在死去，大家怎么看呢？](https://www.v2ex.com/t/744868)
+
+### [要想财富自由，投资自己的最好方法有哪些呢？](https://www.v2ex.com/t/744831)
+
+### error read: https://rsshub.app/telegram/channel/wxfanfou
+
+### error read: http://www.waerfa.com/feed
+
+### error read: https://rsshub.app/xmind/mindmap
