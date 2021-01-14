@@ -89,3 +89,29 @@
 ### [早！[太阳] #早安# [图片]](https://weibo.com/1402400261/JDegju5vw)
 
 ### [【I received first-ever donation on my open-source side project and it felt great】网页链接 我在开源方面的项目中获得了首次捐款，感觉很棒。开源地址托管...](https://weibo.com/1715118170/JDequr4dL)
+
+### error read: http://www.bigdatainterview.com/feed/
+
+### [数学是人类的发明，还是发现？](https://daily.zhihu.com/story/9732029)
+
+### [如果公司开始推行超长时间加班制度，应当如何自救？](https://daily.zhihu.com/story/9732026)
+
+### [人类为什么会孜孜不倦地去探索未知？好奇心的意义是什么?](https://daily.zhihu.com/story/9732019)
+
+### [地球上有哪些罕见的自然奇观？](https://daily.zhihu.com/story/9732018)
+
+### [为什么古时东南亚都是印度化而非汉化？](https://daily.zhihu.com/story/9732012)
+
+### [瞎扯 · 如何正确地吐槽](https://daily.zhihu.com/story/9732030)
+
+### [CrateDb在携程机票BI的实践](https://www.infoq.cn/article/pym3FDYeOz0oVbPFhjED)
+
+### [[LG]《Fast convolutional neural networks on FPGAs with hls4ml》T Aarrestad, V Loncar, M Pierini, S Summers, J Ngadiuba, C Petersson, H Linander, Y Iiy...](https://weibo.com/1402400261/JDeHqgOLJ)
+
+### [[CV]《Big Self-Supervised Models Advance Medical Image Classification》S Azizi, B Mustafa, F Ryan, Z Beaver, J Freyberg, J Deaton, A Loh, A Karthikesa...](https://weibo.com/1402400261/JDeDlkjND)
+
+### [【Building a simple Web server with arsd CGI framework in D programming language】网页链接 以D编程语言使用arsd CGI框架构建简单的Web服务器。网路冷眼技...](https://weibo.com/1715118170/JDf1rmYYH)
+
+### [【How to Keep Up to Date with Web Development】网路冷眼技术分享 #科技暖心季# [图片][图片]](https://weibo.com/1715118170/JDeOQlEkr)
+
+### [【What Is a Gamma Squeeze in the Context of Stock Trading?】网页链接 股票交易中的伽玛挤压是什么？ [图片]](https://weibo.com/1715118170/JDeCIDPds)
