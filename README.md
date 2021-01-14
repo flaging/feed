@@ -393,3 +393,33 @@
 ### [【Log Pattern Recognition: LogMine】网页链接 日志模式识别：LogMine。 [图片]](https://weibo.com/1715118170/JD8l16SUw)
 
 ### [早十几年前，淘宝靠着本土化的运营更懂中国人，打败了进场的ebay。十几年过去后，淘宝意图在东南亚电商市场上重新把淘宝复制一遍赢得市场，被shoppe用同样的方式...](https://weibo.com/1642628345/JD8jHxjiX)
+
+### [开始自救？英特尔宣布CEO变更，请回前CTO Pat Gelsinger](https://www.jiqizhixin.com/articles/2021-01-14-3)
+
+ 
+
+### [规划2021年技术路标，百度研究院做出了这样一份预测](https://www.jiqizhixin.com/articles/2021-01-14-2)
+
+ 
+
+### [7位图灵奖得主当选，新晋陈怡然、周昆、颜水成等多位华人，2020 ACM Fellow名单公布](https://www.jiqizhixin.com/articles/2021-01-14)
+
+ 
+
+### error read: http://www.waerfa.com/feed
+
+### error read: https://www.codesky.me/feed/
+
+### [rust新手的一个问题：fold和scan。](https://rustcc.cn/article?id=2f4b3a15-7874-4c68-b9d8-5a717e9a3af0)
+
+### [Worktile 王涛的经营之道：7 年牵引式破局 ｜ TGO 科技领袖三十人](https://www.infoq.cn/article/vzl2g0HOT1pQtU5iWWBj)
+
+### [微软和谷歌的 AI 模型在 SuperGLUE 语言基准上超越了人类的表现](https://www.infoq.cn/article/eFpHezZKRZKUbBUe9DxX)
+
+### [2021年，算法还“香”吗？ | InfoQ大咖说](https://www.infoq.cn/article/vkxBDLsdiwI0iSFdbIrq)
+
+### [前端大数据可视化从入门到实战](https://segmentfault.com/a/1190000038980319)
+
+### [【Foam: A personal knowledge management and sharing system for VSCode】网页链接 #科技暖心季# [图片][图片]](https://weibo.com/1715118170/JD8Eb2TtZ)
+
+### [熵增定律确实是最让人沮丧的定律，再牛逼的系统运行久了也会混乱无序，无可奈何。 - 转发 @玩家老C:&ensp;早十几年前，淘宝靠着本土化的运营更懂中国人，打败了...](https://weibo.com/1642628345/JD8qXCE8D)
