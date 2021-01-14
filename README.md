@@ -218,3 +218,37 @@
 ### [【Google Sued by YouTube Rival Rumble over Search Rankings】网页链接 谷歌因搜索排名问题被YouTube的竞争对手Rumble起诉。视频共享网站Rumble引用《华尔街日...](https://weibo.com/1715118170/JD5MHtB2C)
 
 ### [转发微博 - 转发 @网路冷眼:&ensp;#冷眼赠书福利# 转发赠书# 网路冷眼联合@华章图书 @华章计算机科学 送出 5 本《ECharts数据可视化》，截至 1 月 20 日，转发此...](https://weibo.com/1715118170/JD5GCbkyX)
+
+### [派早报：英伟达推出 RTX 3060 显卡、Anker 发布声阔 Liberty Air 2 Pro 耳机等](https://sspai.com/post/64558)
+
+### error read: http://120.53.237.72:1200/zhihu/zhuanlan/paperweekly
+
+### [[HIRING, still....\ HPC/Cluster Management Support, but definitely not reading from a script!](https://www.reddit.com/r/HPC/comments/kwu4h0/hiring_still_hpccluster_management_support_but/)
+
+ <!-- SC_OFF --><div class="md"><p><a href="http://www.brightcomputing.com/">Bright Computing</a> (the industry leader in commercial cluster management solutions (ie, supercomputers)) is hiring two System Engineer positions, <a href="https://www.brightcomputing.com/jobs/system-engineer">one in Amsterdam</a>, and <a href="https://www.brightcomputing.com/jobs/system-engineer-0">one (anywhere) in the US</a>.</p> <p>The position has three primary components:</p> <ol> <li>Responding to requests for support. We are not offering phone-based support at this time, everything is done through email/JIRA. Screen sharing sessions are most often handled by senior staff and are scheduled well in advance.</li> <li>Performing deployments of our software. We are a software company, so we prefer that <a href="https://www.brightcomputing.com/partners">our partners</a> perform the majority of our deployments. However, there are some installations where it makes sense to have a deployment performed by an in-house resource.</li> <li>R&amp;D tasks/documentation. &quot;Is it possible to incorporate XYZ into our product?&quot; or &quot;Can we pull information/statistics from ABC FPGA board?&quot;</li> </ol> <p>The team currently has three people in Amsterdam, five in the US, and one each in Australia and New Zealand. This spread allows us to provide support from Monday morning 9am Australian Central time (11:30pm Sunday UTC) until Friday evening 5pm Pacific time (1am Saturday UTC). Your normal shift will be +/- &quot;normal&quot; M-F working hours for where you live--no shift work and no on-call rotation.</p> <p>The &quot;support&quot; moniker sometimes turns people off, as they envision a call center type arrangement---a person sitting in a cube reading from a script telling people to reboot.........that is not what this position is about. The issues we receive are often unique and/or specific to a customer, and the systems are most often large high-end and/or large HPC clusters. An average week is anywhere between 90 to 130 new issues filed, mostly evenly divided within the team.</p> <p>At the same time, we're not &quot;system admins&quot; either, we don't do managed services--the customer is the onsite system admin responsible for day-to-day operations. Our focus is on helping high-level customers with our software. Our team is not responsible for sales or marketing. We don't do on-call rotations, there's no shift-work, and has a team lead (me) who's pretty hands-off (but pretty much always available.)</p> <p>The <a href="https://www.brightcomputing.com/support">scope of support coverage</a> is pretty clearly laid out, although we often do go above and beyond to be as helpful as possible.</p> <p>The job in the US is 100% remote, and the position in the Amsterdam office is obviously remote for the foreseeable future.</p> <p>You can apply via the links provided in <a href="https://www.brightcomputing.com/jobs/support-engineer-0">the US Job Posting</a> or <a href="https://www.brightcomputing.com/jobs/support-engineer">the Dutch Job Posting</a>. Both of those links have more details about the position, but I'm available to answer questions.</p> <p>Salaries vary <strong>greatly</strong> on experience and skillsets, but a reasonable/average starting point for a discussion would be in the $90K range in the US and €5k/mo for the job here in NL.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/kenwoodsbright"> /u/kenwoodsbright </a> <br /> <span><a href="https://www.reddit.com/r/HPC/comments/kwu4h0/hiring_still_hpccluster_management_support_but/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/HPC/comments/kwu4h0/hiring_still_hpccluster_management_support_but/">[comments]</a></span>
+
+### [迫于炒股，现在怎么办理香港银行卡?](https://www.v2ex.com/t/744435)
+
+### [【未通过】海南金盘智能科技股份有限公司](http://kcb.sse.com.cn//renewal/xmxq/index.shtml?auditId=433)
+
+### [【未通过】青岛海泰新光科技股份有限公司](http://kcb.sse.com.cn//renewal/xmxq/index.shtml?auditId=413)
+
+### [【未通过】成都纵横自动化技术股份有限公司](http://kcb.sse.com.cn//renewal/xmxq/index.shtml?auditId=403)
+
+### [【未通过】株洲华锐精密工具股份有限公司](http://kcb.sse.com.cn//renewal/xmxq/index.shtml?auditId=586)
+
+### [Gartner 报告最新解读：数仓 or 数据湖？](https://www.infoq.cn/article/qOeKIhCmeVN3QYwcS0b5)
+
+### [如何利用TensorFlow Hub 让BERT开发更简单？](https://www.infoq.cn/article/wBgwjg65QEp7GcwJHoIG)
+
+### [聊聊微服务的通信模式](https://www.infoq.cn/article/SVZcTxqSI9KDtNz1gCd3)
+
+### [16 岁高中生成功将 Linux 移植到 iPhone，并贴出详细指南](https://www.infoq.cn/article/DMMXsxG1O1Bf76u40l7v)
+
+### [Python太慢了吗？](https://www.infoq.cn/article/XC09ISxtCQJR3Asbc9OO)
+
+### [【How to Identify Malicious Bots on your Network】网页链接 如何识别网络上的恶意机器人？](https://weibo.com/1715118170/JD6LLi6Gl)
+
+### [【Free Fullstack Development Foundation Program】网页链接# 免费的全栈开发基础计划。该计划提供了对全栈编程和Web应用程序开发中的中级概念的清晰理解。#科...](https://weibo.com/1715118170/JD6Ly0rP8)
+
+### [【How to keep your Git history clean with interactive rebase】网页链接 如何通过交互式 rebase来保持Git历史记录的清洁？](https://weibo.com/1715118170/JD6nsjKXr)
