@@ -686,3 +686,21 @@
 ### [转发微博 - 转发 @网路冷眼:&ensp;#冷眼赠书福利# 转发赠书# 网路冷眼联合@华章图书 @华章计算机科学 送出 5 本《ECharts数据可视化》，截至 1 月 20 日，转发此...](https://weibo.com/1715118170/JDbnK2KGC)
 
 ### [【Economic Failures of the IPCC Process】网页链接 IPCC进程的经济失败。网路冷眼技术分享 #科技暖心季# [图片][图片][图片][图片][图片][图片]](https://weibo.com/1715118170/JDbhEFRhM)
+
+### error read: https://vimjc.com/rss.xml
+
+### error read: http://120.53.237.72:1200/zhihu/zhuanlan/paperweekly
+
+### error read: https://www.codesky.me/feed/
+
+### [快过年了，你们都能顺利的返乡过年吗？公司有没有提倡就地过年？](https://www.v2ex.com/t/744940)
+
+### error read: http://www.qingniantuzhai.com/feed
+
+### [我最喜欢的 3 个开源生产力应用](https://linux.cn/article-13016-1.html?utm_source=rss&utm_medium=rss)
+
+### [晚安～ [月亮] #晚安# 爱可可-爱生活的微博视频](https://weibo.com/1402400261/JDbB7dVmg)
+
+### [【Teaching and Assessing Property-Based Testing】网页链接 教学和评估基于属性的测试。 网路冷眼技术分享 #科技暖心季# [图片]](https://weibo.com/1715118170/JDbSmdQAD)
+
+### [【How to Use the HTTP Client in GO To Enhance Performance】网页链接 如何在GO中使用HTTP客户端以增强性能？网路冷眼技术分享 #科技暖心季# [图片]](https://weibo.com/1715118170/JDbG0At2t)
