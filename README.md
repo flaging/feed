@@ -309,3 +309,27 @@
 ### [【Signal Fork with WhatsApp Migration】网页链接 带WhatsApp迁移的Signal 分支。 [图片]](https://weibo.com/1715118170/JDhns2AG9)
 
 ### error read: http://www.waerfa.com/feed
+
+### error read: https://sspai.com/feed
+
+### error read: http://www.waerfa.com/feed
+
+### error read: http://www.jintiankansha.me/rss/GE2DK7BQMI2DKYLDGM2DMMBVMY3WKY3FMQ4TMY3FME4DOOJQGBSWCNLDMZRTEYLGGBRTGZQ=
+
+### error read: http://www.jintiankansha.me/rss/GEYDCOBUPRRWGMDBGFSDIZTGMM2GCZRVMQZGGNRQHBRTQZLEME4TQYLFGJRDKZBTGI2TSZJUGM======
+
+### [这么多茅台是卖给谁了](https://www.v2ex.com/t/745122)
+
+### [可以说非常的焦虑了，求解决方案](https://www.v2ex.com/t/744971)
+
+### [Twitter永久性的夹了Sci-Hub的“官方”帐户](http://jandan.net/p/108351)
+
+### [请教一个rust调用C动态库含C结构体的问题](https://rustcc.cn/article?id=e09fe057-2caa-483b-b72c-baca380ce9e5)
+
+### [高达200个应用，近8000个实例的工行MySQL转型实践](https://www.infoq.cn/article/EQRMLltiKaEfGKSXTtkE)
+
+### [美籍华人MIT教授陈刚被捕：或面临最高20年监禁](https://www.infoq.cn/article/zBOvrsegmsDuQOcYJgPW)
+
+### [【Messenger Comparisons – Threema, Signal, Telegram and WhatsApp】网页链接 Threema，Signal，Telegram和WhatsApp等4个Messenger比较。 [图片]](https://weibo.com/1715118170/JDhLLClFP)
+
+### error read: http://www.waerfa.com/feed
