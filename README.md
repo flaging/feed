@@ -230,3 +230,82 @@
 ### [【How the Canadian Tech Scene Encourages Finite Gameplay】网页链接 加拿大科技界如何鼓励有限的游戏玩法？](https://weibo.com/1715118170/JDgACpKKF)
 
 ### [//@吴潍浠:有道理 - 转发 @传播学考研就找瓦洛佳:&ensp;【为什么我觉得 #乌合之众# 可能是本坏书】传播学，乃至社会圈的“破圈”，如今是越来越多了。昨天，一本...](https://weibo.com/1642628345/JDgl34ECY)
+
+### [年度征文｜聊聊我在美国如何领养一只汪星人](https://sspai.com/post/64527)
+
+### [6 – Android 手机史上最 6 的应用](https://www.appinn.com/6-six-app-for-android/)
+
+ <p>6 是一款非常 6 的应用，堪称 Android 手机史上最 6 的应用，它唯一的功能，就是在手机屏幕上展示一个数字 6，点击屏幕还能更换不同的颜色，真是太 666 了。@<a class="rank-math-link" href="https://www.appinn.com/6-six-app-for-android/">Appinn</a></p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><img alt="6 - Android 手机史上最 6 的应用" src="https://img3.appinn.net/images/202101/666.jpg!o" title="6 - Android 手机史上最 6 的应用 1" /></figure></div>
+
+
+
+<p>第一次打开 6，青小蛙忍不住笑，不知道为什么，点了几次又在大笑，开心，就是 6。</p>
+
+
+
+<p>怎么说，青小蛙也算是见识过成百上千 App 的用户，在看了 6 之后，还是觉得 6，真是 6。</p>
+
+
+
+<h2>Android 手机史上最 6 的应用</h2>
+
+
+
+<p>是的，你能找到比 6 还 6 的应用么？</p>
+
+
+
+<p>来看动画演示 <img alt="🙈" class="wp-smiley" src="https://s.w.org/images/core/emoji/13.0.1/72x72/1f648.png" style="height: 1em;" /></p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img alt="Android 手机史上最 6 的应用" height="-449" src="https://img3.appinn.net/images/202101/666-appinn.gif!o" title="6 - Android 手机史上最 6 的应用 2" width="-231" /></figure></div>
+
+
+
+<p>打开 6 之后，就显示 6 在屏幕上，点击屏幕可以更换颜色，就没有其他功能了，很 6。</p>
+
+
+
+<p>开发者也是实在，在应用介绍中写着：</p>
+
+
+
+<p>这款应用将为你提供比以往更多的快乐。你将被数字 6 的纯洁本质所激励，并再一次重温你最喜欢的时刻，因为你欢欣鼓舞，得到更多的灵感。6.</p>
+
+
+
+<p>啊，青小蛙完全被 6 感染了，请前往 <a class="rank-math-link" href="https://play.google.com/store/apps/details?id=six.six" rel="noopener" target="_blank">Google Play</a> 免费安装，无法访问 Play 商店的同学可点击下面的按钮前往网盘搬运：</p>
+
+
+
+<div align="center"><a href="https://d.appinn.com/6-six-app-for-android/" rel="noopener" target="view_window"><img alt="6 - Android 手机史上最 6 的应用 1" src="https://img3.appinn.net/images/201507/down.png" title="6 - Android 手机史上最 6 的应用 3" /></a></div>
+<hr /><h2>相关阅读</h2><ul><li><a href="https://www.appinn.com/six-for-ios/" rel="bookmark" title="Permanent Link: Six! &#8211; 爱消除和爱平衡合体了[iPad/iPhone]">Six! &#8211; 爱消除和爱平衡合体了[iPad/iPhone]</a></li><li><a href="https://www.appinn.com/leo-share-apps-ios/" rel="bookmark" title="Permanent Link: @Leo&#038; : 自用精品 App 整理与推荐 iOS 版">@Leo&#038; : 自用精品 App 整理与推荐 iOS 版</a></li><li><a href="https://www.appinn.com/six-accountbook/" rel="bookmark" title="Permanent Link: 纯记账 &#8211; 一款 Android 上的「纯记账」应用">纯记账 &#8211; 一款 Android 上的「纯记账」应用</a></li><li><a href="https://www.appinn.com/the-iphone-storage-almost-full/" rel="bookmark" title="Permanent Link: iPhone 容量不足的时候，还能这样！">iPhone 容量不足的时候，还能这样！</a></li><li><a href="https://www.appinn.com/sfufoet-ios-apps/" rel="bookmark" title="Permanent Link: 应网易应用的邀请，推荐一些小众的 iOS apps">应网易应用的邀请，推荐一些小众的 iOS apps</a></li></ul><hr />
+<a href="http://www.appinn.com/copyright/?utm_source=feeds&amp;utm_medium=copyright&amp;utm_campaign=feeds" title="版权声明">&#169;</a>2019 青小蛙 for <a href="http://www.appinn.com/?utm_source=feeds&amp;utm_medium=appinn&amp;utm_campaign=feeds" title="本文来自小众软件">小众软件</a> | <a href="http://www.appinn.com/join-us/?utm_source=feeds&amp;utm_medium=joinus&amp;utm_campaign=feeds" title="加入小众软件">加入我们</a> | <a href="https://meta.appinn.com/c/faxian/?utm_source=feeds&amp;utm_medium=contribute&amp;utm_campaign=feeds" rel="noopener" target="_blank" title="给小众软件投稿">投稿</a> | <a href="http://www.appinn.com/feeds-subscribe/?utm_source=feeds&amp;utm_medium=feedsubscribe&amp;utm_campaign=feeds" target="_blank" title="可以分类订阅小众，Windows/MAC/游戏"><font color="red">订阅指南</font></a><br /> 3659b075e72a5b7b1b87ea74aa7932ff <br />
+<a href="https://www.appinn.com/6-six-app-for-android/#comments" title="to the comments">点击这里留言、和原作者一起评论</a>
+
+### [2020年房价涨幅榜出炉：43城房价上涨，深圳领先，你家房子是涨还是跌？](https://m.21jingji.com/article/20210115/herald/96103ba14c6dba013fa45f216779cd8b.html)
+
+### [碰到有人克隆自己博客该怎么办？](https://www.v2ex.com/t/745097)
+
+### [955 也没法 WLB](https://www.v2ex.com/t/745039)
+
+### [各位大佬，请教一下如何在断网的环境下同步代码？](https://www.v2ex.com/t/745005)
+
+### [某男子研发上传“健康码演示”App 被抓获](https://linux.cn/article-13017-1.html?utm_source=rss&utm_medium=rss)
+
+### [恭喜@李X萌LYM 1名用户获得【华为FreeBuds Pro真无线蓝牙耳机】。微博官方唯一抽奖工具@微博抽奖平台 -高级版对本次抽奖进行监督，结果公正有效。公示链接：微博...](https://weibo.com/1746173800/JDh0Qua16)
+
+### [A16Z 合伙人 Peter：开源，从社区到商业化](https://segmentfault.com/a/1190000038990512)
+
+### [几篇论文实现代码：《Imvotenet: Boosting 3d object detection in point clouds with image votes》(CVPR 2020) GitHub:网页链接 [fig1]《A Multi-task Learnin...](https://weibo.com/1402400261/JDhiZcaM4)
+
+### [恭喜@要继续照顾着历代星辰 等3名用户获得【《猫、爱因斯坦和密码学》】。微博官方唯一抽奖工具@微博抽奖平台 对本次抽奖进行监督，结果公正有效。公示链接：微...](https://weibo.com/1402400261/JDgZEld7k)
+
+### [【Signal Fork with WhatsApp Migration】网页链接 带WhatsApp迁移的Signal 分支。 [图片]](https://weibo.com/1715118170/JDhns2AG9)
+
+### error read: http://www.waerfa.com/feed
