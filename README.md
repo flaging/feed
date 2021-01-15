@@ -385,3 +385,55 @@
 ### [【要建立“中国版 GitHub”吗？】点击观看：网页链接 微软推出GitHub暗黑模式，引发程序员热议，那么要不要建立一个中国的“GitHub”？开源界领袖级人物对此什么...](https://weibo.com/1746173800/JDiyd2Clo)
 
 ### error read: http://www.waerfa.com/feed
+
+### [2020-2021「AI中国」机器之心人工智能年度奖项揭榜：大浪淘沙，数智突围](https://www.jiqizhixin.com/articles/2021-01-15-8)
+
+ 
+
+### [任期只剩6天，特朗普政府将小米等9家中企列入投资黑名单](https://www.jiqizhixin.com/articles/2021-01-15-5)
+
+ 
+
+### [多核之后，CPU 的发展方向是什么？中科院计算所包云岗详细解读](https://www.jiqizhixin.com/articles/2021-01-15-6)
+
+ 
+
+### [年度十大资本事件揭晓，机器之心&IT桔子带你预见创新与投资趋势](https://www.jiqizhixin.com/articles/2021-01-15-7)
+
+ 
+
+### [线上直播丨倒计时一天！一起来CSIG-机器感知与智能论坛交流学术内容](https://www.jiqizhixin.com/articles/2021-01-15-4)
+
+ 
+
+### [AAAI 2021线上分享 | 强化学习与3D视觉结合新突破，国防科大实现高效能无序混合码垛机器人](https://www.jiqizhixin.com/articles/2021-01-15-3)
+
+ 
+
+### [入网指南 04 | IP 地址大揭秘](https://sspai.com/post/64430)
+
+### [安装 Ubuntu 20.10，高性能计算和 3D 视觉呈现第一步 - 京山游侠](http://www.cnblogs.com/youxia/p/cg001.html)
+
+ 【摘要】前言 之前我花了很长一段时间折腾 Linux，略有所得。在 2021 年新年伊始之际，我给自己弄了一台 4K 屏的 Dell XPS 9570，总算满足了自己有钱了一定弄一台 4K 屏笔记本电脑的心愿，也进一步验证了我之前说过的只要屏幕分辨率够高字体渲染就不是事儿的说法。总之，这一年的开局我还是很满 <a href="http://www.cnblogs.com/youxia/p/cg001.html" target="_blank">阅读全文</a>
+
+### error read: http://www.bigdatainterview.com/feed/
+
+### [上海降低落户政策， 一大波人开始抢房。](https://www.v2ex.com/t/745145)
+
+### [发霉啦：今天，真特么是混乱的一天](http://jandan.net/p/108354)
+
+### [量子小计算机能算调度优化小问题了](http://jandan.net/p/108353)
+
+### [如何打破音乐软件的反馈循环来发现新音乐](http://jandan.net/p/108352)
+
+### [Rosetta 2：从x86到ARM64](https://www.infoq.cn/article/0P8vk9FfCi3dV3bFHHhr)
+
+### [一文解析DDD中台和微服务设计](https://www.infoq.cn/article/cc8ab87bda888d0dfa686fc91)
+
+### [Kubernetes概念篇：基本概念和术语](https://www.infoq.cn/article/4ce0d6a1a0d00d5760aa53279)
+
+### [华仔的架构专栏订阅突破 50000 了，好内容必须支持～ - 转发 @池建强:&ensp;前阿里 P9 李运华《从0开始学架构》专栏，订阅破 50000 。 华仔从架构基础、三大架构...](https://weibo.com/1746173800/JDiVVns7O)
+
+### [投票：以下哪位不是“古代四大美女”？[憧憬]#投票# 以下哪位不是“古代四大美女”？](https://weibo.com/1715118170/JDiY96DZE)
+
+### [#绿洲摄影#IT图腾 中关村的标致性建筑——生命，DNA的双螺旋结构。 绿洲 [图片]](https://weibo.com/1715118170/JDiVEfcv7)
