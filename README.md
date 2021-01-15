@@ -497,3 +497,27 @@
 ### [跟着哪种导师成长更快？[笑而不语] [图片]](https://weibo.com/1402400261/JDjP8DQTN)
 
 ### error read: http://www.waerfa.com/feed
+
+### error read: https://sspai.com/feed
+
+### error read: http://www.waerfa.com/feed
+
+### error read: http://120.53.237.72:1200/zhihu/zhuanlan/paperweekly
+
+### error read: http://www.bigdatainterview.com/feed/
+
+### [如何为基于NLP的实体识别模型设置人工审查？](https://segmentfault.com/a/1190000038995796)
+
+### error read: http://www.jintiankansha.me/rss/GE2DK7BQMI2DKYLDGM2DMMBVMY3WKY3FMQ4TMY3FME4DOOJQGBSWCNLDMZRTEYLGGBRTGZQ=
+
+### error read: http://www.jintiankansha.me/rss/GEYDCOBUPRRWGMDBGFSDIZTGMM2GCZRVMQZGGNRQHBRTQZLEME4TQYLFGJRDKZBTGI2TSZJUGM======
+
+### [【Rust日报】2021-01-15](https://rustcc.cn/article?id=28f1d055-0fe1-4f6f-b557-65059f95fd27)
+
+### [熟悉tokio的tracing的帮忙解答个问题](https://rustcc.cn/article?id=2256fd19-016e-4b1a-8c05-f868be7d28ec)
+
+### [蚂蚁集团招聘 Rust 技术专家](https://rustcc.cn/article?id=1e2ffcdf-33ef-46fd-8d69-1908fcc6be9b)
+
+### [有点可爱 ❤️ via:Chelsea Parlett-Pelleriti [图片][图片]](https://weibo.com/1402400261/JDk4SEsiV)
+
+### [【Leaked memos Amazon warn 'be vigilant' due to threats to blow up data centers】网页链接 泄露的备忘录显示，由于帕勒禁令后极右势力威胁炸毁数据中心，亚...](https://weibo.com/1715118170/JDk7P0Yzt)
