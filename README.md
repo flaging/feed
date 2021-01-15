@@ -437,3 +437,35 @@
 ### [投票：以下哪位不是“古代四大美女”？[憧憬]#投票# 以下哪位不是“古代四大美女”？](https://weibo.com/1715118170/JDiY96DZE)
 
 ### [#绿洲摄影#IT图腾 中关村的标致性建筑——生命，DNA的双螺旋结构。 绿洲 [图片]](https://weibo.com/1715118170/JDiVEfcv7)
+
+### [给每个人的 Linux 桌面入门指南（二）—— 适合大众使用的 Linux 桌面发行版](https://sspai.com/post/64545)
+
+### error read: http://www.waerfa.com/feed
+
+### error read: https://szpzs.oschina.io/atom.xml
+
+### [2021年1月15日24时起国内成品油价格按机制上调](https://www.ndrc.gov.cn/xwdt/xwfb/202101/t20210115_1264991.html)
+
+### error read: http://www.bigdatainterview.com/feed/
+
+### [Is the amount of GPU on each machine expected to be identical when multi-machine multi-gpu training using distributed.launch ?](https://www.reddit.com/r/pytorch/comments/kxr2cr/is_the_amount_of_gpu_on_each_machine_expected_to/)
+
+ <!-- SC_OFF --><div class="md"><p>I have 8 GPUs on machine 1 and 4 GPUs on machine 2, and I'd like to perform multi-gpu training on all 12 GPUs. </p> <p>Is it ok to train on 8 GPUs and 4 GPUs in two machines, despite using the different amount of GPUs on each one?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/AlphaGoMK"> /u/AlphaGoMK </a> <br /> <span><a href="https://www.reddit.com/r/pytorch/comments/kxr2cr/is_the_amount_of_gpu_on_each_machine_expected_to/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/pytorch/comments/kxr2cr/is_the_amount_of_gpu_on_each_machine_expected_to/">[comments]</a></span>
+
+### [真·睡后收入， 5700 挖 ETH 记录](https://www.v2ex.com/t/745211)
+
+### [上周才买了宇宙最强的电视盒子，这次分享最强电视盒子配套的影视软件](https://www.v2ex.com/t/745166)
+
+### [【已询问】北京中科晶上科技股份有限公司](http://kcb.sse.com.cn//renewal/xmxq/index.shtml?auditId=744)
+
+### [【已询问】昆山国力电子科技股份有限公司](http://kcb.sse.com.cn//renewal/xmxq/index.shtml?auditId=780)
+
+### [【已询问】武汉珈创生物技术股份有限公司](http://kcb.sse.com.cn//renewal/xmxq/index.shtml?auditId=805)
+
+### [事不大侮辱性极强：微软、思科等企业源代码被黑客在线售卖，打包价100万美元](https://www.infoq.cn/article/X2qA9h4B7m07rYmyYuDs)
+
+### [Aleph.js发布Alpha版，一个基于Deno的服务器端渲染框架](https://www.infoq.cn/article/sb3y957HD0hAc7V1lHHD)
+
+### [发布了头条文章：《微软和谷歌的 AI 模型在 SuperGLUE 语言基准上超越了人类的表现》  微软和谷歌的 AI 模型在 SuperGLUE 语言基准上超越了人类的表现](https://weibo.com/1746173800/JDjkYen30)
+
+### [“先做到，再做对，再做好” - Addy Osmani](https://weibo.com/1402400261/JDj8ntysO)
