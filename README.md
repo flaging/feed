@@ -115,3 +115,66 @@
 ### [【How to Keep Up to Date with Web Development】网路冷眼技术分享 #科技暖心季# [图片][图片]](https://weibo.com/1715118170/JDeOQlEkr)
 
 ### [【What Is a Gamma Squeeze in the Context of Stock Trading?】网页链接 股票交易中的伽玛挤压是什么？ [图片]](https://weibo.com/1715118170/JDeCIDPds)
+
+### error read: http://www.bigdatainterview.com/feed/
+
+### [青年图摘0115！正义在美色面前不值一提](https://qingniantuzhai.com/qing-nian-tu-zhai-0115-3/)
+
+ <!--kg-card-begin: markdown--><img alt="青年图摘0115！正义在美色面前不值一提" src="https://qingniantuzhai.com/content/images/2021/01/897c4370gy1gmn8l2yuapj20zk0qoqv5.jpg" /><p>【1】天下武功，唯快不破<br />
+<img alt="青年图摘0115！正义在美色面前不值一提" src="https://wx4.sinaimg.cn/mw1024/00893JKXly1gmnd5wmlsmg307s0dunpe.gif" /></p>
+<p>【2】名字太长惹的祸<br />
+<img alt="青年图摘0115！正义在美色面前不值一提" src="https://wx1.sinaimg.cn/mw600/006ahuzrly1gmncjwtsf7j30st15hgpq.jpg" /></p>
+<p>【3】特朗普才是最棒的总统<br />
+<img alt="青年图摘0115！正义在美色面前不值一提" src="https://wx2.sinaimg.cn/mw600/005PTIKbly1gmmck96vzbj30j60lw1ex.jpg" /></p>
+<p>【4】它吃让它吃<br />
+<img alt="青年图摘0115！正义在美色面前不值一提" src="https://wx4.sinaimg.cn/mw600/00893JKXly1gmnbi75ngkj30f00sz11s.jpg" /></p>
+<p>【5】可不敢开这车去扫墓<br />
+<img alt="青年图摘0115！正义在美色面前不值一提" src="https://wx4.sinaimg.cn/mw1024/00893JKXly1gmnais1e3ag30a00bc4qs.gif" /></p>
+<p>【6】嘲讽满分了<br />
+<img alt="青年图摘0115！正义在美色面前不值一提" src="https://wx4.sinaimg.cn/mw600/0035UptZly1gmn56q4jw9j60kb0kbjtr02.jpg" /></p>
+<p>【7】正义在美色面前不值一提<br />
+<img alt="青年图摘0115！正义在美色面前不值一提" src="https://wx3.sinaimg.cn/mw600/897c4370gy1gmn8l2yuapj20zk0qoqv5.jpg" /></p>
+<p>【8】被自己吓蒙了<br />
+<img alt="青年图摘0115！正义在美色面前不值一提" src="https://wx3.sinaimg.cn/mw1024/00893JKXly1gmn8deamwxg30aa055b29.gif" /></p>
+<p>【9】时间的痕迹<br />
+<img alt="青年图摘0115！正义在美色面前不值一提" src="https://wx1.sinaimg.cn/mw600/00893JKXly1gmn7w8mq6bj31400u01kx.jpg" /><br />
+<img alt="青年图摘0115！正义在美色面前不值一提" src="https://wx2.sinaimg.cn/mw600/00893JKXly1gmn7vzw2iej31400u0b1x.jpg" /></p>
+<p>【10】压上全部狗粮的狗子<br />
+<img alt="青年图摘0115！正义在美色面前不值一提" src="https://wx2.sinaimg.cn/mw1024/006ahuzrgy1gmmqwgo4jig309y0e1he8.gif" /></p>
+<p>【11】学英语<br />
+<img alt="青年图摘0115！正义在美色面前不值一提" src="https://wx3.sinaimg.cn/mw600/00893JKXly1gmnhronwwtj319o0jwb29.jpg" /></p>
+<p>【12】不由自主的提了一下缸<br />
+<img alt="青年图摘0115！正义在美色面前不值一提" src="https://wx3.sinaimg.cn/mw1024/00893JKXly1gmnezm3wm7g30730cinpe.gif" /></p>
+<p>【13】士可杀不可辱<br />
+<img alt="青年图摘0115！正义在美色面前不值一提" src="https://wx4.sinaimg.cn/mw1024/00893JKXly1gmnezegudwg304c07kx6p.gif" /></p>
+<p>【14】肉棒进去，活猪出来<br />
+<img alt="青年图摘0115！正义在美色面前不值一提" src="https://wx1.sinaimg.cn/mw600/00893JKXly1gmnet4y8fhj30g40o5jtl.jpg" /></p>
+<p>【15】一家子被一个外姓人欺负<br />
+<img alt="青年图摘0115！正义在美色面前不值一提" src="https://wx1.sinaimg.cn/mw1024/00893JKXly1gmndmcfcsxg304c06nu0z.gif" /></p>
+<p>【16】说出来你可能不信 我被床缠上了<br />
+<img alt="青年图摘0115！正义在美色面前不值一提" src="https://wx2.sinaimg.cn/mw1024/00893JKXly1gmn41azvc9g30b4089x6p.gif" /></p>
+<p>【17】搜狗搜出来是狗，这很合理<br />
+<img alt="青年图摘0115！正义在美色面前不值一提" src="https://wx1.sinaimg.cn/mw600/00893JKXly1gmn2q8ob7hj30f00mk0tc.jpg" /></p>
+<p>【18】铁棍惊鸿起，蛋碎了无痕<br />
+<img alt="青年图摘0115！正义在美色面前不值一提" src="https://ww1.sinaimg.cn/mw1024/538add77gy1gmn1203zj3g20a007i4qp.gif" /></p>
+<p>【19】来，你要的再浪一点<br />
+<img alt="青年图摘0115！正义在美色面前不值一提" src="https://ww1.sinaimg.cn/mw1024/538add77gy1gmn10rg3hcg205l05ub29.gif" /></p>
+<p>【20】那个干部经得住这种考验<br />
+<img alt="青年图摘0115！正义在美色面前不值一提" src="https://wx2.sinaimg.cn/mw1024/00893JKXly1gmmztksti7g30f40dee84.gif" /></p>
+<p>【21】戒色吧阴谋<br />
+<img alt="青年图摘0115！正义在美色面前不值一提" src="https://wx3.sinaimg.cn/mw600/00893JKXly1gmmz1oi5efj30u00y4416.jpg" /></p>
+<!--kg-card-end: markdown-->
+
+### [Daily Hacker News for 2021-01-14](https://www.daemonology.net/hn-daily/2021-01-14.html)
+
+### [Angel在TI-ONE机器学习平台上的应用](https://www.infoq.cn/article/4R9hLPiiABCwzcEhVYsS)
+
+### [#小Q分享# 《如何利用TensorFlow Hub 让BERT开发更简单？》在自然语言处理领域，BERT 和其他 Transformer 编码器架构都非常成功，无论是推进学术基准的技术水平...](https://weibo.com/1746173800/JDfpnjAKw)
+
+### [【My personal wishlist for a decentralized social network】网页链接 我对去中心化社交网络的个人愿望清单。 网路冷眼技术分享 #科技暖心季# [图片]](https://weibo.com/1715118170/JDfpz9VPt)
+
+### [【Beaker Browser – experimental peer to peer web browser】网页链接 Beaker 浏览器–实验性对等网络浏览器。网路冷眼技术分享 #科技暖心季# [图片]](https://weibo.com/1715118170/JDfdcirTn)
+
+### [转发微博 - 转发 @网路冷眼:&ensp;#冷眼赠书福利# 转发赠书# 网路冷眼联合@华章图书 @华章计算机科学 送出 5 本《ECharts数据可视化》，截至 1 月 20 日，转发此...](https://weibo.com/1715118170/JDf76lfLV)
+
+### [转发 - 转发 @网路冷眼:&ensp;【I received first-ever donation on my open-source side project and it felt great】网页链接 我在开源方面的项目中获得了首次...](https://weibo.com/1642628345/JDfiWnAtC)
