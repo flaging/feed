@@ -208,3 +208,25 @@
 ### [科技爱好者周刊（第 142 期）：2020年才是21世纪元年](http://www.ruanyifeng.com/blog/2021/01/weekly-issue-142.html)
 
 ### error read: http://www.waerfa.com/feed
+
+### [百炼智能完成1亿元A轮融资，深耕B2B营销自动化赛道](https://www.jiqizhixin.com/articles/2021-01-15-2)
+
+ 
+
+### error read: http://www.waerfa.com/feed
+
+### error read: http://www.13775.org/feed/
+
+### error read: http://www.bigdatainterview.com/feed/
+
+### error read: http://120.53.237.72:1200/segmentfault/channel/ai
+
+### error read: http://www.jintiankansha.me/rss/GEYDCOBUPRRWGMDBGFSDIZTGMM2GCZRVMQZGGNRQHBRTQZLEME4TQYLFGJRDKZBTGI2TSZJUGM======
+
+### error read: http://www.jintiankansha.me/rss/GEYDCNRWPQ2TIZJWGJQTINLEMUYGGNRXMVRDSNZSG4ZDMNJQMU4WEMBZGAYTMMZQMEZGCMZZGE======
+
+### [1月15日新闻茶泡Fan](https://www.cfan.com.cn/2021/0115/134758.shtml)
+
+### [【How the Canadian Tech Scene Encourages Finite Gameplay】网页链接 加拿大科技界如何鼓励有限的游戏玩法？](https://weibo.com/1715118170/JDgACpKKF)
+
+### [//@吴潍浠:有道理 - 转发 @传播学考研就找瓦洛佳:&ensp;【为什么我觉得 #乌合之众# 可能是本坏书】传播学，乃至社会圈的“破圈”，如今是越来越多了。昨天，一本...](https://weibo.com/1642628345/JDgl34ECY)
