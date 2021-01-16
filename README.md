@@ -148,3 +148,15 @@
 ### [转发微博 - 转发 @网路冷眼:&ensp;#冷眼赠书福利# 联合 @博文视点Broadview 送出5本《技术人修炼之道：从程序员到百万高管的72项技能》。截止 1 月 22 日，转发...](https://weibo.com/1715118170/JDolrqnI6)
 
 ### [【Using Vue.js Alongside Django Template】网页链接 在Django模板旁使用Vue.js。网路冷眼技术分享 #科技暖心季# [图片]](https://weibo.com/1715118170/JDo3l8G6V)
+
+### [Daily Hacker News for 2021-01-15](https://www.daemonology.net/hn-daily/2021-01-15.html)
+
+### [没有学位就当不了数据科学家吗？](https://www.infoq.cn/article/NZTw23ahJsILmot2Rpv6)
+
+### [发布了头条文章：《美籍华人 MIT 教授陈刚被捕：或面临最高 20 年监禁》  美籍华人 MIT 教授陈刚被捕：或面临最高 20 年监禁](https://weibo.com/1746173800/JDoPRyZmT)
+
+### [【A Proposal for Adding Generics to Go】网页链接 关于给Go语言添加泛型的建议。 [图片]](https://weibo.com/1715118170/JDoQhfmTg)
+
+### [【Python puzzles to improve yourself as a junior coder】网页链接 Python难题可以提高您作为初级程序员的水平。做了一段时间的Python程序员，我发现编程难题...](https://weibo.com/1715118170/JDoDHbFSZ)
+
+### [转发微博 - 转发 @网路冷眼:&ensp;#冷眼赠书福利# 转发赠书# 网路冷眼联合@华章图书 @华章计算机科学 送出 5 本《ECharts数据可视化》，截至 1 月 20 日，转发此...](https://weibo.com/1715118170/JDoxCqqno)
