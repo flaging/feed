@@ -160,3 +160,19 @@
 ### [【Python puzzles to improve yourself as a junior coder】网页链接 Python难题可以提高您作为初级程序员的水平。做了一段时间的Python程序员，我发现编程难题...](https://weibo.com/1715118170/JDoDHbFSZ)
 
 ### [转发微博 - 转发 @网路冷眼:&ensp;#冷眼赠书福利# 转发赠书# 网路冷眼联合@华章图书 @华章计算机科学 送出 5 本《ECharts数据可视化》，截至 1 月 20 日，转发此...](https://weibo.com/1715118170/JDoxCqqno)
+
+### error read: http://www.waerfa.com/feed
+
+### error read: http://www.bigdatainterview.com/feed/
+
+### [小米空调、冰箱有大佬用过吗，到底怎么样呢 ？](https://www.v2ex.com/t/745234)
+
+### [聊聊关于回形针出的股票视频](https://www.v2ex.com/t/745131)
+
+### [【更友好的标记化公式】《Illuminated equations》by Matt Hall 网页链接 #论文# [图片][图片][图片][图片][图片]](https://weibo.com/1402400261/JDp9qyFaR)
+
+### [【If it will matter after today, don't talk about it in a chat room】 网页链接 如果今天以后有关系的话，那么不要在聊天室里谈论。 [图片]](https://weibo.com/1715118170/JDpCI1NeB)
+
+### [【Visa and Plaid Abandon Merger After Antitrust Division’s Suit to Block】网页链接 Visa和Plaid在反垄断部门起诉阻止后放弃合并。 [图片]](https://weibo.com/1715118170/JDpeCBEn7)
+
+### [Obsidian这种网状式笔记软件确实很棒。我想起平克那句话：“写作之难，在于把网状的思考，用树状结构，体现在线性展开的语句里。”有了网状笔记之间的相互关联之...](https://weibo.com/1642628345/JDptL90rU)
