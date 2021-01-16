@@ -298,3 +298,35 @@
 ### [#绿洲摄影#中国.上海.静安寺 中国最“霸气”的寺庙🙏坐落在上海最贵城区😯 绿洲 [图片]](https://weibo.com/1715118170/JDrf1wzn3)
 
 ### [【Pirated Academic Database Sci-Hub Is Now on the ‘Uncensorable Web’】网页链接 盗版学术数据库Sci-Hub现在位于“不可审查的网络”上。 [图片]](https://weibo.com/1715118170/JDrc8uGzB)
+
+### error read: http://www.waerfa.com/feed
+
+### error read: https://rsshub.app/gov/ndrc/xwdt
+
+### error read: http://120.53.237.72:1200/zhihu/zhuanlan/paperweekly
+
+### error read: http://120.53.237.72:1200/zhihu/zhuanlan/coding-future
+
+### error read: http://www.bigdatainterview.com/feed/
+
+### [刘煜辉：军工、必选消费、新能源价格很高了，但可能更高 | 问策](http://www.jintiankansha.me/t/gGN6HQv76Q)
+
+### [一代传奇退位！“量化之神”西蒙斯是怎样炼成的？](http://www.jintiankansha.me/t/RNcrI0ynpO)
+
+### [值得警惕！特斯拉在欧洲干不过其他电动车](http://www.jintiankansha.me/t/uoSrhPRCUC)
+
+### [外贸这么火，港口被低估了？](http://www.jintiankansha.me/t/f4quguuOtJ)
+
+### [996 工作是不是类似于地铁上的乞讨](https://www.v2ex.com/t/745439)
+
+### [短视频真的越来越垃圾，我看得越多，自己变得越垃圾](https://www.v2ex.com/t/745432)
+
+### [在树莓派集群中部署 Ceph](https://linux.cn/article-13020-1.html?utm_source=rss&utm_medium=rss)
+
+### [中国芯片人才荒困局：我想去互联网行业挣快钱](https://www.infoq.cn/article/OSITEHj9hdFefMlz6ayf)
+
+### [随着5G的出现以及人工智能技术的突破，给智能汽车行业注入了新的活力。如何打造真正的全场景智能？场景化需求如何实现全链条赋能？1月23日，来自自动驾驶、智能...](https://weibo.com/1746173800/JDrAlDWnj)
+
+### [几篇论文实现代码：《Free Lunch for Few Shot Learning: Distribution Calibration》(ICLR 2021) GitHub:网页链接《Autonomous Quadrotor Flight despite Rotor...](https://weibo.com/1402400261/JDrjNl1xW)
+
+### error read: http://www.waerfa.com/feed
