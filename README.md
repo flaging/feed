@@ -603,3 +603,11 @@
 ### [【CI/CD quick tip: Custom Slack message on code deployment】网页链接 持续集成/持续部署（CI / CD）快速提示：有关代码部署的自定义Slack消息。 网路冷眼技...](https://weibo.com/1715118170/JDu8EDlNm)
 
 ### error read: http://www.waerfa.com/feed
+
+### [【Optimising images for better LCP web vitals scores】 网页链接 优化图像以获得更好的LCP网络生命体征分数 。 [图片]](https://weibo.com/1715118170/JDuJktdbg)
+
+### [【Kernel Root Exploit via a ptrace() and execve() Race Condition】网页链接 通过ptrace()和 execve() 竞态条件进行内核根漏洞利用。网路冷眼技术分享 #科技...](https://weibo.com/1715118170/JDux0Ckj2)
+
+### [敏感词过滤，大家一般用什么词库？我看网页链接 上面的，好像不是很准吧？](https://weibo.com/1642628345/JDuuE3Ecn)
+
+### error read: http://www.waerfa.com/feed
