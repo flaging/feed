@@ -525,3 +525,33 @@
 ### [【Implementing FastAPI Services – Abstraction and Separation of Concerns】网页链接 实现FastAPI服务——关注点的抽象和分离。#科技暖心季# [图片][图片][...](https://weibo.com/1715118170/JDt1Ua4Is)
 
 ### [转发 - 转发 @网路冷眼:&ensp;【Implementing FastAPI Services – Abstraction and Separation of Concerns】网页链接 实现FastAPI服务——关注点的抽象和分离...](https://weibo.com/1642628345/JDt6HvmQc)
+
+### error read: https://sspai.com/feed
+
+### error read: http://120.53.237.72:1200/zhihu/zhuanlan/hsmyy
+
+### error read: http://120.53.237.72:1200/zhihu/zhuanlan/intelligentunit
+
+### error read: http://120.53.237.72:1200/zhihu/zhuanlan/coding-future
+
+### error read: http://120.53.237.72:1200/zhihu/zhuanlan/chicken-life
+
+### error read: http://120.53.237.72:1200/zhihu/zhuanlan/yuandong
+
+### error read: http://www.bigdatainterview.com/feed/
+
+### error read: http://120.53.237.72:1200/segmentfault/channel/ai
+
+### error read: http://www.jintiankansha.me/rss/GEYDCOBUPRRWGMDBGFSDIZTGMM2GCZRVMQZGGNRQHBRTQZLEME4TQYLFGJRDKZBTGI2TSZJUGM======
+
+### error read: https://rsshub.app/sse/renewal
+
+### error read: http://120.53.237.72:1200/cfan/news
+
+### [CI/CD 平台迁移实践：从 Travis-CI 转移到 Github Action](https://linux.cn/article-13022-1.html?utm_source=rss&utm_medium=rss)
+
+### error read: https://cuijiahua.com/feed/
+
+### error read: http://segmentfault.com/feeds/blogs
+
+### [【EU Commission: ‘No longer acceptable’ for platforms to take key decisions alone】网页链接 欧盟委员会：平台不再独自做出重要决定就“不再接受”。 [图...](https://weibo.com/1715118170/JDtyqFDKp)
