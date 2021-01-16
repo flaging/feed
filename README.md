@@ -288,3 +288,13 @@
 ### [【Samsung Confirms AMD RDNA GPU in Next Exynos Flagship】网页链接 三星确认将在下一代Exynos旗舰产品中使用AMD RDNA GPU。 [图片]](https://weibo.com/1715118170/JDqpIAr0t)
 
 ### error read: http://www.waerfa.com/feed
+
+### error read: http://www.bigdatainterview.com/feed/
+
+### [Comic for 2021.01.16](http://www.explosm.net/comics/5769/)
+
+### error read: https://rsshub.app/ft/chinese/hotstoryby7day
+
+### [#绿洲摄影#中国.上海.静安寺 中国最“霸气”的寺庙🙏坐落在上海最贵城区😯 绿洲 [图片]](https://weibo.com/1715118170/JDrf1wzn3)
+
+### [【Pirated Academic Database Sci-Hub Is Now on the ‘Uncensorable Web’】网页链接 盗版学术数据库Sci-Hub现在位于“不可审查的网络”上。 [图片]](https://weibo.com/1715118170/JDrc8uGzB)
