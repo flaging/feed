@@ -499,3 +499,29 @@
 ### [2021进度：▓░░░░░░░░░░░░░░ 4%](https://weibo.com/1402400261/JDsD3f1kF)
 
 ### [//@蚁工厂: //@我大E了啊没有闪啊:转发微博 - 转发 @karminski-牙医:&ensp;包云岗老师这篇写得真棒👍 多核之后，CPU 的发展方向是什么？ 👉 包云岗: 多核之...](https://weibo.com/1715118170/JDsvokkEB)
+
+### [CV技术在医疗领域中有哪些应用？Salesforce、谷歌、斯坦福综述文章登上Nature子刊](https://www.jiqizhixin.com/articles/2021-01-16-4)
+
+ 
+
+### error read: http://www.waerfa.com/feed
+
+### [新能源汽车销量创新高！46%的网友称驾驶体验达预期，续航里程短仍是购车阻力](https://m.21jingji.com/article/20210116/herald/d737f0a64c6a027b21b0b9a2a51b5e35.html)
+
+### [想尝试一下 Linux 作为主力系统](https://www.v2ex.com/t/745492)
+
+### [前端挂外网，后端放内网，请问怎么解决 https 请求问题？](https://www.v2ex.com/t/745385)
+
+### [【喷嚏图卦20210116】滥用“战时状态”表述，可能制造不必要的恐慌](https://www.dapenti.com/blog/more.asp?name=xilei&id=154420)
+
+### [富人们的疫情前后 [思考] src:网页链接 [图片]](https://weibo.com/1402400261/JDsYIdu5D)
+
+### [顶会reviewer的日常 [笑而不语] 爱可可-爱生活的微博视频](https://weibo.com/1402400261/JDsRdEiYn)
+
+### [//@区块链女博士: @寻真味佬美 人家倒是有微博，咋就不愿意在原文艾特呢？真不尊重原作者//@开水族馆的生物男:我看行，五脏庙处理//@客官不要急:牛逼//@午后狂睡...](https://weibo.com/1715118170/JDtafmbAj)
+
+### [#绿洲摄影#两江汇合成大重庆的“鸳鸯火锅” 长江和嘉陵江在朝天门码头汇合，泾渭分明，形成独特的大“鸳鸯火锅”的独特景观[太开心][挤眼][馋嘴] 绿洲 [图片]](https://weibo.com/1715118170/JDt6mtf7T)
+
+### [【Implementing FastAPI Services – Abstraction and Separation of Concerns】网页链接 实现FastAPI服务——关注点的抽象和分离。#科技暖心季# [图片][图片][...](https://weibo.com/1715118170/JDt1Ua4Is)
+
+### [转发 - 转发 @网路冷眼:&ensp;【Implementing FastAPI Services – Abstraction and Separation of Concerns】网页链接 实现FastAPI服务——关注点的抽象和分离...](https://weibo.com/1642628345/JDt6HvmQc)
