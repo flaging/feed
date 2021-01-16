@@ -573,3 +573,33 @@
 ### [【Huawei ExaGear: x86_64 apps on Arm 64-bit Linux systems】 网页链接_64-apps-on-arm64/ 华为ExaGear：Arm 64位Linux系统上的x86_64应用。 [图片]](https://weibo.com/1715118170/JDtWFsA3N)
 
 ### [【A distributed Posix file system built on top of Redis and S3】网页链接 建立在Redis和S3之上的分布式Posix文件系统。网路冷眼技术分享 #科技暖心季# [图片...](https://weibo.com/1715118170/JDtKinT1b)
+
+### error read: http://www.waerfa.com/feed
+
+### [Thinking Fast and Slow and the 3rd Wave of AI. Towards more general trustworthy AI drawing inspiration from Human Capabilities + 10 Questions for the AI Research Community](https://www.reddit.com/r/DeepLearningPapers/comments/kyjcmu/thinking_fast_and_slow_and_the_3rd_wave_of_ai/)
+
+ &#32; submitted by &#32; <a href="https://www.reddit.com/user/OnlyProggingForFun"> /u/OnlyProggingForFun </a> <br /> <span><a href="https://youtu.be/3nvAaVSQxs4">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/DeepLearningPapers/comments/kyjcmu/thinking_fast_and_slow_and_the_3rd_wave_of_ai/">[comments]</a></span>
+
+### [请问一个关于 ssh 访问生产环境不具备公网 ip 机器方式的问题.](https://www.v2ex.com/t/745462)
+
+### [2021年1月16日新闻联播文字版](http://www.xwlb.net.cn/17556.html)
+
+### [我想把它改成 当 x 等于 4 或者 5 或者 6 或 y 等于 false时，输出 yes。该如何改？](https://rustcc.cn/article?id=dae635f6-0659-4a46-84de-f63408ffd537)
+
+### [【Rust日报】2021-01-16 Async-std v1.9.0 发布](https://rustcc.cn/article?id=f96277e9-5c50-48f8-8e15-fd327a79e55a)
+
+### [#小Q分享# 《中国芯片人才荒困局：我想去互联网行业挣快钱》中国 “芯绞痛” ，根源在于“人才病”？奇缺的芯片人才造芯的人还是太少了。数据显示，2021 年前后...](https://weibo.com/1746173800/JDukQ0HTJ)
+
+### [Flash 停服引起故障，大连车务段全力攻关一昼夜撰文「大连车务段人人都是高手」](https://segmentfault.com/a/1190000039001346)
+
+### [晚安～ [月亮] #晚安# 爱可可-爱生活的微博视频](https://weibo.com/1402400261/JDugd21vU)
+
+### [《爱可可老师24小时热门分享(2021.1.16)》  爱可可老师24小时热门分享(2021.1.16)](https://weibo.com/1402400261/JDufLy2dw)
+
+### [【How Silicon Valley destroyed Parler】网页链接 硅谷如何摧毁Parler？](https://weibo.com/1715118170/JDul3cW2E)
+
+### [转发微博 - 转发 @网路冷眼:&ensp;#冷眼赠书福利# 转发赠书# 网路冷眼联合@华章图书 @华章计算机科学 送出 5 本《ECharts数据可视化》，截至 1 月 20 日，转发此...](https://weibo.com/1715118170/JDueJpHzJ)
+
+### [【CI/CD quick tip: Custom Slack message on code deployment】网页链接 持续集成/持续部署（CI / CD）快速提示：有关代码部署的自定义Slack消息。 网路冷眼技...](https://weibo.com/1715118170/JDu8EDlNm)
+
+### error read: http://www.waerfa.com/feed
