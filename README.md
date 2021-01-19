@@ -18,28 +18,4 @@
 
 ## 今日更新
 
-# 2021-1-19
-
-### [最新研究：超级人工智能，从理论上就无法控制](https://www.jiqizhixin.com/articles/2021-01-19-4)
-
- 
-
-### [他发明了通用数据压缩算法：Jacob Ziv获2021 IEEE荣誉勋章](https://www.jiqizhixin.com/articles/2021-01-19-3)
-
- 
-
-### [伯克利大神一人投中16篇：ICLR 2021论文接收统计出炉](https://www.jiqizhixin.com/articles/2021-01-19-2)
-
- 
-
-### [ImageNet的top-1终于上了90%，网友质疑：用额外数据集还不公开，让人怎么信服？](https://www.jiqizhixin.com/articles/2021-01-19)
-
- 
-
-### [百度出席AI顶会IJCAI2020，学术创新成果全球领先](https://www.jiqizhixin.com/articles/2021-01-19-5)
-
- 
-
-### [AI前沿：工业视觉的技术与产品挑战](https://www.jiqizhixin.com/articles/2021-01-19-6)
-
- 
+# 2021-1-20
