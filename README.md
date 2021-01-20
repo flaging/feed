@@ -18,28 +18,4 @@
 
 ## 今日更新
 
-# 2021-1-20
-
-### [抓取了1400家科技公司的招聘信息，我发现数据工程师比数据科学家更有市场](https://www.jiqizhixin.com/articles/2021-01-20-5)
-
- 
-
-### [如何防止我的模型过拟合？这篇文章给出了6大必备方法](https://www.jiqizhixin.com/articles/2021-01-20-4)
-
- 
-
-### [无服务器计算的机器学习，出路在哪里？](https://www.jiqizhixin.com/articles/2021-01-20-3)
-
- 
-
-### [用C++和虚幻引擎开发视频游戏，斯坦福CS193u课程资料公开](https://www.jiqizhixin.com/articles/2021-01-20-2)
-
- 
-
-### [2020年这10大ML、NLP研究最具影响力：为什么？接下来如何发展？](https://www.jiqizhixin.com/articles/2021-01-20)
-
- 
-
-### [挑战多跳知识推理，华为云登顶HotpotQA多跳知识推理问答评测](https://www.jiqizhixin.com/articles/2021-01-20-6)
-
- 
+# 2021-1-21
