@@ -47,3 +47,7 @@
 ### [Nature盘点：从Fortran、arXiv到AlexNet，这些代码改变了科学界](https://www.jiqizhixin.com/articles/2021-01-21-5)
 
  
+
+### [联发科天玑1200正式发布：6纳米制程，还能手机上跑光追](https://www.jiqizhixin.com/articles/2021-01-21-10)
+
+ 
