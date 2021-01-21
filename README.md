@@ -18,48 +18,6 @@
 
 ## 今日更新
 
-# 2021-1-21
+# 2021-1-22
 
-### [千寻位置获ASPICE三级认证，车规级产品研发能力达行业最高标准！](https://www.jiqizhixin.com/articles/2021-01-21)
-
- 
-
-### [寒武纪首颗AI训练芯片亮相：7纳米制程，算力提升四倍，已规模化出货](https://www.jiqizhixin.com/articles/2021-01-21-4)
-
- 
-
-### [ACL 2021投稿即将截止，请收好这份避坑指南](https://www.jiqizhixin.com/articles/2021-01-21-9)
-
- 
-
-### [那个把谷歌自动驾驶机密泄露给Uber的工程师，被特朗普赦免了](https://www.jiqizhixin.com/articles/2021-01-21-8)
-
- 
-
-### [AI模型被「骗」怎么破？《燃烧吧！天才程序员》冠军团队解决方案出炉](https://www.jiqizhixin.com/articles/2021-01-21-7)
-
- 
-
-### [IEEE认知发展与机器人学习国际会议将首次于中国北京召开](https://www.jiqizhixin.com/articles/2021-01-21-6)
-
- 
-
-### [Nature盘点：从Fortran、arXiv到AlexNet，这些代码改变了科学界](https://www.jiqizhixin.com/articles/2021-01-21-5)
-
- 
-
-### [联发科天玑1200正式发布：6纳米制程，还能手机上跑光追](https://www.jiqizhixin.com/articles/2021-01-21-10)
-
- 
-
-### [SENSORO 与柬埔寨国防部通信局签署合作谅解备忘录](https://www.jiqizhixin.com/articles/2021-01-21-11)
-
- 
-
-### [2020年被迫转型数字化的企业，在2021年会遇到什么？](https://www.jiqizhixin.com/articles/2021-01-21-12)
-
- 
-
-### [百度飞桨获评机器之心「AI中国」“最强开源技术生态TOP10”](https://www.jiqizhixin.com/articles/2021-01-21-13)
-
- 
+### error read: https://jiqizhixin.com/rss
