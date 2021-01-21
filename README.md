@@ -51,3 +51,7 @@
 ### [联发科天玑1200正式发布：6纳米制程，还能手机上跑光追](https://www.jiqizhixin.com/articles/2021-01-21-10)
 
  
+
+### [SENSORO 与柬埔寨国防部通信局签署合作谅解备忘录](https://www.jiqizhixin.com/articles/2021-01-21-11)
+
+ 
