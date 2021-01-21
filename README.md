@@ -27,3 +27,23 @@
 ### [寒武纪首颗AI训练芯片亮相：7纳米制程，算力提升四倍，已规模化出货](https://www.jiqizhixin.com/articles/2021-01-21-4)
 
  
+
+### [ACL 2021投稿即将截止，请收好这份避坑指南](https://www.jiqizhixin.com/articles/2021-01-21-9)
+
+ 
+
+### [那个把谷歌自动驾驶机密泄露给Uber的工程师，被特朗普赦免了](https://www.jiqizhixin.com/articles/2021-01-21-8)
+
+ 
+
+### [AI模型被「骗」怎么破？《燃烧吧！天才程序员》冠军团队解决方案出炉](https://www.jiqizhixin.com/articles/2021-01-21-7)
+
+ 
+
+### [IEEE认知发展与机器人学习国际会议将首次于中国北京召开](https://www.jiqizhixin.com/articles/2021-01-21-6)
+
+ 
+
+### [Nature盘点：从Fortran、arXiv到AlexNet，这些代码改变了科学界](https://www.jiqizhixin.com/articles/2021-01-21-5)
+
+ 
