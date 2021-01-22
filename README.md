@@ -25,3 +25,19 @@
 ### [7亿美元，第四范式完成D轮融资](https://www.jiqizhixin.com/articles/2021-01-22)
 
  
+
+### [百万级文献分析，十万字深入解读：机器之心发布《全球AI技术发展趋势报告》](https://www.jiqizhixin.com/articles/2021-01-22-5)
+
+ 
+
+### [因果推理、正则化上榜：权威专家盘点过去50年最重要的统计学思想](https://www.jiqizhixin.com/articles/2021-01-22-4)
+
+ 
+
+### [一块只要4美元，超廉价版树莓派诞生，还用上了自研芯片](https://www.jiqizhixin.com/articles/2021-01-22-2)
+
+ 
+
+### [英特尔复兴第一步：新CEO未上任，退休大佬先返聘](https://www.jiqizhixin.com/articles/2021-01-22-3)
+
+ 
