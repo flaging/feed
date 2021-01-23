@@ -12,11 +12,21 @@ import re
 def log(str):
     print(str)
 
-
+def replace(str):
+  # apst for apostrophe '
+  # _equ_ for =
+  return str.replace('.', '_d').\
+  replace(':', '_t')\
+    .replace('/', '_b')\
+      .replace('?','_d2')\
+        .replace("'",'_a')\
+        .replace('=','_e')\
+          .replace('-','_s')\
+          .replace('%','_0')
 def open_table(path, url):
     conn = sqlite3.connect(path)
     cur = conn.cursor()
-    table = url.replace('.', '_').replace('://', '_').replace('/', '_')
+    table = replace(url)
     print(table)
     lookup_table = "select count(*)  from sqlite_master where type='table' and name = " + \
         '\''+table+'\''
@@ -58,7 +68,7 @@ def insert_rows(cur, table, conn, url_data):
             insert_table = "insert into " + table + \
                 " (URL, UPDATE_TIME, TITLE, AUTHOR, CONTENT, CONTEXT_RAW, KEY_WORDS1, KEY_WORD2, KEY_WORD3, REFERENCE) values " + \
                 url_row[1]
-            print(insert_table)
+            # print(insert_table)
             cur.execute(insert_table)
     conn.commit()
 
@@ -67,7 +77,7 @@ def parse_raw(feed, str):
     eventlet.monkey_patch()
     with eventlet.Timeout(5, False):
         try:
-            return feed[str]
+            return replace(feed[str])
         except:
             return 'null'
 
@@ -123,7 +133,7 @@ def parse_url_data(url):
 
 def update_markdown(row, file):
     file.writelines('\n\n## ['+row[4]+']('+row[1]+')')
-    file.writelines('\n\n> 作者： ' + row[5] + '  更新时间： '+row[3])
+    file.writelines('\n\n> 作者： ' + row[5] + '  拉取时间： '+row[3])
     if row[7] != 'null':
       file.writelines('\n\n'+row[7])
 
@@ -150,10 +160,10 @@ def main():
         fetch_updated_data = 'select * from ' + \
             table_one[0] + \
             ' where fetch_time >= date(\'now\', \'-1 day\') order by fetch_time'
-        print(fetch_updated_data)
+        # print(fetch_updated_data)
         today_data = cur.execute(fetch_updated_data).fetchall()
         for row in today_data:
-            print(row)
+            # print(row)
             update_markdown(row, file)
     file.writelines('\n')
     file.close()
