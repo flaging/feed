@@ -91,7 +91,7 @@ def get_author(feed):
 
 
 def get_contex_raw(feed):
-    return parse_raw(feed, 'raw')
+    return parse_raw(feed, 'summary')
 
 
 def get_key1(feed):
