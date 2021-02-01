@@ -133,8 +133,8 @@ def parse_url_data(url):
 def update_markdown(row, file):
     file.writelines('\n\n## ['+row[4]+']('+row[1]+')')
     file.writelines('\n\n> 作者： ' + row[5] + '  拉取时间： '+row[3])
-    if row[7] != 'null':
-      file.writelines('\n\n'+row[7])
+    # if row[7] != 'null':
+      # file.writelines('\n\n'+row[7])
 
 
 def main():
