@@ -61,8 +61,7 @@ def insert_table(cur, table, conn, url):
 
 def insert_rows(cur, table, conn, url_data):
     for url_row in url_data:
-        lookup_table = "select * from " + table + \
-            " where URL = " + '"' + url_row[0] + '"'
+        lookup_table = "select * from " + table + " where URL = " + '"' + url_row[0] + '"'
         res = cur.execute(lookup_table)
         if len(res.fetchall()) == 0:
             insert_table = "insert into " + table + \
@@ -91,7 +90,7 @@ def get_author(feed):
 
 
 def get_contex_raw(feed):
-    return parse_raw(feed, 'summary1')
+    return parse_raw(feed, 'summary')
 
 
 def get_key1(feed):
