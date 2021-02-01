@@ -52,7 +52,6 @@ http://www.machinedlearnings.com/feeds/posts/default
 https://www.reddit.com/r/pytorch/.rss
 https://blog.tensorflow.org/feeds/posts/default
 http://120.53.237.72:1200/segmentfault/channel/ai
-https://rsshub.app/zhishifenzi/news/ai
 https://rsshub.app/luogu/daily
 http://datagenetics.com/feed/rss.xml
 https://www.reddit.com/r/hpc/.rss
