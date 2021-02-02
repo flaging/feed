@@ -158,7 +158,7 @@ def main():
     for table_one in table_list:
         fetch_updated_data = 'select * from ' + \
             table_one[0] + \
-            ' where fetch_time >= date(\'now\', \'-1 day\') order by fetch_time'
+            ' where fetch_time >= date(\'now\', \'-1 day\') order by fetch_time desc'
         # print(fetch_updated_data)
         today_data = cur.execute(fetch_updated_data).fetchall()
         for row in today_data:
