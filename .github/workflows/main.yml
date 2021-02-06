@@ -49,8 +49,10 @@ jobs:
           python3 sync_bash/Sync.py
       - name: update readme
         run: |
-          rm README.md
-          cp README_ORIGIN.md README.md
+          if [ -f "README.md" ];then
+            rm README.md
+            cp README_ORIGIN.md README.md
+          fi
           cat $(date "+%Y/%-m-%-d.md") >> README.md
       - name: git push
         run: |
