@@ -131,7 +131,7 @@ def parse_url_data(url):
 
 
 def update_markdown(row, file):
-    file.writelines('\n\n## ['+row[4]+']('+row[1]+')')
+    file.writelines('\n\n### ['+row[4]+']('+row[1]+')')
     file.writelines('\n\n> 作者： ' + row[5] + '  拉取时间： '+row[3])
     # if row[7] != 'null':
       # file.writelines('\n\n'+row[7])
@@ -150,7 +150,7 @@ def main():
     is_exists = os.path.exists(file_name)
     file = open(file_name, "a")
     if not is_exists:
-        file.write("\n# "+str(localtime.tm_year)+"-" +
+        file.write("\n## "+str(localtime.tm_year)+"-" +
                    str(localtime.tm_mon)+"-"+str(localtime.tm_mday))
     # upate markdown files
     fetch_table = "select name from sqlite_master where type=\'table\' and name != \'sqlite_sequence\'"
