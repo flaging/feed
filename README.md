@@ -18,7 +18,27 @@
 
 ## 今日更新
 
-## 2021-4-9
+## 2021-4-10
+
+ [猴子脑控玩电子游戏，马斯克的Neuralink又搞「大」动作](https://www.jiqizhixin.com/articles/2021-04-09-4)
+
+> 作者： 机器之心  拉取时间： 2021-04-10 05:53:32
+
+ [CPU比GPU训练神经网络快十几倍，英特尔：别用矩阵运算了](https://www.jiqizhixin.com/articles/2021-04-09-5)
+
+> 作者： 机器之心  拉取时间： 2021-04-10 05:53:32
+
+ [美商务部将中国7个超级计算机实体列入「实体名单」](https://www.jiqizhixin.com/articles/2021-04-09-2)
+
+> 作者： 机器之心  拉取时间： 2021-04-10 05:53:32
+
+ [吹响黑客松集结号，这场大赛邀你花样玩转「AI+体育运动」](https://www.jiqizhixin.com/articles/2021-04-09)
+
+> 作者： 机器之心  拉取时间： 2021-04-10 05:53:32
+
+ [【征稿】IJCAI 2021联邦学习与迁移学习国际研讨会](https://www.jiqizhixin.com/articles/2021-04-09-3)
+
+> 作者： 新闻助手  拉取时间： 2021-04-10 05:53:32
 
  [耶鲁大学教授亲自授课，教你EM算法的全局收敛](https://www.jiqizhixin.com/articles/2021-04-08-13)
 
@@ -100,37 +120,25 @@
 
 > 作者： 摹因智能  拉取时间： 2021-04-08 05:55:19
 
- [五大关键因素激发平台IT架构潜能](https://www.jiqizhixin.com/articles/2021-04-06-8)
+ [本周看什么｜最近值得一看的 5 部作品](https://sspai.com/post/65987)
 
-> 作者： 机器之心  拉取时间： 2021-04-07 05:54:14
+> 作者： 甜約翰  拉取时间： 2021-04-10 05:53:35
 
- [279位嘉宾、19个论坛议程全公开，第五届未来医疗100强大会亮点抢先看！](https://www.jiqizhixin.com/articles/2021-04-06-7)
+ [[送码] 支持过滤列表、iCloud 同步…… Mac 上的剪贴板工具新选择：PasteNow](https://sspai.com/post/65948)
 
-> 作者： 新闻助手  拉取时间： 2021-04-07 05:54:14
+> 作者： 图拉鼎  拉取时间： 2021-04-10 05:53:35
 
- [模型鲁棒性好不好，复旦大学一键式评测平台告诉你](https://www.jiqizhixin.com/articles/2021-04-06-6)
+ [App+1 | 让 Chrome 和 Edge 的标签页分组更好用：Tab Groups Extension](https://sspai.com/post/65936)
 
-> 作者： 机器之心  拉取时间： 2021-04-07 05:54:14
+> 作者： WATERS  拉取时间： 2021-04-10 05:53:35
 
- [为什么信不过AI看病？数据集小、可靠性差，AI医疗任重道远](https://www.jiqizhixin.com/articles/2021-04-06-5)
+ [换一种姿势使用网页服务，这些命令行工具值得一试](https://sspai.com/post/65934)
 
-> 作者： 机器之心  拉取时间： 2021-04-07 05:54:14
+> 作者： Mirtle  拉取时间： 2021-04-10 05:53:35
 
- [新晋图灵奖得主Jeff Ullman受质疑，反对者：他享受了不该享受的荣誉](https://www.jiqizhixin.com/articles/2021-04-06-4)
+ [派早报：联想推出拯救者电竞手机 2 Pro、三星推出网页应用 iTest](https://sspai.com/post/65967)
 
-> 作者： 机器之心  拉取时间： 2021-04-07 05:54:14
-
- [所有判决被推翻，美最高法院：Java版权世纪大案，谷歌战胜甲骨文](https://www.jiqizhixin.com/articles/2021-04-06-3)
-
-> 作者： 机器之心  拉取时间： 2021-04-07 05:54:14
-
- [阿联酋起源人工智能研究院（IIAI）诚邀优秀人才加盟](https://www.jiqizhixin.com/articles/2021-04-06-2)
-
-> 作者： 新闻助手  拉取时间： 2021-04-07 05:54:14
-
- [OpenAI CEO：AI将产生足够财富，每年支付每个成年人13500美元](https://www.jiqizhixin.com/articles/2021-04-06)
-
-> 作者： 机器之心  拉取时间： 2021-04-07 05:54:14
+> 作者： 少数派编辑部  拉取时间： 2021-04-10 05:53:35
 
  [新玩意 058｜少数派的编辑们最近买了啥？](https://sspai.com/post/65957)
 
@@ -168,25 +176,9 @@
 
 > 作者： Saul  拉取时间： 2021-04-08 05:55:21
 
- [将数据掌控权还给用户，免费的多站点开源博客系统：Farbox 2](https://sspai.com/post/65889)
+ [WindowTop – 窗口置顶工具：透明、鼠标穿透、画中画、深色模式、毛玻璃效果，功能有点强](https://www.appinn.com/windowtop/)
 
-> 作者： huhuhang  拉取时间： 2021-04-07 05:54:17
-
- [城市收藏夹 · 贵阳：爱吃火锅的你不要错过这些辣味宝藏](https://sspai.com/post/65901)
-
-> 作者： Microhoo  拉取时间： 2021-04-07 05:54:17
-
- [受够了 MacBook 蝶式键盘？你可能需要 NuType F1 来拯救](https://sspai.com/post/65750)
-
-> 作者： 北鸮  拉取时间： 2021-04-07 05:54:17
-
- [当手表成为生活的一部分：我的 Apple Watch 使用体验分享](https://sspai.com/post/65885)
-
-> 作者： Caseeey  拉取时间： 2021-04-07 05:54:17
-
- [派早报：LG 退出智能手机业务、Pixel 6 将搭载 Google 定制芯片等](https://sspai.com/post/65895)
-
-> 作者： 少数派编辑部  拉取时间： 2021-04-07 05:54:17
+> 作者： 青小蛙  拉取时间： 2021-04-10 05:53:36
 
  [奇妙组件 2_d0 – 超过 300 种搭配的桌面小组件合集[iPhone]](https://www.appinn.com/qimiaozujian-for-iphone/)
 
@@ -200,13 +192,25 @@
 
 > 作者： 青小蛙  拉取时间： 2021-04-08 05:55:22
 
- [如何在 4K 显示器上显示低分辨率窗口软件？](https://www.appinn.com/how-to-use-low-resolution-window-software-normally-on-4k-monitors/)
+ [What no one told you about CSS Variables](https://dev.to/afif/what-no-one-told-you-about-css-variables-553o)
 
-> 作者： 青小蛙  拉取时间： 2021-04-07 05:54:18
+> 作者： Temani Afif  拉取时间： 2021-04-10 05:53:49
 
- [GIF 动图助手 –  免费无广告的 GIF 制作和编辑工具[iPhone_biPad]](https://www.appinn.com/gif-animation-assistant-for-ios/)
+ [How to use ES6 import syntax in Node_djs](https://dev.to/amanhimself/how-to-use-es6-import-syntax-in-node-js-3df2)
 
-> 作者： 青小蛙  拉取时间： 2021-04-07 05:54:18
+> 作者： Aman Mittal  拉取时间： 2021-04-10 05:53:49
+
+ [JavaScript Basic Type Conversions Cheat Sheet 🔥](https://dev.to/danielkrupnyy/javascript-basic-type-conversion-cheat-sheet-1gg4)
+
+> 作者： Daniel Krupnyy  拉取时间： 2021-04-10 05:53:49
+
+ [Clean Code with Unit Tests_t Tips and tricks for keeping your test suites clean](https://dev.to/thawkin3/clean-code-with-unit-tests-tips-and-tricks-for-keeping-your-test-suites-clean-483l)
+
+> 作者： Tyler Hawkins  拉取时间： 2021-04-10 05:53:49
+
+ [How to configure a Docker + VS Code development environment](https://dev.to/davidrios/how-to-configure-a-docker-vs-code-development-environment-3jko)
+
+> 作者： David Rios  拉取时间： 2021-04-10 05:53:49
 
  [4 awesome javascript projects worthy of your collection](https://dev.to/lindelof/4-awesome-javascript-projects-worthy-of-your-collection-53fi)
 
@@ -296,77 +300,29 @@
 
 > 作者： Penelope Phippen  拉取时间： 2021-04-08 05:55:32
 
- [Hooray! I Created my First Portfolio! 📂🎉](https://dev.to/madza/hooray-i-created-my-first-portfolio-36li)
+ [Monster Mash_t A Sketch_sBased Tool for Casual 3D Modeling and Animation](http://feedproxy.google.com/~r/blogspot/gJZg/~3/od29dTPJtVU/monster-mash-sketch-based-tool-for.html)
 
-> 作者： Madza  拉取时间： 2021-04-07 05:54:30
-
- [Supreme Court sides with Google over Oracle_d Copying an API is fair use_d](https://dev.to/ben/supreme-court-sides-with-google-over-oracle-copying-an-api-is-fair-use-15o7)
-
-> 作者： Ben Halpern  拉取时间： 2021-04-07 05:54:30
-
- [Delete node_modules like a Pro](https://dev.to/nirazanbasnet/delete-nodemodules-like-a-pro-1727)
-
-> 作者： Nirazan Basnet  拉取时间： 2021-04-07 05:54:30
-
- [Ways of Getting Data from API in React](https://dev.to/olenadrugalya/ways-of-getting-data-from-api-in-react-2kpf)
-
-> 作者： Olena Drugalya  拉取时间： 2021-04-07 05:54:30
-
- [Getting Started With JavaScript Constructor Functions](https://dev.to/alexdevero/getting-started-with-javascript-constructor-functions-1bfi)
-
-> 作者： Alex Devero  拉取时间： 2021-04-07 05:54:30
-
- [I drew a synthesizer with HTML & CSS](https://dev.to/fossheim/i-drew-a-synthesizer-with-html-css-53f)
-
-> 作者： Sarah  拉取时间： 2021-04-07 05:54:30
-
- [React Stack 2021](https://dev.to/mondal10/react-stack-2021-4h8l)
-
-> 作者： Amit Mondal  拉取时间： 2021-04-07 05:54:30
-
- [3 very popular and wonderful resume page templates](https://dev.to/lindelof/3-very-popular-and-wonderful-resume-page-templates-1o9b)
-
-> 作者： lindelof  拉取时间： 2021-04-07 05:54:30
-
- [A better way to use SVGs](https://dev.to/shubhamjain/a-better-way-to-use-svgs-1mg9)
-
-> 作者： Shubham Jain  拉取时间： 2021-04-07 05:54:30
-
- [Turn your website into a Cross_sPlatform Desktop App with less than 15 lines of code with Electron](https://dev.to/ruppysuppy/turn-your-website-into-a-cross-platform-desktop-app-with-less-than-15-lines-of-code-with-electron-44m3)
-
-> 作者： Tapajyoti Bose  拉取时间： 2021-04-07 05:54:30
-
- [Solid_d Is It Still Useful In 2021_d2](https://dev.to/huzaifa99/solid-is-it-still-useful-in-2021-5ff6)
-
-> 作者： Huzaifa Rasheed  拉取时间： 2021-04-07 05:54:30
-
- [The easiest way ever to create a Node TypeScript Project!](https://dev.to/ragrag/the-easiest-way-ever-to-create-a-node-typescript-project-256a)
-
-> 作者： Raggi  拉取时间： 2021-04-07 05:54:30
-
- [Lockdown Fun_t Your Age In Binary](https://dev.to/madsstoumann/lockdown-fun-your-age-in-binary-2f3k)
-
-> 作者： Mads Stoumann  拉取时间： 2021-04-07 05:54:30
-
- [Django User Profile _s Learn to code in Django](https://dev.to/sm0ke/django-user-profile-learn-to-code-in-django-3jja)
-
-> 作者： Sm0ke  拉取时间： 2021-04-07 05:54:30
-
- [Create a reusable table with react, styled_scomponents and compound components design pattern](https://dev.to/josemukorivo/create-a-reusable-table-with-react-styled-components-and-compound-components-design-pattern-40cn)
-
-> 作者： Joseph Mukorivo  拉取时间： 2021-04-07 05:54:30
-
- [Go Headless with Netlify CMS](https://dev.to/jh3y/go-headless-with-netlify-cms-5gcm)
-
-> 作者： Jhey Tompkins  拉取时间： 2021-04-07 05:54:30
-
- [Stop Using Float in CSS _s Here Are Your Alternatives](https://dev.to/shahednasser/stop-using-float-in-css-here-are-your-alternatives-3f82)
-
-> 作者： Shahed Nasser  拉取时间： 2021-04-07 05:54:30
+> 作者： Google AI (noreply@blogger_dcom)  拉取时间： 2021-04-10 05:53:50
 
  [Announcing the 2021 Research Scholar Program Recipients](http://feedproxy.google.com/~r/blogspot/gJZg/~3/Bdcs4rYxl5E/announcing-2021-research-scholar.html)
 
 > 作者： Google AI (noreply@blogger_dcom)  拉取时间： 2021-04-08 05:55:33
+
+ [这广告过于戏精了！「一卷好纸」](https://www.vmovier.com/61827)
+
+> 作者： null  拉取时间： 2021-04-10 05:53:55
+
+ [水下拍摄真人版「刺客信条」](https://www.vmovier.com/61823)
+
+> 作者： null  拉取时间： 2021-04-10 05:53:55
+
+ [100_0还原宅家日常「豆子先生的周末」](https://www.vmovier.com/61830)
+
+> 作者： null  拉取时间： 2021-04-10 05:53:55
+
+ [没有人可以嘲笑你的与众不同「翅膀」](https://www.vmovier.com/61826)
+
+> 作者： null  拉取时间： 2021-04-10 05:53:55
 
  [奥斯卡提名动画短片「Yes People」](https://www.vmovier.com/61808)
 
@@ -396,33 +352,17 @@
 
 > 作者： null  拉取时间： 2021-04-08 05:55:40
 
- [怀疑内马尔看过「一直滚下去」](https://www.vmovier.com/61786)
+ [国家发展改革委 国家粮食和物资储备局印发《关于认真做好贯彻实施修订后的〈粮食流通管理条例〉有关工作的通知》](https://www.ndrc.gov.cn/xwdt/xwfb/202104/t20210409_1272031.html)
 
-> 作者： null  拉取时间： 2021-04-07 05:54:36
+> 作者： null  拉取时间： 2021-04-10 05:53:59
 
- [入围奥斯卡「一首协奏曲就是一场对话」](https://www.vmovier.com/61797)
+ [国家发展改革委召开建议提案办理工作部署会](https://www.ndrc.gov.cn/xwdt/xwfb/202104/t20210409_1272027.html)
 
-> 作者： null  拉取时间： 2021-04-07 05:54:36
+> 作者： null  拉取时间： 2021-04-10 05:53:59
 
- [来自大理的春日来信「邂逅雪山与樱花」](https://www.vmovier.com/61799)
+ [国家发展改革委举行新闻发布会介绍支持海南自由贸易港建设放宽市场准入若干特别措施有关情况](https://www.ndrc.gov.cn/xwdt/xwfb/202104/t20210408_1271937.html)
 
-> 作者： null  拉取时间： 2021-04-07 05:54:36
-
- [管你想说什么「我有男朋友了」](https://www.vmovier.com/61794)
-
-> 作者： null  拉取时间： 2021-04-07 05:54:36
-
- [摧毁完美创意CG「反叛的家具」](https://www.vmovier.com/61768)
-
-> 作者： null  拉取时间： 2021-04-07 05:54:36
-
- [带你去浪漫的土耳其「璀璨星河」](https://www.vmovier.com/61772)
-
-> 作者： null  拉取时间： 2021-04-07 05:54:36
-
- [2021，学校不会教你的「6个成功秘籍」](https://www.vmovier.com/61769)
-
-> 作者： null  拉取时间： 2021-04-07 05:54:36
+> 作者： null  拉取时间： 2021-04-10 05:53:59
 
  [何立峰主任赴河北雄安新区考察调研](https://www.ndrc.gov.cn/xwdt/xwfb/202104/t20210407_1271872.html)
 
@@ -432,6 +372,14 @@
 
 > 作者： null  拉取时间： 2021-04-08 05:55:44
 
+ [调参，注意神经网络处于哪种相态](https://zhuanlan.zhihu.com/p/363549274)
+
+> 作者： PaperWeekly  拉取时间： 2021-04-10 05:54:03
+
+ [管中窥”视频“，”理解“一斑 —— 视频理解概览](https://zhuanlan.zhihu.com/p/346985087)
+
+> 作者： Lingyun Zeng  拉取时间： 2021-04-10 05:54:03
+
  [司马迁是一个什么样的人？](https://4ark.me/posts/about-si-ma-qian/)
 
 > 作者： 4Ark  拉取时间： 2021-04-08 05:56:05
@@ -440,9 +388,25 @@
 
 > 作者： 4Ark  拉取时间： 2021-04-08 05:56:05
 
+ [生活也要有诗和远方呀](https://mbinary.xyz/poems.html)
+
+> 作者： null  拉取时间： 2021-04-10 05:54:52
+
  [用户行为变迁 行业垂直深耕——疫情下的2020年移动互联网报告](http://mi.talkingdata.com/report-detail.html?id=996)
 
 > 作者： null  拉取时间： 2021-04-08 05:56:35
+
+ [Ahead Of The Curve – How Quantum Neural Networks Are Reshaping ML](https://www.reddit.com/r/DeepLearningPapers/comments/mnazql/ahead_of_the_curve_how_quantum_neural_networks/)
+
+> 作者： _bu_bsharmaniti437  拉取时间： 2021-04-10 05:55:12
+
+ [[R] ReStyle_t A Residual_sBased StyleGAN Encoder via Iterative Refinement _s Explained](https://www.reddit.com/r/DeepLearningPapers/comments/mnkx4r/r_restyle_a_residualbased_stylegan_encoder_via/)
+
+> 作者： _bu_bKirillTheMunchKing  拉取时间： 2021-04-10 05:55:12
+
+ [Researchers From MIT_sIBM Watson AI Lab, the University of Michigan, and ShanghaiTech University Study Ways to Detect Biases and Increase Machine Learning (ML) model’s Individual Fairness](https://www.reddit.com/r/DeepLearningPapers/comments/mnk9v5/researchers_from_mitibm_watson_ai_lab_the/)
+
+> 作者： _bu_btechsucker  拉取时间： 2021-04-10 05:55:12
 
  [Transformer Networks _s Attention is all you need!!!](https://www.reddit.com/r/DeepLearningPapers/comments/mmoxpy/transformer_networks_attention_is_all_you_need/)
 
@@ -456,9 +420,29 @@
 
 > 作者： _bu_bchadrick_skwag  拉取时间： 2021-04-09 05:55:53
 
- [[R] NeRF_t Representing Scenes as Neural Radiance Fields for View Synthesis _s Explained](https://www.reddit.com/r/DeepLearningPapers/comments/mlfyy5/r_nerf_representing_scenes_as_neural_radiance/)
+ [[Q] How to adjust Channel and Input dimensions_d2 Input dimensions do not match expected value_d](https://www.reddit.com/r/pytorch/comments/mnrasq/q_how_to_adjust_channel_and_input_dimensions/)
 
-> 作者： _bu_bKirillTheMunchKing  拉取时间： 2021-04-07 05:55:38
+> 作者： _bu_brmnndls  拉取时间： 2021-04-10 05:55:13
+
+ [Need help with anaconda and cuda](https://www.reddit.com/r/pytorch/comments/mnmikf/need_help_with_anaconda_and_cuda/)
+
+> 作者： _bu_bpranrss97  拉取时间： 2021-04-10 05:55:13
+
+ [Pruning tutorial](https://www.reddit.com/r/pytorch/comments/mndfdg/pruning_tutorial/)
+
+> 作者： _bu_bgrid_world  拉取时间： 2021-04-10 05:55:13
+
+ [Need help with transfer learning_d](https://www.reddit.com/r/pytorch/comments/mne2nd/need_help_with_transfer_learning/)
+
+> 作者： _bu_bCurrent_Dark6603  拉取时间： 2021-04-10 05:55:13
+
+ [Need help with a doubt](https://www.reddit.com/r/pytorch/comments/mnc8r0/need_help_with_a_doubt/)
+
+> 作者： _bu_bovotheking  拉取时间： 2021-04-10 05:55:13
+
+ [Tensor Sizes Not Matching (ERROR)](https://www.reddit.com/r/pytorch/comments/mn6v3e/tensor_sizes_not_matching_error/)
+
+> 作者： _bu_b2weeksofpokemon  拉取时间： 2021-04-10 05:55:13
 
  [[Q] How to Gathering all Images Files from Different Subfolders _d2](https://www.reddit.com/r/pytorch/comments/mmxwa0/q_how_to_gathering_all_images_files_from/)
 
@@ -480,18 +464,6 @@
 
 > 作者： _bu_bGrid_AI  拉取时间： 2021-04-08 05:56:40
 
- [Predicting Four Variables Using Three Variables](https://www.reddit.com/r/pytorch/comments/mlj2g8/predicting_four_variables_using_three_variables/)
-
-> 作者： _bu_blalopark  拉取时间： 2021-04-07 05:55:39
-
- [How to differentiate a gradient in Pytorch](https://www.reddit.com/r/pytorch/comments/mllx32/how_to_differentiate_a_gradient_in_pytorch/)
-
-> 作者： _bu_bDaBobcat  拉取时间： 2021-04-07 05:55:39
-
- [Example help](https://www.reddit.com/r/pytorch/comments/mkz983/example_help/)
-
-> 作者： _bu_barvarnargul  拉取时间： 2021-04-07 05:55:39
-
  [Two Parcels](https://datagenetics.com/blog/april12021/index.html)
 
 > 作者： null  拉取时间： 2021-04-09 05:55:56
@@ -512,6 +484,22 @@
 
 > 作者： _bu_bSoulyin  拉取时间： 2021-04-08 05:57:33
 
+ [中国“十三五”就业图谱：私营个体就业占比过半，制造业从业者“西迁”](https://m.21jingji.com/article/20210409/herald/6cabeea937246abb91c33ae84520ee6b.html)
+
+> 作者： null  拉取时间： 2021-04-10 05:56:09
+
+ [“就地过年”影响下的大城市消费：苏州反超成都位居第六，重庆有望冲击消费第二城？](https://m.21jingji.com/article/20210409/herald/a000f357dd270d50b8d8e8b9766f1f8a.html)
+
+> 作者： null  拉取时间： 2021-04-10 05:56:09
+
+ [王卫致歉了！顺丰业绩突然爆雷，市值跌超2000亿！投票显示：3成网友吐槽服务变差](https://m.21jingji.com/article/20210409/herald/af48a939a43f3d8ed18c54e5dbfc75f7.html)
+
+> 作者： null  拉取时间： 2021-04-10 05:56:09
+
+ [“碳中和”大势下，氢能源迎来大利好！30余个省市纷纷布局，产业链标的名单来了](https://m.21jingji.com/article/20210409/herald/2f1a9cf624ebf518ce7f56b93b3a6073.html)
+
+> 作者： null  拉取时间： 2021-04-10 05:56:09
+
  [GDP十强城市公积金盘点：北京月人均缴存额超过2300元，深圳支持租房力度最大](https://m.21jingji.com/article/20210407/herald/848dc50400c22bf8bf64f09bf49ccd1b.html)
 
 > 作者： null  拉取时间： 2021-04-08 05:57:35
@@ -524,21 +512,37 @@
 
 > 作者： null  拉取时间： 2021-04-08 05:57:35
 
- [私募大佬葛卫东持仓大曝光！在这只股票上，亏得有点惨…](https://m.21jingji.com/article/20210406/herald/e00ac3031afc16d8968524f73e50ec63.html)
+ [Comic for 2021_d04_d09](http://www.explosm.net/comics/5840/)
 
-> 作者： null  拉取时间： 2021-04-07 05:56:35
-
- [《我的姐姐》火了！背后涉及这些上市公司，影视行业复苏开启](https://m.21jingji.com/article/20210406/herald/30c40c1d18ec1b475dfb81714ccd3ece.html)
-
-> 作者： null  拉取时间： 2021-04-07 05:56:35
+> 作者： null  拉取时间： 2021-04-10 05:56:09
 
  [Comic for 2021_d04_d07](http://www.explosm.net/comics/5839/)
 
 > 作者： null  拉取时间： 2021-04-09 05:56:00
 
- [Comic for 2021_d04_d06](http://www.explosm.net/comics/5838/)
+ [拜登应拿出勇气逆转特朗普对华政策](http://www.ftchinese.com/story/001092073)
 
-> 作者： null  拉取时间： 2021-04-07 05:56:35
+> 作者： 马凯硕  拉取时间： 2021-04-10 05:56:12
+
+ [简评拜登新政：“白衣骑士”还是“特洛伊木马”](http://www.ftchinese.com/story/001092068)
+
+> 作者： 夏春 成亚曼  拉取时间： 2021-04-10 05:56:12
+
+ [特斯拉在华发展“困境”与破局方向](http://www.ftchinese.com/story/001092069)
+
+> 作者： 王英良  拉取时间： 2021-04-10 05:56:12
+
+ [既忧收缩，何虑通胀？](http://www.ftchinese.com/story/001092043)
+
+> 作者： 胡月晓  拉取时间： 2021-04-10 05:56:12
+
+ [中国控制信贷供应给楼市降温](http://www.ftchinese.com/story/001092038)
+
+> 作者： 孙昱  拉取时间： 2021-04-10 05:56:12
+
+ [数十家中国科技集团放弃在上海科创板IPO](http://www.ftchinese.com/story/001092037)
+
+> 作者： 康河信 孙昱  拉取时间： 2021-04-10 05:56:12
 
  [新加坡挑战香港的仲裁中心地位](http://www.ftchinese.com/story/001092032)
 
@@ -551,14 +555,6 @@
  [有些新兴市场已不再“新兴”](http://www.ftchinese.com/story/001092011)
 
 > 作者： 西蒙•埃德尔斯滕  拉取时间： 2021-04-08 05:57:36
-
- [俄罗斯介入缅甸政变后的外交空白](http://www.ftchinese.com/story/001092034)
-
-> 作者： 约翰•里德 亨利•福伊  拉取时间： 2021-04-07 05:56:35
-
- [用情绪模型分析中美高层战略对话会议：世界如何看待美国表现？](http://www.ftchinese.com/story/001091976)
-
-> 作者： 周文璐 梁海明  拉取时间： 2021-04-07 05:56:35
 
  [The Greatest](http://feedproxy.google.com/~r/PoorlyDrawnLines/~3/3yUH7W0KYtg/)
 
@@ -579,6 +575,34 @@
  [🖼Tue, 06 Apr 2021 07_t30_t54 GMT](https://t.me/tgchinanews/1095)
 
 > 作者： null  拉取时间： 2021-04-08 05:57:49
+
+ [绞尽脑汁，都怎么起的设备名？](https://www.v2ex.com/t/769488)
+
+> 作者： Scare  拉取时间： 2021-04-10 05:57:04
+
+ [你的浏览器是什么？](https://www.v2ex.com/t/769433)
+
+> 作者： MakeItGreat  拉取时间： 2021-04-10 05:57:04
+
+ [买了房，可是我确高兴不起来](https://www.v2ex.com/t/769390)
+
+> 作者： JJstyle  拉取时间： 2021-04-10 05:57:04
+
+ [有人的 12 是不戴手机壳的吗？](https://www.v2ex.com/t/769377)
+
+> 作者： HariopaNic  拉取时间： 2021-04-10 05:57:04
+
+ [数字游民指南 1_d0 正式上线，送一年 VIP](https://www.v2ex.com/t/769362)
+
+> 作者： guichina  拉取时间： 2021-04-10 05:57:04
+
+ [现在从零开始学习 C_bC++最合适的 IDE 是什么？](https://www.v2ex.com/t/769286)
+
+> 作者： WangLiCha  拉取时间： 2021-04-10 05:57:04
+
+ [可怕的苹果验证机制](https://www.v2ex.com/t/769272)
+
+> 作者： 0gys  拉取时间： 2021-04-10 05:57:04
 
  [25 岁，到底应不应该要有存款？](https://www.v2ex.com/t/769087)
 
@@ -648,41 +672,13 @@
 
 > 作者： ian19znj  拉取时间： 2021-04-08 05:57:49
 
- [求推荐 Xbox 适合手残党的休闲有戏](https://www.v2ex.com/t/768342)
+ [【已受理】上海芯导电子科技股份有限公司](http://kcb.sse.com.cn//renewal/xmxq/index.shtml?auditId=865)
 
-> 作者： lisaisacat  拉取时间： 2021-04-07 05:57:26
+> 作者： 已受理  拉取时间： 2021-04-10 05:57:08
 
- [日常导航 百度地图 和 高德地图 有啥优缺点？](https://www.v2ex.com/t/768334)
+ [【已询问】迪哲（江苏）医药股份有限公司](http://kcb.sse.com.cn//renewal/xmxq/index.shtml?auditId=830)
 
-> 作者： CNN  拉取时间： 2021-04-07 05:57:26
-
- [map 的一个神奇的问题](https://www.v2ex.com/t/768320)
-
-> 作者： zkdfbb  拉取时间： 2021-04-07 05:57:26
-
- [五一出游目的地有什么推荐吗，人不多、有意思、有烟火气的地方？](https://www.v2ex.com/t/768288)
-
-> 作者： zzlatan  拉取时间： 2021-04-07 05:57:26
-
- [清明三天人都废了，如何扩大自己的社交圈？](https://www.v2ex.com/t/768282)
-
-> 作者： ReinerShir  拉取时间： 2021-04-07 05:57:26
-
- [其实 996_b007 的公司也没那么多](https://www.v2ex.com/t/768270)
-
-> 作者： luffy  拉取时间： 2021-04-07 05:57:26
-
- [求 V 友帮起个品牌名字，一旦采用，可以给个百元小红包 ，哈哈，](https://www.v2ex.com/t/768266)
-
-> 作者： dr3am  拉取时间： 2021-04-07 05:57:26
-
- [自己找租房还是有些累，预算没有那么刚性的童鞋建议还是可以考虑一下靠谱的中介](https://www.v2ex.com/t/768249)
-
-> 作者： sidkang  拉取时间： 2021-04-07 05:57:26
-
- [我放弃上海的高薪，选择回老家了！](https://www.v2ex.com/t/768231)
-
-> 作者： iflyapi  拉取时间： 2021-04-07 05:57:26
+> 作者： 已询问  拉取时间： 2021-04-10 05:57:08
 
  [【未通过】辽宁成大生物股份有限公司](http://kcb.sse.com.cn//renewal/xmxq/index.shtml?auditId=436)
 
@@ -692,13 +688,17 @@
 
 > 作者： 已询问  拉取时间： 2021-04-08 05:57:49
 
+ [2021年4月9日外交部发言人赵立坚主持例行记者会(2021_s04_s09)](https://www.fmprc.gov.cn/web/wjdt_674879/fyrbt_674889/t1867867.shtml)
+
+> 作者： null  拉取时间： 2021-04-10 05:57:13
+
+ [2021年4月8日外交部发言人赵立坚主持例行记者会(2021_s04_s08)](https://www.fmprc.gov.cn/web/wjdt_674879/fyrbt_674889/t1867626.shtml)
+
+> 作者： null  拉取时间： 2021-04-10 05:57:13
+
  [2021年4月7日外交部发言人赵立坚主持例行记者会(2021_s04_s07)](https://www.fmprc.gov.cn/web/wjdt_674879/fyrbt_674889/t1867361.shtml)
 
 > 作者： null  拉取时间： 2021-04-08 05:57:50
-
- [2021年4月6日外交部发言人赵立坚主持例行记者会(2021_s04_s06)](https://www.fmprc.gov.cn/web/wjdt_674879/fyrbt_674889/t1867092.shtml)
-
-> 作者： null  拉取时间： 2021-04-07 05:57:27
 
  [👂🏻：饭店里，旁桌一个爷爷生日，小孙女站起说：“祝爷爷茁壮成长！”](https://weibo.com/2816125940/K9XZYcvpy)
 
@@ -716,6 +716,14 @@
 
 > 作者： 偷听bot  拉取时间： 2021-04-08 05:57:52
 
+ [【喷嚏图卦20210409】真正的色盲测试](https://www.dapenti.com/blog/more.asp?name=xilei&id=156240)
+
+> 作者： null  拉取时间： 2021-04-10 05:57:18
+
+ [【喷嚏图卦20210408】这个世界上的事情比较复杂，我们不是每件事情都能做对](https://www.dapenti.com/blog/more.asp?name=xilei&id=156211)
+
+> 作者： null  拉取时间： 2021-04-10 05:57:18
+
  [【喷嚏图卦20210407】网飞有什么](https://www.dapenti.com/blog/more.asp?name=xilei&id=156191)
 
 > 作者： null  拉取时间： 2021-04-08 05:57:52
@@ -723,6 +731,18 @@
  [【喷嚏图卦20210406】不要把手伸得太长了](https://www.dapenti.com/blog/more.asp?name=xilei&id=156160)
 
 > 作者： null  拉取时间： 2021-04-08 05:57:52
+
+ [轻薄曲面旗舰2299元起 realme真我X7 Pro至尊版发布](https://www.cfan.com.cn/2021/0409/135022.shtml)
+
+> 作者： null  拉取时间： 2021-04-10 05:57:21
+
+ [4月9日新闻茶泡Fan](https://www.cfan.com.cn/2021/0409/135021.shtml)
+
+> 作者： null  拉取时间： 2021-04-10 05:57:21
+
+ [智慧交互音画俱佳 新一代华为智慧屏V系列正式发布](https://www.cfan.com.cn/2021/0408/135018.shtml)
+
+> 作者： null  拉取时间： 2021-04-10 05:57:21
 
  [3699元起，拯救者电竞手机2 Pro正式发布，冷静则赢，唯快不破](https://www.cfan.com.cn/2021/0408/135017.shtml)
 
@@ -736,9 +756,13 @@
 
 > 作者： null  拉取时间： 2021-04-08 05:57:55
 
- [4月6日新闻茶泡Fan](https://www.cfan.com.cn/2021/0406/135006.shtml)
+ [2021年4月9日新闻联播文字版](http://www.xwlb.net.cn/19000.html)
 
-> 作者： null  拉取时间： 2021-04-07 05:57:33
+> 作者： null  拉取时间： 2021-04-10 05:57:24
+
+ [2021年4月8日新闻联播文字版](http://www.xwlb.net.cn/18984.html)
+
+> 作者： null  拉取时间： 2021-04-10 05:57:24
 
  [2021年4月7日新闻联播文字版](http://www.xwlb.net.cn/18968.html)
 
@@ -751,6 +775,26 @@
  [粮食流通管理条例](http://www.gov.cn/zhengce/content/2021-04/07/content_5598180.htm)
 
 > 作者： null  拉取时间： 2021-04-08 05:57:57
+
+ [罕见病例之临床上首次被发现的膀胱自酿酒综合征](http://jandan.net/p/108757)
+
+> 作者： majer  拉取时间： 2021-04-10 05:57:42
+
+ [投稿：键鼠与手柄的争论](http://jandan.net/p/108772)
+
+> 作者： 投稿  拉取时间： 2021-04-10 05:57:42
+
+ [你知道吗 天然食用蓝色素其实是超稀有食材](http://jandan.net/p/108770)
+
+> 作者： majer  拉取时间： 2021-04-10 05:57:42
+
+ [亡灵森林：海平面上升致湿地树木成片死亡](http://jandan.net/p/108762)
+
+> 作者： majer  拉取时间： 2021-04-10 05:57:42
+
+ [今日带货：京东好价+天猫精选](http://jandan.net/p/108769)
+
+> 作者： sein  拉取时间： 2021-04-10 05:57:42
 
  [集现代物理之大成者的标准模型又遭重击](http://jandan.net/p/108767)
 
@@ -784,25 +828,29 @@
 
 > 作者： sein  拉取时间： 2021-04-08 05:57:58
 
- [诉讼十年，法槌落定：谷歌赢了甲骨文](http://jandan.net/p/108754)
+ [各类动物对人类历史进程影响如何？](https://daily.zhihu.com/story/9734862)
 
-> 作者： majer  拉取时间： 2021-04-07 05:57:34
+> 作者： null  拉取时间： 2021-04-10 05:57:54
 
- [为什么我们不会对外星生命感到陌生？](http://jandan.net/p/108753)
+ [户外运动，如何省钱、有效的入门及进阶？](https://daily.zhihu.com/story/9734843)
 
-> 作者： icosohedral  拉取时间： 2021-04-07 05:57:34
+> 作者： null  拉取时间： 2021-04-10 05:57:54
 
- [YouTuber实践出真知：不停击打鸡肉，可以把它们加热至熟吗](http://jandan.net/p/108751)
+ [如何在不洗白的前提下，让观众感受到反派的人格魅力？](https://daily.zhihu.com/story/9734853)
 
-> 作者： majer  拉取时间： 2021-04-07 05:57:34
+> 作者： null  拉取时间： 2021-04-10 05:57:54
 
- [天美年收入百亿美元，成为”全球最大的游戏开发商”](http://jandan.net/p/108747)
+ [如何评价电影《我的姐姐》？](https://daily.zhihu.com/story/9734838)
 
-> 作者： majer  拉取时间： 2021-04-07 05:57:34
+> 作者： null  拉取时间： 2021-04-10 05:57:54
 
- [今日带货 210406](http://jandan.net/p/108752)
+ [《哥斯拉大战金刚》中地心空洞是否存在引力？](https://daily.zhihu.com/story/9734842)
 
-> 作者： sein  拉取时间： 2021-04-07 05:57:34
+> 作者： null  拉取时间： 2021-04-10 05:57:54
+
+ [瞎扯 · 如何正确地吐槽](https://daily.zhihu.com/story/9734837)
+
+> 作者： null  拉取时间： 2021-04-10 05:57:54
 
  [从小就胖的人瘦下来的可能性大么？](https://daily.zhihu.com/story/9734835)
 
@@ -852,29 +900,29 @@
 
 > 作者： null  拉取时间： 2021-04-08 05:58:14
 
- [如何把家装修成隐秘的军事堡垒？](https://daily.zhihu.com/story/9734754)
+ [有目的性从来不是对方拒绝你的理由 很多人会想，求人办事会不会显得目的性太强，道德上良心上是不是可耻的？ 明确的说，没有目的的讨好，才是值得怀疑的。以前_d_d_d](https://weibo.com/6543823943/Ka9w1mNZQ)
 
-> 作者： null  拉取时间： 2021-04-07 05:57:38
+> 作者： 野心范  拉取时间： 2021-04-10 05:57:58
 
- [只有人类和海豚才会享受性爱吗？其他动物咧？](https://daily.zhihu.com/story/9734679)
+ [要攻克一个单位，我们只需要做一次开荒牛就够了。 这跟办事情是一样的，你找到了线头，接下来要怎么往下开展。比如你做业务的面首先对接的就是单位的业务部门，_d_d_d](https://weibo.com/6543823943/Ka7GubiCb)
 
-> 作者： null  拉取时间： 2021-04-07 05:57:38
+> 作者： 野心范  拉取时间： 2021-04-10 05:57:58
 
- [蚊子是怎样上到高楼层的？](https://daily.zhihu.com/story/9734767)
+ [我经常碰到圈友私信问的问题是，无法融入宿舍了，班级了，同事了。或者自己对他们付出，渴望一个真实的友情，可是对方却没有因此而响应自己，心灰意又冷，感觉人_d_d_d](https://weibo.com/6543823943/Ka70ntIdw)
 
-> 作者： null  拉取时间： 2021-04-07 05:57:38
+> 作者： 野心范  拉取时间： 2021-04-10 05:57:58
 
- [有哪些关于《哆啦 A 梦》的冷知识？](https://daily.zhihu.com/story/9734743)
+ [聪明人都是输出输入两手抓的。 真正聪明的人，一定是不断阅读的，这一点是最基本的条件，不用怀疑。不读书的人也有所谓的聪明，这种意义的聪明，大多是以会占便_d_d_d](https://weibo.com/6543823943/Ka6tfAbgL)
 
-> 作者： null  拉取时间： 2021-04-07 05:57:38
+> 作者： 野心范  拉取时间： 2021-04-10 05:57:58
 
- [为什么柯南一千话会重制月光曲杀人事件_d2](https://daily.zhihu.com/story/9734772)
+ [做任何事情，都需要有大客户销售的思维 范范就是大客户销售出身，主业就是我置顶微博上写的，做的是项目型生意，打交道的多是大公司大单位的实权派，职业成长轨_d_d_d](https://weibo.com/6543823943/Ka4P9zsS8)
 
-> 作者： null  拉取时间： 2021-04-07 05:57:38
+> 作者： 野心范  拉取时间： 2021-04-10 05:57:58
 
- [瞎扯 · 如何正确地吐槽](https://daily.zhihu.com/story/9734700)
+ [不轻易的评价，做事实的搬运工。 为什么有些人说话这么无懈可击，因为他们从不轻易做判断评价，只是陈述客观事实。 比如，领导问你，部门里有没有迟到早退的现_d_d_d](https://weibo.com/6543823943/Ka4kjaaFB)
 
-> 作者： null  拉取时间： 2021-04-07 05:57:38
+> 作者： 野心范  拉取时间： 2021-04-10 05:57:58
 
  [我们为什么要做一个偏执的人？ 从大的角度说，我们现在不是欧美式的非常成熟的社会，人家都几代人中产生活了。换句话说，反正挣不了什么大钱，按部就班做份体面_d_d_d](https://weibo.com/6543823943/K9ZdTnIAa)
 
@@ -912,17 +960,9 @@
 
 > 作者： 野心范  拉取时间： 2021-04-08 05:58:16
 
- [权力是怎么得来的？ 上级的赋予当然是一种，但与之相伴相生的是，你干的东西得多，经验丰富又熟悉业务。历史上的草根登顶的，几乎都是一样的操作，那就是挑头干_d_d_d](https://weibo.com/6543823943/K9EpM2HFk)
+ [青年图摘0409！这主机箱不错呀](https://qingniantuzhai.com/qing-nian-tu-zhai-0409-2/)
 
-> 作者： 野心范  拉取时间： 2021-04-07 05:57:39
-
- [风格是成功的副产物，是评价体系里的敬辞 风格每个人都有，只是成功了才最终叫风格。不成功的，叫骗子，叫变态，叫奇葩，叫神经病，叫脑子有问题。你们想想那些_d_d_d](https://weibo.com/6543823943/K9CLpsWmK)
-
-> 作者： 野心范  拉取时间： 2021-04-07 05:57:39
-
- [在背后夸人效果会更好 大众最容易犯的一个错误就是，当面夸赞别人好，背地里说人家坏话，这种做法的效果是，表面虚伪，背后狠毒。要经营一个高水平的人际关系，_d_d_d](https://weibo.com/6543823943/K9C2IC1n3)
-
-> 作者： 野心范  拉取时间： 2021-04-07 05:57:39
+> 作者： Chris  拉取时间： 2021-04-10 05:58:01
 
  [青年图摘0408！还能点个小哥来搓澡？](https://qingniantuzhai.com/qing-nian-tu-zhai-0408-5/)
 
@@ -932,9 +972,13 @@
 
 > 作者： Chris  拉取时间： 2021-04-08 05:58:19
 
- [青年图摘0406！灵魂遭受拷问](https://qingniantuzhai.com/qing-nian-tu-zhai-0406-4/)
+ [开源、开放、使能，看华为如何为中国基础软件带来新变化](https://linux.cn/article-13282-1.html?utm_source=rss&utm_medium=rss)
 
-> 作者： Chris  拉取时间： 2021-04-07 05:57:43
+> 作者： bestony@linux_dcn (bestony)  拉取时间： 2021-04-10 05:58:28
+
+ [硬核观察 | 外媒呼吁美国不要打压中国智能电话](https://linux.cn/article-13281-1.html?utm_source=rss&utm_medium=rss)
+
+> 作者： linux@linux_dcn (linux)  拉取时间： 2021-04-10 05:58:28
 
  [你可能是 Rust 程序员的五个迹象](https://linux.cn/article-13280-1.html?utm_source=rss&utm_medium=rss)
 
@@ -968,21 +1012,29 @@
 
 > 作者： linux@linux_dcn (linux)  拉取时间： 2021-04-08 05:58:51
 
- [硬核观察 | 谷歌赢得十年之久的甲骨文版权战](https://linux.cn/article-13272-1.html?utm_source=rss&utm_medium=rss)
+ [Conan 1_d35 _t New [conf] items, new model for dependency traversal, new model for environment variables, new Autotools generators_d](https://blog.conan.io/2021/04/09/New-conan-release-1-35.html)
 
-> 作者： linux@linux_dcn (linux)  拉取时间： 2021-04-07 05:58:34
+> 作者： null  拉取时间： 2021-04-10 05:58:30
 
- [值得现在就去尝试的四款开源聊天应用软件](https://linux.cn/article-13271-1.html?utm_source=rss&utm_medium=rss)
+ [求助，我刚开始用第二种写法发生了线程阻塞，后面单独赋值变量才解决，大佬知道啥原因不](https://rustcc.cn/article?id=536a64cc-807e-427f-bd97-1720a62efdde)
 
-> 作者： linux@linux_dcn (linux)  拉取时间： 2021-04-07 05:58:34
+> 作者： null  拉取时间： 2021-04-10 05:58:32
 
- [如何使用 Linux anacron 命令](https://linux.cn/article-13270-1.html?utm_source=rss&utm_medium=rss)
+ [【Rust日报】2021_s04_s09 tokio 计划发布基于 io_suring 的新运行时](https://rustcc.cn/article?id=0bef976d-17c7-4668-a29c-24afb3e1e1ce)
 
-> 作者： linux@linux_dcn (linux)  拉取时间： 2021-04-07 05:58:34
+> 作者： null  拉取时间： 2021-04-10 05:58:32
 
- [PmuReviewer Preview](http://www.cppblog.com/eryar/archive/2021/04/06/pmureviewer_preview.html)
+ [请问Rust如何获取全局输入的问题](https://rustcc.cn/article?id=48db9fb2-129e-4220-bdba-906b39a8e6c0)
 
-> 作者： eryar  拉取时间： 2021-04-07 05:58:36
+> 作者： null  拉取时间： 2021-04-10 05:58:32
+
+ [有没有大佬推荐rust 实现jvm的相关的文章啊](https://rustcc.cn/article?id=46510298-c443-4b55-85cc-65b20f7d416c)
+
+> 作者： null  拉取时间： 2021-04-10 05:58:32
+
+ [将 Vec<Vec<i32>> 按顺序拼接为一个 Vec<i32>](https://rustcc.cn/article?id=eb14ce56-ca9e-47c7-b4b8-dc26eb150b91)
+
+> 作者： null  拉取时间： 2021-04-10 05:58:32
 
  [使用wsam在浏览器端读取excel文件](https://rustcc.cn/article?id=daf10ba4-b8c4-40f9-a15d-6e9fca42cda1)
 
@@ -1020,13 +1072,9 @@
 
 > 作者： null  拉取时间： 2021-04-08 05:58:56
 
- [【Rust日报】2021_s04_s06 Amadeus _s Rust 大数据处理](https://rustcc.cn/article?id=4697f121-68c5-4a2a-8ef1-8f24263921af)
+ [Daily Hacker News for 2021_s04_s08](https://www.daemonology.net/hn-daily/2021-04-08.html)
 
-> 作者： null  拉取时间： 2021-04-07 05:58:39
-
- [关于rust应用场景](https://rustcc.cn/article?id=9014c175-9300-4651-82bb-4588b1be3d81)
-
-> 作者： null  拉取时间： 2021-04-07 05:58:39
+> 作者： null  拉取时间： 2021-04-10 05:58:34
 
  [Daily Hacker News for 2021_s04_s07](https://www.daemonology.net/hn-daily/2021-04-07.html)
 
@@ -1036,9 +1084,25 @@
 
 > 作者： null  拉取时间： 2021-04-08 05:58:58
 
- [Daily Hacker News for 2021_s04_s05](https://www.daemonology.net/hn-daily/2021-04-05.html)
+ [国内首款 Serverless MySQL 数据库！](https://www.infoq.cn/article/xYSSJHCCCHbdhomgoXIm)
 
-> 作者： null  拉取时间： 2021-04-07 05:58:40
+> 作者： TencentServerless  拉取时间： 2021-04-10 05:58:36
+
+ [npm 依赖管理中被忽略的那些细节](https://www.infoq.cn/article/qJ3Z2YGRZdgicQAuaFFN)
+
+> 作者： 政采云前端团队  拉取时间： 2021-04-10 05:58:36
+
+ [深色模式适配指南](https://www.infoq.cn/article/yfDHT2peZbO3185fU4KI)
+
+> 作者： 政采云前端团队  拉取时间： 2021-04-10 05:58:36
+
+ [编写高质量可维护的代码之优化逻辑判断](https://www.infoq.cn/article/iYkjKQQ2QgIViZrBw7SR)
+
+> 作者： 政采云前端团队  拉取时间： 2021-04-10 05:58:36
+
+ [以微博核心业务为例，解读如何仅用1台服务器支持百万DAU](https://www.infoq.cn/article/PvlK9gXftwXPaHBUaL1J)
+
+> 作者： 微博研发中心基础架构部  拉取时间： 2021-04-10 05:58:36
 
  [滴滴自动驾驶发布全球首个5小时连续无接管路测视频](https://www.infoq.cn/article/fUlKk6ge9T2AKaiF52PZ)
 
@@ -1080,25 +1144,37 @@
 
 > 作者： Bruno  拉取时间： 2021-04-08 05:58:59
 
- [自定义 ESLint 规则，让代码持续美丽](https://www.infoq.cn/article/xFOmGDZxY0ToTPp4NZRW)
+ [发布了头条文章：《Mesos 已死，容器永生》  Mesos 已死，容器永生](https://weibo.com/1746173800/Ka8XnwmI5)
 
-> 作者： 政采云前端团队  拉取时间： 2021-04-07 05:58:41
+> 作者： InfoQ  拉取时间： 2021-04-10 05:58:37
 
- [这 40 多家科技企业，你最想加入哪一家？](https://www.infoq.cn/article/GAdTxwJwkamSIM3g7vLl)
+ [恭喜@四月与阳光 等3名用户等额平分【207元现金】。微博官方唯一抽奖工具@微博抽奖平台 _s高级版对本次抽奖进行监督，结果公正有效。公示链接：微博抽奖平台 _s 转_d_d_d](https://weibo.com/1746173800/Ka8Ahy06o)
 
-> 作者： InfoQ编辑部  拉取时间： 2021-04-07 05:58:41
+> 作者： InfoQ  拉取时间： 2021-04-10 05:58:37
 
- [拥抱 Vue 3 系列之 JSX 语法](https://www.infoq.cn/article/OpoCZuuraHOZmPR9Xkxr)
+ [直播中 | 二爷和池老师的脱口秀10 年资深产品经理邱岳+极客时间创始人池建强，针对「小米 logo 升级」「知识付费」等话题在线 Battle，观看戳>>>网页链接 [图片]](https://weibo.com/1746173800/Ka8mQ0mAz)
 
-> 作者： 政采云前端团队  拉取时间： 2021-04-07 05:58:41
+> 作者： InfoQ  拉取时间： 2021-04-10 05:58:37
 
- [设计一个 RISC_sV CPU，第 1 部分：软件工程师如何学习硬件设计](https://www.infoq.cn/article/ImeTgCPtCCzpiShdHBv6)
+ [#小Q分享# 《云原生 2_d0 进阶：无所不及的全栈智能》“云原生”作为云计算时代的核心理念，以平滑迁移、快速开发以及稳定运维等技术优势，逐渐成为企业数字化转_d_d_d](https://weibo.com/1746173800/Ka7MjiW6f)
 
-> 作者： lochsh  拉取时间： 2021-04-07 05:58:41
+> 作者： InfoQ  拉取时间： 2021-04-10 05:58:37
 
- [90亿美元Java纠纷案反转：安卓中复制的代码属于合理使用](https://www.infoq.cn/article/mHLxYpTmqEl8jo5D5vZA)
+ [🔥今晚 20_t00 滴滴云商业数据负责人张亮将直播分享 《滴滴 Logi 日志管理与分析平台》，免费预约戳>>网页链接 [图片]](https://weibo.com/1746173800/Ka6Bf9UIq)
 
-> 作者： 罗燕珊  拉取时间： 2021-04-07 05:58:41
+> 作者： InfoQ  拉取时间： 2021-04-10 05:58:37
+
+ [恭喜@有一种悲伤留在过往 等2名用户等额平分【200元现金】。微博官方唯一抽奖工具@微博抽奖平台 _s高级版对本次抽奖进行监督，结果公正有效。公示链接：微博抽奖_d_d_d](https://weibo.com/1746173800/Ka5sefxY3)
+
+> 作者： InfoQ  拉取时间： 2021-04-10 05:58:37
+
+ [Django 是目前最全面、最受欢迎的 Python Web 开发框架，前大众点评搜索负责人吕召刚，带你理清项目设计中常见问题的处理思路，掌握两天内交付 Django 项目的开_d_d_d](https://weibo.com/1746173800/Ka51PwGRu)
+
+> 作者： InfoQ  拉取时间： 2021-04-10 05:58:37
+
+ [#小Q分享# 《首次贡献代码 7 年后，微软正式发布 OpenJDK 预览版》Microsoft Build of OpenJDK 预览版本发布北京时间 4 月 7 日，微软发布了其构建的 OpenJDK 预_d_d_d](https://weibo.com/1746173800/Ka3QLjgcG)
+
+> 作者： InfoQ  拉取时间： 2021-04-10 05:58:37
 
  [恭喜@那泰乌上天 等2名用户等额平分【200元现金】。微博官方唯一抽奖工具@微博抽奖平台 _s高级版对本次抽奖进行监督，结果公正有效。公示链接：微博抽奖平台 _s 转_d_d_d](https://weibo.com/1746173800/Ka0ks34HN)
 
@@ -1144,17 +1220,21 @@
 
 > 作者： InfoQ  拉取时间： 2021-04-08 05:59:00
 
- [发布了头条文章：《从上云到业务创新，阿里云提供了哪些数字化的最短路径？》  从上云到业务创新，阿里云提供了哪些数字化的最短路径？](https://weibo.com/1746173800/K9EjL97l7)
-
-> 作者： InfoQ  拉取时间： 2021-04-07 05:58:42
-
- [【有奖调研】在数字化转型的浪潮下，许多企业和开发者面临不知道如何选择合适的工具的问题。欢迎参与本次调研，留下你在数字化转型中最为关注的技术方向及对IT基_d_d_d](https://weibo.com/1746173800/K9COmqPOV)
-
-> 作者： InfoQ  拉取时间： 2021-04-07 05:58:42
-
  [P图大师在线搞事，你来描述我来P](https://cuijiahua.com/blog/2021/04/ai-15.html)
 
 > 作者： Jack Cui  拉取时间： 2021-04-08 05:59:02
+
+ [终于来了，IDEA 2021_d1版本正式发布，完美支持WSL 2](https://segmentfault.com/a/1190000039790162)
+
+> 作者： 空无  拉取时间： 2021-04-10 05:58:49
+
+ [竞拍系统设计（秒杀系统知识迁移）](https://segmentfault.com/a/1190000039796542)
+
+> 作者： sengerlion  拉取时间： 2021-04-10 05:58:49
+
+ [⚡️ React Native 启动速度优化——Native 篇（内含源码分析）](https://segmentfault.com/a/1190000039797508)
+
+> 作者： 卤代烃  拉取时间： 2021-04-10 05:58:49
 
  [[项目实战] Webpack to Vite， 为开发提速！](https://segmentfault.com/a/1190000039795956)
 
@@ -1188,13 +1268,37 @@
 
 > 作者： xiangzhihong  拉取时间： 2021-04-08 05:59:12
 
- [硬核图解红黑树并手写实现](https://segmentfault.com/a/1190000039774810)
+ [《今日学术视野(2021_d4_d10)》网页链接](https://weibo.com/1402400261/KachIw7uJ)
 
-> 作者： Silently9527  拉取时间： 2021-04-07 05:58:54
+> 作者： 爱可可_s爱生活  拉取时间： 2021-04-10 05:58:49
 
- [setState详解与React性能优化](https://segmentfault.com/a/1190000039776687)
+ [早！[太阳] #早安# [图片]](https://weibo.com/1402400261/Kacfv9aBx)
 
-> 作者： 风不识途  拉取时间： 2021-04-07 05:58:54
+> 作者： 爱可可_s爱生活  拉取时间： 2021-04-10 05:58:49
+
+ [晚安～ [月亮] #晚安# 爱可可_s爱生活的微博视频](https://weibo.com/1402400261/Ka9hIiP4p)
+
+> 作者： 爱可可_s爱生活  拉取时间： 2021-04-10 05:58:49
+
+ [《爱可可老师24小时热门分享(2021_d4_d9)》  爱可可老师24小时热门分享(2021_d4_d9)](https://weibo.com/1402400261/Ka9h31ehy)
+
+> 作者： 爱可可_s爱生活  拉取时间： 2021-04-10 05:58:49
+
+ [你有没有这样一个同门？[doge] 爱可可_s爱生活的微博视频](https://weibo.com/1402400261/Ka8VVC7xY)
+
+> 作者： 爱可可_s爱生活  拉取时间： 2021-04-10 05:58:49
+
+ [[偷笑] [图片]](https://weibo.com/1402400261/Ka8pq8AZO)
+
+> 作者： 爱可可_s爱生活  拉取时间： 2021-04-10 05:58:49
+
+ [“脑机接口新进展：用“意念”打乒乓的猴子” src_t网页链接 爱可可_s爱生活的微博视频](https://weibo.com/1402400261/Ka8ltqcLb)
+
+> 作者： 爱可可_s爱生活  拉取时间： 2021-04-10 05:58:49
+
+ [“别给不好的代码加注释，重写吧。” _s Brian W_d Kernighan](https://weibo.com/1402400261/Ka7Wq4sRe)
+
+> 作者： 爱可可_s爱生活  拉取时间： 2021-04-10 05:58:49
 
  [[SI]《PageRank centrality and algorithms for weighted, directed networks with applications to World Input_sOutput Tables》P Zhang, T Wang, J Yan [Unive_d_d_d](https://weibo.com/1402400261/Ka2QD567s)
 
@@ -1256,33 +1360,45 @@
 
 > 作者： 爱可可_s爱生活  拉取时间： 2021-04-08 05:59:13
 
- [[CV]《Transferable Visual Words_t Exploiting the Semantics of Anatomical Patterns for Self_ssupervised Learning》F Haghighi, M R H Taher, Z Zhou, M B_d G_d_d_d](https://weibo.com/1402400261/K9K1Uxdkc)
+ [【Greeks Bearing Gifts_t tracking the labyrinthine path of technology’s progress】网页链接 带着礼物的希腊人：追踪技术进步的迷宫之路 。 [图片][图片][图_d_d_d](https://weibo.com/1715118170/KacinfAOc)
 
-> 作者： 爱可可_s爱生活  拉取时间： 2021-04-07 05:58:55
+> 作者： 网路冷眼  拉取时间： 2021-04-10 05:58:54
 
- [《今日学术视野(2021_d4_d7)》网页链接](https://weibo.com/1402400261/K9JRXCmB1)
+ [【Two new high_sseverity OpenSSL security advisories】网页链接 两个新的高严重性OpenSSL安全公告。 [图片]](https://weibo.com/1715118170/Kac6mjr7B)
 
-> 作者： 爱可可_s爱生活  拉取时间： 2021-04-07 05:58:55
+> 作者： 网路冷眼  拉取时间： 2021-04-10 05:58:54
 
- [早！[太阳] #早安# [图片]](https://weibo.com/1402400261/K9JOPt1Rd)
+ [【Uwuify — fastest text uwuifier in the west】网页链接 Uwuify_s西方最快的文字uwuifier。 [图片]](https://weibo.com/1715118170/Kaaxf8mh5)
 
-> 作者： 爱可可_s爱生活  拉取时间： 2021-04-07 05:58:55
+> 作者： 网路冷眼  拉取时间： 2021-04-10 05:58:54
 
- [晚安～ [月亮] #晚安# [图片][图片]](https://weibo.com/1402400261/K9GZdbHVI)
+ [【Deep genetic affinity between coastal Pacific and Amazonian natives】网页链接  太平洋沿岸和亚马逊河土著之间的深厚遗传亲缘关系 。 [图片][图片][图片]](https://weibo.com/1715118170/KaakBvHCM)
 
-> 作者： 爱可可_s爱生活  拉取时间： 2021-04-07 05:58:55
+> 作者： 网路冷眼  拉取时间： 2021-04-10 05:58:54
 
- [《爱可可老师24小时热门分享(2021_d4_d6)》  爱可可老师24小时热门分享(2021_d4_d6)](https://weibo.com/1402400261/K9GYKfiGP)
+ [【Home_sBuilt Scanning Tunneling Microscope】网页链接 家用扫描隧道显微镜。 [图片][图片]](https://weibo.com/1715118170/Ka9WfsktE)
 
-> 作者： 爱可可_s爱生活  拉取时间： 2021-04-07 05:58:55
+> 作者： 网路冷眼  拉取时间： 2021-04-10 05:58:54
 
- [[笑而不语] [图片]](https://weibo.com/1402400261/K9GwftgBl)
+ [【How Netflix Scales Its API with GraphQL Federation】网页链接 Netflix如何通过GraphQL Federation扩展其API？（油管视频） [图片]](https://weibo.com/1715118170/Ka9KugotL)
 
-> 作者： 爱可可_s爱生活  拉取时间： 2021-04-07 05:58:55
+> 作者： 网路冷眼  拉取时间： 2021-04-10 05:58:54
 
- [1944年，联邦调查局的指纹档案柜 [图片]](https://weibo.com/1402400261/K9GrY66Tw)
+ [【GnuCOBOL – a free_blibre COBOL compiler】网页链接 GnuCOBOL_s一个免费的自由的COBOL编译器。 [图片][图片][图片]](https://weibo.com/1715118170/Ka9xTwEEA)
 
-> 作者： 爱可可_s爱生活  拉取时间： 2021-04-07 05:58:55
+> 作者： 网路冷眼  拉取时间： 2021-04-10 05:58:54
+
+ [【Why All My Servers Have an 8GB Empty File】网页链接 为什么我所有的服务器都有8GB大小的空文件？ [图片]](https://weibo.com/1715118170/Ka9lX3Mtb)
+
+> 作者： 网路冷眼  拉取时间： 2021-04-10 05:58:54
+
+ [转发微博 _s 转发 @网路冷眼_t&ensp;#冷眼赠书福利#联合@图灵教育 送出 5 本助你消灭文档痛点的《活文档：与代码共同演进》。截止 4 月 13 日，转发此微博并关注@_d_d_d](https://weibo.com/1715118170/Ka9fDx3Ct)
+
+> 作者： 网路冷眼  拉取时间： 2021-04-10 05:58:54
+
+ [【FDA approves first test of CRISPR for genetic defect causing sickle cell disease】网页链接 美国食品药品监督管理局（FDA）批准了针对导致镰状细胞病的遗_d_d_d](https://weibo.com/1715118170/Ka99xwzQt)
+
+> 作者： 网路冷眼  拉取时间： 2021-04-10 05:58:54
 
  [【Arc, an open_ssource Databricks alternative】网页链接 Arc，Databricks的开源替代方案。](https://weibo.com/1715118170/Ka2G85Qr7)
 
@@ -1356,45 +1472,25 @@
 
 > 作者： 网路冷眼  拉取时间： 2021-04-08 05:59:18
 
- [【Project Pockit, a modular ARM computer runnig Linux】网页链接 Project Pockit，运行Linux的模块化ARM计算机。 [图片]](https://weibo.com/1715118170/K9JP2pPhZ)
+ [支持，哈哈哈 _s 转发 @疲惫的太阳Orz_t&ensp;看新闻那个深房理被安排了。。那个大土豆什么时候也安排一下](https://weibo.com/1642628345/Ka8Q4ddk3)
 
-> 作者： 网路冷眼  拉取时间： 2021-04-07 05:58:59
+> 作者： 玩家老C  拉取时间： 2021-04-10 05:58:55
 
- [【Two dies in one package_t Teardown of a vintage ROM with double the storage】网页链接 一个封装中有两个管芯：拆卸老式ROM，存储空间增加一倍 。 [图片]](https://weibo.com/1715118170/K9IfLd40K)
+ [_b_b@aglaialy_t这就是认知陷阱：一个人做的每一步决定都是认知范围内正确的，但积累到最后的结果是不好的。要避免错误的方法很简单，但也很困难，那就是，不做自己_d_d_d](https://weibo.com/1642628345/Ka8cx5KQy)
 
-> 作者： 网路冷眼  拉取时间： 2021-04-07 05:58:59
+> 作者： 玩家老C  拉取时间： 2021-04-10 05:58:55
 
- [【NSA Issues Guidance on Zero Trust Security Model】网页链接 国家安全局发布零信任安全模型指南 。 [图片]](https://weibo.com/1715118170/K9HRqlCQL)
+ [这是黑天鹅这本书里的观点 _s 转发 @玩家老C_t&ensp;一只鸡被主人养了100天以后宰了吃。前面的99天，每次主人一来都有东西吃，于是鸡归纳出了主人不会宰我的结论。_d_d_d](https://weibo.com/1642628345/Ka7rzmf12)
 
-> 作者： 网路冷眼  拉取时间： 2021-04-07 05:58:59
+> 作者： 玩家老C  拉取时间： 2021-04-10 05:58:55
 
- [【enkiTS_t A C and C++ Task Scheduler for creating parallel programs】 网页链接 enkiTS_t 一个C和C++任务调度程序，用于创建并行程序 。 [图片][图片][图片]](https://weibo.com/1715118170/K9HELiJI1)
+ [一只鸡被主人养了100天以后宰了吃。前面的99天，每次主人一来都有东西吃，于是鸡归纳出了主人不会宰我的结论。而就在最后一天，鸡的安全感累积下来最高的那一天_d_d_d](https://weibo.com/1642628345/Ka7osnJUL)
 
-> 作者： 网路冷眼  拉取时间： 2021-04-07 05:58:59
+> 作者： 玩家老C  拉取时间： 2021-04-10 05:58:55
 
- [【Reclist_dme – Share your favorite books, podcasts, newsletters】网页链接 Reclist_dme –分享您最喜欢的书，播客，新闻稿。 [图片]](https://weibo.com/1715118170/K9Ht1tJh7)
+ [转发 _s 转发 @毽客逆风飞扬_t&ensp;#毽客视线#全国卡友们你们好，当你们看到这封信时我大概离死亡还有6个小时。我不是不值2000元钱，我是为了广大卡车司机说句话_d_d_d](https://weibo.com/1642628345/Ka4lcjYKL)
 
-> 作者： 网路冷眼  拉取时间： 2021-04-07 05:58:59
-
- [转发微博 _s 转发 @网路冷眼_t&ensp;#冷眼赠书福利# 联合 @博文视点Broadview 送出5本《绝非偶然：撬动星球的头部效应》。截止4月9日，转发此微博并关注 @网路冷眼_d_d_d](https://weibo.com/1715118170/K9HajFggY)
-
-> 作者： 网路冷眼  拉取时间： 2021-04-07 05:58:59
-
- [【DARPA now has AI_scontrolled F_s16s working as a team in virtual dogfights】网页链接 国防高级研究计划局现在有人工智能控制的F_s16作为一个团队在虚拟格斗_d_d_d](https://weibo.com/1715118170/K9H4N8zkx)
-
-> 作者： 网路冷眼  拉取时间： 2021-04-07 05:58:59
-
- [转发微博 _s 转发 @网路冷眼_t&ensp;#冷眼赠书福利#联合@图灵教育 送出 5 本助你消灭文档痛点的《活文档：与代码共同演进》。截止 4 月 13 日，转发此微博并关注@_d_d_d](https://weibo.com/1715118170/K9GY8BVSF)
-
-> 作者： 网路冷眼  拉取时间： 2021-04-07 05:58:59
-
- [【Design for Performance And Effectiveness】网页链接 性能和有效性设计。 [图片][图片][图片]](https://weibo.com/1715118170/K9GS3mZ8k)
-
-> 作者： 网路冷眼  拉取时间： 2021-04-07 05:58:59
-
- [转发微博 _s 转发 @网路冷眼_t&ensp;#冷眼赠书福利#联合@华章图书 @华章计算机科学 送出5本 《互联网的设计和演化》 ！因特网设计师亲自执笔， “互联网之父”、图_d_d_d](https://weibo.com/1715118170/K9GLYweOa)
-
-> 作者： 网路冷眼  拉取时间： 2021-04-07 05:58:59
+> 作者： 玩家老C  拉取时间： 2021-04-10 05:58:55
 
  [感觉是不是来自印度的访问量最多吧 _s 转发 @蚁工厂_t&ensp;如果不小心把github打成guthib，会出来这个页面网页链接 [图片]](https://weibo.com/1642628345/K9ZDKFKG7)
 
@@ -1432,14 +1528,6 @@
 
 > 作者： 玩家老C  拉取时间： 2021-04-08 05:59:19
 
- [非常好的建议 _s 转发 @严锋_t&ensp;人最好培养在某个领域拥有全面的、绝对的、压倒性的知识和技能，那是一种非常好的感觉，足以应付许多生活问题和心理创伤。这个_d_d_d](https://weibo.com/1642628345/K9GIjlCvm)
+ [科技爱好者周刊（第 153 期）：机器翻译是对译者的侮辱吗？](http://www.ruanyifeng.com/blog/2021/04/weekly-issue-153.html)
 
-> 作者： 玩家老C  拉取时间： 2021-04-07 05:59:00
-
- [这个链接对GNU coreutils 8_d3每个命令实现都做了详细分析，有整体实现分析图和具体源码解析：网页链接](https://weibo.com/1642628345/K9CaBmLGn)
-
-> 作者： 玩家老C  拉取时间： 2021-04-07 05:59:00
-
- [_b_b@算法组_t转发微博 _s 转发 @环球震惊局_t&ensp;【神一样的存在：有关尼古拉·特斯拉的一生以及贡献的纪录片（上、下篇合集）】“我懂的比上帝还多，我甚至能劈开_d_d_d](https://weibo.com/1642628345/K9BfaqshL)
-
-> 作者： 玩家老C  拉取时间： 2021-04-07 05:59:00
+> 作者： null  拉取时间： 2021-04-10 05:58:55
