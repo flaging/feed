@@ -18,7 +18,55 @@
 
 ## 今日更新
 
-## 2021-7-20
+## 2021-7-21
+
+ [超八成台湾企业已开始计划部署人工智能](https://www.jiqizhixin.com/articles/2021-07-20-10)
+
+> 作者： 机器之能  拉取时间： 2021-07-21 05:50:22
+
+ [IBM沃森十年：AI医疗，黄粱一梦](https://www.jiqizhixin.com/articles/2021-07-20-9)
+
+> 作者： 机器之能  拉取时间： 2021-07-21 05:50:22
+
+ [锂离子带给动力电池的「爱与恨」](https://www.jiqizhixin.com/articles/2021-07-20-8)
+
+> 作者： AutoByte  拉取时间： 2021-07-21 05:50:22
+
+ [美国加大科技资金投入，试图复制美国国防高级研究计划局的成功](https://www.jiqizhixin.com/articles/2021-07-20-7)
+
+> 作者： ScienceAI  拉取时间： 2021-07-21 05:50:22
+
+ [37页pdf，埃默里大学最新「大数据时代事件预测」综述，ACM顶级期刊上发表](https://www.jiqizhixin.com/articles/2021-07-20-5)
+
+> 作者： 机器之心  拉取时间： 2021-07-21 05:50:22
+
+ [扫鼻子找狗子：支付宝上线宠物鼻纹识别，一键报失，全民帮寻](https://www.jiqizhixin.com/articles/2021-07-20-4)
+
+> 作者： 机器之心  拉取时间： 2021-07-21 05:50:22
+
+ [多大获杰出论文奖，田渊栋、陆昱成获荣誉提名，ICML 2021奖项公布](https://www.jiqizhixin.com/articles/2021-07-20-3)
+
+> 作者： 机器之心  拉取时间： 2021-07-21 05:50:22
+
+ [WAIC 2021 | 思谋科技刘枢：赋能制造业需要什么样的算法平台？](https://www.jiqizhixin.com/articles/2021-07-20-2)
+
+> 作者： 机器之心  拉取时间： 2021-07-21 05:50:22
+
+ [人人皆可变身黄金圣斗士：微视用AI一键燃烧小宇宙，还有不同星座可选](https://www.jiqizhixin.com/articles/2021-07-20)
+
+> 作者： 机器之心  拉取时间： 2021-07-21 05:50:22
+
+ [字节跳动多篇论文入选 CVPR 2021，精选干货都在这里了](https://www.jiqizhixin.com/articles/2021-06-28-8)
+
+> 作者： 字节跳动技术范儿  拉取时间： 2021-07-21 05:50:22
+
+ [图模型句法分析第一讲：随机游走之拒绝采样](https://www.jiqizhixin.com/articles/2021-07-08-13)
+
+> 作者： 快商通  拉取时间： 2021-07-21 05:50:22
+
+ [Triton推理服务器在阿里云机器学习PAI_sEAS公测啦！！！](https://www.jiqizhixin.com/articles/2021-07-19-4)
+
+> 作者： 阿里云大数据AI技术  拉取时间： 2021-07-21 05:50:22
 
  [只需1台CPU跑600多秒，GNN快速有效优化蛋白质模型](https://www.jiqizhixin.com/articles/2021-07-19-10)
 
@@ -60,6 +108,26 @@
 
 > 作者： 机器之心  拉取时间： 2021-07-19 05:50:38
 
+ [一日一技｜为群晖套件创建桌面独立客户端](https://sspai.com/post/67769)
+
+> 作者： 化学心情下2  拉取时间： 2021-07-21 05:50:25
+
+ [即便快门很快，我也还是想教你如何慢慢冲洗一张照片](https://sspai.com/post/67767)
+
+> 作者： 许万里Alva  拉取时间： 2021-07-21 05:50:25
+
+ [一派·Podcast｜2021 年，什么样的数字科技产品更有趣？](https://sspai.com/post/67790)
+
+> 作者： 一派Podcast  拉取时间： 2021-07-21 05:50:25
+
+ [在琐碎生活中寻找小小仪式感，我这样记录自己的生活](https://sspai.com/post/67778)
+
+> 作者： 胖鱼要进步  拉取时间： 2021-07-21 05:50:25
+
+ [派早报：iOS 14_d7 于本日推送、工信部公布新一批侵害用户权益行为的 App 等](https://sspai.com/post/67793)
+
+> 作者： 少数派编辑部  拉取时间： 2021-07-21 05:50:25
+
  [派评 | 近期值得关注的 App](https://sspai.com/post/67785)
 
 > 作者： 少数派编辑部  拉取时间： 2021-07-20 05:50:24
@@ -92,13 +160,13 @@
 
 > 作者： 少数派编辑部  拉取时间： 2021-07-19 05:50:41
 
- [一站式图片处理工具，老牌压图工具大更新：Squash 3](https://sspai.com/post/67655)
+ [Versefy – 为 Spotify、TIDAL、VLC、foobar2000、Winamp 匹配并下载歌词[Windows]](https://www.appinn.com/versefy-view-the-lyrics-for-win/)
 
-> 作者： SpencerWoo  拉取时间： 2021-07-18 05:50:31
+> 作者： 青小蛙  拉取时间： 2021-07-21 05:50:26
 
- [除了上新还有折扣：来看看这 5 款为「苹果全家桶」用户准备的配件](https://sspai.com/post/67729)
+ [Layouts – 保存窗口大小与位置布局，并随时恢复[macOS]](https://www.appinn.com/layouts-for-macos/)
 
-> 作者： 吃派的水獭  拉取时间： 2021-07-18 05:50:31
+> 作者： 青小蛙  拉取时间： 2021-07-21 05:50:26
 
  [Typeshift – 我愿称之为“词独（Wordoku）”的拼词游戏[iPhone_bAndroid]](https://www.appinn.com/typeshift-game/)
 
@@ -115,10 +183,6 @@
  [ExtractNow – 批量解压缩加密压缩包、二级解压缩，支持从 Windows 95 到 Windows 11 的操作系统](https://www.appinn.com/extractnow-for-windows/)
 
 > 作者： 青小蛙  拉取时间： 2021-07-19 05:50:42
-
- [Road Trip MPG Lite – 纯粹的油耗记录应用[iPhone]](https://www.appinn.com/road-trip-mpg-lite/)
-
-> 作者： 青小蛙  拉取时间： 2021-07-18 05:50:33
 
  [A CSS_sonly reaction component using emoji](https://dev.to/afif/a-css-only-reaction-component-using-emoji-28i4)
 
@@ -324,6 +388,34 @@
 
 > 作者： Google AI (noreply@blogger_dcom)  拉取时间： 2021-07-20 05:50:32
 
+ [46项大奖！俄罗斯催泪动画「绳索人生」](https://www.vmovier.com/62542)
+
+> 作者： null  拉取时间： 2021-07-21 05:50:36
+
+ [王一博超燃励志广告「中国有安踏」](https://www.vmovier.com/62532)
+
+> 作者： null  拉取时间： 2021-07-21 05:50:36
+
+ [小贱贱爆笑短剧「还能如此宣传」](https://www.vmovier.com/62544)
+
+> 作者： null  拉取时间： 2021-07-21 05:50:36
+
+ [史上最燃欧洲杯广告「当足球遇上摇滚」](https://www.vmovier.com/62541)
+
+> 作者： null  拉取时间： 2021-07-21 05:50:36
+
+ [恐怖办公室系列「病态社畜」](https://www.vmovier.com/62533)
+
+> 作者： null  拉取时间： 2021-07-21 05:50:36
+
+ [神奇科幻CG动画「在未来」](https://www.vmovier.com/62527)
+
+> 作者： null  拉取时间： 2021-07-21 05:50:36
+
+ [风暴大神史诗级新作「风起云涌」](https://www.vmovier.com/62543)
+
+> 作者： null  拉取时间： 2021-07-21 05:50:36
+
  [2020 东京奥运会宣传片「东京酷吗」](https://www.vmovier.com/62534)
 
 > 作者： null  拉取时间： 2021-07-20 05:50:41
@@ -368,6 +460,18 @@
 
 > 作者： null  拉取时间： 2021-07-19 05:50:55
 
+ [国家发展改革委举行7月份新闻发布会 介绍宏观经济运行情况并回应热点问题](https://www.ndrc.gov.cn/xwdt/xwfb/202107/t20210719_1290743.html)
+
+> 作者： null  拉取时间： 2021-07-21 05:50:39
+
+ [新闻发布会通知](https://www.ndrc.gov.cn/xwdt/xwfb/202107/t20210716_1290591.html)
+
+> 作者： null  拉取时间： 2021-07-21 05:50:39
+
+ [2021年7月12日24时起国内成品油价格按机制上调](https://www.ndrc.gov.cn/xwdt/xwfb/202107/t20210712_1290249.html)
+
+> 作者： null  拉取时间： 2021-07-21 05:50:39
+
  [《八佰》观后感](https://4ark.me/posts/ba-bai-review/)
 
 > 作者： null  拉取时间： 2021-07-19 05:57:42
@@ -375,6 +479,18 @@
  [深度分析 Golang Sync_dPool 底层原理](https://www.cyhone.com/articles/think-in-sync-pool/)
 
 > 作者： null  拉取时间： 2021-07-19 05:57:47
+
+ [WeightScale_t Interpreting Weight Change in Neural Networks](https://www.reddit.com/r/DeepLearningPapers/comments/ooa0xq/weightscale_interpreting_weight_change_in_neural/)
+
+> 作者： _bu_bmrisonpike  拉取时间： 2021-07-21 05:57:56
+
+ [From Oxford researchers_t State of the art odometry system for legged robots! (Odometry is the use of data from motion sensors to estimate the change in position over time)](https://www.reddit.com/r/DeepLearningPapers/comments/onte1x/from_oxford_researchers_state_of_the_art_odometry/)
+
+> 作者： _bu_bcv2020br  拉取时间： 2021-07-21 05:57:56
+
+ [From Apple researchers_t State of the art in 3D view synthesis! v](https://www.reddit.com/r/DeepLearningPapers/comments/onpwid/from_apple_researchers_state_of_the_art_in_3d/)
+
+> 作者： _bu_bfullerhouse570  拉取时间： 2021-07-21 05:57:56
 
  [​​wav2vec 2_d0_t A Framework for Self_sSupervised Learning of Speech Representations](https://www.reddit.com/r/DeepLearningPapers/comments/onh4xp/wav2vec_20_a_framework_for_selfsupervised/)
 
@@ -384,45 +500,81 @@
 
 > 作者： _bu_bKirillTheMunchKing  拉取时间： 2021-07-19 05:59:55
 
- [The future of autonomous robots in factories _s Autonomous Robotic Cutting!](https://www.reddit.com/r/DeepLearningPapers/comments/omdjes/the_future_of_autonomous_robots_in_factories/)
-
-> 作者： _bu_bcv2020br  拉取时间： 2021-07-18 06:00:46
-
  [Cloud for Deep Learning training](https://www.reddit.com/r/pytorch/comments/omjwpb/cloud_for_deep_learning_training/)
 
 > 作者： _bu_bgrid_world  拉取时间： 2021-07-19 05:59:56
 
- [Issue with torch_dload() with torch version 1_d4](https://www.reddit.com/r/pytorch/comments/omafr5/issue_with_torchload_with_torch_version_14/)
+ [Build fast, sparse on_sdevice models with the new TF MOT Pruning API](https://blog.tensorflow.org/2021/07/build-fast-sparse-on-device-models-with-tf-mot-pruning-api.html)
 
-> 作者： _bu_bOutlandishnessOk4575  拉取时间： 2021-07-18 06:00:47
+> 作者： TensorFlow Blog (noreply@blogger_dcom)  拉取时间： 2021-07-21 05:57:58
 
- [Is there a difference between gradient accumulation vs loss accumulation_d2](https://www.reddit.com/r/pytorch/comments/om1f7j/is_there_a_difference_between_gradient/)
+ [[hiring] Linux HPC Systems Engineer at the University of Vermont](https://www.reddit.com/r/HPC/comments/onpiit/hiring_linux_hpc_systems_engineer_at_the/)
 
-> 作者： _bu_bsitmo  拉取时间： 2021-07-18 06:00:47
-
- [Is there a seq2seq model in time series analysis_d2](https://www.reddit.com/r/pytorch/comments/ols9l9/is_there_a_seq2seq_model_in_time_series_analysis/)
-
-> 作者： _bu_bnoodlepotato  拉取时间： 2021-07-18 06:00:47
+> 作者： _bu_bmgainvt  拉取时间： 2021-07-21 05:59:40
 
  [Pure Python & Numpy openMP_sstyle parallel for_sloops based on POSIX shared memory and forks for Unix_slike systems (with changes, this could also work on Windows)](https://www.reddit.com/r/HPC/comments/omn4l3/pure_python_numpy_openmpstyle_parallel_forloops/)
 
 > 作者： _bu_bpleiszenburg  拉取时间： 2021-07-19 06:01:38
 
- [腾讯也要“造芯”？官方回应来了！科技巨头纷纷入局，概念股业绩大涨（名单）](https://m.21jingji.com/article/20210717/herald/e7687bbcbd594348adbf3bd5c0dbe406.html)
+ [最新大数据！这类人，升职最快！](https://m.21jingji.com/article/20210720/herald/b0dfdd95ee14ff63a91c7643d97f76b3.html)
 
-> 作者： null  拉取时间： 2021-07-18 06:02:32
+> 作者： null  拉取时间： 2021-07-21 05:59:42
 
- [双汇“太子”爆料被罢免内幕：父子反目，儿子头撞玻璃，现场冲突细节曝光](https://m.21jingji.com/article/20210717/herald/b7b1376160c107c50585934d3aebfb11.html)
+ [上半年人均可支配收入榜：上海首破4万，10省份跑赢全国](https://m.21jingji.com/article/20210719/herald/79263f17aa195d172f6fd6e6eb9c2b20.html)
 
-> 作者： null  拉取时间： 2021-07-18 06:02:32
+> 作者： null  拉取时间： 2021-07-21 05:59:42
+
+ [一线新一线城市“单身指数”普涨：年轻人口涌入拉低家庭户规模，东莞平均一户不足2人](https://m.21jingji.com/article/20210720/herald/964d175513428dfaa203f2790afa5482.html)
+
+> 作者： null  拉取时间： 2021-07-21 05:59:42
+
+ [“吴亦凡事件”发酵！多家品牌终止合作，央视火速下架其内容](https://m.21jingji.com/article/20210719/herald/99f91c5a8802d98c448654a474bbadc8.html)
+
+> 作者： null  拉取时间： 2021-07-21 05:59:42
+
+ [Comic for 2021_d07_d20](http://www.explosm.net/comics/5928/)
+
+> 作者： null  拉取时间： 2021-07-21 05:59:42
+
+ [Comic for 2021_d07_d19](http://www.explosm.net/comics/5927/)
+
+> 作者： null  拉取时间： 2021-07-21 05:59:42
 
  [Comic for 2021_d07_d18](http://www.explosm.net/comics/5926/)
 
 > 作者： null  拉取时间： 2021-07-20 06:02:09
 
- [Comic for 2021_d07_d17](http://www.explosm.net/comics/5925/)
+ [开着特斯拉从广州到苏州的小记](https://www.v2ex.com/t/790678)
 
-> 作者： null  拉取时间： 2021-07-18 06:02:32
+> 作者： djyde  拉取时间： 2021-07-21 06:00:33
+
+ [Magsafe 外接电池是我今年买过最垃圾的苹果产品](https://www.v2ex.com/t/790635)
+
+> 作者： t4we  拉取时间： 2021-07-21 06:00:33
+
+ [有 V 友使用 vs code 开发 Java 大型项目吗](https://www.v2ex.com/t/790624)
+
+> 作者： superbai  拉取时间： 2021-07-21 06:00:33
+
+ [专升本进大厂？](https://www.v2ex.com/t/790613)
+
+> 作者： x940727  拉取时间： 2021-07-21 06:00:33
+
+ [对于程序员来讲 MAC OS 真的比 Windows 和 Linux 更加有生产力？](https://www.v2ex.com/t/790603)
+
+> 作者： pigbug  拉取时间： 2021-07-21 06:00:33
+
+ [感觉脑子出问题了，不知道大家有没有这种情况？](https://www.v2ex.com/t/790588)
+
+> 作者： mekingname  拉取时间： 2021-07-21 06:00:33
+
+ [[前端]年轻人第一次计划辞职，虽然工作了两年感觉自己毫无竞争力怎么办](https://www.v2ex.com/t/790577)
+
+> 作者： hisa  拉取时间： 2021-07-21 06:00:33
+
+ [[闲聊] IT 人员外包(驻场开发)，在派遣人员与用人单位之间 ，外包公司到底从中抽了多少？](https://www.v2ex.com/t/790563)
+
+> 作者： simplez  拉取时间： 2021-07-21 06:00:33
 
  [你们用的播放器是 IINA 还 movist？](https://www.v2ex.com/t/790444)
 
@@ -460,42 +612,6 @@
 
 > 作者： snoopyhai  拉取时间： 2021-07-20 06:03:00
 
- [上个班真累，动不动就被老员工摆一道](https://www.v2ex.com/t/790098)
-
-> 作者： Turkestan  拉取时间： 2021-07-18 06:03:23
-
- [为什么没有延迟低的入耳式无线耳机呢？](https://www.v2ex.com/t/790097)
-
-> 作者： xeathen  拉取时间： 2021-07-18 06:03:23
-
- [深圳 or 厦门](https://www.v2ex.com/t/790076)
-
-> 作者： Mr0C  拉取时间： 2021-07-18 06:03:23
-
- [请问目前 iOS15 DB3 可以日常使用了吗？](https://www.v2ex.com/t/790053)
-
-> 作者： LeslieLeung  拉取时间： 2021-07-18 06:03:23
-
- [程序员使用 M1 版的 macbook 的时候，风扇真的不会狂转吗？](https://www.v2ex.com/t/790050)
-
-> 作者： tomari  拉取时间： 2021-07-18 06:03:23
-
- [群晖 dsm7 的问题](https://www.v2ex.com/t/790035)
-
-> 作者： mao13820  拉取时间： 2021-07-18 06:03:23
-
- [大数据还是 elm 卖数据？](https://www.v2ex.com/t/790031)
-
-> 作者： xinJang  拉取时间： 2021-07-18 06:03:23
-
- [家用视频监控，大家用的什么方案？](https://www.v2ex.com/t/790029)
-
-> 作者： kinboy  拉取时间： 2021-07-18 06:03:23
-
- [[兑换码] zClock 桌面置顶时钟，倒计时，网速显示](https://www.v2ex.com/t/790028)
-
-> 作者： Ianzhu  拉取时间： 2021-07-18 06:03:23
-
  [【已询问】峰岹科技（深圳）股份有限公司](http://kcb.sse.com.cn//renewal/xmxq/index.shtml?auditId=948)
 
 > 作者： 已询问  拉取时间： 2021-07-19 06:04:39
@@ -528,9 +644,17 @@
 
 > 作者： 已询问  拉取时间： 2021-07-19 06:04:39
 
- [外交部发言人就美方炮制所谓“香港商业警告”并制裁中央驻港机构官员答记者问(2021_s07_s17)](https://www.fmprc.gov.cn/web/wjdt_674879/fyrbt_674889/t1892923.shtml)
+ [2021年7月20日外交部发言人赵立坚主持例行记者会(2021_s07_s20)](https://www.fmprc.gov.cn/web/wjdt_674879/fyrbt_674889/t1893709.shtml)
 
-> 作者： null  拉取时间： 2021-07-18 06:04:13
+> 作者： null  拉取时间： 2021-07-21 06:01:23
+
+ [2021年7月19日外交部发言人赵立坚主持例行记者会(2021_s07_s19)](https://www.fmprc.gov.cn/web/wjdt_674879/fyrbt_674889/t1893300.shtml)
+
+> 作者： null  拉取时间： 2021-07-21 06:01:23
+
+ [【喷嚏图卦20210720】她的痛苦反而成了舆论场里最单薄、最无力的东西](https://www.dapenti.com/blog/more.asp?name=xilei&id=158366)
+
+> 作者： null  拉取时间： 2021-07-21 06:03:03
 
  [【喷嚏图卦20210719】一个危机悬崖边的舞者](https://www.dapenti.com/blog/more.asp?name=xilei&id=158343)
 
@@ -540,17 +664,9 @@
 
 > 作者： null  拉取时间： 2021-07-20 06:07:10
 
- [【喷嚏图卦20210717】我不想回到生活困难的国家，打算留在日本工作](https://www.dapenti.com/blog/more.asp?name=xilei&id=158304)
+ [2021年7月20日新闻联播文字版](http://www.xwlb.net.cn/22354.html)
 
-> 作者： null  拉取时间： 2021-07-18 06:05:54
-
- [【喷嚏图卦20210716】我们欠数百万受难者和死者一个解释](https://www.dapenti.com/blog/more.asp?name=xilei&id=158284)
-
-> 作者： null  拉取时间： 2021-07-18 06:05:54
-
- [【喷嚏图卦20210715】自我往上挂路灯，从我向下达尔文](https://www.dapenti.com/blog/more.asp?name=xilei&id=158264)
-
-> 作者： null  拉取时间： 2021-07-18 06:05:54
+> 作者： null  拉取时间： 2021-07-21 06:03:53
 
  [2021年7月19日新闻联播文字版](http://www.xwlb.net.cn/22290.html)
 
@@ -560,9 +676,25 @@
 
 > 作者： null  拉取时间： 2021-07-20 06:08:16
 
- [2021年7月17日新闻联播文字版](http://www.xwlb.net.cn/22197.html)
+ [世嘉Key Master街机被指欺骗消费者，本质上是赌博机](http://jandan.net/p/109272)
 
-> 作者： null  拉取时间： 2021-07-18 06:06:44
+> 作者： majer  拉取时间： 2021-07-21 06:04:44
+
+ [大规模调查发现：咖啡不会导致心率失常](http://jandan.net/p/109300)
+
+> 作者： majer  拉取时间： 2021-07-21 06:04:44
+
+ [今日好价：蛋友家的咖啡](http://jandan.net/p/109299)
+
+> 作者： sein  拉取时间： 2021-07-21 06:04:44
+
+ [现代智人的基因只有7_0是独此一家的](http://jandan.net/p/109287)
+
+> 作者： majer  拉取时间： 2021-07-21 06:04:44
+
+ [宏量子：冷却纳米大小颗粒，使其呈现量子态](http://jandan.net/p/109210)
+
+> 作者： majer  拉取时间： 2021-07-21 06:04:44
 
  [脑力小体操 如何向聪慧的家庭主妇保险推销](http://jandan.net/p/109246)
 
@@ -596,17 +728,9 @@
 
 > 作者： majer  拉取时间： 2021-07-19 06:09:41
 
- [英坦克指挥官为论证War Thunder建模不准，把机密文件截图到论坛](http://jandan.net/p/109282)
+ [青年图摘0720！你就说折不折中](https://qingniantuzhai.com/qing-nian-tu-zhai-0720-3/)
 
-> 作者： majer  拉取时间： 2021-07-18 06:07:35
-
- [真假？乌克兰矿主买不到显卡用3800台PS4挖币](http://jandan.net/p/109278)
-
-> 作者： majer  拉取时间： 2021-07-18 06:07:35
-
- [今日带货：3M痘痘贴](http://jandan.net/p/109284)
-
-> 作者： sein  拉取时间： 2021-07-18 06:07:35
+> 作者： Chris  拉取时间： 2021-07-21 06:07:18
 
  [青年图摘0719！毕加索与肉丝](https://qingniantuzhai.com/qing-nian-tu-zhai-0719-4/)
 
@@ -616,9 +740,21 @@
 
 > 作者： Chris  拉取时间： 2021-07-19 06:12:16
 
- [青年图摘0717！不是免费吗](https://qingniantuzhai.com/qing-nian-tu-zhai-0717-4/)
+ [SQLite Extraction of Oracle Tables Tools, Methods and Pitfalls](https://www.linuxjournal.com/content/sqlite-extraction-oracle-tables-tools-methods-and-pitfalls)
 
-> 作者： Chris  拉取时间： 2021-07-18 06:10:08
+> 作者： Charles Fisher  拉取时间： 2021-07-21 06:08:09
+
+ [硬核观察 #338 iPhone 被曝不安全：不点击链接也有可能被入侵](https://linux.cn/article-13600-1.html?utm_source=rss&utm_medium=rss)
+
+> 作者： linux@linux_dcn (linux)  拉取时间： 2021-07-21 06:08:10
+
+ [不同的编程语言是如何读写数据的](https://linux.cn/article-13599-1.html?utm_source=rss&utm_medium=rss)
+
+> 作者： linux@linux_dcn (linux)  拉取时间： 2021-07-21 06:08:10
+
+ [现实中的应用程序是如何丢失数据？](https://linux.cn/article-13598-1.html?utm_source=rss&utm_medium=rss)
+
+> 作者： linux@linux_dcn (linux)  拉取时间： 2021-07-21 06:08:10
 
  [全程免费的 Ansible 直播训练营，今夜开播](https://linux.cn/article-13597-1.html?utm_source=rss&utm_medium=rss)
 
@@ -648,17 +784,21 @@
 
 > 作者： linux@linux_dcn (linux)  拉取时间： 2021-07-19 06:13:08
 
- [硬核观察 #335 三分之二的开发者在使用 JavaScript](https://linux.cn/article-13590-1.html?utm_source=rss&utm_medium=rss)
+ [【Rust日报】2021_s07_s20 tokio 支持 io_suring](https://rustcc.cn/article?id=b65e8e5f-eeb3-45bb-86de-185eafc741e0)
 
-> 作者： linux@linux_dcn (linux)  拉取时间： 2021-07-18 06:11:00
+> 作者： null  拉取时间： 2021-07-21 06:08:15
 
- [我的 7 大 Rust 关键字](https://linux.cn/article-13589-1.html?utm_source=rss&utm_medium=rss)
+ [【leetcode_s37 解数独 | Rust 】3 种回溯、4种数据结构共 12 种方法对比](https://rustcc.cn/article?id=2b64b743-4f15-482b-b0f8-a22e5ca73455)
 
-> 作者： linux@linux_dcn (linux)  拉取时间： 2021-07-18 06:11:00
+> 作者： null  拉取时间： 2021-07-21 06:08:15
 
- [Windows 11 能影响 Linux 发行版吗？](https://linux.cn/article-13588-1.html?utm_source=rss&utm_medium=rss)
+ [【leetcode_s37 解数独 | Rust 】3 种回溯、4种数据结构共 12 种方式对比](https://rustcc.cn/article?id=fbd4b48b-b488-4dd8-907e-b0be95347b76)
 
-> 作者： linux@linux_dcn (linux)  拉取时间： 2021-07-18 06:11:00
+> 作者： null  拉取时间： 2021-07-21 06:08:15
+
+ [比较操作符 trait 关系图谱](https://rustcc.cn/article?id=14e1b386-c6fa-4359-b4af-889818789051)
+
+> 作者： null  拉取时间： 2021-07-21 06:08:15
 
  [【Rust日报】2021_s07_s19 让 Rust 更快的解析 float类型](https://rustcc.cn/article?id=93361b94-87b2-4faa-ae08-7f4fd631097f)
 
@@ -688,17 +828,9 @@
 
 > 作者： null  拉取时间： 2021-07-19 06:13:12
 
- [【已解决】Actix_sweb中data的所有权](https://rustcc.cn/article?id=2a7b7f78-a2e1-4c82-b2de-9722ff0da873)
+ [Daily Hacker News for 2021_s07_s19](https://www.daemonology.net/hn-daily/2021-07-19.html)
 
-> 作者： null  拉取时间： 2021-07-18 06:11:05
-
- [【Rust日报】2021_s07_s17 Rust 实现的教学软件 franzplot](https://rustcc.cn/article?id=3c72035c-305a-4060-8a83-393566022ec6)
-
-> 作者： null  拉取时间： 2021-07-18 06:11:05
-
- [【求助】cargo build & test 后占用巨大磁盘空间，如何清除？](https://rustcc.cn/article?id=92475b24-1ba4-4a20-8dfc-ab40d2dee952)
-
-> 作者： null  拉取时间： 2021-07-18 06:11:05
+> 作者： null  拉取时间： 2021-07-21 06:09:06
 
  [Daily Hacker News for 2021_s07_s18](https://www.daemonology.net/hn-daily/2021-07-18.html)
 
@@ -708,9 +840,33 @@
 
 > 作者： null  拉取时间： 2021-07-19 06:14:03
 
- [Daily Hacker News for 2021_s07_s16](https://www.daemonology.net/hn-daily/2021-07-16.html)
+ [2021信创“大比武”正式启动！金山办公助力信创人才培养和生态成熟](https://segmentfault.com/a/1190000040373563)
 
-> 作者： null  拉取时间： 2021-07-18 06:11:56
+> 作者： 小魔  拉取时间： 2021-07-21 06:10:55
+
+ [React大型项目状态管理库如何选型？](https://segmentfault.com/a/1190000040372010)
+
+> 作者： 德莱问前端  拉取时间： 2021-07-21 06:10:55
+
+ [手写 git hooks 脚本（pre_scommit、commit_smsg）](https://segmentfault.com/a/1190000040370691)
+
+> 作者： 谭光志  拉取时间： 2021-07-21 06:10:55
+
+ [我在工作中是如何使用 git 的](https://segmentfault.com/a/1190000040373147)
+
+> 作者： 政采云前端团队  拉取时间： 2021-07-21 06:10:55
+
+ [自适应微服务治理背后的算法](https://segmentfault.com/a/1190000040097267)
+
+> 作者： kevinwan  拉取时间： 2021-07-21 06:10:55
+
+ [号称下一代可视化监控系统，结合SpringBoot使用，贼爽！](https://segmentfault.com/a/1190000040343694)
+
+> 作者： macrozheng  拉取时间： 2021-07-21 06:10:55
+
+ [中国人中庸之道，中国人造的框架呢？](https://segmentfault.com/a/1190000040372714)
+
+> 作者： 卡颂  拉取时间： 2021-07-21 06:10:55
 
  [如何优雅的管理 HTTP 请求和响应拦截器？](https://segmentfault.com/a/1190000040366591)
 
