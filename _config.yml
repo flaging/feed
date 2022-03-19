@@ -1,1 +1,8 @@
+---
+title: 福来鸽的书房
+locale: zh
+
 theme: jekyll-theme-cayman
+plugins:
+  - jekyll-feed
+author: Flaging
