@@ -141,7 +141,7 @@ def main():
     # update sqlite3
     url_list = open('list.txt', 'r').read().splitlines()
     for url in url_list:
-        cur, table, conn = open_table('.database/feed.sqlit3', url)
+        cur, table, conn = open_table('.database/feed-2022-03.sqlit3', url)
         insert_table(cur, table, conn, url)
     # prepare markdown files
     localtime = time.localtime(time.time())
