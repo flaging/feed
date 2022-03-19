@@ -18,7 +18,7 @@
 
 ## 今日更新
 
-## 2022-3-19
+## 2022-3-20
 
  [2022年苹果博士奖学金名单公布：15位学生入选，1位浙大博士生在列](https://www.jiqizhixin.com/articles/2022-03-18-9)
 
@@ -719,6 +719,18 @@
  [Some reasons to measure](https://danluu.com/why-benchmark/)
 
 > 作者： null  拉取时间： 2022-03-19 22:53:16
+
+ [Make VS Code better by editing and updating some settings](https://dev.to/jcofman/make-vs-code-better-by-editing-and-updating-some-settings-4m9a)
+
+> 作者： Jacob Cofman  拉取时间： 2022-03-20 05:51:43
+
+ [React best practices and patterns to reduce code _s Part 2](https://dev.to/devsmitra/react-best-practices-and-patterns-to-reduce-code-part-2-54f3)
+
+> 作者： Rahul Sharma  拉取时间： 2022-03-20 05:51:43
+
+ [8 Google Analytics privacy focussed alternatives](https://dev.to/dailydevtips1/8-google-analytics-privacy-focussed-alternatives-3e8h)
+
+> 作者： Chris Bongers  拉取时间： 2022-03-20 05:51:43
 
  [The Productivity apps I use in 2022](https://dev.to/cassidoo/the-productivity-apps-i-use-in-2022-ea6)
 
@@ -6864,6 +6876,46 @@
 
 > 作者： null  拉取时间： 2022-03-19 23:00:07
 
+ [Save action in Spark takes too long time_bSave operation spills huge data on to disk and fails with the error “No space left on device”](http://www.bigdatainterview.com/save-action-in-spark-takes-too-long-time-save-operation-spills-huge-data-on-to-disk-and-fails-with-the-error-no-space-left-on-device/)
+
+> 作者： admin  拉取时间： 2022-03-20 05:58:24
+
+ [How to set configuration to start Reduce jobs after completion of certain proportion of the Map jobs in Hive or Hadoop_d2](http://www.bigdatainterview.com/how-to-configuration-to-start-reduce-jobs-after-completion-of-all-the-map-jobs/)
+
+> 作者： admin  拉取时间： 2022-03-20 05:58:24
+
+ [HDFS commands](http://www.bigdatainterview.com/hdfs-commands/)
+
+> 作者： admin  拉取时间： 2022-03-20 05:58:24
+
+ [Lead and Lag using Spark Scala](http://www.bigdatainterview.com/lead-and-lag-using-spark-scala/)
+
+> 作者： admin  拉取时间： 2022-03-20 05:58:24
+
+ [Option, Some, None in Scala (OR) How to handle null values in Scala_d2](http://www.bigdatainterview.com/option-some-none-in-scala-or-how-to-handle-null-values-in-scala/)
+
+> 作者： admin  拉取时间： 2022-03-20 05:58:24
+
+ [What is Singleton object in Scala_d2](http://www.bigdatainterview.com/what-is-singleton-object-in-scala/)
+
+> 作者： admin  拉取时间： 2022-03-20 05:58:24
+
+ [How to process JSON data or file in HIVE without using JsonSerDe_d2](http://www.bigdatainterview.com/how-to-process-json-data-or-file-in-hive-without-using-jsonserde/)
+
+> 作者： admin  拉取时间： 2022-03-20 05:58:24
+
+ [How to add unique index or unique row number to reach row of a DataFrame_d2](http://www.bigdatainterview.com/how-to-add-unique-index-or-unique-row-number-to-reach-row-of-a-dataframe/)
+
+> 作者： admin  拉取时间： 2022-03-20 05:58:24
+
+ [Advanced performance enhancement techniques in Spark_d](http://www.bigdatainterview.com/advanced-performance-enhancement-techniques-in-spark/)
+
+> 作者： admin  拉取时间： 2022-03-20 05:58:24
+
+ [zip, zipWithIndex and zipWithUniqueId in Spark](http://www.bigdatainterview.com/zip-zipwithindex-and-zipwithuniqueid-in-spark/)
+
+> 作者： admin  拉取时间： 2022-03-20 05:58:24
+
  [Ever wondered what you_all look like in different dresses without ever changing_d2 This AI model generates photo realistic bodies of you in so many different ways!](https://www.reddit.com/r/DeepLearningPapers/comments/tf6p0h/ever_wondered_what_youll_look_like_in_different/)
 
 > 作者： _bu_bMLtinkerer  拉取时间： 2022-03-19 23:00:57
@@ -7063,6 +7115,14 @@
  [The Future has more Co_sauthors](http://www.machinedlearnings.com/2016/01/the-future-has-more-co-authors.html)
 
 > 作者： Paul Mineiro (noreply@blogger_dcom)  拉取时间： 2022-03-19 23:00:57
+
+ [Complete Guide of Swin Transformation with Full PyTorch Implementation](https://www.reddit.com/r/pytorch/comments/ti0w0h/complete_guide_of_swin_transformation_with_full/)
+
+> 作者： _bu_bJasonTheCoders  拉取时间： 2022-03-20 05:58:26
+
+ [Help implementing the coco dataset using fiftyone](https://www.reddit.com/r/pytorch/comments/thycgb/help_implementing_the_coco_dataset_using_fiftyone/)
+
+> 作者： _bu_bAmrMorgado  拉取时间： 2022-03-20 05:58:26
 
  [I can_at debug my code](https://www.reddit.com/r/pytorch/comments/thjopg/i_cant_debug_my_code/)
 
@@ -9516,6 +9576,22 @@
 
 > 作者： null  拉取时间： 2022-03-19 23:01:52
 
+ [C++ 和 C# 哪个容易开发出用户体验好（占用资源小&好看&稳定&反应快）的跨 macOS_bWindows 平台的桌面程序？](https://www.v2ex.com/t/841554)
+
+> 作者： theklf4  拉取时间： 2022-03-20 05:59:31
+
+ [最后我买了 13mini_d_d_d](https://www.v2ex.com/t/841471)
+
+> 作者： MrBearin  拉取时间： 2022-03-20 05:59:31
+
+ [微信这是逼人申请小号啊](https://www.v2ex.com/t/841468)
+
+> 作者： Osk  拉取时间： 2022-03-20 05:59:31
+
+ [Mac Studio 能够自己升级加硬盘](https://www.v2ex.com/t/841412)
+
+> 作者： SuperXX  拉取时间： 2022-03-20 05:59:31
+
  [国外程序员更关注政治吗？](https://www.v2ex.com/t/841462)
 
 > 作者： vevlins  拉取时间： 2022-03-19 23:01:53
@@ -9984,6 +10060,10 @@
 
 > 作者： null  拉取时间： 2022-03-19 23:04:26
 
+ [【确实如此】KF94口罩比医用外科口罩更有效阻隔新冠病毒](https://vp.fact.qq.com/article?id=cbb31a48d950fae0668eba8ac5181338)
+
+> 作者： 东华大学产业用纺织品教育部工程中心副教授  拉取时间： 2022-03-20 06:02:55
+
  [【确实如此】新冠快速检测线条颜色深，不代表体内病毒量一定多](https://vp.fact.qq.com/article?id=977e3c93601b960ad3bd7055bfd412b9)
 
 > 作者： 临床检验研究者  拉取时间： 2022-03-19 23:05:16
@@ -10203,6 +10283,10 @@
  [Expanding Your Nextcloud Instance Using Linode_as NVMe_sBacked Block Storage](https://www.linuxjournal.com/content/expanding-your-nextcloud-instance-using-linodes-nvme-backed-block-storage)
 
 > 作者： Gardiner Bryant  拉取时间： 2022-03-19 23:06:12
+
+ [Epic 游戏商店现在可在 Steam Deck 上使用啦](https://linux.cn/article-14374-1.html?utm_source=rss&utm_medium=rss)
+
+> 作者： linux@linux_dcn (linux)  拉取时间： 2022-03-20 06:03:54
 
  [硬核观察 #580 每一次下载的 Firefox 安装包都含有唯一识别码](https://linux.cn/article-14373-1.html?utm_source=rss&utm_medium=rss)
 
