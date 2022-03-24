@@ -18,7 +18,35 @@
 
 ## 今日更新
 
-## 2022-3-24
+## 2022-3-25
+
+ [自动驾驶汽车如何解决复杂交互问题？清华联合MIT提出M2I方案](https://www.jiqizhixin.com/articles/2022-03-24-9)
+
+> 作者： 机器之心  拉取时间： 2022-03-25 05:51:27
+
+ [一文梳理视觉Transformer架构进展：与CNN相比，ViT赢在哪儿？](https://www.jiqizhixin.com/articles/2022-03-24-8)
+
+> 作者： 机器之心  拉取时间： 2022-03-25 05:51:27
+
+ [2022年阿贝尔奖公布：81岁数学家、拓扑学大师苏利文一人获奖](https://www.jiqizhixin.com/articles/2022-03-24-7)
+
+> 作者： 机器之心  拉取时间： 2022-03-25 05:51:27
+
+ [先把一两个量子比特的精度做到极致：阿里达摩院量子实验室刚刚破了项世界纪录](https://www.jiqizhixin.com/articles/2022-03-24-6)
+
+> 作者： 机器之心  拉取时间： 2022-03-25 05:51:27
+
+ [微服务标准化建设新进展！NextArch 微服务技术组成立，腾讯为创始单位之一](https://www.jiqizhixin.com/articles/2022-03-24-5)
+
+> 作者： 新闻助手  拉取时间： 2022-03-25 05:51:27
+
+ [达摩院量子计算最新成果亮相物理学盛会，新平台两比特门精度99_d72_0](https://www.jiqizhixin.com/articles/2022-03-24-4)
+
+> 作者： 新闻助手  拉取时间： 2022-03-25 05:51:27
+
+ [中兴通讯结束五年「合规观察期」，却难以「高枕无忧」](https://www.jiqizhixin.com/articles/2022-03-24-3)
+
+> 作者： 机器之心  拉取时间： 2022-03-25 05:51:27
 
  [ICLR 2022 cosFormer：重新思考注意力机制中的Softmax](https://www.jiqizhixin.com/articles/2022-03-23-10)
 
@@ -72,21 +100,25 @@
 
 > 作者： 新闻助手  拉取时间： 2022-03-23 05:51:25
 
- [景嘉微首批9系列芯片订单落地，国产GPU龙头奋力追赶全球芯片巨头](https://www.jiqizhixin.com/articles/2022-03-21-5)
+ [新玩意 099｜少数派的作者们最近买了啥？](https://sspai.com/post/72271)
 
-> 作者： shanshan  拉取时间： 2022-03-22 05:51:49
+> 作者： Matrix机器人  拉取时间： 2022-03-25 05:51:28
 
- [火山引擎联合IDC发布云原生白皮书：83_0企业将加大对云原生技术投入](https://www.jiqizhixin.com/articles/2022-03-21-4)
+ [一派·在线沙龙 07：2022 年的知识付费应该怎么做？](https://sspai.com/post/72259)
 
-> 作者： 新闻助手  拉取时间： 2022-03-22 05:51:49
+> 作者： 数字工具组  拉取时间： 2022-03-25 05:51:28
 
- [实现商业化部署，寒武纪发布新款AI训练卡MLU370_sX8](https://www.jiqizhixin.com/articles/2022-03-21-3)
+ [意识先行，工具辅助：谈谈我们该怎样分辨虚假信息](https://sspai.com/post/72274)
 
-> 作者： 机器之心  拉取时间： 2022-03-22 05:51:49
+> 作者： jijiali  拉取时间： 2022-03-25 05:51:28
 
- [性能最高提升 6_d9 倍，字节跳动开源大模型训练框架 veGiantModel](https://www.jiqizhixin.com/articles/2022-03-21-2)
+ [App+1 | Android 12 装机必备，免 root 实现 Material You 二次定制：Repainter](https://sspai.com/post/72269)
 
-> 作者： 新闻助手  拉取时间： 2022-03-22 05:51:49
+> 作者： 克莱德  拉取时间： 2022-03-25 05:51:28
+
+ [派早报：Nothing 手机公布、NVIDIA 发布全新显卡等](https://sspai.com/post/72261)
+
+> 作者： 少数派编辑部  拉取时间： 2022-03-25 05:51:28
 
  [想要五步成诗？这是我的写诗方法论](https://sspai.com/post/71712)
 
@@ -132,33 +164,9 @@
 
 > 作者： 少数派编辑部  拉取时间： 2022-03-23 05:51:27
 
- [2022 年，搭配 Zotero 的 WebDAV 存储方案还有什么选择？](https://sspai.com/prime/story/webdav-services-compared)
+ [Weylus – 共享屏幕，将平板作为电脑触摸屏使用[Win_bmacOS_bLinux]](https://www.appinn.com/weylus/)
 
-> 作者： PlatyHsu  拉取时间： 2022-03-22 05:51:50
-
- [少数派十周年：付费栏目开启三重优惠限时活动](https://sspai.com/post/72191)
-
-> 作者： 数字工具组  拉取时间： 2022-03-22 05:51:50
-
- [派评 | 近期值得关注的 App](https://sspai.com/post/72209)
-
-> 作者： 少数派编辑部  拉取时间： 2022-03-22 05:51:50
-
- [差旅出行可以住得更舒适：星级酒店常旅客入门](https://sspai.com/post/72199)
-
-> 作者： 拐子狼  拉取时间： 2022-03-22 05:51:50
-
- [本月玩什么 | GT7、幽灵线：东京、星之卡比探索发现、三角战略](https://sspai.com/post/72193)
-
-> 作者： 板斧  拉取时间： 2022-03-22 05:51:50
-
- [解决科研人痛点的大突破——Zotero 6_d0 亮点速览](https://sspai.com/post/72163)
-
-> 作者： 玉树芝兰  拉取时间： 2022-03-22 05:51:50
-
- [派早报：M1 Ultra 拆解显示巨大封装尺寸；新司法解释规范虚假刷量等](https://sspai.com/post/72188)
-
-> 作者： 少数派编辑部  拉取时间： 2022-03-22 05:51:50
+> 作者： 青小蛙  拉取时间： 2022-03-25 05:51:30
 
  [Chocolatey 1_d0_d0 正式发布 & 11 周年，命令行式软件管理工具（软件安装、更新、卸载）](https://www.appinn.com/chocolatey-2/)
 
@@ -172,13 +180,229 @@
 
 > 作者： 青小蛙  拉取时间： 2022-03-23 05:51:28
 
- [Ray_dso – 8 种配色、快捷键，把代码变成精美的图片](https://www.appinn.com/ray-so/)
+ [Against essential and accidental complexity](https://danluu.com/essential-complexity/)
 
-> 作者： 青小蛙  拉取时间： 2022-03-22 05:51:52
+> 作者： null  拉取时间： 2022-03-25 05:51:36
 
- [OssArt – 打印你的 GitHub Activity 贡献图，最长 12 年](https://www.appinn.com/ossart-for-github-activity/)
+ [How do cars fare in crash tests they_are not specifically optimized for_d2](https://danluu.com/car-safety/)
 
-> 作者： 青小蛙  拉取时间： 2022-03-22 05:51:52
+> 作者： null  拉取时间： 2022-03-25 05:51:36
+
+ [Finding the Story](https://danluu.com/voyager-story/)
+
+> 作者： null  拉取时间： 2022-03-25 05:51:36
+
+ [A simple way to get more value from tracing](https://danluu.com/tracing-analytics/)
+
+> 作者： null  拉取时间： 2022-03-25 05:51:36
+
+ [A simple way to get more value from metrics](https://danluu.com/metrics-analytics/)
+
+> 作者： null  拉取时间： 2022-03-25 05:51:36
+
+ [How (some) good corporate engineering blogs are written](https://danluu.com/corp-eng-blogs/)
+
+> 作者： null  拉取时间： 2022-03-25 05:51:36
+
+ [The growth of command line options, 1979_sPresent](https://danluu.com/cli-complexity/)
+
+> 作者： null  拉取时间： 2022-03-25 05:51:36
+
+ [Suspicious discontinuities](https://danluu.com/discontinuities/)
+
+> 作者： null  拉取时间： 2022-03-25 05:51:36
+
+ [95_0_sile isn_at that good](https://danluu.com/p95-skill/)
+
+> 作者： null  拉取时间： 2022-03-25 05:51:36
+
+ [Algorithms interviews_t theory vs_d practice](https://danluu.com/algorithms-interviews/)
+
+> 作者： null  拉取时间： 2022-03-25 05:51:36
+
+ [Files are fraught with peril](https://danluu.com/deconstruct-files/)
+
+> 作者： null  拉取时间： 2022-03-25 05:51:36
+
+ [Randomized trial on gender in Overwatch](https://danluu.com/overwatch-gender/)
+
+> 作者： null  拉取时间： 2022-03-25 05:51:36
+
+ [Fsyncgate_t errors on fsync are unrecovarable](https://danluu.com/fsyncgate/)
+
+> 作者： null  拉取时间： 2022-03-25 05:51:36
+
+ [Computer latency_t 1977_s2017](https://danluu.com/input-lag/)
+
+> 作者： null  拉取时间： 2022-03-25 05:51:36
+
+ [How good are decisions_d2](https://danluu.com/bad-decisions/)
+
+> 作者： null  拉取时间： 2022-03-25 05:51:36
+
+ [How out of date are Android devices_d2](https://danluu.com/android-updates/)
+
+> 作者： null  拉取时间： 2022-03-25 05:51:36
+
+ [UI backwards compatibility](https://danluu.com/ui-compatibility/)
+
+> 作者： null  拉取时间： 2022-03-25 05:51:36
+
+ [Filesystem error handling](https://danluu.com/filesystem-errors/)
+
+> 作者： null  拉取时间： 2022-03-25 05:51:36
+
+ [Keyboard latency](https://danluu.com/keyboard-latency/)
+
+> 作者： null  拉取时间： 2022-03-25 05:51:36
+
+ [Branch prediction](https://danluu.com/branch-prediction/)
+
+> 作者： null  拉取时间： 2022-03-25 05:51:36
+
+ [Sattolo_as algorithm](https://danluu.com/sattolo/)
+
+> 作者： null  拉取时间： 2022-03-25 05:51:36
+
+ [Terminal latency](https://danluu.com/term-latency/)
+
+> 作者： null  拉取时间： 2022-03-25 05:51:36
+
+ [Keyboard v_d mouse](https://danluu.com/keyboard-v-mouse/)
+
+> 作者： null  拉取时间： 2022-03-25 05:51:36
+
+ [Startup options v_d cash](https://danluu.com/startup-options/)
+
+> 作者： null  拉取时间： 2022-03-25 05:51:36
+
+ [The modern web on a slow connection](https://danluu.com/web-bloat/)
+
+> 作者： null  拉取时间： 2022-03-25 05:51:36
+
+ [HN_t the good parts](https://danluu.com/hn-comments/)
+
+> 作者： null  拉取时间： 2022-03-25 05:51:36
+
+ [Programming book list](https://danluu.com/programming-books/)
+
+> 作者： null  拉取时间： 2022-03-25 05:51:36
+
+ [Hiring and the market for lemons](https://danluu.com/hiring-lemons/)
+
+> 作者： null  拉取时间： 2022-03-25 05:51:36
+
+ [I could do that in a weekend!](https://danluu.com/sounds-easy/)
+
+> 作者： null  拉取时间： 2022-03-25 05:51:36
+
+ [Is dev compensation bimodal_d2](https://danluu.com/bimodal-compensation/)
+
+> 作者： null  拉取时间： 2022-03-25 05:51:36
+
+ [How I learned to program](https://danluu.com/learning-to-program/)
+
+> 作者： null  拉取时间： 2022-03-25 05:51:36
+
+ [Notes on concurrency bugs](https://danluu.com/concurrency-bugs/)
+
+> 作者： null  拉取时间： 2022-03-25 05:51:36
+
+ [Some programming blogs to consider reading](https://danluu.com/programming-blogs/)
+
+> 作者： null  拉取时间： 2022-03-25 05:51:36
+
+ [Google SRE book](https://danluu.com/google-sre-book/)
+
+> 作者： null  拉取时间： 2022-03-25 05:51:36
+
+ [We only hire the trendiest](https://danluu.com/programmer-moneyball/)
+
+> 作者： null  拉取时间： 2022-03-25 05:51:36
+
+ [Harry Potter and the Methods of Rationality review by su3su2u1](https://danluu.com/su3su2u1/hpmor/)
+
+> 作者： null  拉取时间： 2022-03-25 05:51:36
+
+ [su3su2u1 physics tumblr archive](https://danluu.com/su3su2u1/physics/)
+
+> 作者： null  拉取时间： 2022-03-25 05:51:36
+
+ [Sampling v_d tracing](https://danluu.com/perf-tracing/)
+
+> 作者： null  拉取时间： 2022-03-25 05:51:36
+
+ [CPU bugs](https://danluu.com/cpu-bugs/)
+
+> 作者： null  拉取时间： 2022-03-25 05:51:36
+
+ [Normalization of deviance](https://danluu.com/wat/)
+
+> 作者： null  拉取时间： 2022-03-25 05:51:36
+
+ [Big companies v_d startups](https://danluu.com/startup-tradeoffs/)
+
+> 作者： null  拉取时间： 2022-03-25 05:51:36
+
+ [Files are hard](https://danluu.com/file-consistency/)
+
+> 作者： null  拉取时间： 2022-03-25 05:51:36
+
+ [Why use ECC_d2](https://danluu.com/why-ecc/)
+
+> 作者： null  拉取时间： 2022-03-25 05:51:36
+
+ [What_as worked in Computer Science_t 1999 v_d 2015](https://danluu.com/butler-lampson-1999/)
+
+> 作者： null  拉取时间： 2022-03-25 05:51:36
+
+ [Infinite disk](https://danluu.com/infinite-disk/)
+
+> 作者： null  拉取时间： 2022-03-25 05:51:36
+
+ [Why Intel added cache partitioning](https://danluu.com/intel-cat/)
+
+> 作者： null  拉取时间： 2022-03-25 05:51:36
+
+ [Slowlock](https://danluu.com/limplock/)
+
+> 作者： null  拉取时间： 2022-03-25 05:51:36
+
+ [Steve Yegge_as prediction record](https://danluu.com/yegge-predictions/)
+
+> 作者： null  拉取时间： 2022-03-25 05:51:36
+
+ [Reading postmortems](https://danluu.com/postmortem-lessons/)
+
+> 作者： null  拉取时间： 2022-03-25 05:51:36
+
+ [Forem for Android is Here! 🤖](https://dev.to/devteam/forem-for-android-is-here-38ik)
+
+> 作者： Jennie Ocken (she_bher), The DEV Team  拉取时间： 2022-03-25 05:51:37
+
+ [My Impact at Forem](https://dev.to/nickytonline/my-impact-at-forem-23mj)
+
+> 作者： Nick Taylor  拉取时间： 2022-03-25 05:51:37
+
+ [10 Dicas de Segurança para Projetos Front End](https://dev.to/felipperegazio/10-dicas-de-seguranca-para-projetos-front-end-2385)
+
+> 作者： Felippe Regazio  拉取时间： 2022-03-25 05:51:37
+
+ [Microsoft Azure Trial Hackathon Winners, Announced!](https://dev.to/devteam/microsoft-azure-trial-hackathon-winners-announced-1kkm)
+
+> 作者： Gracie Gregory (she_bher), The DEV Team  拉取时间： 2022-03-25 05:51:37
+
+ [Books to Read as a Developer](https://dev.to/tmchuynh/books-to-read-as-a-developer-33eh)
+
+> 作者： Tina Huynh  拉取时间： 2022-03-25 05:51:37
+
+ [Create a Signature Painting Drawing App using Javascript](https://dev.to/imdigitalashish/create-a-web-app-to-draw-signature-and-download-it--58oe)
+
+> 作者： Ashish Kumar Verma  拉取时间： 2022-03-25 05:51:37
+
+ [Which attributes make a good developer_d2](https://dev.to/hannudaniel/which-attributes-make-a-good-developer-2kcm)
+
+> 作者： Hannu_sDaniel Goiss  拉取时间： 2022-03-25 05:51:37
 
  [Interested in learning more about Commercial Open Source_d2 There’s a Forem for that_d](https://dev.to/devteam/interested-in-learning-more-about-commercial-open-source-theres-a-forem-for-that-500d)
 
@@ -272,45 +496,9 @@
 
 > 作者： Matej Bačo, Appwrite  拉取时间： 2022-03-23 05:51:33
 
- [GitLive now works with any Git repository in VS Code!](https://dev.to/gitlive/gitlive-now-works-with-any-git-repository-in-vs-code-304o)
+ [Detecting Signs of Disease from External Images of the Eye](http://ai.googleblog.com/2022/03/detecting-signs-of-disease-from.html)
 
-> 作者： Agnieszka Stec, GitLive  拉取时间： 2022-03-22 05:52:00
-
- [How I Got Hired at Amazon](https://dev.to/bytebodger/how-i-got-hired-at-amazon-3ajl)
-
-> 作者： Adam Nathaniel Davis  拉取时间： 2022-03-22 05:52:00
-
- [Visual Studio Code _s Tips & Tricks _s Snippets](https://dev.to/this-is-learning/visual-studio-code-tips-tricks-snippets-5041)
-
-> 作者： Luca Del Puppo, This is Learning  拉取时间： 2022-03-22 05:52:00
-
- [React best practices and patterns to reduce code _s Part 3](https://dev.to/devsmitra/react-best-practices-and-patterns-to-reduce-code-part-3-4bh1)
-
-> 作者： Rahul Sharma  拉取时间： 2022-03-22 05:52:00
-
- [Stop Overcomplicating Web Development _s Try Svelte](https://dev.to/emmanuilsb/stop-overcomplicating-web-development-try-svelte-47ln)
-
-> 作者： Emmanuil B_d  拉取时间： 2022-03-22 05:52:00
-
- [6 Killer Productivity Apps for Programmers](https://dev.to/ruppysuppy/6-killer-productivity-apps-for-programmers-2ieo)
-
-> 作者： Tapajyoti Bose  拉取时间： 2022-03-22 05:52:00
-
- [The Power of Factory Design Pattern in JavaScript](https://dev.to/jsmanifest/the-power-of-factory-design-pattern-in-javascript-2bf8)
-
-> 作者： jsmanifest  拉取时间： 2022-03-22 05:52:00
-
- [Cheers to two years of consistency](https://dev.to/dailydevtips1/cheers-to-two-years-of-consistency-3mak)
-
-> 作者： Chris Bongers  拉取时间： 2022-03-22 05:52:00
-
- [5 Good Practices for Error Handling in C#](https://dev.to/dotnetsafer/5-good-practices-for-error-handling-in-c-4391)
-
-> 作者： Dotnetsafer  拉取时间： 2022-03-22 05:52:00
-
- [Semantic HTML_t What, Why, and How](https://dev.to/abbeyperini/semantic-html-what-why-and-how-3b34)
-
-> 作者： Abbey Perini  拉取时间： 2022-03-22 05:52:00
+> 作者： Google AI (noreply@blogger_dcom)  拉取时间： 2022-03-25 05:51:38
 
  [Auto_sgenerated Summaries in Google Docs](http://ai.googleblog.com/2022/03/auto-generated-summaries-in-google-docs.html)
 
@@ -328,10 +516,6 @@
 
 > 作者： null  拉取时间： 2022-03-23 05:56:40
 
- [2021年硬核联盟白皮书_s中国移动游戏趋势洞察报告](https://report.iresearch.cn/report/202203/3953.shtml)
-
-> 作者： null  拉取时间： 2022-03-22 05:57:06
-
  [周刊第5期：拖延症](https://4ark.me/post/weekly-05.html)
 
 > 作者： null  拉取时间： 2022-03-24 05:57:04
@@ -339,6 +523,14 @@
  [Migrations Done Well_t Executing Migrations](https://blog.pragmaticengineer.com/migrations-done-well-executing-them/)
 
 > 作者： Gergely Orosz  拉取时间： 2022-03-24 05:58:17
+
+ [How to Better Deploy Your Machine Learning Model](https://www.reddit.com/r/DeepLearningPapers/comments/tn2ofk/how_to_better_deploy_your_machine_learning_model/)
+
+> 作者： _bu_bOk_Rub_6741  拉取时间： 2022-03-25 05:59:09
+
+ [How to map features from two different data using a regressor for classification_d2](https://www.reddit.com/r/DeepLearningPapers/comments/tlx9yx/how_to_map_features_from_two_different_data_using/)
+
+> 作者： _bu_bAlaninReddit  拉取时间： 2022-03-25 05:59:09
 
  [Yolo annotated dataset to custom Dataloader](https://www.reddit.com/r/pytorch/comments/tl1a7f/yolo_annotated_dataset_to_custom_dataloader/)
 
@@ -356,21 +548,33 @@
 
 > 作者： _bu_bConanobrain  拉取时间： 2022-03-23 05:58:17
 
+ [Accelerating TensorFlow Lite Micro on Cadence Audio Digital Signal Processors](https://blog.tensorflow.org/2022/03/Accelerating-TFLite-Micro-On-Cadence.html)
+
+> 作者： TensorFlow Blog (noreply@blogger_dcom)  拉取时间： 2022-03-25 05:59:11
+
  [Computing on cloud](https://www.reddit.com/r/HPC/comments/tjxj5y/computing_on_cloud/)
 
 > 作者： _bu_bY_art3mis  拉取时间： 2022-03-23 05:59:09
+
+ [OpenCL and 10 & 40GbE Network Ports on PAC](https://www.reddit.com/r/OpenCL/comments/tlxvjd/opencl_and_10_40gbe_network_ports_on_pac/)
+
+> 作者： _bu_bgroup4pgs  拉取时间： 2022-03-25 06:00:03
 
  [Cant get OpenCL to run](https://www.reddit.com/r/OpenCL/comments/tjzgep/cant_get_opencl_to_run/)
 
 > 作者： _bu_bSuperLuigi007  拉取时间： 2022-03-23 05:59:10
 
- [Getting nan values for FFT on Intel FPGA](https://www.reddit.com/r/OpenCL/comments/tj4h4g/getting_nan_values_for_fft_on_intel_fpga/)
+ [芯片短缺缓解！新能源汽车产量大涨，零售额飙升147_0……一图速览广东最新经济数据](https://m.21jingji.com/article/20220324/herald/f4dd39c6d7f20797cf40ee48b7845cbf.html)
 
-> 作者： _bu_bgroup4pgs  拉取时间： 2022-03-22 06:00:29
+> 作者： null  拉取时间： 2022-03-25 06:00:05
 
- [剑指“涨价王”，最牛金属品涨价近9倍，四部门引导价格理性回归。这些公司家里有矿，3股净利翻25倍](https://m.21jingji.com/article/20220321/herald/a4ee978af97cdb5231df43d7939caf6d.html)
+ [断电前，驾驶舱上的人说了什么？黑匣子初判为语音记录器，已被送去修复译码！](https://m.21jingji.com/article/20220324/herald/50c3c2e01ba35acc818675f2affec212.html)
 
-> 作者： null  拉取时间： 2022-03-22 06:00:31
+> 作者： null  拉取时间： 2022-03-25 06:00:05
+
+ [俄乌战争背后的经济“闪击战”](https://www.ftchinese.com/story/001095624)
+
+> 作者： 孙兴杰  拉取时间： 2022-03-25 06:00:05
 
  [俄罗斯侵乌进展不顺 白俄罗斯面临参战压力](https://www.ftchinese.com/story/001095603)
 
@@ -396,21 +600,49 @@
 
 > 作者： 盖伊•查赞 埃丽卡•所罗门  拉取时间： 2022-03-23 05:59:12
 
- [克里姆林宫在国内展开宣传战](https://www.ftchinese.com/story/001095592)
-
-> 作者： 马克斯•塞登 波琳娜•伊万诺娃  拉取时间： 2022-03-22 06:00:31
-
- [中国“与病毒共存”宜缓行稳行](https://www.ftchinese.com/story/001095590)
-
-> 作者： 叶胜舟  拉取时间： 2022-03-22 06:00:31
-
  [How Many Fish](https://poorlydrawnlines.com/comic/how-many-fish-2/)
 
 > 作者： Reza  拉取时间： 2022-03-24 06:00:28
 
- [Thinking About 2](https://poorlydrawnlines.com/comic/thinking-about-2/)
+ [奇葩人接受 Offer 后拖了 28 天然后说不来了](https://www.v2ex.com/t/842711)
 
-> 作者： Reza  拉取时间： 2022-03-22 06:00:31
+> 作者： zagfai  拉取时间： 2022-03-25 06:00:05
+
+ [坐标苏州，普通后端程序员失业一个月高薪就业面试心得指南](https://www.v2ex.com/t/842652)
+
+> 作者： utahzhu  拉取时间： 2022-03-25 06:00:05
+
+ [MacBook Air M1 好像也没有那么好](https://www.v2ex.com/t/842614)
+
+> 作者： victorysl  拉取时间： 2022-03-25 06:00:05
+
+ [为什么 Java 开发没有普遍使用 kotlin](https://www.v2ex.com/t/842611)
+
+> 作者： Mateverse  拉取时间： 2022-03-25 06:00:05
+
+ [腾讯云新春活动折上折 最低只要 18 一年 3 年 129 其他的包含秒杀再打 7 折 不用担心关联不上](https://www.v2ex.com/t/842601)
+
+> 作者： leomm  拉取时间： 2022-03-25 06:00:05
+
+ [越来越多的创业者开始整租环境好的住宅办公了](https://www.v2ex.com/t/842596)
+
+> 作者： 145431  拉取时间： 2022-03-25 06:00:05
+
+ [新西兰加速开放边境，在新西兰技术移民窗口再次开放前，分享下新西兰疫情下的日常工作生活](https://www.v2ex.com/t/842543)
+
+> 作者： WillemNZ  拉取时间： 2022-03-25 06:00:05
+
+ [国内视频网站用户体验 西瓜视频 应该是第一了吧？](https://www.v2ex.com/t/842528)
+
+> 作者： w4087  拉取时间： 2022-03-25 06:00:05
+
+ [阿里云盘推出会员体系，会是下一个百度网盘么？](https://www.v2ex.com/t/842520)
+
+> 作者： xtx  拉取时间： 2022-03-25 06:00:05
+
+ [7500 收了个 13"M1 16+512，亏不亏？](https://www.v2ex.com/t/842509)
+
+> 作者： ccyu220  拉取时间： 2022-03-25 06:00:05
 
  [国内视频网站用户体验 B 站应该是第一了吧？](https://www.v2ex.com/t/842341)
 
@@ -472,33 +704,29 @@
 
 > 作者： tozp  拉取时间： 2022-03-23 05:59:12
 
- [[送码] Gotcha HTTP Client， MacOS 上优雅简洁的 HTTP 接口测试工具，赠送永久兑换码。](https://www.v2ex.com/t/841834)
+ [【注册结果】中巨芯科技股份有限公司](http://kcb.sse.com.cn//renewal/xmxq/index.shtml?auditId=1091)
 
-> 作者： whitecosm0s  拉取时间： 2022-03-22 06:00:33
+> 作者： 注册结果  拉取时间： 2022-03-25 06:00:06
 
- [升降桌椅 的确可以改善健康状况 分享一下我的 workspace](https://www.v2ex.com/t/841821)
+ [【注册结果】陕西源杰半导体科技股份有限公司](http://kcb.sse.com.cn//renewal/xmxq/index.shtml?auditId=1097)
 
-> 作者： redtech  拉取时间： 2022-03-22 06:00:33
+> 作者： 注册结果  拉取时间： 2022-03-25 06:00:06
 
- [这种情况你们会辞职吗？](https://www.v2ex.com/t/841813)
+ [【未通过】深圳市必易微电子股份有限公司](http://kcb.sse.com.cn//renewal/xmxq/index.shtml?auditId=873)
 
-> 作者： sunny1688  拉取时间： 2022-03-22 06:00:33
+> 作者： 未通过  拉取时间： 2022-03-25 06:00:06
 
- [大三了只会增删改查](https://www.v2ex.com/t/841796)
+ [【注册结果】赛恩斯环保股份有限公司](http://kcb.sse.com.cn//renewal/xmxq/index.shtml?auditId=1117)
 
-> 作者： jolanyu  拉取时间： 2022-03-22 06:00:33
+> 作者： 注册结果  拉取时间： 2022-03-25 06:00:06
 
- [iOS 上最好用的电子书阅读器竟然是微信读书](https://www.v2ex.com/t/841781)
+ [【已询问】江苏帝奥微电子股份有限公司](http://kcb.sse.com.cn//renewal/xmxq/index.shtml?auditId=1052)
 
-> 作者： gjquoiai  拉取时间： 2022-03-22 06:00:33
+> 作者： 已询问  拉取时间： 2022-03-25 06:00:06
 
- [apipost 炸了，为什么也没有个公告啥的](https://www.v2ex.com/t/841775)
+ [【未通过】江苏集萃药康生物科技股份有限公司](http://kcb.sse.com.cn//renewal/xmxq/index.shtml?auditId=1011)
 
-> 作者： xiaoshouchen  拉取时间： 2022-03-22 06:00:33
-
- [35 岁求职迷茫](https://www.v2ex.com/t/841773)
-
-> 作者： zror  拉取时间： 2022-03-22 06:00:33
+> 作者： 未通过  拉取时间： 2022-03-25 06:00:06
 
  [【已询问】有研半导体硅材料股份公司](http://kcb.sse.com.cn//renewal/xmxq/index.shtml?auditId=1088)
 
@@ -572,9 +800,9 @@
 
 > 作者： 已询问  拉取时间： 2022-03-23 05:59:13
 
- [【注册结果】苏州浩辰软件股份有限公司](http://kcb.sse.com.cn//renewal/xmxq/index.shtml?auditId=1056)
+ [2022年3月24日外交部发言人汪文斌主持例行记者会（2022_s03_s24）](https://www.mfa.gov.cn/web/wjdt_674879/fyrbt_674889/202203/t20220324_10655050.shtml)
 
-> 作者： 注册结果  拉取时间： 2022-03-22 06:00:33
+> 作者： null  拉取时间： 2022-03-25 06:00:06
 
  [2022年3月23日外交部发言人汪文斌主持例行记者会（2022_s03_s23）](https://www.mfa.gov.cn/web/wjdt_674879/fyrbt_674889/202203/t20220323_10654579.shtml)
 
@@ -584,145 +812,9 @@
 
 > 作者： null  拉取时间： 2022-03-23 05:59:13
 
- [2022年3月21日外交部发言人汪文斌主持例行记者会（2022_s03_s21）](https://www.mfa.gov.cn/web/wjdt_674879/fyrbt_674889/202203/t20220321_10653782.shtml)
+ [【喷嚏图卦20220324】新冠没有那么吓人，但是仗很难打](https://www.dapenti.com/blog/more.asp?name=xilei&id=163559)
 
-> 作者： null  拉取时间： 2022-03-22 06:00:34
-
- [2022年3月18日外交部发言人赵立坚主持例行记者会（2022_s03_s18）](https://www.mfa.gov.cn/web/wjdt_674879/fyrbt_674889/202203/t20220318_10653084.shtml)
-
-> 作者： null  拉取时间： 2022-03-22 06:00:34
-
- [2022年3月17日外交部发言人赵立坚主持例行记者会（2022_s03_s17）](https://www.mfa.gov.cn/web/wjdt_674879/fyrbt_674889/202203/t20220317_10652719.shtml)
-
-> 作者： null  拉取时间： 2022-03-22 06:00:34
-
- [2022年3月16日外交部发言人赵立坚主持例行记者会（2022_s03_s16）](https://www.mfa.gov.cn/web/wjdt_674879/fyrbt_674889/202203/t20220316_10652264.shtml)
-
-> 作者： null  拉取时间： 2022-03-22 06:00:34
-
- [2022年3月15日外交部发言人赵立坚主持例行记者会（2022_s03_s15）](https://www.mfa.gov.cn/web/wjdt_674879/fyrbt_674889/202203/t20220315_10651924.shtml)
-
-> 作者： null  拉取时间： 2022-03-22 06:00:34
-
- [2022年3月14日外交部发言人赵立坚主持例行记者会（2022_s03_s14）](https://www.mfa.gov.cn/web/wjdt_674879/fyrbt_674889/202203/t20220314_10651532.shtml)
-
-> 作者： null  拉取时间： 2022-03-22 06:00:34
-
- [外交部发言人赵立坚就中美有关会晤答记者问（2022_s03_s13）](https://www.mfa.gov.cn/web/wjdt_674879/fyrbt_674889/202203/t20220313_10651376.shtml)
-
-> 作者： null  拉取时间： 2022-03-22 06:00:34
-
- [2022年3月10日外交部发言人赵立坚主持例行记者会（2022_s03_s10）](https://www.mfa.gov.cn/web/wjdt_674879/fyrbt_674889/202203/t20220310_10650586.shtml)
-
-> 作者： null  拉取时间： 2022-03-22 06:00:34
-
- [2022年3月9日外交部发言人赵立坚主持例行记者会（2022_s03_s09）](https://www.mfa.gov.cn/web/wjdt_674879/fyrbt_674889/202203/t20220309_10650208.shtml)
-
-> 作者： null  拉取时间： 2022-03-22 06:00:34
-
- [2022年3月8日外交部发言人赵立坚主持例行记者会（2022_s03_s08）](https://www.mfa.gov.cn/web/wjdt_674879/fyrbt_674889/202203/t20220308_10649759.shtml)
-
-> 作者： null  拉取时间： 2022-03-22 06:00:34
-
- [2022年3月4日外交部发言人汪文斌主持例行记者会（2022_s03_s04）](https://www.mfa.gov.cn/web/wjdt_674879/fyrbt_674889/202203/t20220304_10648105.shtml)
-
-> 作者： null  拉取时间： 2022-03-22 06:00:34
-
- [2022年3月3日外交部发言人汪文斌主持例行记者会（2022_s03_s03）](https://www.mfa.gov.cn/web/wjdt_674879/fyrbt_674889/202203/t20220303_10647693.shtml)
-
-> 作者： null  拉取时间： 2022-03-22 06:00:34
-
- [2022年3月2日外交部发言人汪文斌主持例行记者会（2022_s03_s02）](https://www.mfa.gov.cn/web/wjdt_674879/fyrbt_674889/202203/t20220302_10647272.shtml)
-
-> 作者： null  拉取时间： 2022-03-22 06:00:34
-
- [2022年3月1日外交部发言人汪文斌主持例行记者会（2022_s03_s01）](https://www.mfa.gov.cn/web/wjdt_674879/fyrbt_674889/202203/t20220301_10646842.shtml)
-
-> 作者： null  拉取时间： 2022-03-22 06:00:34
-
- [2022年2月28日外交部发言人汪文斌主持例行记者会（2022_s02_s28）](https://www.mfa.gov.cn/web/wjdt_674879/fyrbt_674889/202202/t20220228_10646369.shtml)
-
-> 作者： null  拉取时间： 2022-03-22 06:00:34
-
- [2022年2月25日外交部发言人汪文斌主持例行记者会（2022_s02_s25）](https://www.mfa.gov.cn/web/wjdt_674879/fyrbt_674889/202202/t20220225_10645686.shtml)
-
-> 作者： null  拉取时间： 2022-03-22 06:00:34
-
- [2022年2月24日外交部发言人华春莹主持例行记者会（2022_s02_s24）](https://www.mfa.gov.cn/web/wjdt_674879/fyrbt_674889/202202/t20220224_10645295.shtml)
-
-> 作者： null  拉取时间： 2022-03-22 06:00:34
-
- [2022年2月23日外交部发言人华春莹主持例行记者会（2022_s02_s23）](https://www.mfa.gov.cn/web/wjdt_674879/fyrbt_674889/202202/t20220223_10644870.shtml)
-
-> 作者： null  拉取时间： 2022-03-22 06:00:34
-
- [2022年2月22日外交部发言人汪文斌主持例行记者会（2022_s02_s22）](https://www.mfa.gov.cn/web/wjdt_674879/fyrbt_674889/202202/t20220222_10644486.shtml)
-
-> 作者： null  拉取时间： 2022-03-22 06:00:34
-
- [2022年2月21日外交部发言人汪文斌主持例行记者会（2022_s02_s21）](https://www.mfa.gov.cn/web/wjdt_674879/fyrbt_674889/202202/t20220221_10644054.shtml)
-
-> 作者： null  拉取时间： 2022-03-22 06:00:34
-
- [2022年2月18日外交部发言人汪文斌主持例行记者会（2022_s02_s18）](https://www.mfa.gov.cn/web/wjdt_674879/fyrbt_674889/202202/t20220218_10643443.shtml)
-
-> 作者： null  拉取时间： 2022-03-22 06:00:34
-
- [2022年2月17日外交部发言人汪文斌主持例行记者会（2022_s02_s17）](https://www.mfa.gov.cn/web/wjdt_674879/fyrbt_674889/202202/t20220217_10643117.shtml)
-
-> 作者： null  拉取时间： 2022-03-22 06:00:34
-
- [2022年2月16日外交部发言人汪文斌主持例行记者会（2022_s02_s16）](https://www.mfa.gov.cn/web/wjdt_674879/fyrbt_674889/202202/t20220216_10642776.shtml)
-
-> 作者： null  拉取时间： 2022-03-22 06:00:34
-
- [2022年2月15日外交部发言人汪文斌主持例行记者会（2022_s02_s15）](https://www.mfa.gov.cn/web/wjdt_674879/fyrbt_674889/202202/t20220215_10642488.shtml)
-
-> 作者： null  拉取时间： 2022-03-22 06:00:34
-
- [2022年2月14日外交部发言人汪文斌主持例行记者会（2022_s02_s14）](https://www.mfa.gov.cn/web/wjdt_674879/fyrbt_674889/202202/t20220214_10642165.shtml)
-
-> 作者： null  拉取时间： 2022-03-22 06:00:34
-
- [2022年2月11日外交部发言人赵立坚主持例行记者会（2022_s02_s11）](https://www.mfa.gov.cn/web/wjdt_674879/fyrbt_674889/202202/t20220211_10641427.shtml)
-
-> 作者： null  拉取时间： 2022-03-22 06:00:34
-
- [2022年2月10日外交部发言人赵立坚主持例行记者会（2022_s02_s10）](https://www.mfa.gov.cn/web/wjdt_674879/fyrbt_674889/202202/t20220210_10640920.shtml)
-
-> 作者： null  拉取时间： 2022-03-22 06:00:34
-
- [2022年2月9日外交部发言人赵立坚主持例行记者会（2022_s02_s09）](https://www.mfa.gov.cn/web/wjdt_674879/fyrbt_674889/202202/t20220209_10640532.shtml)
-
-> 作者： null  拉取时间： 2022-03-22 06:00:34
-
- [2022年2月8日外交部发言人赵立坚主持例行记者会（2022_s02_s08）](https://www.mfa.gov.cn/web/wjdt_674879/fyrbt_674889/202202/t20220208_10640207.shtml)
-
-> 作者： null  拉取时间： 2022-03-22 06:00:34
-
- [2022年2月7日外交部发言人赵立坚主持例行记者会（2022_s02_s07）](https://www.mfa.gov.cn/web/wjdt_674879/fyrbt_674889/202202/t20220207_10639812.shtml)
-
-> 作者： null  拉取时间： 2022-03-22 06:00:34
-
- [外交部发言人赵立坚就日本国会众议院通过涉华决议答记者问（2022_s02_s01）](https://www.mfa.gov.cn/web/wjdt_674879/fyrbt_674889/202202/t20220201_10638099.shtml)
-
-> 作者： null  拉取时间： 2022-03-22 06:00:34
-
- [外交部发言人赵立坚就美国国会众议长佩洛西视频会见赖清德答记者问（2022_s01_s30）](https://www.mfa.gov.cn/web/wjdt_674879/fyrbt_674889/202201/t20220130_10637412.shtml)
-
-> 作者： null  拉取时间： 2022-03-22 06:00:34
-
- [2022年1月28日外交部发言人赵立坚主持例行记者会（2022_s01_s28）](https://www.mfa.gov.cn/web/wjdt_674879/fyrbt_674889/202201/t20220128_10636086.shtml)
-
-> 作者： null  拉取时间： 2022-03-22 06:00:34
-
- [2022年1月27日外交部发言人赵立坚主持例行记者会（2022_s01_s27）](https://www.mfa.gov.cn/web/wjdt_674879/fyrbt_674889/202201/t20220127_10635286.shtml)
-
-> 作者： null  拉取时间： 2022-03-22 06:00:34
-
- [2022年1月26日外交部发言人赵立坚主持例行记者会（2022_s01_s26）](https://www.mfa.gov.cn/web/wjdt_674879/fyrbt_674889/202201/t20220126_10634275.shtml)
-
-> 作者： null  拉取时间： 2022-03-22 06:00:34
+> 作者： xilei  拉取时间： 2022-03-25 06:01:47
 
  [【喷嚏图卦20220323】所以说怕的不是感染](https://www.dapenti.com/blog/more.asp?name=xilei&id=163531)
 
@@ -731,10 +823,6 @@
  [【喷嚏图卦20220322】活在这珍贵的人间，人类和植物一样幸福](https://www.dapenti.com/blog/more.asp?name=xilei&id=163511)
 
 > 作者： xilei  拉取时间： 2022-03-24 06:02:10
-
- [【喷嚏图卦20220321】你和无数只蜗牛生活在一起，没有哪一只能主宰你](https://www.dapenti.com/blog/more.asp?name=xilei&id=163492)
-
-> 作者： xilei  拉取时间： 2022-03-22 06:02:15
 
  [中办国办印发《关于构建更高水平的全民健身公共服务体系的意见》](http://www.gov.cn/zhengce/2022-03/23/content_5680908.htm)
 
@@ -748,9 +836,21 @@
 
 > 作者： null  拉取时间： 2022-03-23 06:02:35
 
- [中共中央办公厅印发《关于推动党史学习教育常态化长效化的意见》](http://www.gov.cn/zhengce/2022-03/21/content_5680294.htm)
+ [中美洲人类的遗传史前史揭示玛雅人的起源和玉米作物的扩散](http://jandan.net/p/110465)
 
-> 作者： null  拉取时间： 2022-03-22 06:03:07
+> 作者： majer  拉取时间： 2022-03-25 06:02:39
+
+ [各国软件工程师平均工资排名 美国的最高](http://jandan.net/p/110467)
+
+> 作者： majer  拉取时间： 2022-03-25 06:02:39
+
+ [用人工智能发现新型的、有价值的稀土化合物](http://jandan.net/p/110468)
+
+> 作者： majer  拉取时间： 2022-03-25 06:02:39
+
+ [今日好价 0324](http://jandan.net/p/110469)
+
+> 作者： sein  拉取时间： 2022-03-25 06:02:39
 
  [你听说过篮球场上的热手效应吗](http://jandan.net/p/110466)
 
@@ -784,22 +884,6 @@
 
 > 作者： sein  拉取时间： 2022-03-23 06:02:36
 
- [把CPT守恒推广到全宇宙：如果存在一个反宇宙，则暗物质立刻就不再神秘](http://jandan.net/p/110455)
-
-> 作者： majer  拉取时间： 2022-03-22 06:03:08
-
- [之前发现的三颗系外行星其实是小恒星](http://jandan.net/p/110438)
-
-> 作者： majer  拉取时间： 2022-03-22 06:03:08
-
- [治疗失眠，褪黑激素安全吗？](http://jandan.net/p/110452)
-
-> 作者： majer  拉取时间： 2022-03-22 06:03:08
-
- [今日带货：王摸鱼新款周边发布](http://jandan.net/p/110453)
-
-> 作者： sein  拉取时间： 2022-03-22 06:03:08
-
  [【谣言】3月16日居民出行正常化，4月6日大中学开学](https://vp.fact.qq.com/article?id=917bba440d736ba2677d8d07d18ce684)
 
 > 作者： 呼和浩特日报  拉取时间： 2022-03-24 06:04:32
@@ -820,6 +904,10 @@
 
 > 作者： 解放日报社出品的高端资讯品牌  拉取时间： 2022-03-23 06:03:27
 
+ [青年图摘0324！最近5年开始不诚信](https://qingniantuzhai.com/qing-nian-tu-zhai-0324-4/)
+
+> 作者： Chris  拉取时间： 2022-03-25 06:04:23
+
  [青年图摘0323！图简意赅](https://qingniantuzhai.com/qing-nian-tu-zhai-0323-5/)
 
 > 作者： Chris  拉取时间： 2022-03-24 06:05:25
@@ -828,13 +916,29 @@
 
 > 作者： Chris  拉取时间： 2022-03-23 06:04:21
 
- [青年图摘0321！禁止堂食，可以外带](https://qingniantuzhai.com/qing-nian-tu-zhai-0321-2/)
+ [5 Lesser_sKnown Open Source Web Browsers for Linux in 2022](https://www.linuxjournal.com/content/5-lesser-known-open-source-web-browsers-linux-2022)
 
-> 作者： Chris  拉取时间： 2022-03-22 06:04:53
+> 作者： Suparna Ganguly  拉取时间： 2022-03-25 06:04:25
 
  [Simulating Host Identity Protocol_sBased Virtual Private LAN Service Using Mininet Framework](https://www.linuxjournal.com/content/simulating-host-identity-protocol-based-virtual-private-lan-service-using-mininet-framework)
 
 > 作者： Dmitriy Kuptsov  拉取时间： 2022-03-23 06:04:23
+
+ [硬核观察 #585 OpenJDK 18 发布](https://linux.cn/article-14391-1.html?utm_source=rss&utm_medium=rss)
+
+> 作者： linux@linux_dcn (linux)  拉取时间： 2022-03-25 06:04:26
+
+ [Xonsh Shell：在 Linux 终端结合 Bash Shell 和 Python 的最佳特性](https://linux.cn/article-14390-1.html?utm_source=rss&utm_medium=rss)
+
+> 作者： linux@linux_dcn (linux)  拉取时间： 2022-03-25 06:04:26
+
+ [Piwigo：一个你可以自行托管的开源谷歌照片替代品](https://linux.cn/article-14389-1.html?utm_source=rss&utm_medium=rss)
+
+> 作者： linux@linux_dcn (linux)  拉取时间： 2022-03-25 06:04:26
+
+ [少年黑客对自由软件的自由漫谈](https://linux.cn/article-14388-1.html?utm_source=rss&utm_medium=rss)
+
+> 作者： linux@linux_dcn (linux)  拉取时间： 2022-03-25 06:04:26
 
  [硬核观察 #584 以太坊创始人说，加密货币的目标不是用百万美元的猴子图片玩游戏](https://linux.cn/article-14387-1.html?utm_source=rss&utm_medium=rss)
 
@@ -864,21 +968,13 @@
 
 > 作者： linux@linux_dcn (linux)  拉取时间： 2022-03-23 06:04:24
 
- [在 Fedora Linux 上使用 Homebrew 包管理器](https://linux.cn/article-14380-1.html?utm_source=rss&utm_medium=rss)
+ [有IIS部署rust后端的指南么？](https://rustcc.cn/article?id=a292d8c7-a84a-45e0-b0a1-2934b5caae37)
 
-> 作者： linux@linux_dcn (linux)  拉取时间： 2022-03-22 06:04:56
+> 作者： null  拉取时间： 2022-03-25 06:04:30
 
- [硬核观察 #582 Firefox 拦截了中国用户下载广告拦截扩展](https://linux.cn/article-14379-1.html?utm_source=rss&utm_medium=rss)
+ [【Rust日报】2022_s03_s24 Zine  _s 简单易用的个人杂志生成器](https://rustcc.cn/article?id=3aa78cee-c4b3-43e3-9fa6-47bcb44cf144)
 
-> 作者： linux@linux_dcn (linux)  拉取时间： 2022-03-22 06:04:56
-
- [在 Groovy 和 Java 中创建并初始化映射的不同](https://linux.cn/article-14378-1.html?utm_source=rss&utm_medium=rss)
-
-> 作者： linux@linux_dcn (linux)  拉取时间： 2022-03-22 06:04:56
-
- [复活的 C4C Linux 发行版](https://linux.cn/article-14377-1.html?utm_source=rss&utm_medium=rss)
-
-> 作者： linux@linux_dcn (linux)  拉取时间： 2022-03-22 06:04:56
+> 作者： null  拉取时间： 2022-03-25 06:04:30
 
  [【Rust日报】2022_s03_s23 RustSBI软件发布v0_d2_d2版本](https://rustcc.cn/article?id=35a5637c-4a4c-4e4d-910e-b0488a819376)
 
@@ -900,17 +996,9 @@
 
 > 作者： null  拉取时间： 2022-03-23 06:04:28
 
- [【Rust日报】2022_s03_s21  Firefox 现在约 10_0 的代码为 Rust](https://rustcc.cn/article?id=f1cc19b7-1f53-4635-9218-213e3e6df335)
+ [Daily Hacker News for 2022_s03_s23](https://www.daemonology.net/hn-daily/2022-03-23.html)
 
-> 作者： null  拉取时间： 2022-03-22 06:05:00
-
- [Rust零基础入门培训](https://rustcc.cn/article?id=e3cf4d70-899e-434e-a6fe-b27a75f740be)
-
-> 作者： null  拉取时间： 2022-03-22 06:05:00
-
- [一个不成熟的想法](https://rustcc.cn/article?id=4e5dee28-9070-4ce6-994c-2f8f785a9554)
-
-> 作者： null  拉取时间： 2022-03-22 06:05:00
+> 作者： null  拉取时间： 2022-03-25 06:05:21
 
  [Daily Hacker News for 2022_s03_s22](https://www.daemonology.net/hn-daily/2022-03-22.html)
 
@@ -920,9 +1008,17 @@
 
 > 作者： null  拉取时间： 2022-03-23 06:05:19
 
- [Daily Hacker News for 2022_s03_s20](https://www.daemonology.net/hn-daily/2022-03-20.html)
+ [CSS 也能自动补全字符串？](https://segmentfault.com/a/1190000041580205)
 
-> 作者： null  拉取时间： 2022-03-22 06:05:51
+> 作者： XboxYan  拉取时间： 2022-03-25 06:07:10
+
+ [基于 Stencil 构建 Web Components 组件库](https://segmentfault.com/a/1190000041597585)
+
+> 作者： SuperX  拉取时间： 2022-03-25 06:07:10
+
+ [从0到1教你在AWS中部署动态网站Typecho系统](https://segmentfault.com/a/1190000041598952)
+
+> 作者： 沈唁  拉取时间： 2022-03-25 06:07:10
 
  [数据库与缓存双写一致性](https://segmentfault.com/a/1190000041576417)
 
@@ -943,11 +1039,3 @@
  [2022招聘季｜如何写一份好的前端面试简历_d2](https://segmentfault.com/a/1190000041542431)
 
 > 作者： wscats  拉取时间： 2022-03-23 06:07:08
-
- [2022招聘季 | 怎么准备面试？面试官一般会问些什么问题？ | web 前端](https://segmentfault.com/a/1190000041560515)
-
-> 作者： linong  拉取时间： 2022-03-22 06:07:39
-
- [扫盲贴：2021 CSS 最冷门特性都是些啥？](https://segmentfault.com/a/1190000041452414)
-
-> 作者： chokcoco  拉取时间： 2022-03-22 06:07:39
