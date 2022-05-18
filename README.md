@@ -18,7 +18,27 @@
 
 ## 今日更新
 
-## 2022-5-18
+## 2022-5-19
+
+ [轻舟智航推出第四代前装量产方案，成本低于1万元](https://www.jiqizhixin.com/articles/2022-05-18-6)
+
+> 作者： AutoByte  拉取时间： 2022-05-19 05:51:30
+
+ [2022 IBM博士生奖学金揭晓：8位华人入选，上交大、电子科大校友在列](https://www.jiqizhixin.com/articles/2022-05-18-5)
+
+> 作者： 机器之心  拉取时间： 2022-05-19 05:51:30
+
+ [大神Goodfellow去向定了：回归谷歌，在DeepMind继续远程办公](https://www.jiqizhixin.com/articles/2022-05-18-3)
+
+> 作者： 机器之心  拉取时间： 2022-05-19 05:51:30
+
+ [助力公益数字化，火山引擎向公益机构捐赠多款技术产品](https://www.jiqizhixin.com/articles/2022-05-18-4)
+
+> 作者： 新闻助手  拉取时间： 2022-05-19 05:51:30
+
+ [军工集团金牌供应商，振华风光IPO意图转型IDM](https://www.jiqizhixin.com/articles/2022-05-18)
+
+> 作者： shanshan  拉取时间： 2022-05-19 05:51:30
 
  [799元起：iFLYBUDS Pro录音降噪会议耳机正式发布](https://www.jiqizhixin.com/articles/2022-05-17-7)
 
@@ -52,17 +72,25 @@
 
 > 作者： 机器之心  拉取时间： 2022-05-17 05:51:36
 
- [中科院计算所孙晓明：实现多项式量级加速，量子搜索算法的优势与挑战](https://www.jiqizhixin.com/articles/2022-05-15-3)
+ [如何让家务分工更和谐？不妨试试量化分工的模式](https://sspai.com/post/73229)
 
-> 作者： 机器之心  拉取时间： 2022-05-16 05:51:32
+> 作者： 半藏喂橘  拉取时间： 2022-05-19 05:51:31
 
- [为什么只有一块有奶油？用流变学正经分析一下奥利奥的「扭一扭」](https://www.jiqizhixin.com/articles/2022-05-15)
+ [macOS 的「预览」有几种用法？](https://sspai.com/post/73291)
 
-> 作者： 机器之心  拉取时间： 2022-05-16 05:51:32
+> 作者： jijiali  拉取时间： 2022-05-19 05:51:31
 
- [语言模型的冰山一角：微调是不必要， AI21 Labs探索冻结模型未开发潜力](https://www.jiqizhixin.com/articles/2022-05-15-2)
+ [别被 root 挡在门外：Shizuku 让 Android 玩机更简单](https://sspai.com/post/73294)
 
-> 作者： 机器之心  拉取时间： 2022-05-16 05:51:32
+> 作者： 路中南  拉取时间： 2022-05-19 05:51:31
+
+ [App+1 | 看起来好看、用起来趁手，高颜值 SSH 客户端：NextSSH](https://sspai.com/post/73201)
+
+> 作者： zhshch  拉取时间： 2022-05-19 05:51:31
+
+ [派早报：Apple 允许开发者无需用户确认上调订阅费用、「5G 通信壳」亮相等](https://sspai.com/post/73288)
+
+> 作者： 少数派编辑部  拉取时间： 2022-05-19 05:51:31
 
  [不读可以先收藏 11：本月值得一读的 5 篇好文](https://sspai.com/post/73281)
 
@@ -108,13 +136,13 @@
 
 > 作者： 少数派编辑部  拉取时间： 2022-05-17 05:51:38
 
- [双向链接的前世今生 | 上都计划与 Roam Research 思维工具](https://sspai.com/post/72995)
+ [个人用途：可继续使用 G Suite 免费版（旧版）](https://www.appinn.com/g-suite-legacy-free-is-start/)
 
-> 作者： 吕立青_JimmyLv  拉取时间： 2022-05-16 05:51:33
+> 作者： 青小蛙  拉取时间： 2022-05-19 05:51:33
 
- [麻雀虽小，五脏俱全：「小配列键盘」为什么越来越受用户喜爱？](https://sspai.com/post/73206)
+ [rdpwrap by sebaxakerhtc – 激活 Windows 10 家庭版的远程桌面](https://www.appinn.com/rdpwrap-by-sebaxakerhtc/)
 
-> 作者： 北鸮  拉取时间： 2022-05-16 05:51:33
+> 作者： 青小蛙  拉取时间： 2022-05-19 05:51:33
 
  [SuperRDP2 – 为 Windows 家庭版开启远程桌面功能](https://www.appinn.com/superrdp2/)
 
@@ -123,6 +151,54 @@
  [PDFSigner – 在线为 PDF 文档添加签章](https://www.appinn.com/pdfsigner-online/)
 
 > 作者： 青小蛙  拉取时间： 2022-05-17 05:51:39
+
+ [Typora：没有 Preview 窗口的奇怪文本编辑器「发布官方售价，仅89元」](https://www.waerfa.com/typora)
+
+> 作者： Mac玩儿法编辑部  拉取时间： 2022-05-19 05:52:29
+
+ [Show Off Your Comment Streak with Community Wellness Badges](https://dev.to/devteam/show-off-your-comment-streak-with-community-wellness-badges-k7f)
+
+> 作者： Erin Bensinger, The DEV Team  拉取时间： 2022-05-19 05:52:32
+
+ [Launching the State of the Appwrite Community Survey](https://dev.to/appwrite/launching-the-state-of-the-appwrite-community-survey-n91)
+
+> 作者： Aditya Oberai, Appwrite  拉取时间： 2022-05-19 05:52:32
+
+ [Merging Pull Requests Like a Pro With Mergify](https://dev.to/aniket762/merging-pull-requests-like-a-pro-with-mergify-30fa)
+
+> 作者： Aniket Pal  拉取时间： 2022-05-19 05:52:32
+
+ [What_as your current code editor_bIDE setup_d2](https://dev.to/asheeshh/share-your-code-editoride-setup-1nlp)
+
+> 作者： ashish  拉取时间： 2022-05-19 05:52:32
+
+ [What developer products_btools should exist, but don_at_d2](https://dev.to/devteam/what-developer-productstools-should-exist-but-dont-4ooe)
+
+> 作者： Ben Halpern, The DEV Team  拉取时间： 2022-05-19 05:52:32
+
+ [What you need to be prepared for any job interview 🎙](https://dev.to/codenewbieteam/what-you-need-to-be-prepared-for-any-job-interview-codenewbie-podcast-3mg2)
+
+> 作者： Ben Halpern, CodeNewbie  拉取时间： 2022-05-19 05:52:32
+
+ [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-2p64)
+
+> 作者： Michael Tharrington (he_bhim), The DEV Team  拉取时间： 2022-05-19 05:52:32
+
+ [What’s the most annoying part of your job_d2](https://dev.to/devteam/whats-the-most-annoying-part-of-your-job-20fi)
+
+> 作者： Ben Halpern, The DEV Team  拉取时间： 2022-05-19 05:52:32
+
+ [CSS isn_at magic_d My 3 favorite CSS tricks](https://dev.to/melnik909/css-isnt-magic-my-3-favorite-css-tricks-1kim)
+
+> 作者： Stas Melnikov  拉取时间： 2022-05-19 05:52:32
+
+ [What does being a senior mean to you_d2](https://dev.to/nombrekeff/what-does-being-a-senior-mean-to-you-62f)
+
+> 作者： Keff  拉取时间： 2022-05-19 05:52:32
+
+ [How to speed up a Web App loading time by 10x faster!](https://dev.to/mtwn105/how-to-speed-up-a-web-app-loading-time-by-10x-faster-1oke)
+
+> 作者： Amit Wani  拉取时间： 2022-05-19 05:52:32
 
  [Swiftly Awaiting Async Code Using Appwrite](https://dev.to/appwrite/swiftly-awaiting-async-code-using-appwrite-1c6c)
 
@@ -220,25 +296,9 @@
 
 > 作者： Keff  拉取时间： 2022-05-17 05:51:52
 
- [What is YOUR theme_d2](https://dev.to/snowciel/what-is-your-theme-40eh)
+ [Vector_sQuantized Image Modeling with Improved VQGAN](http://ai.googleblog.com/2022/05/vector-quantized-image-modeling-with.html)
 
-> 作者： Snowciel  拉取时间： 2022-05-16 05:51:46
-
- [Pitch me on PHP](https://dev.to/ben/pitch-me-on-php-5bdc)
-
-> 作者： Ben Halpern  拉取时间： 2022-05-16 05:51:46
-
- [Useful Linux Commands](https://dev.to/software_writer/useful-linux-commands-2acn)
-
-> 作者： Akshay Khot  拉取时间： 2022-05-16 05:51:46
-
- [Reading List_t The Early Career Edition](https://dev.to/bekahhw/reading-list-the-early-career-edition-4jb1)
-
-> 作者： BekahHW  拉取时间： 2022-05-16 05:51:46
-
- [30 Common CI_bCD Interview Questions (with Answers)](https://dev.to/semaphore/30-common-cicd-interview-questions-with-answers-j65)
-
-> 作者： Tomas Fernandez, Semaphore  拉取时间： 2022-05-16 05:51:46
+> 作者： Google AI (noreply@blogger_dcom)  拉取时间： 2022-05-19 05:52:33
 
  [Contextual Rephrasing in Google Assistant](http://ai.googleblog.com/2022/05/contextual-rephrasing-in-google.html)
 
@@ -264,9 +324,17 @@
 
 > 作者： null  拉取时间： 2022-05-18 05:57:59
 
- [周刊（第15期）：图解ARIES论文（上）](https://www.codedump.info/post/20220514-weekly-15/)
+ [is anyone employ contrastive learning to limited dataset_d2 I found majority contrastive learning algorithm using pretraining encoder_d But how to deal with limited dataset without pretraining_d2](https://www.reddit.com/r/DeepLearningPapers/comments/us67jl/is_anyone_employ_contrastive_learning_to_limited/)
 
-> 作者： null  拉取时间： 2022-05-16 05:56:59
+> 作者： _bu_bOk_sFirefighter5484  拉取时间： 2022-05-19 06:00:04
+
+ [Your AI Weekly Digest (newsletter)! I just shared a new iteration covering BlobGAN](https://www.reddit.com/r/DeepLearningPapers/comments/us9zzm/your_ai_weekly_digest_newsletter_i_just_shared_a/)
+
+> 作者： _bu_bOnlyProggingForFun  拉取时间： 2022-05-19 06:00:04
+
+ [Pytorch now available on M1 with GPU acceleration](https://www.reddit.com/r/pytorch/comments/usgpm6/pytorch_now_available_on_m1_with_gpu_acceleration/)
+
+> 作者： _bu_bNo_Confidence5452  拉取时间： 2022-05-19 06:00:04
 
  [Re_sinitializing variables in forward](https://www.reddit.com/r/pytorch/comments/uqxw5a/reinitializing_variables_in_forward/)
 
@@ -276,17 +344,21 @@
 
 > 作者： _bu_bunkz  拉取时间： 2022-05-17 05:59:23
 
- [Placing modified regions of interest in the original location](https://www.reddit.com/r/pytorch/comments/uprxrt/placing_modified_regions_of_interest_in_the/)
+ [What_as new in TensorFlow 2_d9_d2](https://blog.tensorflow.org/2022/05/whats-new-in-tensorflow-29.html)
 
-> 作者： _bu_bbananapen  拉取时间： 2022-05-16 05:58:46
+> 作者： TensorFlow Blog (noreply@blogger_dcom)  拉取时间： 2022-05-19 06:00:05
 
  [TensorFlow Lite for education and makers](https://blog.tensorflow.org/2022/05/tensorflow-lite-for-education-and-makers.html)
 
 > 作者： TensorFlow Blog (noreply@blogger_dcom)  拉取时间： 2022-05-18 06:00:27
 
- [Open source _b part time research in the world of HPC_d2](https://www.reddit.com/r/HPC/comments/uq45wg/open_source_part_time_research_in_the_world_of_hpc/)
+ [Consider applying to participate in Chapel Coding Day on June 9th](https://www.reddit.com/r/HPC/comments/usint7/consider_applying_to_participate_in_chapel_coding/)
 
-> 作者： _bu_bsdePanda  拉取时间： 2022-05-16 05:59:39
+> 作者： _bu_bMichelleStroutHPE  拉取时间： 2022-05-19 06:00:57
+
+ [图解最新70城房价：50城二手房价格下跌，一线城市涨幅持平（附各地房价一览）](https://m.21jingji.com/article/20220518/herald/70f163bb54c0a6832fd6406364abd036.html)
+
+> 作者： null  拉取时间： 2022-05-19 06:01:00
 
  [21人口论｜疫情扰动还是长期趋势？2021年人口流向新一线城市，北上广深增量仅12_d5万](https://m.21jingji.com/article/20220517/herald/8b53ea040ed527c23c8152644244ba1f.html)
 
@@ -295,10 +367,6 @@
  [5月份经济运行有望得到改善，一图速览国家统计局最新研判→](https://m.21jingji.com/article/20220516/herald/93b93d339c5d9d76eee5ebd97e8c8eaa.html)
 
 > 作者： null  拉取时间： 2022-05-17 06:00:18
-
- [一组数据读懂广东打造新发展格局战略支点“硬实力”](https://m.21jingji.com/article/20220515/herald/2bb9107f679128546803198794e427cd.html)
-
-> 作者： null  拉取时间： 2022-05-16 05:59:41
 
  [越南不是中国制造业的威胁](https://www.ftchinese.com/story/001096084)
 
@@ -316,17 +384,53 @@
 
 > 作者： 王英良 符棋锋  拉取时间： 2022-05-17 06:00:18
 
- [每周时事分析：韩国无意就国际、地区事务与中国合作](https://www.ftchinese.com/story/001096056)
+ [Stronger](https://poorlydrawnlines.com/comic/stronger/)
 
-> 作者： 曹辛  拉取时间： 2022-05-16 05:59:41
-
- [普京的红场演讲“选择题”](https://www.ftchinese.com/story/001096031)
-
-> 作者： 吉迪恩•拉赫曼  拉取时间： 2022-05-16 05:59:41
+> 作者： Reza  拉取时间： 2022-05-19 06:01:01
 
  [I Am Crab](https://poorlydrawnlines.com/comic/i-am-crab/)
 
 > 作者： Reza  拉取时间： 2022-05-17 06:00:18
+
+ [话说 v 站结婚的各位 ，家里都是咋管钱的](https://www.v2ex.com/t/853697)
+
+> 作者： zhangleshiye  拉取时间： 2022-05-19 06:01:03
+
+ [推荐个 Mac 下好用的机械键盘， YYDS 级别。](https://www.v2ex.com/t/853651)
+
+> 作者： ppppppp123  拉取时间： 2022-05-19 06:01:03
+
+ [大家会定期清除照片吗](https://www.v2ex.com/t/853648)
+
+> 作者： 13936  拉取时间： 2022-05-19 06:01:03
+
+ [分享你正在使用的笔记软件](https://www.v2ex.com/t/853646)
+
+> 作者： Haixiang  拉取时间： 2022-05-19 06:01:03
+
+ [结肠镜需要麻醉吗？](https://www.v2ex.com/t/853643)
+
+> 作者： CSGO  拉取时间： 2022-05-19 06:01:03
+
+ [最近把博客重构了一下，来晒晒](https://www.v2ex.com/t/853641)
+
+> 作者： liyang5945  拉取时间： 2022-05-19 06:01:03
+
+ [看完房贴文有感](https://www.v2ex.com/t/853624)
+
+> 作者： CJN2021  拉取时间： 2022-05-19 06:01:03
+
+ [各位是怎么解决眼干眼涩视力下降的问题的_d2](https://www.v2ex.com/t/853605)
+
+> 作者： shawnwang340  拉取时间： 2022-05-19 06:01:03
+
+ [广东电信，已经 96 小时没有重拨了](https://www.v2ex.com/t/853603)
+
+> 作者： asde111  拉取时间： 2022-05-19 06:01:03
+
+ [分享这五年的润记](https://www.v2ex.com/t/853597)
+
+> 作者： roundRobin  拉取时间： 2022-05-19 06:01:03
 
  [2022 年了 ，备案还是这么繁琐](https://www.v2ex.com/t/853461)
 
@@ -400,46 +504,6 @@
 
 > 作者： Bruce2077  拉取时间： 2022-05-17 06:00:19
 
- [🎉庆祝 MenubarX 五星好评破万，给 Ver 们送福利啦！](https://www.v2ex.com/t/853047)
-
-> 作者： hzlzh  拉取时间： 2022-05-16 05:59:43
-
- [14 年前刚毕业被从 Java 转成 PHP 现在悔恨 无力回天](https://www.v2ex.com/t/853017)
-
-> 作者： zzzkkk  拉取时间： 2022-05-16 05:59:43
-
- [兄弟们，失望了，炒股 10 年亏掉了所有收入 1200 万，未来还有人生吗](https://www.v2ex.com/t/852971)
-
-> 作者： skypeme001  拉取时间： 2022-05-16 05:59:43
-
- [如何避免 IP 追踪？](https://www.v2ex.com/t/852966)
-
-> 作者： ALLROBOT  拉取时间： 2022-05-16 05:59:43
-
- [国企开发岗进去天天高强度加班，被吓到了](https://www.v2ex.com/t/852956)
-
-> 作者： Fatenana  拉取时间： 2022-05-16 05:59:43
-
- [hhkb 真的能用一辈子吗](https://www.v2ex.com/t/852950)
-
-> 作者： soberzml  拉取时间： 2022-05-16 05:59:43
-
- [大家有会主动还钱的朋友吗](https://www.v2ex.com/t/852921)
-
-> 作者： dinghao188  拉取时间： 2022-05-16 05:59:43
-
- [各位是怎么样驱蚊的_d2](https://www.v2ex.com/t/852918)
-
-> 作者： scalaer  拉取时间： 2022-05-16 05:59:43
-
- [撸了一个 Clash 的 GUI, 自带规则开箱即用](https://www.v2ex.com/t/852908)
-
-> 作者： wenjie0032  拉取时间： 2022-05-16 05:59:43
-
- [Chrome 扩展：这是什么车 ？车辆车牌识别](https://www.v2ex.com/t/852902)
-
-> 作者： zhw2590582  拉取时间： 2022-05-16 05:59:43
-
  [【提交注册】苏州华之杰电讯股份有限公司](http://kcb.sse.com.cn//renewal/xmxq/index.shtml?auditId=725)
 
 > 作者： 提交注册  拉取时间： 2022-05-18 06:01:22
@@ -456,6 +520,10 @@
 
 > 作者： 已受理  拉取时间： 2022-05-17 06:00:19
 
+ [2022年5月18日外交部发言人汪文斌主持例行记者会（2022_s05_s18）](https://www.mfa.gov.cn/web/wjdt_674879/fyrbt_674889/202205/t20220518_10688414.shtml)
+
+> 作者： null  拉取时间： 2022-05-19 06:01:04
+
  [2022年5月17日外交部发言人汪文斌主持例行记者会（2022_s05_s17）](https://www.mfa.gov.cn/web/wjdt_674879/fyrbt_674889/202205/t20220517_10687165.shtml)
 
 > 作者： null  拉取时间： 2022-05-18 06:01:22
@@ -463,6 +531,10 @@
  [2022年5月16日外交部发言人赵立坚主持例行记者会（2022_s05_s16）](https://www.mfa.gov.cn/web/wjdt_674879/fyrbt_674889/202205/t20220516_10686612.shtml)
 
 > 作者： null  拉取时间： 2022-05-17 06:00:19
+
+ [【喷嚏图卦20220518】想见你、想死、想润](https://www.dapenti.com/blog/more.asp?name=xilei&id=164583)
+
+> 作者： xilei  拉取时间： 2022-05-19 06:02:44
 
  [【喷嚏图卦20220517】相爱即英雄](https://www.dapenti.com/blog/more.asp?name=xilei&id=164565)
 
@@ -472,17 +544,29 @@
 
 > 作者： xilei  拉取时间： 2022-05-17 06:02:00
 
- [【喷嚏图卦20220515】放一张你孩子的照片，在你做每一个决定之前看看她们的眼睛](https://www.dapenti.com/blog/more.asp?name=xilei&id=164525)
-
-> 作者： xilei  拉取时间： 2022-05-16 06:01:24
-
  [国办印发关于推动12345政务服务便民热线与110报警服务台高效对接联动的意见](http://www.gov.cn/zhengce/content/2022-05/16/content_5690655.htm)
 
 > 作者： null  拉取时间： 2022-05-17 06:02:51
 
- [中共中央办公厅印发《关于加强新时代离退休干部党的建设工作的意见》](http://www.gov.cn/zhengce/2022-05/15/content_5690562.htm)
+ [2_d52 亿年前 为何全球骤然变暖 灭绝了90_0的生物？](http://jandan.net/p/110717)
 
-> 作者： null  拉取时间： 2022-05-16 06:02:15
+> 作者： majer  拉取时间： 2022-05-19 06:03:36
+
+ [科学家找到一种“作弊”方法，可以用实验来检验神秘的安鲁效应](http://jandan.net/p/110723)
+
+> 作者： majer  拉取时间： 2022-05-19 06:03:36
+
+ [柬埔寨政府：山里的猪笼草你不要采](http://jandan.net/p/110753)
+
+> 作者： Diehard  拉取时间： 2022-05-19 06:03:36
+
+ [失散多年的双胞胎是非常难得的研究资源](http://jandan.net/p/110718)
+
+> 作者： majer  拉取时间： 2022-05-19 06:03:36
+
+ [今日好价 0518](http://jandan.net/p/110752)
+
+> 作者： sein  拉取时间： 2022-05-19 06:03:36
 
  [日本研究人员认为 猫猫可以记住其它猫的名字](http://jandan.net/p/110747)
 
@@ -520,21 +604,13 @@
 
 > 作者： sein  拉取时间： 2022-05-17 06:02:51
 
- [测谎时，引入次要任务可以让说谎者脑力过载](http://jandan.net/p/110733)
+ [【谣言】郑州市金水区所有小区全方位封闭管控](https://vp.fact.qq.com/article?id=341df10c57ef273145d923a2c92249df)
 
-> 作者： majer  拉取时间： 2022-05-16 06:02:15
+> 作者： 中央网信办违法和不良信息举报中心主办、新华网承办的辟谣平台  拉取时间： 2022-05-19 06:04:31
 
- [意外之喜 让小麦增产的基因也导致小麦增加了25_0的蛋白质含量](http://jandan.net/p/110731)
+ [【谣言】郑州居民在外闲逛会被拉走自费隔离](https://vp.fact.qq.com/article?id=6259112b4ea727a08634eb157a2c00a4)
 
-> 作者： majer  拉取时间： 2022-05-16 06:02:15
-
- [既然过去90年里海平面升高了20厘米，那为何今天的海滩反而更大了？](http://jandan.net/p/110669)
-
-> 作者： majer  拉取时间： 2022-05-16 06:02:15
-
- [今日好价 0515](http://jandan.net/p/110742)
-
-> 作者： sein  拉取时间： 2022-05-16 06:02:15
+> 作者： 猛犸新闻  拉取时间： 2022-05-19 06:04:31
 
  [【谣言】郑州有人打麻将被抓后录公开认错视频](https://vp.fact.qq.com/article?id=d04c450c9c51068a55206a05ae410666)
 
@@ -543,6 +619,26 @@
  [【谣言】辉瑞副总裁涉疫苗欺诈被捕](https://vp.fact.qq.com/article?id=626f9dfb67d09fe0f680676b1148e6d3)
 
 > 作者： 有据  拉取时间： 2022-05-17 06:03:43
+
+ [Everything You Need to Know about Linux Input_sOutput Redirection](https://www.linuxjournal.com/content/everything-you-need-know-about-linux-input-output-redirection)
+
+> 作者： Suparna Ganguly  拉取时间： 2022-05-19 06:05:26
+
+ [硬核观察 #640 软件自由保护协会为开源权利赢得了重大进展](https://linux.cn/article-14609-1.html?utm_source=rss&utm_medium=rss)
+
+> 作者： linux@linux_dcn (linux)  拉取时间： 2022-05-19 06:05:27
+
+ [为什么推荐开源分析数据库 Apache Druid](https://linux.cn/article-14608-1.html?utm_source=rss&utm_medium=rss)
+
+> 作者： linux@linux_dcn (linux)  拉取时间： 2022-05-19 06:05:27
+
+ [PyCaret：机器学习模型开发变得简单](https://linux.cn/article-14607-1.html?utm_source=rss&utm_medium=rss)
+
+> 作者： linux@linux_dcn (linux)  拉取时间： 2022-05-19 06:05:27
+
+ [Kali Linux 2022_d2 发布：增加了一个吓唬人的有趣新功能](https://linux.cn/article-14606-1.html?utm_source=rss&utm_medium=rss)
+
+> 作者： linux@linux_dcn (linux)  拉取时间： 2022-05-19 06:05:27
 
  [硬核观察 #639 AI 能通过 X 射线成像识别人的种族](https://linux.cn/article-14605-1.html?utm_source=rss&utm_medium=rss)
 
@@ -576,25 +672,25 @@
 
 > 作者： linux@linux_dcn (linux)  拉取时间： 2022-05-17 06:04:39
 
- [硬核观察 #637 美国国家安全局表示美国新加密标准没有后门](https://linux.cn/article-14597-1.html?utm_source=rss&utm_medium=rss)
+ [Conan 1_d48_t Improvements in CMakePresets integration, new Autotools templates, CMakeToolchain configuration support for bitcode, arc and visibility flags on Apple platforms, support to generate env ps1 instead of bat in Windows_d](https://blog.conan.io/2022/05/18/New-conan-release-1-48.html)
 
-> 作者： linux@linux_dcn (linux)  拉取时间： 2022-05-16 06:04:04
+> 作者： null  拉取时间： 2022-05-19 06:05:29
 
- [开源社区透明度的五个层次](https://linux.cn/article-14596-1.html?utm_source=rss&utm_medium=rss)
+ [【Rust 日报】2022_s05_s18 像rustacean一样写博客](https://rustcc.cn/article?id=4618d40b-a820-4bcc-b0f0-883ef339b128)
 
-> 作者： linux@linux_dcn (linux)  拉取时间： 2022-05-16 06:04:04
+> 作者： null  拉取时间： 2022-05-19 06:05:31
 
- [GNOME 新终端程序尝鲜](https://linux.cn/article-14595-1.html?utm_source=rss&utm_medium=rss)
+ [RustDesk 招聘远程实习（开源，有偿） Sciter向 Flutter _b Tauri 迁移项目](https://rustcc.cn/article?id=10ec2e85-cc04-44c7-a4d3-9f2aedb2c576)
 
-> 作者： linux@linux_dcn (linux)  拉取时间： 2022-05-16 06:04:04
+> 作者： null  拉取时间： 2022-05-19 06:05:31
 
- [红帽宣布 RHEL 9：企业 IT 的下一代骨干系统](https://linux.cn/article-14594-1.html?utm_source=rss&utm_medium=rss)
+ [通过开源学习_b实践 Rust，WasmEdge LFX Mentorship 不容错过](https://rustcc.cn/article?id=6da9696f-9105-4195-9aaa-3f228dc68390)
 
-> 作者： linux@linux_dcn (linux)  拉取时间： 2022-05-16 06:04:04
+> 作者： null  拉取时间： 2022-05-19 06:05:31
 
- [PipeCAD设备管口方位图](http://www.cppblog.com/eryar/archive/2022/05/15/pipecad_nozzle_orientation.html)
+ [很久以前写的toy解释器](https://rustcc.cn/article?id=9b192ba2-1f03-4680-a7d8-6cb40c56fbbc)
 
-> 作者： eryar  拉取时间： 2022-05-16 06:04:06
+> 作者： null  拉取时间： 2022-05-19 06:05:31
 
  [新手写了个todo list](https://rustcc.cn/article?id=18dd7e2b-118d-4fbf-9c6c-d1567c86e954)
 
@@ -624,25 +720,9 @@
 
 > 作者： null  拉取时间： 2022-05-17 06:04:44
 
- [RUST多任务调度系统](https://rustcc.cn/article?id=5014c829-056b-4527-a73c-f6cba3ecac19)
+ [Daily Hacker News for 2022_s05_s17](https://www.daemonology.net/hn-daily/2022-05-17.html)
 
-> 作者： null  拉取时间： 2022-05-16 06:04:09
-
- [求助！bytemuck派生Pod和Zeroable，要求结构体的所有成员属性大小之和等于结构体大小的意义](https://rustcc.cn/article?id=1f7f4981-768e-4833-87fe-39cef113ac7f)
-
-> 作者： null  拉取时间： 2022-05-16 06:04:09
-
- [【Rust日报】2022_s05_s15 「Rust新闻_b聚合」](https://rustcc.cn/article?id=820e2442-d1a1-462d-8e06-3e5f1a9d152a)
-
-> 作者： null  拉取时间： 2022-05-16 06:04:09
-
- [求助，如何通过用户（外部）的输入，（一次性）初始化一个全局的静态变量](https://rustcc.cn/article?id=cfc3ccf0-d534-4924-84c5-7cac353cf879)
-
-> 作者： null  拉取时间： 2022-05-16 06:04:09
-
- [`_d2`操作符是如何“抽象”错误类型与“短路”函数的](https://rustcc.cn/article?id=98cc1ebf-a624-4e65-8547-66a03c7160e0)
-
-> 作者： null  拉取时间： 2022-05-16 06:04:09
+> 作者： null  拉取时间： 2022-05-19 06:06:22
 
  [Daily Hacker News for 2022_s05_s16](https://www.daemonology.net/hn-daily/2022-05-16.html)
 
@@ -652,6 +732,18 @@
 
 > 作者： null  拉取时间： 2022-05-17 06:05:35
 
- [Daily Hacker News for 2022_s05_s14](https://www.daemonology.net/hn-daily/2022-05-14.html)
+ [SegmentFault 思否技术周刊 _s_s Go 语言通关攻略](https://segmentfault.com/a/1190000041861125)
 
-> 作者： null  拉取时间： 2022-05-16 06:05:00
+> 作者： Beverly  拉取时间： 2022-05-19 06:08:24
+
+ [浅谈逻辑选择器 _s_s 父选择器它来了！](https://segmentfault.com/a/1190000041860587)
+
+> 作者： chokcoco  拉取时间： 2022-05-19 06:08:24
+
+ [你说写代码，最常用的3个设计模式是啥？](https://segmentfault.com/a/1190000041860414)
+
+> 作者： 小傅哥  拉取时间： 2022-05-19 06:08:24
+
+ [如何做新人引导功能？](https://segmentfault.com/a/1190000041789636)
+
+> 作者： linong  拉取时间： 2022-05-19 06:08:24
