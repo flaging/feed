@@ -18,7 +18,43 @@
 
 ## 今日更新
 
-## 2022-9-5
+## 2022-9-6
+
+ [Cruise召回80辆Robotaxi、特斯拉考察新工厂选址、宝马生产燃料电池系统等_d_d_d](https://www.jiqizhixin.com/articles/2022-09-05-9)
+
+> 作者： AutoByte  拉取时间： 2022-09-06 05:51:31
+
+ [顶级赛事正在抛弃燃油车？WRX采用「全电阵容」意味着什么](https://www.jiqizhixin.com/articles/2022-09-05-8)
+
+> 作者： AutoByte  拉取时间： 2022-09-06 05:51:31
+
+ [旷视天元MegEngine开源 CUDA INT4 量化源码实现](https://www.jiqizhixin.com/articles/2022-09-05-7)
+
+> 作者： 新闻助手  拉取时间： 2022-09-06 05:51:31
+
+ [从AI为宠物投保这个「小事」讲起，保险变革开始了](https://www.jiqizhixin.com/articles/2022-09-05-6)
+
+> 作者： 机器之心  拉取时间： 2022-09-06 05:51:31
+
+ [商汤科技发布AI治理白皮书：践行 “负责任且可评估” 的人工智能](https://www.jiqizhixin.com/articles/2022-09-05-5)
+
+> 作者： 机器之心  拉取时间： 2022-09-06 05:51:31
+
+ [华为MindSpore架构师王紫东：当生物计算领域「遇灾」，MindSpore做了何解？](https://www.jiqizhixin.com/articles/2022-09-05-4)
+
+> 作者： 机器之心  拉取时间： 2022-09-06 05:51:31
+
+ [打造高规格交流平台！WAIC2022·可信隐私计算高峰论坛顺利举办](https://www.jiqizhixin.com/articles/2022-09-05-2)
+
+> 作者： 新闻助手  拉取时间： 2022-09-06 05:51:31
+
+ [开放学术之基，共论新挑战，WAIC第二届隐私计算学术交流会成功举办](https://www.jiqizhixin.com/articles/2022-09-05)
+
+> 作者： 新闻助手  拉取时间： 2022-09-06 05:51:31
+
+ [英伟达仍可在华研发AI芯片，禁令或间接影响中国智能车发展](https://www.jiqizhixin.com/articles/2022-09-02-8)
+
+> 作者： AutoByte  拉取时间： 2022-09-06 05:51:31
 
  [厚度仅2_d5毫米，重60克，英伟达&斯坦福做出了超轻薄VR眼镜](https://www.jiqizhixin.com/articles/2022-09-04-3)
 
@@ -40,29 +76,25 @@
 
 > 作者： 新闻助手  拉取时间： 2022-09-04 05:51:46
 
- [亚马逊云科技推动AI_bML创新三大驱动力：加速AI规模化落地](https://www.jiqizhixin.com/articles/2022-09-02-7)
+ [派评 | 近期值得关注的 App](https://sspai.com/post/75553)
 
-> 作者： 新闻助手  拉取时间： 2022-09-03 05:51:56
+> 作者： 少数派编辑部  拉取时间： 2022-09-06 05:51:33
 
- [可信AI，创领未来  中电金信2022 WAIC发布三款AI产品](https://www.jiqizhixin.com/articles/2022-09-02-6)
+ [把 AI 作画引擎搬进家用电脑：Stable Diffusion 配置与使用指南](https://sspai.com/post/75544)
 
-> 作者： 新闻助手  拉取时间： 2022-09-03 05:51:56
+> 作者： 清顺  拉取时间： 2022-09-06 05:51:33
 
- [蚂蚁数科技术新突破：软硬协同提升端到端隐私计算性能，小时级计算缩短至3分钟](https://www.jiqizhixin.com/articles/2022-09-02-5)
+ [一日一技 | 如何给自制电子书添加脚注](https://sspai.com/post/75170)
 
-> 作者： 新闻助手  拉取时间： 2022-09-03 05:51:56
+> 作者： 鸿苓  拉取时间： 2022-09-06 05:51:33
 
- [数实融合驱动数字未来 影谱科技携沉浸式数字技术亮相2022服贸会](https://www.jiqizhixin.com/articles/2022-09-02-4)
+ [拿什么装你的一机 N 镜？谈谈我的摄影包折腾经历和推荐](https://sspai.com/post/75524)
 
-> 作者： 新闻助手  拉取时间： 2022-09-03 05:51:56
+> 作者： 上课不倒下的小杰瑞  拉取时间： 2022-09-06 05:51:33
 
- [中文稀疏GPT大模型落地，通往低成本&高性能多任务通用自然语言理解的关键里程碑](https://www.jiqizhixin.com/articles/2022-09-02-3)
+ [派早报：Cloudflare 封锁 Kiwifarms；拼多多在美低调上线 Temu 等](https://sspai.com/post/75526)
 
-> 作者： 机器之心  拉取时间： 2022-09-03 05:51:56
-
- [率先完成规模交付，未岚大陆开启家用无边界割草新时代](https://www.jiqizhixin.com/articles/2022-09-02)
-
-> 作者： 新闻助手  拉取时间： 2022-09-03 05:51:56
+> 作者： 少数派编辑部  拉取时间： 2022-09-06 05:51:33
 
  [App+1 | 此处插入评价：微信输入法测试版上手体验](https://sspai.com/post/75527)
 
@@ -80,29 +112,9 @@
 
 > 作者： 两颗皮蛋  拉取时间： 2022-09-04 05:51:48
 
- [本周看什么 | 最近值得一看的 6 部作品](https://sspai.com/post/75511)
+ [Umi_sOCR – 免费的离线 OCR 文字识别软件[Windows]](https://www.appinn.com/umi-ocr/)
 
-> 作者： 少数派编辑部  拉取时间： 2022-09-03 05:51:58
-
- [派周报：十年 Medium 途](https://sspai.com/prime/story/pi-weekly-007)
-
-> 作者： PlatyHsu  拉取时间： 2022-09-03 05:51:58
-
- [如果你也想购买一台问界，我想和你分享这些](https://sspai.com/post/75504)
-
-> 作者： 两颗皮蛋  拉取时间： 2022-09-03 05:51:58
-
- [具透 | 功能小更新，体验大升级：iOS 16 的新版专注模式有何变化](https://sspai.com/post/75499)
-
-> 作者： 北鸮  拉取时间： 2022-09-03 05:51:58
-
- [一派·PowerUp 06 | 活用简悦，让阅读成为有用功](https://sspai.com/post/75495)
-
-> 作者： 少数派直播间  拉取时间： 2022-09-03 05:51:58
-
- [派早报：联想发布眼镜显示器、折叠屏笔记本电脑以及华硕折叠屏电脑等](https://sspai.com/post/75497)
-
-> 作者： 少数派编辑部  拉取时间： 2022-09-03 05:51:58
+> 作者： 青小蛙  拉取时间： 2022-09-06 05:51:34
 
  [PicoTorrent – 一个很小的开源 BitTorrent 客户端[Windows]](https://www.appinn.com/picotorrent/)
 
@@ -112,9 +124,53 @@
 
 > 作者： 青小蛙  拉取时间： 2022-09-04 05:51:49
 
- [Pandora – 管理网络付费订阅，内置 180 + 网络订阅服务[iPhone_biPad]](https://www.appinn.com/pandora-for-ios/)
+ [Building a live_sevent alert system with React, Socket_dio, and Push Notifications 🚀](https://dev.to/novu/building-a-live-event-alert-system-with-react-socketio-and-push-notifications-2jg5)
 
-> 作者： 青小蛙  拉取时间： 2022-09-03 05:51:59
+> 作者： Nevo David, novu  拉取时间： 2022-09-06 05:51:51
+
+ [15+ Array Methods in Javascript](https://dev.to/codewithtee/15-array-methods-in-javascript-1p1m)
+
+> 作者： Tabassum Khanum  拉取时间： 2022-09-06 05:51:51
+
+ [Responsive Portfolio with HTML, CSS and JS only](https://dev.to/kunaal438/how-to-make-responsive-portfolio-website-easy-code-with-html-css-and-js-3a72)
+
+> 作者： Modern Web  拉取时间： 2022-09-06 05:51:51
+
+ [Consoles in JavaScript](https://dev.to/mursalfk/consoles-in-javascript-3c3d)
+
+> 作者： Mursal Furqan Kumbhar  拉取时间： 2022-09-06 05:51:51
+
+ [How to Deploy Your Node_djs Application for Free with Render _s Alternative To Heroku](https://dev.to/myogeshchavan97/how-to-deploy-your-nodejs-application-for-free-with-render-alternative-to-heroku-52o7)
+
+> 作者： Yogesh Chavan  拉取时间： 2022-09-06 05:51:51
+
+ [Notesnook is now open source!](https://dev.to/thecodrr/notesnook-is-now-open-source-2i93)
+
+> 作者： Abdullah Atta  拉取时间： 2022-09-06 05:51:51
+
+ [Awesome Web Projects Ideas You Can put them on your Resume](https://dev.to/varshithvhegde/awesome-web-projects-ideas-you-can-put-them-on-your-resume-7j9)
+
+> 作者： Varshith V Hegde  拉取时间： 2022-09-06 05:51:51
+
+ [To_sDo List for Your AWS Account](https://dev.to/aws-builders/to-do-list-for-your-aws-account-3ik7)
+
+> 作者： Sena Yakut, AWS Community Builders  拉取时间： 2022-09-06 05:51:51
+
+ [Stuff a coder should buy_d2](https://dev.to/eric23/stuff-a-coder-should-buy-5dp)
+
+> 作者： Eric  拉取时间： 2022-09-06 05:51:51
+
+ [Responsive Log In + Sign Up Form | Day 4 | 50 Days of Intermediate HTML and CSS Projects](https://dev.to/koustav/responsive-log-in-sign-up-form-50-days-of-intermediate-html-and-css-projects-day-4-3bgk)
+
+> 作者： devkoustav  拉取时间： 2022-09-06 05:51:51
+
+ [Next_slevel Commands for the terminal](https://dev.to/jmau111/next-level-commands-for-the-terminal-4ml7)
+
+> 作者： jmau111⭐  拉取时间： 2022-09-06 05:51:51
+
+ [Designing APIs for humans_t Object IDs](https://dev.to/stripe/designing-apis-for-humans-object-ids-3o5a)
+
+> 作者： Paul Asjes, Stripe  拉取时间： 2022-09-06 05:51:51
 
  [6 must_shave Chrome Extensions for Web Developers 🚀🌐](https://dev.to/ruppysuppy/6-must-have-chrome-extensions-for-web-developers-1ma2)
 
@@ -176,65 +232,25 @@
 
 > 作者： Florian Rappl  拉取时间： 2022-09-04 05:52:02
 
- [Follow Friday_t CSS Edition (2 September 2022)](https://dev.to/devteam/follow-friday-css-edition-2-september-2022-4p01)
+ [2022年中国在线医疗健康服务消费白皮书](https://report.iresearch.cn/report/202209/4057.shtml)
 
-> 作者： Erin Bensinger, The DEV Team  拉取时间： 2022-09-03 05:52:07
+> 作者： null  拉取时间： 2022-09-06 05:57:00
 
- [Discussion and Comment of the Week _s v17](https://dev.to/devteam/discussion-and-comment-of-the-week-v17-i8e)
+ [移动应用技术趋势白皮书](https://report.iresearch.cn/report/202209/4056.shtml)
 
-> 作者： Michael Tharrington, The DEV Team  拉取时间： 2022-09-03 05:52:07
+> 作者： null  拉取时间： 2022-09-06 05:57:00
 
- [How I Maintain OSS Projects](https://dev.to/theaccordance/how-i-maintain-oss-projects-2oeo)
+ [周刊（第24期）：sqlite并发读写的演进之路](https://www.codedump.info/post/20220904-weekly-24/)
 
-> 作者： Joe Mainwaring  拉取时间： 2022-09-03 05:52:07
-
- [Awesome GitHub Repositories for Web Developer _s Part 2](https://dev.to/surajondev/awesome-github-repositories-for-web-developer-part-2-1h8b)
-
-> 作者： Suraj Vishwakarma  拉取时间： 2022-09-03 05:52:07
-
- [Announcing New Versions for Appwrite_as Flutter and Dart SDKs](https://dev.to/appwrite/announcing-new-versions-for-appwrites-flutter-and-dart-sdks-4l5j)
-
-> 作者： Eldad A_d Fux, Appwrite  拉取时间： 2022-09-03 05:52:07
-
- [What_as the difference between _t and _t_t in CSS_d2](https://dev.to/whitep4nth3r/whats-the-difference-between-and-in-css-23p4)
-
-> 作者： Salma Alam_sNaylor  拉取时间： 2022-09-03 05:52:07
-
- [Evaluating Rust and its ecosystem](https://dev.to/donaldsebleung/evaluating-rust-and-its-ecosystem-1p)
-
-> 作者： Donald Sebastian Leung  拉取时间： 2022-09-03 05:52:07
-
- [Responsive Furniture eCommerce Website Using HTML CSS JavaScript](https://dev.to/codewithsadee/responsive-furniture-ecommerce-website-using-html-css-javascript-52a4)
-
-> 作者： Sadee  拉取时间： 2022-09-03 05:52:07
-
- [Bringing Angular Components to Astro Islands 🏝](https://dev.to/brandontroberts/bringing-angular-components-to-astro-islands-52jp)
-
-> 作者： Brandon Roberts  拉取时间： 2022-09-03 05:52:07
-
- [What the Heck Is Project Loom for Java_d2](https://dev.to/oktadev/what-the-heck-is-project-loom-for-java-21hh)
-
-> 作者： Deepu K Sasidharan, Okta  拉取时间： 2022-09-03 05:52:07
+> 作者： null  拉取时间： 2022-09-06 05:57:07
 
  [The Scoop_t Netflix’s historic introduction of levels for software engineers](https://blog.pragmaticengineer.com/netflix-levels/)
 
 > 作者： Gergely Orosz  拉取时间： 2022-09-04 05:58:26
 
- [Personalizing Text_sto_sImage Generation using Textual Inversion](https://www.reddit.com/r/DeepLearningPapers/comments/x3pi2z/personalizing_texttoimage_generation_using/)
+ [Investing time and effort on Neural networks architecture design to create more advance and smart products will make all our lives better_d Teamshake is here to provide faster and intuitive way to do so_t https_t_b_bwww_dteamshake_dapp #neuralnetworks #pytorch #ai #Teamshake](https://www.reddit.com/r/pytorch/comments/x6omom/investing_time_and_effort_on_neural_networks/)
 
-> 作者： _bu_bOnlyProggingForFun  拉取时间： 2022-09-03 05:59:41
-
- [🌈 Conv2d, MaxPool2d image output size calculator](https://www.reddit.com/r/pytorch/comments/x4a5tf/conv2d_maxpool2d_image_output_size_calculator/)
-
-> 作者： _bu_bEastFact2261  拉取时间： 2022-09-03 05:59:42
-
- [Tutorial _s Implementing Deep Convolutional GAN with PyTorch](https://www.reddit.com/r/pytorch/comments/x3n9na/tutorial_implementing_deep_convolutional_gan_with/)
-
-> 作者： _bu_bsovit_s123  拉取时间： 2022-09-03 05:59:42
-
- [AWS FS> Lustre_b EFS_b ZFS](https://www.reddit.com/r/HPC/comments/x422nn/aws_fs_lustre_efs_zfs/)
-
-> 作者： _bu_bipmasqman  拉取时间： 2022-09-03 06:00:35
+> 作者： _bu_badiPel  拉取时间： 2022-09-06 05:58:38
 
  [VkFFT now supports Rader_as algorithm _s A100 and MI250 benchmarks_t Part 2](https://www.reddit.com/r/OpenCL/comments/x5px8l/vkfft_now_supports_raders_algorithm_a100_and/)
 
@@ -243,6 +259,14 @@
  [How can I use OpenCL headers in Ubuntu 22_d04 with an AMD processor_d2](https://www.reddit.com/r/OpenCL/comments/x5r39u/how_can_i_use_opencl_headers_in_ubuntu_2204_with/)
 
 > 作者： _bu_bfergarram  拉取时间： 2022-09-05 05:59:54
+
+ [数读横琴粤澳深度合作区这一年：金融业成绩亮眼，新产业加速成长](https://m.21jingji.com/article/20220905/herald/72bf2e2bc9e78419d70d007c64154281.html)
+
+> 作者： null  拉取时间： 2022-09-06 05:59:33
+
+ [美国阻止英伟达对中国出口AI芯片](https://www.ftchinese.com/story/001097162)
+
+> 作者： null  拉取时间： 2022-09-06 05:59:34
 
  [俄乌战争半年，已经进入战略相持阶段](https://www.ftchinese.com/story/001097171)
 
@@ -268,21 +292,41 @@
 
 > 作者： 黄凡  拉取时间： 2022-09-04 06:00:38
 
- [评中国历史研究院“闭关锁国”文章风波：不必庸人自扰](https://www.ftchinese.com/story/001097149)
+ [现在年轻人这么刚的么？](https://www.v2ex.com/t/877840)
 
-> 作者： null  拉取时间： 2022-09-03 06:00:38
+> 作者： Cat7373  拉取时间： 2022-09-06 05:59:35
 
- [经济困难时期离我们不远了](https://www.ftchinese.com/story/001097140)
+ [华为明天要发布 NAS 了，😀NAS 要火起来了🔥！](https://www.v2ex.com/t/877829)
 
-> 作者： 马丁•沃尔夫  拉取时间： 2022-09-03 06:00:38
+> 作者： LengSe9  拉取时间： 2022-09-06 05:59:35
 
- [一周世界舆论聚焦：中美审计监管合作；中国舆论再就俄罗斯议题分裂](https://www.ftchinese.com/story/001097107)
+ [想基于电报开发完全去中心化的端端加密的即时通信 APP，目的是避免审查，有朋友有兴趣吗](https://www.v2ex.com/t/877787)
 
-> 作者： null  拉取时间： 2022-09-03 06:00:38
+> 作者： wanmyj  拉取时间： 2022-09-06 05:59:35
 
- [Mad at You](https://poorlydrawnlines.com/comic/mad-at-you/)
+ [亲，您中奖了，请于今晚 24 点前联系我，过期重新抽奖，本帖继续抽奖](https://www.v2ex.com/t/877784)
 
-> 作者： Reza  拉取时间： 2022-09-03 06:00:38
+> 作者： Yunsheng  拉取时间： 2022-09-06 05:59:35
+
+ [你使用最长的，认为最好的笔记软件是什么_d2](https://www.v2ex.com/t/877756)
+
+> 作者： pepi  拉取时间： 2022-09-06 05:59:35
+
+ [大伙觉得这次的经济下行、互联网行业低潮大概会持续多久？](https://www.v2ex.com/t/877746)
+
+> 作者： silypie  拉取时间： 2022-09-06 05:59:35
+
+ [大家在等红绿灯时候会想些什么呢](https://www.v2ex.com/t/877723)
+
+> 作者： rocododd  拉取时间： 2022-09-06 05:59:35
+
+ [我是如何把网站图片 cdn 流量成本压到全网最低(之一)的](https://www.v2ex.com/t/877718)
+
+> 作者： star7th  拉取时间： 2022-09-06 05:59:35
+
+ [腾讯这种行为是违规行为吗？](https://www.v2ex.com/t/877717)
+
+> 作者： airbotgo  拉取时间： 2022-09-06 05:59:35
 
  [既然信号不好，那就干脆不插 SIM 卡了！](https://www.v2ex.com/t/877634)
 
@@ -356,37 +400,13 @@
 
 > 作者： shot  拉取时间： 2022-09-04 06:00:41
 
- [四年前端，聊聊这一行的体会_d_d_d](https://www.v2ex.com/t/877304)
+ [2022年9月5日外交部发言人毛宁主持例行记者会（2022_s09_s05）](https://www.mfa.gov.cn/web/wjdt_674879/fyrbt_674889/202209/t20220905_10762291.shtml)
 
-> 作者： 974879409  拉取时间： 2022-09-03 06:00:39
+> 作者： null  拉取时间： 2022-09-06 05:59:35
 
- [32 岁了，依然在拧螺丝，迷茫，不知道何去何从](https://www.v2ex.com/t/877269)
+ [【喷嚏图卦20220905】在这么繁华的地方一片肃杀，这时候我很想流眼泪](https://www.dapenti.com/blog/more.asp?name=xilei&id=166683)
 
-> 作者： suyongfu  拉取时间： 2022-09-03 06:00:39
-
- [我来送自家种的秋月梨啦，分子集合](https://www.v2ex.com/t/877196)
-
-> 作者： moonkiller  拉取时间： 2022-09-03 06:00:39
-
- [小米、荣耀、OV 哪家系统维护时间长？](https://www.v2ex.com/t/877179)
-
-> 作者： jjxtrotter  拉取时间： 2022-09-03 06:00:39
-
- [2022 了， android 设备间极简极速传输文本或者文件的方式是啥](https://www.v2ex.com/t/877169)
-
-> 作者： bigxianyu  拉取时间： 2022-09-03 06:00:39
-
- [Github 要把 Trending 关了？](https://www.v2ex.com/t/877153)
-
-> 作者： xuxuzhaozhao  拉取时间： 2022-09-03 06:00:39
-
- [真诚发问，非钓鱼贴。之前一直用的是 vue，最近学了下 react，感觉上 vue 的语法好像是比 react 更简单。那么为啥国内外大公司都在用 react，用 vue 的相对比较_d_d_d](https://www.v2ex.com/t/877148)
-
-> 作者： yesswssdlh  拉取时间： 2022-09-03 06:00:39
-
- [2022年9月2日外交部发言人赵立坚主持例行记者会（2022_s09_s02）](https://www.mfa.gov.cn/web/wjdt_674879/fyrbt_674889/202209/t20220902_10760376.shtml)
-
-> 作者： null  拉取时间： 2022-09-03 06:00:39
+> 作者： xilei  拉取时间： 2022-09-06 06:01:15
 
  [【喷嚏图卦20220904】连猴子也不掉队](https://www.dapenti.com/blog/more.asp?name=xilei&id=166664)
 
@@ -396,17 +416,29 @@
 
 > 作者： xilei  拉取时间： 2022-09-04 06:02:21
 
- [【喷嚏图卦20220902】未来的主人翁](https://www.dapenti.com/blog/more.asp?name=xilei&id=166642)
-
-> 作者： xilei  拉取时间： 2022-09-03 06:02:20
-
  [中办国办印发《关于新时代进一步加强科学技术普及工作的意见》](http://www.gov.cn/zhengce/2022-09/04/content_5708260.htm)
 
 > 作者： null  拉取时间： 2022-09-05 06:02:29
 
- [国务院关于支持山东深化新旧动能转换推动绿色低碳高质量发展的意见](http://www.gov.cn/zhengce/content/2022-09/02/content_5708004.htm)
+ [已经失传的神秘语言 神秘的线性埃拉姆语(Linear Elamite)接近被破译](http://jandan.net/p/111247)
 
-> 作者： null  拉取时间： 2022-09-03 06:03:11
+> 作者： majer  拉取时间： 2022-09-06 06:02:08
+
+ [灾难期间的社会人口流动模型](http://jandan.net/p/111245)
+
+> 作者： majer  拉取时间： 2022-09-06 06:02:08
+
+ [哑铃力量训练 规律性比持续时间更重要](http://jandan.net/p/111159)
+
+> 作者： majer  拉取时间： 2022-09-06 06:02:08
+
+ [相隔14000公里的座头鲸唱着同一首“网红”歌](http://jandan.net/p/111304)
+
+> 作者： 小转铃  拉取时间： 2022-09-06 06:02:08
+
+ [今日好价 0905](http://jandan.net/p/111303)
+
+> 作者： sein  拉取时间： 2022-09-06 06:02:08
 
  [哪些动物最能适应气候变化？](http://jandan.net/p/111294)
 
@@ -448,25 +480,21 @@
 
 > 作者： majer  拉取时间： 2022-09-04 06:03:14
 
- [浓缩、过滤、柱塞、摩卡、速溶和冷萃，咖啡怎么冲最…给力？](http://jandan.net/p/111226)
+ [🖼 Resources for performing deep learning on satellite imagery_t _s Techniques _s Datasets _s ML best Practice _s Courses and more _d_d_d @computer_science__d_d_d](https://t.me/computer_science_and_programming/1128)
 
-> 作者： majer  拉取时间： 2022-09-03 06:03:12
+> 作者： null  拉取时间： 2022-09-06 06:04:42
 
- [一些地狱笑话(4)](http://jandan.net/p/111275)
+ [Fedora Linux 的各种版本](https://linux.cn/article-15003-1.html?utm_source=rss&utm_medium=rss)
 
-> 作者： Diehard  拉取时间： 2022-09-03 06:03:12
+> 作者： linux@linux_dcn (linux)  拉取时间： 2022-09-06 06:04:44
 
- [吸引或排斥 超冷水的分子形成了在拓扑结构上截然不同的两种长链](http://jandan.net/p/111198)
+ [硬核观察 #750 微软杀毒软件将 Chrome 和 Edge 识别为恶意软件](https://linux.cn/article-15002-1.html?utm_source=rss&utm_medium=rss)
 
-> 作者： majer  拉取时间： 2022-09-03 06:03:12
+> 作者： linux@linux_dcn (linux)  拉取时间： 2022-09-06 06:04:44
 
- [葡萄牙挖出了欧洲有记录以来最大的恐龙化石](http://jandan.net/p/111236)
+ [印象笔记的替代品 Notesnook 现已开源](https://linux.cn/article-15001-1.html?utm_source=rss&utm_medium=rss)
 
-> 作者： majer  拉取时间： 2022-09-03 06:03:12
-
- [今日好价 0902](http://jandan.net/p/111270)
-
-> 作者： sein  拉取时间： 2022-09-03 06:03:12
+> 作者： linux@linux_dcn (linux)  拉取时间： 2022-09-06 06:04:44
 
  [用惯 Linux 的人第一次用 Windows 或 macOS 会怎样_d2](https://linux.cn/article-15000-1.html?utm_source=rss&utm_medium=rss)
 
@@ -488,25 +516,13 @@
 
 > 作者： linux@linux_dcn (linux)  拉取时间： 2022-09-04 06:05:48
 
- [微软决定放弃 Teams 的 Linux 应用，而用渐进式网页应用取代](https://linux.cn/article-14995-1.html?utm_source=rss&utm_medium=rss)
+ [【Rust日报】2022_s09_s05 Unreal Rust 宣布](https://rustcc.cn/article?id=e5d33772-257f-4794-88b8-cedb296b79ee)
 
-> 作者： linux@linux_dcn (linux)  拉取时间： 2022-09-03 06:05:46
+> 作者： null  拉取时间： 2022-09-06 06:04:47
 
- [apt 的 update 和 upgrade 命令的区别是什么？](https://linux.cn/article-14994-1.html?utm_source=rss&utm_medium=rss)
+ [Rust 和 Go 并非对立，而是合作关系！](https://rustcc.cn/article?id=026de4eb-5c0f-4245-87e2-6038d8af7fc7)
 
-> 作者： linux@linux_dcn (linux)  拉取时间： 2022-09-03 06:05:46
-
- [硬核观察 #747 GitHub 将关闭趋势页面，中文项目再不能霸榜](https://linux.cn/article-14993-1.html?utm_source=rss&utm_medium=rss)
-
-> 作者： linux@linux_dcn (linux)  拉取时间： 2022-09-03 06:05:46
-
- [PipeCAD_s简单报表](http://www.cppblog.com/eryar/archive/2022/09/02/pipecad_simplereport.html)
-
-> 作者： eryar  拉取时间： 2022-09-03 06:05:48
-
- [PipeCAD_s捕捉选项](http://www.cppblog.com/eryar/archive/2022/09/01/pipecad_snap_options.html)
-
-> 作者： eryar  拉取时间： 2022-09-03 06:05:48
+> 作者： null  拉取时间： 2022-09-06 06:04:47
 
  [【Rust 日报】2022_s09_s04 Rust基金会招募](https://rustcc.cn/article?id=2bb9f6d6-e386-4526-8668-db3c406e251a)
 
@@ -520,9 +536,9 @@
 
 > 作者： null  拉取时间： 2022-09-04 06:05:52
 
- [【Rust 日报】2022_s09_s02](https://rustcc.cn/article?id=e22422a3-2b3a-44ba-8c01-c06b22db1aef)
+ [Daily Hacker News for 2022_s09_s04](https://www.daemonology.net/hn-daily/2022-09-04.html)
 
-> 作者： null  拉取时间： 2022-09-03 06:05:51
+> 作者： null  拉取时间： 2022-09-06 06:05:38
 
  [Daily Hacker News for 2022_s09_s03](https://www.daemonology.net/hn-daily/2022-09-03.html)
 
@@ -532,22 +548,14 @@
 
 > 作者： null  拉取时间： 2022-09-04 06:06:42
 
- [Daily Hacker News for 2022_s09_s01](https://www.daemonology.net/hn-daily/2022-09-01.html)
+ [usePolymerAction](https://segmentfault.com/a/1190000042406273)
 
-> 作者： null  拉取时间： 2022-09-03 06:06:41
+> 作者： 散一群逗逼  拉取时间： 2022-09-06 06:07:24
 
- [写代码，必须要优雅！](https://cuijiahua.com/blog/2022/09/vlog-15.html)
+ [为什么vue_dconfig_djs中使用require，而vite_dconfig_djs使用 import_d2](https://segmentfault.com/a/1190000042432407)
 
-> 作者： Jack Cui  拉取时间： 2022-09-03 06:08:23
+> 作者： 寒水寺一禅  拉取时间： 2022-09-06 06:07:24
 
- [如何使用 webpack 优化 moment_djs](https://segmentfault.com/a/1190000042425059)
+ [用Vue_djs写一个命令行贪吃蛇游戏](https://segmentfault.com/a/1190000042431217)
 
-> 作者： 记得要微笑  拉取时间： 2022-09-03 06:08:32
-
- [云安全践行者：亚马逊云科技如何打好“安全”牌？](https://segmentfault.com/a/1190000042418291)
-
-> 作者： 六一  拉取时间： 2022-09-03 06:08:32
-
- [科技爱好者周刊（第 221 期）：全世界最繁荣的行业](http://www.ruanyifeng.com/blog/2022/09/weekly-issue-221.html)
-
-> 作者： null  拉取时间： 2022-09-03 06:11:53
+> 作者： null仔  拉取时间： 2022-09-06 06:07:24
