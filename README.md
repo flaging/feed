@@ -18,7 +18,75 @@
 
 ## 今日更新
 
-## 2022-9-15
+## 2022-9-16
+
+ [揭秘柠檬混动DHT生产线，长城汽车森林生态规划曝光](https://www.jiqizhixin.com/articles/2022-09-15-17)
+
+> 作者： AutoByte  拉取时间： 2022-09-16 05:53:23
+
+ [AIGC，人工智能的下一个风口？](https://www.jiqizhixin.com/articles/2022-09-15-16)
+
+> 作者： shanshan  拉取时间： 2022-09-16 05:53:23
+
+ [AAAI_bCVPR论文详解 | 万字长文了解可解释AI工具及技术的最新进展](https://www.jiqizhixin.com/articles/2022-09-15-14)
+
+> 作者： 机器之心  拉取时间： 2022-09-16 05:53:23
+
+ [CMU副教授Graham Neubig创立新公司，刘鹏飞加盟，致力于优化AI系统开发](https://www.jiqizhixin.com/articles/2022-09-15-13)
+
+> 作者： 机器之心  拉取时间： 2022-09-16 05:53:23
+
+ [零障碍合并两个模型，大型ResNet模型线性连接只需几秒，神经网络启发性新研究](https://www.jiqizhixin.com/articles/2022-09-15-12)
+
+> 作者： 机器之心  拉取时间： 2022-09-16 05:53:23
+
+ [WAIC 2022 | 路特斯李博：让智能驾驶开发从「手工坊」变成「流水线」](https://www.jiqizhixin.com/articles/2022-09-15-11)
+
+> 作者： 机器之心  拉取时间： 2022-09-16 05:53:23
+
+ [菲尔兹奖得主埃菲 · 杰曼诺夫全职加入南科大，任职讲席教授](https://www.jiqizhixin.com/articles/2022-09-15-10)
+
+> 作者： 机器之心  拉取时间： 2022-09-16 05:53:23
+
+ [接收率25_d6％，NeurIPS 2022录用结果出炉，你中了吗？](https://www.jiqizhixin.com/articles/2022-09-15-9)
+
+> 作者： 机器之心  拉取时间： 2022-09-16 05:53:23
+
+ [在小红书，也有AI技术青年的一片「自留地」](https://www.jiqizhixin.com/articles/2022-09-15-8)
+
+> 作者： 机器之心  拉取时间： 2022-09-16 05:53:23
+
+ [四年来首次，科学探索奖的300万奖金颁给90后研究员](https://www.jiqizhixin.com/articles/2022-09-15-7)
+
+> 作者： 机器之心  拉取时间： 2022-09-16 05:53:23
+
+ [WAIC 2022 | 联通（上海）产业互联网有限公司胡超：从监督学习走向自我学习](https://www.jiqizhixin.com/articles/2022-09-15-6)
+
+> 作者： 机器之心  拉取时间： 2022-09-16 05:53:23
+
+ [Transformers 如何模仿大脑的某些部分](https://www.jiqizhixin.com/articles/2022-09-15-5)
+
+> 作者： ScienceAI  拉取时间： 2022-09-16 05:53:23
+
+ [率先适配iOS16新功能，快手结合平台特色上线3套锁屏组件](https://www.jiqizhixin.com/articles/2022-09-15-3)
+
+> 作者： 新闻助手  拉取时间： 2022-09-16 05:53:23
+
+ [2022字节跳动Byte Camp夏令营：53所国内外高校学员云端完成24个项目](https://www.jiqizhixin.com/articles/2022-09-15-2)
+
+> 作者： 新闻助手  拉取时间： 2022-09-16 05:53:23
+
+ [仅用1_b4数据量还原真人语音100_0细节，火山语音上新超自然对话语音合成技术！](https://www.jiqizhixin.com/articles/2022-09-15)
+
+> 作者： 新闻助手  拉取时间： 2022-09-16 05:53:23
+
+ [以全新蛋白质药物调控免疫：百图生科推出生物计算驱动免疫机器人](https://www.jiqizhixin.com/articles/2022-09-15-15)
+
+> 作者： ScienceAI  拉取时间： 2022-09-16 05:53:23
+
+ [从古代矿物到新材料：使用图神经网络模型进行熔融温度预测](https://www.jiqizhixin.com/articles/2022-09-15-4)
+
+> 作者： ScienceAI  拉取时间： 2022-09-16 05:53:23
 
  [2021_s2022 机器之心年度趋势报告 | 趋势解读：AI框架中动静态图技术发展趋势探析](https://www.jiqizhixin.com/articles/2022-09-14-4)
 
@@ -59,6 +127,30 @@
  [明略科技Blockformer语音识别模型在AISHELL_s1测试集上取得SOTA结果](https://www.jiqizhixin.com/articles/2022-09-13)
 
 > 作者： 新闻助手  拉取时间： 2022-09-14 05:53:06
+
+ [新配色、新亮点：iPhone 14 系列、新款 Apple Watch 快速上手体验](https://sspai.com/post/75737)
+
+> 作者： waychane  拉取时间： 2022-09-16 05:53:24
+
+ [在 AI 绘画的世界里，怎样才算一名合格的「甲方」？](https://sspai.com/post/75629)
+
+> 作者： 小秋夫斯基  拉取时间： 2022-09-16 05:53:24
+
+ [城市收藏夹 | 北京精酿啤酒不完全赏味指南](https://sspai.com/post/68914)
+
+> 作者： Konstantine  拉取时间： 2022-09-16 05:53:24
+
+ [我相信这是它一开始就想到达的地方——文石 Tab8 上手体验](https://sspai.com/post/75710)
+
+> 作者： 会飞的三羊店长  拉取时间： 2022-09-16 05:53:24
+
+ [握好手柄，看住钱包：任天堂、索尼 9 月发布会资讯汇总](https://sspai.com/post/75727)
+
+> 作者： KeNNY  拉取时间： 2022-09-16 05:53:24
+
+ [派早报：GoPro 推出 GoPro Hero 11 系列运动相机、大疆发布 Osmo Action 3 运动相机等](https://sspai.com/post/75728)
+
+> 作者： 少数派编辑部  拉取时间： 2022-09-16 05:53:24
 
  [Apple 秋季发布会线上回顾：一起聊聊新品和新系统体验](https://sspai.com/post/75681)
 
@@ -104,9 +196,9 @@
 
 > 作者： 少数派编辑部  拉取时间： 2022-09-14 05:53:07
 
- [少数派们都得过啥病？谈谈编辑部面对的健康问题](https://sspai.com/post/75678)
+ [土豆录屏 – 支持多显示器的免费录屏工具[Windows]](https://www.appinn.com/tudou-luping/)
 
-> 作者： 少数派编辑部  拉取时间： 2022-09-13 05:53:16
+> 作者： 青小蛙  拉取时间： 2022-09-16 05:53:25
 
  [JetBrains 系列即将涨价，抓紧最后的好价入手！](https://www.appinn.com/jetbrains-2209/)
 
@@ -120,9 +212,57 @@
 
 > 作者： 青小蛙  拉取时间： 2022-09-14 05:53:09
 
- [RSSPush – 将 RSS 实时推送至微信，以及大多数主流服务（IFTTT、Telegram、）](https://www.appinn.com/rsspush/)
+ [Futurist prediction methods and accuracy](https://danluu.com/futurist-predictions/)
 
-> 作者： 青小蛙  拉取时间： 2022-09-13 05:53:17
+> 作者： null  拉取时间： 2022-09-16 05:53:30
+
+ [What is Authorization service and why does it matter_d2](https://dev.to/aviyel/what-is-authorization-service-and-why-does-it-matter-5d9d)
+
+> 作者： Pramit Marattha, Aviyel Inc  拉取时间： 2022-09-16 05:53:31
+
+ [Easy way to Create your own API for FREE](https://dev.to/varshithvhegde/easy-way-to-create-your-own-api-for-free-1mbc)
+
+> 作者： Varshith V Hegde  拉取时间： 2022-09-16 05:53:31
+
+ [Introducing DateTime Support and ISO 8601 Dates](https://dev.to/appwrite/introducing-datetime-support-and-iso-8601-dates-25di)
+
+> 作者： Vincent Ge, Appwrite  拉取时间： 2022-09-16 05:53:31
+
+ [What is integration testing and why is it important_d2](https://dev.to/roy8/what-is-integration-testing-and-why-is-it-important-39gl)
+
+> 作者： Roy  拉取时间： 2022-09-16 05:53:31
+
+ [How to become a better developer](https://dev.to/larstw98/how-to-become-a-better-developer-416h)
+
+> 作者： Lars Wolters  拉取时间： 2022-09-16 05:53:31
+
+ [What is Kubernetes HPA and How Can It Help You Save on the Cloud_d2](https://dev.to/castai/once-again-thank-you-for-your-response-and-if-anything-just-go-ahead-and-ask-me-looking-forward-to-hearing-back-from-you-soon-1bc0)
+
+> 作者： CAST AI  拉取时间： 2022-09-16 05:53:31
+
+ [Getting Started with Buffalo](https://dev.to/otomato_io/getting-started-with-buffalo-1cc0)
+
+> 作者： Ant(on) Weiss, Otomato  拉取时间： 2022-09-16 05:53:31
+
+ [How to Create a Wordle with TDD in Javascript](https://dev.to/mcsee/how-to-create-a-wordle-with-tdd-in-javascript-10ec)
+
+> 作者： Maxi Contieri  拉取时间： 2022-09-16 05:53:31
+
+ [Announcing AnnaDB _s next_sgen NoSQL database](https://dev.to/romanright/announcing-annadb-next-gen-nosql-database-3k3n)
+
+> 作者： Roman  拉取时间： 2022-09-16 05:53:31
+
+ [React Query meets React Router](https://dev.to/tkdodo/react-query-meets-react-router-38f3)
+
+> 作者： Dominik D  拉取时间： 2022-09-16 05:53:31
+
+ [7 Reasons Why I Quit Writing On Medium_d](https://dev.to/wiseai/7-reasons-why-i-quit-writing-on-medium-43m2)
+
+> 作者： Mahmoud Harmouch  拉取时间： 2022-09-16 05:53:31
+
+ [A checklist for prioritising web accessibility](https://dev.to/daraolayebi/a-checklist-for-prioritising-web-accessibility-ch)
+
+> 作者： Dara Olayebi  拉取时间： 2022-09-16 05:53:31
 
  [Designing APIs for humans_t Error messages](https://dev.to/stripe/designing-apis-for-humans-error-messages-94p)
 
@@ -188,37 +328,9 @@
 
 > 作者： Renato Pozzi  拉取时间： 2022-09-14 05:53:13
 
- [Building an interactive screen_ssharing app with Puppeteer and React 🤯](https://dev.to/novu/building-an-interactive-screen-sharing-app-with-puppeteer-and-react-12h7)
+ [PaLI_t Scaling Language_sImage Learning in 100+ Languages](http://ai.googleblog.com/2022/09/pali-scaling-language-image-learning-in.html)
 
-> 作者： Nevo David, novu  拉取时间： 2022-09-13 05:53:22
-
- [Meme Monday 🔥](https://dev.to/ben/meme-monday-5gf)
-
-> 作者： Ben Halpern  拉取时间： 2022-09-13 05:53:22
-
- [The Best GitHub Repositories For Django Developers_d](https://dev.to/wiseai/the-best-github-repositories-for-django-developers-451l)
-
-> 作者： Mahmoud Harmouch  拉取时间： 2022-09-13 05:53:22
-
- [The Battle of the Units_t PX vs REM vs EM](https://dev.to/deltanboi/the-battle-of-the-units-px-vs-rem-vs-em-3ka8)
-
-> 作者： Pedro Ogheneochuko  拉取时间： 2022-09-13 05:53:22
-
- [Finding remote work in 2022](https://dev.to/k_ivanow/finding-remote-work-in-2022-26j)
-
-> 作者： Kristian Ivanov  拉取时间： 2022-09-13 05:53:22
-
- [Mastering these 7 Basics CSS Skills will make you a Frontend Wizard 🧙✨](https://dev.to/ruppysuppy/mastering-these-7-basics-css-skills-will-make-you-a-frontend-wizard-2khn)
-
-> 作者： Tapajyoti Bose  拉取时间： 2022-09-13 05:53:22
-
- [14 Essential Developer Tools to 10X Your Productivity 🚀✨](https://dev.to/naubit/14-essential-developer-tools-to-10x-your-productivity-547j)
-
-> 作者： Al _s Naubit  拉取时间： 2022-09-13 05:53:22
-
- [How to Practice CSS (with examples)](https://dev.to/scrimba/how-to-practice-css-with-examples-1fk2)
-
-> 作者： Alex Booker, Scrimba  拉取时间： 2022-09-13 05:53:22
+> 作者： Google AI (noreply@blogger_dcom)  拉取时间： 2022-09-16 05:53:32
 
  [LOLNeRF_t Learn from One Look](http://ai.googleblog.com/2022/09/lolnerf-learn-from-one-look.html)
 
@@ -244,6 +356,18 @@
 
 > 作者： _bu_bIcy_Wolverine_2982  拉取时间： 2022-09-15 05:59:39
 
+ [Best Pytorch Books for Beginners to Advanced to know in 2022 _s](https://www.reddit.com/r/pytorch/comments/xeucpa/best_pytorch_books_for_beginners_to_advanced_to/)
+
+> 作者： _bu_bLakshmireddys  拉取时间： 2022-09-16 06:01:12
+
+ [Vector to lower triangular matrix](https://www.reddit.com/r/pytorch/comments/xeszka/vector_to_lower_triangular_matrix/)
+
+> 作者： _bu_bdineNshine  拉取时间： 2022-09-16 06:01:12
+
+ [Facebook wants to democratize Machine Learning Framework Pytorch](https://www.reddit.com/r/pytorch/comments/xeruky/facebook_wants_to_democratize_machine_learning/)
+
+> 作者： _bu_bOk_Public9992  拉取时间： 2022-09-16 06:01:12
+
  [_dpb file to _dpt or _dpth file](https://www.reddit.com/r/pytorch/comments/xdurp0/pb_file_to_pt_or_pth_file/)
 
 > 作者： _bu_bbornlikeit  拉取时间： 2022-09-15 05:59:40
@@ -256,17 +380,9 @@
 
 > 作者： _bu_byongen96  拉取时间： 2022-09-14 06:00:00
 
- [PyTorch based bot is creating blog posts _t "How does this even work, an AI summarizer to create TLDR news articles"](https://www.reddit.com/r/pytorch/comments/xcknra/pytorch_based_bot_is_creating_blog_posts_how_does/)
+ [Setting up a small HPC cluster](https://www.reddit.com/r/HPC/comments/xeipt7/setting_up_a_small_hpc_cluster/)
 
-> 作者： _bu_bjohest  拉取时间： 2022-09-13 06:00:10
-
- [Amateur seeking help with StableDiff_d](https://www.reddit.com/r/pytorch/comments/xc32ss/amateur_seeking_help_with_stablediff/)
-
-> 作者： _bu_bChildhoodEasy9441  拉取时间： 2022-09-13 06:00:10
-
- [September Machine Learning Updates](https://blog.tensorflow.org/2022/09/september-machine-learning-updates.html)
-
-> 作者： TensorFlow Blog (noreply@blogger_dcom)  拉取时间： 2022-09-13 06:00:12
+> 作者： _bu_bReal_sAfternoon319  拉取时间： 2022-09-16 06:02:10
 
  [Newbie](https://www.reddit.com/r/HPC/comments/xdqbps/newbie/)
 
@@ -280,9 +396,17 @@
 
 > 作者： null  拉取时间： 2022-09-14 06:00:55
 
- [最新！王国斌、傅鹏博、郑有为…明星基金经理调仓曝光！](https://m.21jingji.com/article/20220912/herald/698f5747f536cabf4fc231184afaa51d.html)
+ [乌克兰战争达到转折点](https://www.ftchinese.com/story/001097266)
 
-> 作者： null  拉取时间： 2022-09-13 06:01:06
+> 作者： null  拉取时间： 2022-09-16 06:02:14
+
+ [克里姆林宫誓言要将侵乌战争进行到底](https://www.ftchinese.com/story/001097264)
+
+> 作者： null  拉取时间： 2022-09-16 06:02:14
+
+ [“大逆转”把我们带回高通胀环境](https://www.ftchinese.com/story/001097258)
+
+> 作者： 约翰•普伦德  拉取时间： 2022-09-16 06:02:14
 
  [地方财政形势困难，如何自救？（上）](https://www.ftchinese.com/story/001097259)
 
@@ -300,21 +424,45 @@
 
 > 作者： null  拉取时间： 2022-09-14 06:00:55
 
- [欧洲能够、也必须打赢“能源战”](https://www.ftchinese.com/story/001097252)
-
-> 作者： null  拉取时间： 2022-09-13 06:01:06
-
- [伊丽莎白二世：有人性的称职君主](https://www.ftchinese.com/story/001097248)
-
-> 作者： null  拉取时间： 2022-09-13 06:01:06
-
  [Whole New Mouse](https://poorlydrawnlines.com/comic/whole-new-mouse/)
 
 > 作者： Reza  拉取时间： 2022-09-15 06:00:36
 
- [Might Not](https://poorlydrawnlines.com/comic/might-not/)
+ [羊了个羊（科技通关）](https://www.v2ex.com/t/880260)
 
-> 作者： Reza  拉取时间： 2022-09-13 06:01:06
+> 作者： xiaoshenghaohao  拉取时间： 2022-09-16 06:02:15
+
+ [微信充值 AppStore 九折来啦](https://www.v2ex.com/t/880238)
+
+> 作者： Xmk  拉取时间： 2022-09-16 06:02:15
+
+ [v2er 们，你们的电池健康还剩多少，去年 5 月份购入的 12 电池健康就剩 90 了](https://www.v2ex.com/t/880194)
+
+> 作者： spicecch  拉取时间： 2022-09-16 06:02:15
+
+ [被优化了](https://www.v2ex.com/t/880174)
+
+> 作者： Mr0C  拉取时间： 2022-09-16 06:02:15
+
+ [有人利用苹果 14 天无理由退货体验新款 iPhone 吗](https://www.v2ex.com/t/880171)
+
+> 作者： mengfanhu  拉取时间： 2022-09-16 06:02:15
+
+ [看完极客湾的评测后，瞬间购买欲望下降。。](https://www.v2ex.com/t/880165)
+
+> 作者： polobug  拉取时间： 2022-09-16 06:02:15
+
+ [从「京东学生认证诈骗」，看防不胜防的诈骗手段](https://www.v2ex.com/t/880154)
+
+> 作者： sillydaddy  拉取时间： 2022-09-16 06:02:15
+
+ [为什么苹果产品测评评论区全是安卓用户，而安卓产品测评评论区没有苹果用户？](https://www.v2ex.com/t/880137)
+
+> 作者： LiaoYuehHsu  拉取时间： 2022-09-16 06:02:15
+
+ [羊了个羊！](https://www.v2ex.com/t/880136)
+
+> 作者： Xyg12133617  拉取时间： 2022-09-16 06:02:15
 
  [CodeGen 工具箱做出了一个艰难的决定， 17 号之前注册的同学将免费获得永久高级会员， 17 号之后新功能将不再完全免费](https://www.v2ex.com/t/879954)
 
@@ -392,41 +540,17 @@
 
 > 作者： IBMall  拉取时间： 2022-09-14 06:00:57
 
- [鸿雁输入法——整句输入法中一颗冉冉升起的新星](https://www.v2ex.com/t/879486)
+ [【已询问】广州安凯微电子股份有限公司](https://kcb.sse.com.cn/renewal/xmxq/index.shtml?auditId=1175)
 
-> 作者： dfgddgf  拉取时间： 2022-09-13 06:01:08
+> 作者： 广州安凯微电子股份有限公司  拉取时间： 2022-09-16 06:02:16
 
- [无聊撸了点检测代理的代码，主要是通过握手时间判断的，来试试_d2](https://www.v2ex.com/t/879471)
+ [【已询问】湖南华曙高科技股份有限公司](https://kcb.sse.com.cn/renewal/xmxq/index.shtml?auditId=1183)
 
-> 作者： xxxbin  拉取时间： 2022-09-13 06:01:08
+> 作者： 湖南华曙高科技股份有限公司  拉取时间： 2022-09-16 06:02:16
 
- [还是 iPhone 背部好看，跟 Mate 50 比，你觉得呢？](https://www.v2ex.com/t/879467)
+ [【已询问】北平机床（浙江）股份有限公司](https://kcb.sse.com.cn/renewal/xmxq/index.shtml?auditId=1253)
 
-> 作者： daoqiongsi1101  拉取时间： 2022-09-13 06:01:08
-
- [你手里的苹果设备数量？](https://www.v2ex.com/t/879466)
-
-> 作者： windbadboy  拉取时间： 2022-09-13 06:01:08
-
- [macOS， Linux ， Windows 个人使用感觉](https://www.v2ex.com/t/879442)
-
-> 作者： BigMikey  拉取时间： 2022-09-13 06:01:08
-
- [有人存身份证号时丢掉最后一位吗](https://www.v2ex.com/t/879424)
-
-> 作者： iseki  拉取时间： 2022-09-13 06:01:08
-
- [watch s5 有必要换 s8 吗？](https://www.v2ex.com/t/879419)
-
-> 作者： leon912  拉取时间： 2022-09-13 06:01:08
-
- [人为什么害怕关系的缺失？](https://www.v2ex.com/t/879407)
-
-> 作者： justanetizen  拉取时间： 2022-09-13 06:01:08
-
- [具备阅读长文能力的重要性](https://www.v2ex.com/t/879381)
-
-> 作者： delegate  拉取时间： 2022-09-13 06:01:08
+> 作者： 北平机床（浙江）股份有限公司  拉取时间： 2022-09-16 06:02:16
 
  [【提交注册】上海伟测半导体科技股份有限公司](https://kcb.sse.com.cn/renewal/xmxq/index.shtml?auditId=1090)
 
@@ -520,6 +644,10 @@
 
 > 作者： 南京世和基因生物技术股份有限公司  拉取时间： 2022-09-14 06:00:57
 
+ [2022年9月15日外交部发言人毛宁主持例行记者会（2022_s09_s15）](https://www.mfa.gov.cn/web/wjdt_674879/fyrbt_674889/202209/t20220915_10766466.shtml)
+
+> 作者： null  拉取时间： 2022-09-16 06:02:16
+
  [2022年9月14日外交部发言人毛宁主持例行记者会（2022_s09_s14）](https://www.mfa.gov.cn/web/wjdt_674879/fyrbt_674889/202209/t20220914_10766027.shtml)
 
 > 作者： null  拉取时间： 2022-09-15 06:00:37
@@ -527,6 +655,10 @@
  [2022年9月13日外交部发言人毛宁主持例行记者会（2022_s09_s13）](https://www.mfa.gov.cn/web/wjdt_674879/fyrbt_674889/202209/t20220913_10765604.shtml)
 
 > 作者： null  拉取时间： 2022-09-14 06:00:57
+
+ [【喷嚏图卦20220915】我们还没有到那一步，但终点就在眼前](https://www.dapenti.com/blog/more.asp?name=xilei&id=166872)
+
+> 作者： xilei  拉取时间： 2022-09-16 06:03:56
 
  [【喷嚏图卦20220914】为情所困](https://www.dapenti.com/blog/more.asp?name=xilei&id=166854)
 
@@ -536,9 +668,65 @@
 
 > 作者： xilei  拉取时间： 2022-09-14 06:02:37
 
- [【喷嚏图卦20220912】大海中的一个水花](https://www.dapenti.com/blog/more.asp?name=xilei&id=166804)
+ [2022年9月15日新闻联播文字版完整版](http://www.xwlb.com.cn/11312.html)
 
-> 作者： xilei  拉取时间： 2022-09-13 06:02:48
+> 作者： null  拉取时间： 2022-09-16 06:04:47
+
+ [2022年9月14日新闻联播文字版完整版](http://www.xwlb.com.cn/11289.html)
+
+> 作者： null  拉取时间： 2022-09-16 06:04:47
+
+ [2022年9月13日新闻联播文字版完整版](http://www.xwlb.com.cn/11274.html)
+
+> 作者： null  拉取时间： 2022-09-16 06:04:47
+
+ [2022年9月12日新闻联播文字版完整版](http://www.xwlb.com.cn/11258.html)
+
+> 作者： null  拉取时间： 2022-09-16 06:04:47
+
+ [2022年9月11日新闻联播文字版完整版](http://www.xwlb.com.cn/11241.html)
+
+> 作者： null  拉取时间： 2022-09-16 06:04:47
+
+ [2022年9月10日新闻联播文字版完整版](http://www.xwlb.com.cn/11226.html)
+
+> 作者： null  拉取时间： 2022-09-16 06:04:47
+
+ [2022年9月9日新闻联播文字版完整版](http://www.xwlb.com.cn/11209.html)
+
+> 作者： null  拉取时间： 2022-09-16 06:04:47
+
+ [2022年9月8日新闻联播文字版完整版](http://www.xwlb.com.cn/11190.html)
+
+> 作者： null  拉取时间： 2022-09-16 06:04:47
+
+ [2022年9月7日新闻联播文字版完整版](http://www.xwlb.com.cn/11169.html)
+
+> 作者： null  拉取时间： 2022-09-16 06:04:47
+
+ [2022年9月4日新闻联播文字版完整版](http://www.xwlb.com.cn/11149.html)
+
+> 作者： null  拉取时间： 2022-09-16 06:04:47
+
+ [国务院办公厅关于进一步优化营商环境降低市场主体制度性交易成本的意见](http://www.gov.cn/zhengce/content/2022-09/15/content_5709962.htm)
+
+> 作者： null  拉取时间： 2022-09-16 06:04:47
+
+ [中国海洋大学突然发现 漳州海鲜市场随处可见的小章鱼其实是未被记录的新物种](http://jandan.net/p/111348)
+
+> 作者： majer  拉取时间： 2022-09-16 06:04:48
+
+ [哺乳动物的运输反应 专家称找到了哄哭泣婴儿快速入睡的简单方法](http://jandan.net/p/111338)
+
+> 作者： majer  拉取时间： 2022-09-16 06:04:48
+
+ [如果 所有城市人口都像丹麦和荷兰那样采取以自行车为主的通勤方式](http://jandan.net/p/111209)
+
+> 作者： majer  拉取时间： 2022-09-16 06:04:48
+
+ [今日带货：美心月饼](http://jandan.net/p/111345)
+
+> 作者： sein  拉取时间： 2022-09-16 06:04:48
 
  [恶语为何可以伤人？](http://jandan.net/p/111290)
 
@@ -576,25 +764,25 @@
 
 > 作者： sein  拉取时间： 2022-09-14 06:03:31
 
- [全赖木星 如果木星轨道更扁点 地球就会更加宜居](http://jandan.net/p/111330)
-
-> 作者： majer  拉取时间： 2022-09-13 06:03:41
-
- [在你行走时，用红外激光为你的手机充电](http://jandan.net/p/111272)
-
-> 作者： majer  拉取时间： 2022-09-13 06:03:41
-
- [早吃好晚吃少  有助于减肥吗](http://jandan.net/p/111332)
-
-> 作者： majer  拉取时间： 2022-09-13 06:03:41
-
- [今日好价 0912](http://jandan.net/p/111333)
-
-> 作者： sein  拉取时间： 2022-09-13 06:03:41
-
  [Static Site Generation with Hugo](https://www.linuxjournal.com/content/static-site-generation-hugo)
 
 > 作者： David Burgess  拉取时间： 2022-09-14 06:06:05
+
+ [如何在浏览器中启用深色模式](https://linux.cn/article-15035-1.html?utm_source=rss&utm_medium=rss)
+
+> 作者： linux@linux_dcn (linux)  拉取时间： 2022-09-16 06:07:21
+
+ [硬核观察 #760 DeepMind 研究员论文称 AI 将消灭人类](https://linux.cn/article-15034-1.html?utm_source=rss&utm_medium=rss)
+
+> 作者： linux@linux_dcn (linux)  拉取时间： 2022-09-16 06:07:21
+
+ [开源照片编辑器 PhotoDemon 9_d0 现已可供下载](https://linux.cn/article-15033-1.html?utm_source=rss&utm_medium=rss)
+
+> 作者： linux@linux_dcn (linux)  拉取时间： 2022-09-16 06:07:21
+
+ [新树莓派操作系统更新带来一些不错的小改进](https://linux.cn/article-15032-1.html?utm_source=rss&utm_medium=rss)
+
+> 作者： linux@linux_dcn (linux)  拉取时间： 2022-09-16 06:07:21
 
  [硬核观察 #759 MGLRU 页面回收算法有望并入 Linux 6_d1 内核](https://linux.cn/article-15031-1.html?utm_source=rss&utm_medium=rss)
 
@@ -616,17 +804,9 @@
 
 > 作者： linux@linux_dcn (linux)  拉取时间： 2022-09-14 06:06:06
 
- [Unix 历史：一个伟大作品的诞生](https://linux.cn/article-15024-1.html?utm_source=rss&utm_medium=rss)
+ [Rust meetup 北京线下招募讲师与开放报名](https://rustcc.cn/article?id=bd860656-ed46-4c7a-8927-df9141fec60b)
 
-> 作者： linux@linux_dcn (linux)  拉取时间： 2022-09-13 06:06:14
-
- [硬核观察 #757 Retbleed 修复导致虚拟机性能降低 70_0](https://linux.cn/article-15023-1.html?utm_source=rss&utm_medium=rss)
-
-> 作者： linux@linux_dcn (linux)  拉取时间： 2022-09-13 06:06:14
-
- [10 大可以摧毁你的 Linux 的命令](https://linux.cn/article-15022-1.html?utm_source=rss&utm_medium=rss)
-
-> 作者： linux@linux_dcn (linux)  拉取时间： 2022-09-13 06:06:14
+> 作者： null  拉取时间： 2022-09-16 06:07:25
 
  [【Rust日报】2022_s09_s14 使用 Rust 构建简单博客 && 华为实习生招募](https://rustcc.cn/article?id=0639e3bc-d87a-4708-bc46-4808e19450e1)
 
@@ -648,13 +828,17 @@
 
 > 作者： null  拉取时间： 2022-09-14 06:06:10
 
- [【Rust日报】2022_s09_s12 Bevy中测试游戏代码](https://rustcc.cn/article?id=f54a6e84-eb6d-40f9-a365-78be2f224a45)
+ [Const Eval (Un)Safety Rules](https://blog.rust-lang.org/2022/09/15/const-eval-safety-rule-revision.html)
 
-> 作者： null  拉取时间： 2022-09-13 06:06:18
+> 作者： Felix Klock  拉取时间： 2022-09-16 06:07:25
 
  [Security advisories for Cargo (CVE_s2022_s36113, CVE_s2022_s36114)](https://blog.rust-lang.org/2022/09/14/cargo-cves.html)
 
 > 作者： The Rust Security Response WG  拉取时间： 2022-09-15 06:05:49
+
+ [Daily Hacker News for 2022_s09_s14](https://www.daemonology.net/hn-daily/2022-09-14.html)
+
+> 作者： null  拉取时间： 2022-09-16 06:08:15
 
  [Daily Hacker News for 2022_s09_s13](https://www.daemonology.net/hn-daily/2022-09-13.html)
 
@@ -664,9 +848,17 @@
 
 > 作者： null  拉取时间： 2022-09-14 06:07:01
 
- [Daily Hacker News for 2022_s09_s11](https://www.daemonology.net/hn-daily/2022-09-11.html)
+ [图解JS中的事件循环](https://segmentfault.com/a/1190000042485178)
 
-> 作者： null  拉取时间： 2022-09-13 06:07:08
+> 作者： 寒水寺一禅  拉取时间： 2022-09-16 06:10:01
+
+ [「多图预警」完美实现一个@功能](https://segmentfault.com/a/1190000042481321)
+
+> 作者： wuwhs  拉取时间： 2022-09-16 06:10:01
+
+ [Vite入门从手写一个乞丐版的Vite开始（下）](https://segmentfault.com/a/1190000042481480)
+
+> 作者： 街角小林  拉取时间： 2022-09-16 06:10:01
 
  [Vite入门从手写一个乞丐版的Vite开始（上）](https://segmentfault.com/a/1190000042472725)
 
