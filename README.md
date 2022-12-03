@@ -18,640 +18,596 @@
 
 ## 今日更新
 
-## 2022-11-30
+## 2022-12-4
 
- [宏景智驾完成数亿元B轮融资，用于新产品研发及产能扩充](https://www.jiqizhixin.com/articles/2022-11-29-6)
+ [中国《人工智能领域高价值专利分析报告》发布 百度AI专利价值排名第一](https://www.jiqizhixin.com/articles/2022-12-02-12)
 
-> 作者： AutoByte  拉取时间： 2022-11-30 05:51:40
+> 作者： 新闻助手  拉取时间： 2022-12-04 05:51:50
 
- [从“智能泊车”到“行泊一体”，纵目科技冲刺IPO](https://www.jiqizhixin.com/articles/2022-11-29-5)
+ [腾讯张胜誉：构建全栈量子布局，共建“量子+”应用生态](https://www.jiqizhixin.com/articles/2022-12-02-11)
 
-> 作者： shanshan  拉取时间： 2022-11-30 05:51:40
+> 作者： 新闻助手  拉取时间： 2022-12-04 05:51:50
 
- [Google Health与iCAD达成合作，改善乳腺癌筛查](https://www.jiqizhixin.com/articles/2022-11-29-4)
+ [近万人围观Hinton最新演讲：前向_s前向神经网络训练算法，论文已公开](https://www.jiqizhixin.com/articles/2022-12-02-9)
 
-> 作者： 新闻助手  拉取时间： 2022-11-30 05:51:40
+> 作者： 机器之心  拉取时间： 2022-12-04 05:51:50
 
- [全球首家！Crane成FinOps首个认证降本增效开源方案](https://www.jiqizhixin.com/articles/2022-11-29-3)
+ [OpenAI新上线GPT太强了，服务器瞬间挤爆，马斯克：你们太沉迷了](https://www.jiqizhixin.com/articles/2022-12-02-8)
 
-> 作者： 新闻助手  拉取时间： 2022-11-30 05:51:40
+> 作者： 机器之心  拉取时间： 2022-12-04 05:51:50
 
- [芯驰科技完成近10亿元B+轮融资，将用于加强大规模量产落地和服务能力](https://www.jiqizhixin.com/articles/2022-11-29-2)
+ [让机器人的触觉感官更灵敏、稳定、高效，腾讯Robotics X在传感器上火力全开](https://www.jiqizhixin.com/articles/2022-12-02-7)
 
-> 作者： AutoByte  拉取时间： 2022-11-30 05:51:40
+> 作者： 机器之心  拉取时间： 2022-12-04 05:51:50
 
- [宏景智驾完成数亿元B轮融资](https://www.jiqizhixin.com/articles/2022-11-28-2)
+ [架构瓶颈原则：用注意力probe估计神经网络组件提供多少句法信息](https://www.jiqizhixin.com/articles/2022-12-02-6)
 
-> 作者： 新闻助手  拉取时间： 2022-11-30 05:51:40
+> 作者： 机器之心  拉取时间： 2022-12-04 05:51:50
 
- [全国首个！联汇科技获得国家工信部信通院大规模预训练模型系统检验证书](https://www.jiqizhixin.com/articles/2022-11-28)
+ [覆盖四种场景、包含正负向反馈，腾讯、西湖大学等发布推荐系统公开数据集Tenrec](https://www.jiqizhixin.com/articles/2022-12-02-5)
 
-> 作者： 新闻助手  拉取时间： 2022-11-30 05:51:40
+> 作者： 机器之心  拉取时间： 2022-12-04 05:51:50
 
- [NeurIPS 2022 | 视觉长尾学习模型为何无法较好地落地？](https://www.jiqizhixin.com/articles/2022-11-27-4)
+ [整个元素周期表通用，AI 即时预测材料结构与特性](https://www.jiqizhixin.com/articles/2022-12-02-2)
 
-> 作者： 机器之心  拉取时间： 2022-11-28 05:51:31
+> 作者： ScienceAI  拉取时间： 2022-12-04 05:51:50
 
- [机器学习中的新数学，加速AI训练离不开数字表示方式和基本计算的变革](https://www.jiqizhixin.com/articles/2022-11-27-3)
+ [马斯克再掀风波，Neuralink打开脑机接口的“潘多拉魔盒”](https://www.jiqizhixin.com/articles/2022-12-02)
 
-> 作者： 机器之心  拉取时间： 2022-11-28 05:51:31
+> 作者： shanshan  拉取时间： 2022-12-04 05:51:50
 
- [AI的未来不是大模型，也不是端到端：Meta向我们证明了这一点](https://www.jiqizhixin.com/articles/2022-11-27-2)
+ [大手牵小手：教育、科技、人才三位一体下的智能教育新机遇 | “智行中国”系列论坛第二期](https://www.jiqizhixin.com/articles/2022-12-01-16)
 
-> 作者： 机器之心  拉取时间： 2022-11-28 05:51:31
+> 作者： 新闻助手  拉取时间： 2022-12-04 05:51:50
 
- [卷！用扩散模型合成连贯视觉故事，输入字幕就能脑补画面，代词ta都分得清](https://www.jiqizhixin.com/articles/2022-11-27)
+ [使用魔搭开发自己的语音AI：从入门到精通](https://www.jiqizhixin.com/articles/2022-12-01-12)
 
-> 作者： 机器之心  拉取时间： 2022-11-28 05:51:31
+> 作者： 机器之心  拉取时间： 2022-12-04 05:51:50
 
- [90后获奖人、医师科学家、向女科学家倾斜……100位年轻科学家线上领奖，“科学探索奖”连刷第一](https://www.jiqizhixin.com/articles/2022-11-26)
+ [《数字人产业发展趋势报告》发布，AI技术发展推动数字人智能化升级](https://www.jiqizhixin.com/articles/2022-12-01-11)
 
-> 作者： 新闻助手  拉取时间： 2022-11-28 05:51:31
+> 作者： 新闻助手  拉取时间： 2022-12-04 05:51:50
 
- [选对插件，让简悦也可以重器轻用](https://sspai.com/post/75567)
+ [无需新型token mixer就能SOTA：MetaFormer视觉基线模型开源，刷新ImageNet记录](https://www.jiqizhixin.com/articles/2022-12-01-9)
 
-> 作者： Kenshin  拉取时间： 2022-11-30 05:51:42
+> 作者： 机器之心  拉取时间： 2022-12-04 05:51:50
 
- [最大化利用租房空间，我的十平米卧室布置思路](https://sspai.com/post/77031)
+ [「穿越」成真？科学家造出史上首个「虫洞」，登Nature封面](https://www.jiqizhixin.com/articles/2022-12-01-8)
 
-> 作者： 宛潼  拉取时间： 2022-11-30 05:51:42
+> 作者： 机器之心  拉取时间： 2022-12-04 05:51:50
 
- [App Store Awards 2022 年度大奖出炉，我们和获奖开发者聊了聊](https://sspai.com/post/77038)
+ [猴子学会意念打字，马斯克脑机接口最新演示，预计6个月内人体试验](https://www.jiqizhixin.com/articles/2022-12-01-7)
 
-> 作者： waychane  拉取时间： 2022-11-30 05:51:42
+> 作者： 机器之心  拉取时间： 2022-12-04 05:51:50
 
- [挑战也是机遇，从环境设计实例谈 AI 辅助设计的前景](https://sspai.com/post/77005)
+ [如何高效进阶智能移动终端？来这场自动驾驶峰会听「头部车企+云厂商」实践与洞察](https://www.jiqizhixin.com/articles/2022-12-01-6)
 
-> 作者： 樊川_MinusType  拉取时间： 2022-11-30 05:51:42
+> 作者： 机器之心  拉取时间： 2022-12-04 05:51:50
 
- [派早报：苹果撤下推特广告投放，瑞典一国有基金起诉微软与动视暴雪等](https://sspai.com/post/77034)
+ [打造属于机器人的触觉感官，腾讯Robotics X实验室做到了更快、更轻、更准](https://www.jiqizhixin.com/articles/2022-12-01-5)
 
-> 作者： 少数派编辑部  拉取时间： 2022-11-30 05:51:42
+> 作者： 机器之心  拉取时间： 2022-12-04 05:51:50
 
- [派评 | 近期值得关注的 App](https://sspai.com/post/77029)
+ [单羿博士加入并出任CEO，鉴智机器人完成襄禾资本领投的A+轮数千万美元融资](https://www.jiqizhixin.com/articles/2022-12-01-10)
 
-> 作者： 少数派编辑部  拉取时间： 2022-11-30 05:51:42
+> 作者： 新闻助手  拉取时间： 2022-12-04 05:51:50
 
- [我们为什么需要 Matter：飞利浦 Hue 的跨平台联动探索记录](https://sspai.com/post/76922)
+ [腾讯汤道生：云智融合，加速产业智慧升级](https://www.jiqizhixin.com/articles/2022-12-01-4)
 
-> 作者： 宛潼  拉取时间： 2022-11-30 05:51:42
+> 作者： 新闻助手  拉取时间： 2022-12-04 05:51:50
 
- [App+1 | 你的下一款可穿戴设备，最好支持这个新特性：Health Connect](https://sspai.com/post/77024)
+ [每秒运算4万万亿次，南京“超级大脑”助推长三角数字经济高质量发展](https://www.jiqizhixin.com/articles/2022-12-01-3)
 
-> 作者： 去梦老婆  拉取时间： 2022-11-30 05:51:42
+> 作者： 机器之能  拉取时间： 2022-12-04 05:51:50
 
- [九天教会小猫咪「说话」——我家咪咪的求学之旅](https://sspai.com/post/76995)
+ [当谈论可持续时，我们在谈什么？](https://sspai.com/post/77063)
 
-> 作者： VeryJack  拉取时间： 2022-11-30 05:51:42
+> 作者： johnbens  拉取时间： 2022-12-04 05:51:52
 
- [工作十年，这些个人管理习惯让我受益良多](https://sspai.com/post/76984)
+ [App+1 | Fluent Search：也许微软就是想做这样的一个启动器](https://sspai.com/post/77087)
 
-> 作者： James_Tu  拉取时间： 2022-11-28 05:51:32
+> 作者： Noah_Choi  拉取时间： 2022-12-04 05:51:52
 
- [「黑五」值得买：亚马逊海外淘上可以看看的硬件优惠](https://sspai.com/post/77003)
+ [派周报 | 「逃离推特」与去中心化之辩](https://sspai.com/prime/story/pi-weekly-20)
 
-> 作者： Kostya  拉取时间： 2022-11-28 05:51:32
+> 作者： PlatyHsu  拉取时间： 2022-12-04 05:51:52
 
- [「黑五」值得买：Steam、PS、Epic 和 Switch 上值得关注的游戏优惠](https://sspai.com/post/76987)
+ [本周看什么 | 最近值得一看的一大捆作品](https://sspai.com/post/77080)
 
-> 作者： KeNNY  拉取时间： 2022-11-28 05:51:32
+> 作者： 少数派编辑部  拉取时间： 2022-12-04 05:51:52
 
- [Feeddd – 分布式，免费的微信公众号 RSS 订阅源，已超过 30000+ 微信公众号](https://www.appinn.com/feeddd/)
+ [来自卡塔尔世界杯的馄饨皮，是吉祥物中的少数派](https://sspai.com/post/77042)
 
-> 作者： 青小蛙  拉取时间： 2022-11-30 05:51:44
+> 作者： MMMMMMarcus  拉取时间： 2022-12-04 05:51:52
 
- [VoceChat – 现如今居然还有人写可以私有部署的「聊天应用程序」](https://www.appinn.com/vocechat/)
+ [App+1 | 入门 Android 自动化，它比 Tasker 更好上手：MacroDroid](https://sspai.com/post/77077)
 
-> 作者： 青小蛙  拉取时间： 2022-11-30 05:51:44
+> 作者： 100gle  拉取时间： 2022-12-04 05:51:52
 
- [一份爱小工具 – 田字格字帖、拼音田字格、古诗词、口算题等 13 款「中文学习」生成器，低年级学生练字神器[Web]](https://www.appinn.com/one-love-learning-tools/)
+ [一日一技｜巧用开源软件 Mackup 在不同设备间同步各类软件设置](https://sspai.com/post/77012)
 
-> 作者： 青小蛙  拉取时间： 2022-11-30 05:51:44
+> 作者： EstrellaXD  拉取时间： 2022-12-04 05:51:52
 
- [安卓手机，当 PC 的摄像头，哪个软件比较好？ ​​​​](https://www.appinn.com/android-camera-for-pc/)
+ [派早报：Google 公布 2022 年 Play Store 最佳榜单、贝尔金推出 AirPods 清洁套装](https://sspai.com/post/77075)
 
-> 作者： 青小蛙  拉取时间： 2022-11-28 05:51:34
+> 作者： 少数派编辑部  拉取时间： 2022-12-04 05:51:52
 
- [Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-23oi)
+ [新玩意 129｜少数派的编辑们最近买了啥？](https://sspai.com/post/77068)
 
-> 作者： Michael Tharrington (he_bhim), The DEV Team  拉取时间： 2022-11-30 05:51:52
+> 作者： 少数派编辑部  拉取时间： 2022-12-04 05:51:52
 
- [Meme Monday 😬](https://dev.to/ben/meme-monday-537h)
+ [在相纸定格瞬间美好：拍立得选购指南](https://sspai.com/post/77064)
 
-> 作者： Ben Halpern  拉取时间： 2022-11-30 05:51:52
+> 作者： 许万里Alva  拉取时间： 2022-12-04 05:51:52
 
- [Why your GitHub profile should stand out_d2](https://dev.to/shubhicodes/why-your-github-profile-should-stand-out-20p3)
+ [老婆 QQ 发来一句语音卖萌，听得我心花怒放，想把这句语音保留下来](https://www.appinn.com/silk-v3-decoder/)
 
-> 作者： Shubhangi✨  拉取时间： 2022-11-30 05:51:52
+> 作者： 青小蛙  拉取时间： 2022-12-04 05:51:54
 
- [Advanced web font optimization techniques](https://dev.to/alex_barashkov/advanced-web-font-optimization-techniques-2n1f)
+ [OpenSearcher – 开源的全文搜索工具：支持 Word、PPT、PDF，以及电子书 ePub、Mobi 等格式[Windows]](https://www.appinn.com/opensearcher/)
 
-> 作者： Alex Barashkov  拉取时间： 2022-11-30 05:51:52
+> 作者： 青小蛙  拉取时间： 2022-12-04 05:51:54
 
- [NEW Personal Portfolio Website Using HTML CSS JavaScript](https://dev.to/codewithsadee/new-personal-portfolio-website-using-html-css-javascript-k83)
+ [TextLocator – 卖萌的小老头：低 CPU 占用的本地文档全文搜索工具[Win]](https://www.appinn.com/textlocator/)
 
-> 作者： Sadee  拉取时间： 2022-11-30 05:51:52
+> 作者： 青小蛙  拉取时间： 2022-12-04 05:51:54
 
- [We All Need Good Feedback](https://dev.to/bekahhw/we-all-need-good-feedback-kgd)
+ [Global Speed – 在线视频播放控制：倍速、倒带_b前进、逐帧分析、标记、AB 重复等[Chrome_bFirefox]](https://www.appinn.com/global-speed-browser-online-video/)
 
-> 作者： BekahHW  拉取时间： 2022-11-30 05:51:52
+> 作者： 青小蛙  拉取时间： 2022-12-04 05:51:54
 
- [REST API vs GraphQL](https://dev.to/documatic/rest-api-vs-graphql-1a0n)
+ [Learn Web Development by Building Projects](https://dev.to/askdevs/learn-web-development-by-building-projects-1kc1)
 
-> 作者： Bentil Shadrack, Documatic  拉取时间： 2022-11-30 05:51:52
+> 作者： Void⚡, AskDevs  拉取时间： 2022-12-04 05:52:02
 
- [The illusion of speed – why perceived performance matters](https://dev.to/enterspeed/the-illusion-of-speed-why-perceived-performance-matters-f38)
+ [When can you declare yourself a Full_sstack Dev_d2](https://dev.to/thomasbnt/when-can-you-declare-yourself-a-full-stack-dev-31j1)
 
-> 作者： Kasper Andreassen, Enterspeed  拉取时间： 2022-11-30 05:51:52
+> 作者： Thomas Bnt  拉取时间： 2022-12-04 05:52:02
 
- [Using Terraform To Manage Infrastructure Resources](https://dev.to/pavanbelagatti/using-terraform-to-manage-infrastructure-resources-32da)
+ [Follow Friday_t DevOps Edition (2 December 2022)](https://dev.to/devteam/follow-friday-devops-edition-2-december-2022-4g37)
 
-> 作者： Pavan Belagatti  拉取时间： 2022-11-30 05:51:52
+> 作者： Erin Bensinger, The DEV Team  拉取时间： 2022-12-04 05:52:02
 
- [The 38 Books Recommended to Me in the Past Few Months](https://dev.to/rockykev/the-38-books-recommended-to-me-in-the-past-few-months-1d35)
+ [Want to create attractive, interactive docs_d2 Use these amazing documentation tools and examples](https://dev.to/robole/want-to-create-attractive-interactive-docs-use-these-amazing-documentation-tools-and-examples-562l)
 
-> 作者： Rocky Kev  拉取时间： 2022-11-30 05:51:52
+> 作者： Rob OLeary  拉取时间： 2022-12-04 05:52:02
 
- [6 Use Cases for Regex in Your Daily Work](https://dev.to/perssondennis/6-use-cases-for-regex-in-your-daily-work-508b)
+ [10 games to learn JavaScript](https://dev.to/dailydevtips1/10-games-to-learn-javascript-155j)
 
-> 作者： Dennis Persson  拉取时间： 2022-11-30 05:51:52
+> 作者： Chris Bongers  拉取时间： 2022-12-04 05:52:02
 
- [Why I love Mastodon](https://dev.to/jesseskinner/why-i-love-mastodon-4fom)
+ [Super Charging Fine_sGrained Reactive Performance](https://dev.to/modderme123/super-charging-fine-grained-reactive-performance-47ph)
 
-> 作者： Jesse Skinner  拉取时间： 2022-11-30 05:51:52
+> 作者： Milo  拉取时间： 2022-12-04 05:52:02
 
- [How to Delete Local and Remote Git Branches](https://dev.to/refine/how-to-delete-local-and-remote-git-branches-311f)
+ [GitHub Actions_t An Introduction](https://dev.to/ionos/github-actions-an-introduction-4leo)
 
-> 作者： Necati Özmen, refine  拉取时间： 2022-11-30 05:51:52
+> 作者： Robert Schleinhege, IONOS  拉取时间： 2022-12-04 05:52:02
 
- [When to use useRef() instead of useState()](https://dev.to/trinityyi/when-to-use-useref-instead-of-usestate-3h4o)
+ [Awesome time_ssaving tools for developers](https://dev.to/surajondev/awesome-time-saving-tools-for-developers-1df5)
 
-> 作者： Isabelle M_d  拉取时间： 2022-11-30 05:51:52
+> 作者： Suraj Vishwakarma  拉取时间： 2022-12-04 05:52:02
 
- [Planning And Tracking Projects With GitHub_as Projects Tool](https://dev.to/adiatiayu/planning-and-tracking-projects-with-githubs-projects-tool-572l)
+ [Detecting if the user is online with JavaScript](https://dev.to/dailydevtips1/detecting-if-the-user-is-online-with-javascript-58ne)
 
-> 作者： Ayu Adiati  拉取时间： 2022-11-30 05:51:52
+> 作者： Chris Bongers  拉取时间： 2022-12-04 05:52:02
 
- [GRPC Node + NextJs + Prisma + Envoy Proxy](https://dev.to/ozair0/grpc-node-nextjs-prisma-1pp8)
+ [Writing a Technical Blog](https://dev.to/abbeyperini/writing-a-technical-blog-79o)
 
-> 作者： Ozair  拉取时间： 2022-11-30 05:51:52
+> 作者： Abbey Perini  拉取时间： 2022-12-04 05:52:02
 
- [Monoliths vs Microservices vs Serverless](https://dev.to/aws-builders/monoliths-vs-microservices-vs-serverless-393m)
+ [Web resource caching_t Client_sside](https://dev.to/apisix/web-resource-caching-client-side-1jak)
 
-> 作者： Frank Osasere Idugboe, AWS Community Builders  拉取时间： 2022-11-30 05:51:52
+> 作者： Nicolas Frankel, Apache APISIX  拉取时间： 2022-12-04 05:52:02
 
- [Map, Reduce, and Filter _s JS Array Functions Explained with Code](https://dev.to/neeraj1997dev/map-reduce-and-filter-js-array-functions-explained-with-code-2b2o)
+ [React Material Tailwind _s Beginners’ Guide and Free Sample](https://dev.to/sm0ke/react-material-tailwind-beginners-guide-and-free-sample-5eh7)
 
-> 作者： Neeraj Kumar  拉取时间： 2022-11-30 05:51:52
+> 作者： Sm0ke  拉取时间： 2022-12-04 05:52:02
 
- [Form Validation with JS and Tailwind](https://dev.to/shubhamtiwari909/form-validation-with-js-and-tailwind-38ab)
+ [2022 Advent Code Challenges](https://dev.to/jarvisscript/2022-advent-code-challenges-5445)
 
-> 作者： Mysterio  拉取时间： 2022-11-30 05:51:52
+> 作者： Chris Jarvis  拉取时间： 2022-12-04 05:52:02
 
- [1000X faster two sum leetcode solution](https://dev.to/mavensingh/1000x-faster-two-sum-leetcode-solution-29aa)
+ [+20_d000 Developers Rename the Wireless Mouse to Hamster _s Help Us!🐹](https://dev.to/bytehide/you-can-help-too-20k-developers-already-accepted-the-change-1pm)
 
-> 作者： Kuldeep Singh  拉取时间： 2022-11-30 05:51:52
+> 作者： ByteHide  拉取时间： 2022-12-04 05:52:02
 
- [Create React App is Dead_d2](https://dev.to/thevinitgupta/create-react-app-is-dead-3igo)
+ [UI Framework for Flutter_d What should be included in_d2](https://dev.to/frezyx/ui-framework-for-flutter-what-should-be-included-in-3k38)
 
-> 作者： Vinit Gupta  拉取时间： 2022-11-30 05:51:52
+> 作者： Stanislav Ilin  拉取时间： 2022-12-04 05:52:02
 
- [7 Developer Portfolio for inspiration](https://dev.to/ruppysuppy/7-developer-portfolio-for-inspiration-4no7)
+ [Goodbye Typescript, hello native typing for Javascript ✨](https://dev.to/christopherkade/goodbye-typescript-hello-native-typing-for-javascript-3ee1)
 
-> 作者： Tapajyoti Bose  拉取时间： 2022-11-28 05:51:43
+> 作者： Christopher Kade  拉取时间： 2022-12-04 05:52:02
 
- [Tidy up your machine with Visual Studio Code Dev Containers](https://dev.to/this-is-learning/tidy-up-your-machine-with-visual-studio-code-dev-containers-256n)
+ [Chrome Extensions of the Month _s November 2022](https://dev.to/j471n/chrome-extensions-of-the-month-november-2022-364k)
 
-> 作者： Giorgio Boa, This is Learning  拉取时间： 2022-11-28 05:51:43
+> 作者： Jatin Sharma  拉取时间： 2022-12-04 05:52:02
 
- [A Guide to the Most Popular Types of APIs_t REST, SOAP, GraphQL, and gRPC](https://dev.to/pragativerma18/a-guide-to-the-most-popular-types-of-apis-rest-soap-graphql-and-grpc-4ail)
+ [Developer Health_t Tips for dealing with workplace anxieties and imposter syndrome](https://dev.to/codergirl1991/developer-health-tips-for-dealing-with-workplace-anxieties-and-imposter-syndrome-4i46)
 
-> 作者： Pragati Verma  拉取时间： 2022-11-28 05:51:43
+> 作者： Jessica Wilkins  拉取时间： 2022-12-04 05:52:02
 
- [How to Access Local Sever on Other Devices](https://dev.to/j471n/how-to-access-local-sever-on-other-devices-57f1)
+ [What Makes You Stay In A Community_d2](https://dev.to/adiatiayu/what-makes-you-stay-in-a-community-4go)
 
-> 作者： Jatin Sharma  拉取时间： 2022-11-28 05:51:43
+> 作者： Ayu Adiati  拉取时间： 2022-12-04 05:52:02
 
- [Should developers study 20 hours a week after work_d2](https://dev.to/codergirl1991/should-developers-study-20-hours-a-week-after-work-6no)
+ [Web Security 101 _s Part 1_t Secrets](https://dev.to/abbeyperini/web-security-101-part-1-secrets-5e39)
 
-> 作者： Jessica Wilkins  拉取时间： 2022-11-28 05:51:43
+> 作者： Abbey Perini  拉取时间： 2022-12-04 05:52:02
 
- [Minimal TypeScript Crash Course For React _s With Interactive Code Exercises](https://dev.to/jkettmann/minimal-typescript-crash-course-for-react-with-interactive-code-exercises-43cl)
+ [Getting Started With Skaffold](https://dev.to/thenjdevopsguy/getting-started-with-skaffold-5120)
 
-> 作者： Johannes Kettmann  拉取时间： 2022-11-28 05:51:43
+> 作者： Mike Levan  拉取时间： 2022-12-04 05:52:02
 
- [My React Native Journey](https://dev.to/ponikar/my-react-native-experience-2pcm)
+ [Creating Async Task Runner with Concurrency in JavaScript](https://dev.to/officialbidisha/creating-async-task-runner-with-concurrency-in-javascript-49j9)
 
-> 作者： Ponikar  拉取时间： 2022-11-28 05:51:43
+> 作者： Bidisha Das  拉取时间： 2022-12-04 05:52:02
 
- [Fun With Next_djs 13 Server Components](https://dev.to/zenstack/fun-with-nextjs-13-server-components-o37)
+ [Auto_smagically generate sequence diagrams of your code_as runtime behavior](https://dev.to/appmap/auto-magically-generate-sequence-diagrams-of-your-codes-runtime-behavior-597a)
 
-> 作者： ymc9, ZenStack  拉取时间： 2022-11-28 05:51:43
+> 作者： Kevin Gilpin, AppMap  拉取时间： 2022-12-04 05:52:02
 
- [Combining the Command Pattern with State Pattern in JavaScript](https://dev.to/jsmanifest/combining-the-command-pattern-with-state-pattern-in-javascript-2bja)
+ [Announcing NgRx v15_t Standalone APIs, Type_ssafe projectors, Component and ComponentStore updates, and more!](https://dev.to/ngrx/announcing-ngrx-v15-standalone-apis-type-safe-projectors-component-and-componentstore-updates-and-more-l7)
 
-> 作者： jsmanifest  拉取时间： 2022-11-28 05:51:43
+> 作者： Brandon Roberts, NgRx  拉取时间： 2022-12-04 05:52:02
 
- [Can "Don_at reinvent the wheel" be bad advice_d2](https://dev.to/nicozerpa/can-dont-reinvent-the-wheel-be-bad-advice-ddm)
+ [About My Digital Garden](https://dev.to/abbeyperini/about-my-digital-garden-2o4h)
 
-> 作者： Nico Zerpa (he_bhim)  拉取时间： 2022-11-28 05:51:43
+> 作者： Abbey Perini  拉取时间： 2022-12-04 05:52:02
 
- [Build Your Own PHP Framework Step By Step _s Part 1](https://dev.to/robbiecahill/build-your-own-php-framework-step-by-step-part-1-k32)
+ [7 Supportive Tech Communities You Want To Be Part Of](https://dev.to/adiatiayu/7-supportive-tech-communities-you-want-to-be-part-of-37ik)
 
-> 作者： Robbie Cahill  拉取时间： 2022-11-28 05:51:43
+> 作者： Ayu Adiati  拉取时间： 2022-12-04 05:52:02
 
- [How to learn JavaScript at home (step_sby_sstep) + 5 FREE Resources](https://dev.to/fullstackvault/how-to-learn-javascript-at-home-step-by-step-5-free-resources-3bpo)
+ [React Soft Dashboard _s FullStack & Live Deploy](https://dev.to/sm0ke/react-soft-dashboard-fullstack-live-deploy-53fd)
 
-> 作者： Full Stack Vault  拉取时间： 2022-11-28 05:51:43
+> 作者： Sm0ke  拉取时间： 2022-12-04 05:52:02
 
- [Better Language Models Without Massive Compute](http://ai.googleblog.com/2022/11/better-language-models-without-massive.html)
+ [How I improved my JS code with these 3 functions](https://dev.to/vhutov/how-i-improved-my-js-code-with-these-3-functions-54j6)
 
-> 作者： Google AI (noreply@blogger_dcom)  拉取时间： 2022-11-30 05:51:53
+> 作者： Vladyslav Hutov  拉取时间： 2022-12-04 05:52:02
 
- [Google at NeurIPS 2022](http://ai.googleblog.com/2022/11/google-at-neurips-2022.html)
+ [Five Underated CSS Properties You NEED To Try Out!](https://dev.to/codeystein/five-underated-css-properties-you-need-to-try-out-5978)
 
-> 作者： Google AI (noreply@blogger_dcom)  拉取时间： 2022-11-30 05:51:53
+> 作者： codeyStein  拉取时间： 2022-12-04 05:52:02
 
- [2022年政企数智办公平台行业研究报告](https://report.iresearch.cn/report/202211/4111.shtml)
+ [5 reasons to avoid imperative code](https://dev.to/this-is-learning/5-reasons-to-avoid-imperative-code-e09)
 
-> 作者： null  拉取时间： 2022-11-30 05:57:00
+> 作者： Mike Pearson, This is Learning  拉取时间： 2022-12-04 05:52:02
 
- [HOWTO_t Avoid temptation _s_s why avoiding temptation is harder than you think](http://matt.might.net/articles/how-to-avoid-temptation/)
+ [How to write README files like a pro](https://dev.to/grski/readme-file-structure-and-sections-pm8)
 
-> 作者： null  拉取时间： 2022-11-30 05:57:16
+> 作者： Olaf Górski  拉取时间： 2022-12-04 05:52:02
 
- [SD + AMD RX 590 acceleration on Linux](https://www.reddit.com/r/pytorch/comments/z81fif/sd_amd_rx_590_acceleration_on_linux/)
+ [My AWS Developer Associate study guide](https://dev.to/aws-builders/my-aws-developer-associate-study-guide-298l)
 
-> 作者： _bu_bSkyyySi  拉取时间： 2022-11-30 05:58:38
+> 作者： Sri, AWS Community Builders  拉取时间： 2022-12-04 05:52:02
 
- [Programmers, please help me!!](https://www.reddit.com/r/pytorch/comments/z7xye4/programmers_please_help_me/)
+ [Bridge pattern in TypeScript](https://dev.to/jmalvarez/bridge-pattern-in-typescript-3hmj)
 
-> 作者： _bu_beternal_sabyss_s77  拉取时间： 2022-11-30 05:58:38
+> 作者： José Miguel Álvarez Vañó  拉取时间： 2022-12-04 05:52:02
 
- [When do you create new environments to code in_d2 Is there a best practice for this_d2](https://www.reddit.com/r/pytorch/comments/z79och/when_do_you_create_new_environments_to_code_in_is/)
+ [top 10 tips for problem_ssolving](https://dev.to/mahmoudsayed/top-10-tips-for-problem-solving-5197)
 
-> 作者： _bu_bPractical_Serve9687  拉取时间： 2022-11-30 05:58:38
+> 作者： mahmoud  拉取时间： 2022-12-04 05:52:02
 
- [Open_ssource SOTA Solution for Portrait and Human Segmentation (5_d7k stars)](https://www.reddit.com/r/pytorch/comments/z6uoju/opensource_sota_solution_for_portrait_and_human/)
+ [Talking to Robots in Real Time](http://ai.googleblog.com/2022/12/talking-to-robots-in-real-time.html)
 
-> 作者： _bu_bEldDap  拉取时间： 2022-11-30 05:58:38
+> 作者： Google AI (noreply@blogger_dcom)  拉取时间： 2022-12-04 05:52:03
 
- [VGG_s16_bResnet_s50 as Backbone for FPN](https://www.reddit.com/r/pytorch/comments/z6s0ug/vgg16resnet50_as_backbone_for_fpn/)
+ [Making a Traversable Wormhole with a Quantum Computer](http://ai.googleblog.com/2022/11/making-traversable-wormhole-with.html)
 
-> 作者： _bu_bMinute_Least  拉取时间： 2022-11-30 05:58:38
+> 作者： Google AI (noreply@blogger_dcom)  拉取时间： 2022-12-04 05:52:03
 
- [How do I change the weights_bbiases manually_d2](https://www.reddit.com/r/pytorch/comments/z6pmlj/how_do_i_change_the_weightsbiases_manually/)
+ [达观金克：RPA界面元素智能自适应定位与操控技术](https://www.52nlp.cn/%e8%be%be%e8%a7%82%e9%87%91%e5%85%8b%ef%bc%9arpa%e7%95%8c%e9%9d%a2%e5%85%83%e7%b4%a0%e6%99%ba%e8%83%bd%e8%87%aa%e9%80%82%e5%ba%94%e5%ae%9a%e4%bd%8d%e4%b8%8e%e6%93%8d%e6%8e%a7%e6%8a%80%e6%9c%af)
 
-> 作者： _bu_bStreet_sFilm4148  拉取时间： 2022-11-30 05:58:38
+> 作者： 达观数据  拉取时间： 2022-12-04 05:52:10
 
- [Loading new data after every epoch](https://www.reddit.com/r/pytorch/comments/z60hkl/loading_new_data_after_every_epoch/)
+ [Using SWIG to generate bindings between C and Lua](https://interrupt.memfault.com/blog/swig-for-c-and-lua)
 
-> 作者： _bu_bhardwareDE  拉取时间： 2022-11-28 05:59:18
+> 作者： Mikolaj Stawiski  拉取时间： 2022-12-04 05:57:25
 
- [LSTMs according to their inventor Jürgen Schmidhuber](https://www.reddit.com/r/pytorch/comments/z5dxn0/lstms_according_to_their_inventor_jürgen/)
+ [为什么在容器中挂不上arthas？](https://robberphex.com/attach-jvm-in-container-at-arthas/)
 
-> 作者： _bu_bjredrose  拉取时间： 2022-11-28 05:59:18
+> 作者： null  拉取时间： 2022-12-04 05:58:21
 
- [Replacing Torchivision with Albumentations Transforms is Lowering Performance _t(](https://www.reddit.com/r/pytorch/comments/z5gqcf/replacing_torchivision_with_albumentations/)
+ [From Audio to Talking Heads in Real_sTime with AI! RAD_sNeRF explained](https://www.reddit.com/r/DeepLearningPapers/comments/zbl7do/from_audio_to_talking_heads_in_realtime_with_ai/)
 
-> 作者： _bu_bSeizeOpportunity  拉取时间： 2022-11-28 05:59:18
+> 作者： _bu_bOnlyProggingForFun  拉取时间： 2022-12-04 05:58:45
 
- [If I use two GPUs in data_sparallelism mode with batch size N, is it same as using N batch or N_b2 batch on single GPU_d2](https://www.reddit.com/r/pytorch/comments/z4uq3i/if_i_use_two_gpus_in_dataparallelism_mode_with/)
+ [[Feedback Requested] Built a GPT_s3 based Chrome Extension to debug CUDA errors](https://www.reddit.com/r/pytorch/comments/zbc3o9/feedback_requested_built_a_gpt3_based_chrome/)
 
-> 作者： _bu_bfenylmecc  拉取时间： 2022-11-28 05:59:18
+> 作者： _bu_bVideoTo  拉取时间： 2022-12-04 05:58:46
 
- [How to add trainable attention layer to regular mlp](https://www.reddit.com/r/pytorch/comments/z51q0c/how_to_add_trainable_attention_layer_to_regular/)
+ [PyTorch 2_d0 Announced](https://www.reddit.com/r/pytorch/comments/zaqdxs/pytorch_20_announced/)
 
-> 作者： _bu_bConsiderationCivil74  拉取时间： 2022-11-28 05:59:18
+> 作者： _bu_bjoshadel  拉取时间： 2022-12-04 05:58:46
 
- [Building a TensorFlow Lite based computer vision emoji input device with OpenMV](https://blog.tensorflow.org/2022/11/building-tensorflow-lite-based-computer-vision-emoji-input-device-openmv.html)
+ [This Method is Defined on * , and may not be available in this context](https://www.reddit.com/r/pytorch/comments/zb1x6q/this_method_is_defined_on_and_may_not_be/)
 
-> 作者： TensorFlow Blog (noreply@blogger_dcom)  拉取时间： 2022-11-30 05:58:39
+> 作者： _bu_bkotschi1997  拉取时间： 2022-12-04 05:58:46
 
- [How Hugging Face improved Text Generation performance with XLA](https://blog.tensorflow.org/2022/11/how-hugging-face-improved-text-generation-performance-with-xla.html)
+ [Hessian of an image](https://www.reddit.com/r/pytorch/comments/zahcsi/hessian_of_an_image/)
 
-> 作者： TensorFlow Blog (noreply@blogger_dcom)  拉取时间： 2022-11-30 05:58:39
+> 作者： _bu_bAlexAuragan  拉取时间： 2022-12-04 05:58:46
 
- [HELP _s Trying to find information regarding Parallel File Compression](https://www.reddit.com/r/HPC/comments/z6qdmn/help_trying_to_find_information_regarding/)
+ [Instance Segmentation with PyTorch and Mask R_sCNN](https://www.reddit.com/r/pytorch/comments/za58m9/instance_segmentation_with_pytorch_and_mask_rcnn/)
 
-> 作者： _bu_bgavila438  拉取时间： 2022-11-30 05:59:30
+> 作者： _bu_bsovit_s123  拉取时间： 2022-12-04 05:58:46
 
- [“稳外贸”落地显效！ 前10月广州海关关区外贸总额1_d6万亿元，出口通关仅需0_d54小时](https://m.21jingji.com/article/20221128/herald/728f774d5ed5feea233d31dad54f537f.html)
+ [Gradient Accumulation Normalisation](https://www.reddit.com/r/pytorch/comments/z9i1pe/gradient_accumulation_normalisation/)
 
-> 作者： null  拉取时间： 2022-11-30 05:59:32
+> 作者： _bu_batomicburn125  拉取时间： 2022-12-04 05:58:46
 
- [欧洲在华企业敦促中国重新开放](https://www.ftchinese.com/story/001097998)
+ [SentenceTransformer producing different sentence embedding results in Docker](https://www.reddit.com/r/pytorch/comments/z9amf3/sentencetransformer_producing_different_sentence/)
 
-> 作者： null  拉取时间： 2022-11-30 05:59:33
+> 作者： _bu_bdanielwoi  拉取时间： 2022-12-04 05:58:46
 
- [全球化的大象已经离开房间了吗？](https://www.ftchinese.com/story/001097996)
+ [Note System](https://www.reddit.com/r/pytorch/comments/z7rcoq/note_system/)
 
-> 作者： null  拉取时间： 2022-11-30 05:59:33
+> 作者： _bu_bNoteDancing  拉取时间： 2022-12-04 05:58:46
 
- [碧桂园：中国房地产危机中的幸存者](https://www.ftchinese.com/story/001097994)
+ [Unfolding the Universe using TensorFlow](https://blog.tensorflow.org/2022/12/unfolding-universe-using-tensorflow.html)
 
-> 作者： null  拉取时间： 2022-11-30 05:59:33
+> 作者： TensorFlow Blog (noreply@blogger_dcom)  拉取时间： 2022-12-04 05:58:47
 
- [国际关系中不容忽视的力量——黑帮](https://www.ftchinese.com/story/001097987)
+ [Cool way to build AltairOpenRadioss with oneAPI and put it in a CIQ based Rocky Linux container_d](https://www.reddit.com/r/HPC/comments/zbez3l/cool_way_to_build_altairopenradioss_with_oneapi/)
 
-> 作者： null  拉取时间： 2022-11-30 05:59:33
+> 作者： _bu_btonym_sintel  拉取时间： 2022-12-04 05:59:39
 
- [每周时事分析：中国抗疫困扰的本质是认知问题](https://www.ftchinese.com/story/001097988)
+ [Read aheads and Write aheads](https://www.reddit.com/r/HPC/comments/zbgy86/read_aheads_and_write_aheads/)
 
-> 作者： null  拉取时间： 2022-11-28 06:00:16
+> 作者： _bu_brathdowney  拉取时间： 2022-12-04 05:59:39
 
- [为什么英国无法降低对中国商品的依赖？](https://www.ftchinese.com/story/001097975)
+ [HPC jobs that involve MPI programming_d2](https://www.reddit.com/r/HPC/comments/z9rxes/hpc_jobs_that_involve_mpi_programming/)
 
-> 作者： null  拉取时间： 2022-11-28 06:00:16
+> 作者： _bu_bsatirerocks  拉取时间： 2022-12-04 05:59:39
 
- [卡塔尔世界杯批评者要如何面对21世纪的现实挑战？](https://www.ftchinese.com/story/001097965)
+ [Salary for senior HPC systems engineer_d2](https://www.reddit.com/r/HPC/comments/z959gu/salary_for_senior_hpc_systems_engineer/)
 
-> 作者： null  拉取时间： 2022-11-28 06:00:16
+> 作者： _bu_bFluffyIrritation  拉取时间： 2022-12-04 05:59:39
 
- [国际足联主席抨击卡塔尔的西方批评者“虚伪”](https://www.ftchinese.com/story/001097942)
+ [支持企业“能复尽复、应复尽复”！一组图看懂广州“双统筹”举措](https://m.21jingji.com/article/20221202/herald/d1eb50cd388421d0a855119e01d96e83.html)
 
-> 作者： null  拉取时间： 2022-11-28 06:00:16
+> 作者： null  拉取时间： 2022-12-04 05:59:41
 
- [Sad Sometimes](https://poorlydrawnlines.com/comic/sad-sometimes/)
+ [孙春兰称中国疫情防控面临“新形势”](https://www.ftchinese.com/story/001098062)
 
-> 作者： Reza  拉取时间： 2022-11-30 05:59:33
+> 作者： null  拉取时间： 2022-12-04 05:59:42
 
- [甲方要求提高服务器资源利用率，目前 cpu 和内存利用率都不达标](https://www.v2ex.com/t/898820)
+ [中国整合资源对抗美国芯片制裁，阿里和腾讯参与](https://www.ftchinese.com/story/001098048)
 
-> 作者： panlista  拉取时间： 2022-11-30 05:59:34
+> 作者： null  拉取时间： 2022-12-04 05:59:42
 
- [大家手机套餐用的是什么？哪个性价比较高](https://www.v2ex.com/t/898718)
+ [马云已在东京居住半年](https://www.ftchinese.com/story/001098038)
 
-> 作者： Jim2Chen  拉取时间： 2022-11-30 05:59:34
+> 作者： null  拉取时间： 2022-12-04 05:59:42
 
- [家用服务器选择](https://www.v2ex.com/t/898705)
+ [美联储亏损了……](https://www.ftchinese.com/story/001098010)
 
-> 作者： orluna  拉取时间： 2022-11-30 05:59:34
+> 作者： 周子衡  拉取时间： 2022-12-04 05:59:42
 
- [你们的博客运行多少年了，清理收藏夹的发现](https://www.v2ex.com/t/898305)
+ [我的儿子要在上海长大](https://www.ftchinese.com/story/001098017)
 
-> 作者： googleplus  拉取时间： 2022-11-28 06:00:17
+> 作者： null  拉取时间： 2022-12-04 05:59:42
 
- [为啥没有描述伟大高尚人格的伟大小说](https://www.v2ex.com/t/898291)
+ [台湾民主政治的新篇章——2022年台湾“九合一”大选简评](https://www.ftchinese.com/story/001098003)
 
-> 作者： asanelder  拉取时间： 2022-11-28 06:00:17
+> 作者： null  拉取时间： 2022-12-04 05:59:42
 
- [用筋膜枪给眼睛放松以后, 发现近视缓解了_d2](https://www.v2ex.com/t/898285)
+ [](https://www.ftchinese.com/story/001098013)
 
-> 作者： ALXG  拉取时间： 2022-11-28 06:00:17
+> 作者： null  拉取时间： 2022-12-04 05:59:42
 
- [突然发现 edge 相比 chrome 占用内存更大](https://www.v2ex.com/t/898253)
+ [A Bird](https://poorlydrawnlines.com/comic/a-bird/)
 
-> 作者： mingtdlb  拉取时间： 2022-11-28 06:00:17
+> 作者： Reza  拉取时间： 2022-12-04 05:59:42
 
- [【已受理】得一微电子股份有限公司](https://kcb.sse.com.cn/renewal/xmxq/index.shtml?auditId=1347)
+ [API 不管操作成功还是失败都返回 200 状态码，自己在返回结果里又定义一个表示是否成功的属性是从哪里传开的坏习惯？](https://www.v2ex.com/t/899875)
 
-> 作者： 得一微电子股份有限公司  拉取时间： 2022-11-30 05:59:34
+> 作者： edis0n0  拉取时间： 2022-12-04 05:59:43
 
- [【已询问】浙江太美医疗科技股份有限公司](https://kcb.sse.com.cn/renewal/xmxq/index.shtml?auditId=1095)
+ [中文输入法用的全键盘还是 9 宫格？](https://www.v2ex.com/t/899861)
 
-> 作者： 浙江太美医疗科技股份有限公司  拉取时间： 2022-11-30 05:59:34
+> 作者： alexlee0728  拉取时间： 2022-12-04 05:59:43
 
- [【已受理】宁波奥拉半导体股份有限公司](https://kcb.sse.com.cn/renewal/xmxq/index.shtml?auditId=1346)
+ [golang 咋这么恶心，解压 zip 文件居然要一大串代码，这不应该是语言内置一行搞定的吗？](https://www.v2ex.com/t/899827)
 
-> 作者： 宁波奥拉半导体股份有限公司  拉取时间： 2022-11-30 05:59:34
+> 作者： bthulu  拉取时间： 2022-12-04 05:59:43
 
- [2022年11月29日外交部发言人赵立坚主持例行记者会（2022_s11_s29）](https://www.mfa.gov.cn/web/wjdt_674879/fyrbt_674889/202211/t20221129_10982781.shtml)
+ [南方朋友开地暖了么？](https://www.v2ex.com/t/899817)
 
-> 作者： null  拉取时间： 2022-11-30 05:59:34
+> 作者： Hanson666  拉取时间： 2022-12-04 05:59:43
 
- [2022年11月28日外交部发言人赵立坚主持例行记者会（2022_s11_s28）](https://www.mfa.gov.cn/web/wjdt_674879/fyrbt_674889/202211/t20221128_10981777.shtml)
+ [为啥不见女生晒桌面](https://www.v2ex.com/t/899792)
 
-> 作者： null  拉取时间： 2022-11-30 05:59:34
+> 作者： asanelder  拉取时间： 2022-12-04 05:59:43
 
- [【喷嚏图卦20221129】唯一能打的工就是防疫了](https://www.dapenti.com/blog/more.asp?name=xilei&id=168268)
+ [为什么大家这么讨厌 Electron_d2](https://www.v2ex.com/t/899773)
 
-> 作者： xilei  拉取时间： 2022-11-30 06:01:14
+> 作者： hongchaodeng  拉取时间： 2022-12-04 05:59:43
 
- [【喷嚏图卦20221128】如果你真的爱国，你会平等地爱每一个陌生的同胞](https://www.dapenti.com/blog/more.asp?name=xilei&id=168241)
+ [v 友们，头发偏软，有方法使得头发变硬吗？](https://www.v2ex.com/t/899768)
 
-> 作者： xilei  拉取时间： 2022-11-30 06:01:14
+> 作者： codingAlex  拉取时间： 2022-12-04 05:59:43
 
- [【喷嚏图卦20221127】即便没什么改变也比沉默中交出所有权力有尊严](https://www.dapenti.com/blog/more.asp?name=xilei&id=168221)
+ [关于 mac 上的播放器](https://www.v2ex.com/t/899756)
 
-> 作者： xilei  拉取时间： 2022-11-28 06:02:01
+> 作者： wloverine  拉取时间： 2022-12-04 05:59:43
 
- [【喷嚏图卦20221126】他的软肋其实是他儿子](https://www.dapenti.com/blog/more.asp?name=xilei&id=168204)
+ [pixel 手机闲鱼出手不了了](https://www.v2ex.com/t/899752)
 
-> 作者： xilei  拉取时间： 2022-11-28 06:02:01
+> 作者： muhuan  拉取时间： 2022-12-04 05:59:43
 
- [2022年11月29日新闻联播文字版完整版](http://www.xwlb.cn/12537.html)
+ [【已询问】深圳市信宇人科技股份有限公司](https://kcb.sse.com.cn/renewal/xmxq/index.shtml?auditId=1251)
 
-> 作者： null  拉取时间： 2022-11-30 06:02:08
+> 作者： 深圳市信宇人科技股份有限公司  拉取时间： 2022-12-04 05:59:43
 
- [2022年11月28日新闻联播文字版完整版](http://www.xwlb.cn/12521.html)
+ [【通过】安徽安芯电子科技股份有限公司](https://kcb.sse.com.cn/renewal/xmxq/index.shtml?auditId=1026)
 
-> 作者： null  拉取时间： 2022-11-30 06:02:08
+> 作者： 安徽安芯电子科技股份有限公司  拉取时间： 2022-12-04 05:59:43
 
- [2022年11月26日新闻联播文字版完整版](http://www.xwlb.cn/12490.html)
+ [2022年12月2日外交部发言人赵立坚主持例行记者会（2022_s12_s02）](https://www.mfa.gov.cn/web/wjdt_674879/fyrbt_674889/202212/t20221202_10984381.shtml)
 
-> 作者： null  拉取时间： 2022-11-28 06:02:51
+> 作者： null  拉取时间： 2022-12-04 05:59:44
 
- [中央人民政府向香港特别行政区行政长官发出的公函](http://www.gov.cn/zhengce/content/2022-11/28/content_5729234.htm)
+ [2022年12月1日外交部发言人赵立坚主持例行记者会（2022_s12_s01）](https://www.mfa.gov.cn/web/wjdt_674879/fyrbt_674889/202212/t20221201_10983892.shtml)
 
-> 作者： null  拉取时间： 2022-11-30 06:02:08
+> 作者： null  拉取时间： 2022-12-04 05:59:44
 
- [为了报复英国海军，瑞典花150年种30万棵橡树以打造最庞大的舰队](http://jandan.net/p/111744)
+ [2022年11月30日外交部发言人赵立坚主持例行记者会（2022_s11_s30）](https://www.mfa.gov.cn/web/wjdt_674879/fyrbt_674889/202211/t20221130_10983226.shtml)
 
-> 作者： majer  拉取时间： 2022-11-30 06:02:09
+> 作者： null  拉取时间： 2022-12-04 05:59:44
 
- [药物发现平台：基于代数拓扑学的化合物数据分析方法](http://jandan.net/p/111791)
+ [【喷嚏图卦20221203】非必要不做核酸](https://www.dapenti.com/blog/more.asp?name=xilei&id=168344)
 
-> 作者： majer  拉取时间： 2022-11-30 06:02:09
+> 作者： xilei  拉取时间： 2022-12-04 06:01:24
 
- [不影响食品口味和外观，澳洲墨尔本理工开发了一种人造膳食纤维](http://jandan.net/p/111786)
+ [【喷嚏图卦20221202】我的计划是战胜西班牙](https://www.dapenti.com/blog/more.asp?name=xilei&id=168331)
 
-> 作者： majer  拉取时间： 2022-11-30 06:02:09
+> 作者： xilei  拉取时间： 2022-12-04 06:01:24
 
- [又到年末：如何避免倦怠](http://jandan.net/p/111788)
+ [【喷嚏图卦20221201】当时只道是寻常](https://www.dapenti.com/blog/more.asp?name=xilei&id=168310)
 
-> 作者： 八里  拉取时间： 2022-11-30 06:02:09
+> 作者： xilei  拉取时间： 2022-12-04 06:01:24
 
- [创业成功的3个关键步骤](http://jandan.net/p/111787)
+ [2022年12月3日新闻联播文字版完整版](http://www.xwlb.cn/12597.html)
 
-> 作者： 八里  拉取时间： 2022-11-30 06:02:09
+> 作者： null  拉取时间： 2022-12-04 06:02:14
 
- [2022年最常见的密码是——“密码”](http://jandan.net/p/111775)
+ [2022年12月2日新闻联播文字版完整版](http://www.xwlb.cn/12582.html)
 
-> 作者： majer  拉取时间： 2022-11-28 06:02:53
+> 作者： null  拉取时间： 2022-12-04 06:02:14
 
- [牙齿生长模式记录了智人祖先怀孕过程的演化史](http://jandan.net/p/111773)
+ [2022年12月1日新闻联播文字版完整版](http://www.xwlb.cn/12569.html)
 
-> 作者： majer  拉取时间： 2022-11-28 06:02:53
+> 作者： null  拉取时间： 2022-12-04 06:02:14
 
- [与人类大脑类似，章鱼的神经组织包含大量microRNA](http://jandan.net/p/111774)
+ [2022年11月30日新闻联播文字版完整版](http://www.xwlb.cn/12553.html)
 
-> 作者： majer  拉取时间： 2022-11-28 06:02:53
+> 作者： null  拉取时间： 2022-12-04 06:02:14
 
- [是什么导致了“新车味”](http://jandan.net/p/111771)
+ [国务院关于开展第五次全国经济普查的通知](http://www.gov.cn/zhengce/content/2022-12/01/content_5729862.htm)
 
-> 作者： 八里  拉取时间： 2022-11-28 06:02:53
+> 作者： null  拉取时间： 2022-12-04 06:02:15
 
- [电动自行车可能是城市中心交通的未来](http://jandan.net/p/111770)
+ [波兰称德国拍卖了一副偷盗自华沙国家博物馆的康定斯基的画作](http://jandan.net/p/111824)
 
-> 作者： 八里  拉取时间： 2022-11-28 06:02:53
+> 作者： majer  拉取时间： 2022-12-04 06:02:16
 
- [【疑似诈骗】太原防疫短信带核酸结果“查询链接”，可以点击查询](https://vp.fact.qq.com/article?id=667477e34d8ffc970dccd2256521c466)
+ [2022年最强大的10个医疗创新](http://jandan.net/p/111823)
 
-> 作者： 中央人民广播电台广播新闻网  拉取时间： 2022-11-30 06:02:59
+> 作者： 八里  拉取时间： 2022-12-04 06:02:16
 
- [【谣言】出公共场所再扫场所码可避免成为密接者](https://vp.fact.qq.com/article?id=5537b7c1cad11570829276829d433f66)
+ [在新冠疫情期间，一些青少年的大脑老化得更快](http://jandan.net/p/111821)
 
-> 作者： 中央网信办违法和不良信息举报中心主办、新华网承办的辟谣平台  拉取时间： 2022-11-30 06:02:59
+> 作者： 八里  拉取时间： 2022-12-04 06:02:16
 
- [Automatically find and fix errors in any ML datasets with cleanlab This data_scentric AI package facilitates machine learning with messy, real_sworld da_d_d_d](https://t.me/computer_science_and_programming/1134)
+ [地球上的氧气从何而来？一个诱人的可能性](http://jandan.net/p/111820)
 
-> 作者： null  拉取时间： 2022-11-30 06:04:40
+> 作者： majer  拉取时间： 2022-12-04 06:02:16
 
- [硬核观察 #835 互联网档案馆上线 PalmPilot 仿真项目](https://linux.cn/article-15301-1.html?utm_source=rss&utm_medium=rss)
+ [今日好价 1203](http://jandan.net/p/111819)
 
-> 作者： linux@linux_dcn (linux)  拉取时间： 2022-11-30 06:04:42
+> 作者： sein  拉取时间： 2022-12-04 06:02:16
 
- [macOS 替代品 helloSystem 0_d7_d0 正在增强稳定性](https://linux.cn/article-15300-1.html?utm_source=rss&utm_medium=rss)
+ [硬核观察 #839 Steam Linux 市场份额达到新高 1_d44_0](https://linux.cn/article-15314-1.html?utm_source=rss&utm_medium=rss)
 
-> 作者： linux@linux_dcn (linux)  拉取时间： 2022-11-30 06:04:42
+> 作者： linux@linux_dcn (linux)  拉取时间： 2022-12-04 06:04:50
 
- [详解在 Ubuntu 从外部存储库安装软件包](https://linux.cn/article-15299-1.html?utm_source=rss&utm_medium=rss)
+ [Authenticator：一个 Linux 上的 Authy 的简单的开源替代品](https://linux.cn/article-15313-1.html?utm_source=rss&utm_medium=rss)
 
-> 作者： linux@linux_dcn (linux)  拉取时间： 2022-11-30 06:04:42
+> 作者： linux@linux_dcn (linux)  拉取时间： 2022-12-04 06:04:50
 
- [硬核观察 #834 Rust 叫好不叫座](https://linux.cn/article-15298-1.html?utm_source=rss&utm_medium=rss)
+ [在 Fedora Linux 系统上安装 PowerShell](https://linux.cn/article-15312-1.html?utm_source=rss&utm_medium=rss)
 
-> 作者： linux@linux_dcn (linux)  拉取时间： 2022-11-30 06:04:42
+> 作者： linux@linux_dcn (linux)  拉取时间： 2022-12-04 06:04:50
 
- [使用 WinSCP 将文件和文件夹从 Windows 传输到 Linux](https://linux.cn/article-15297-1.html?utm_source=rss&utm_medium=rss)
+ [硬核观察 #838 安卓的 Rust 代码中发现的内存安全漏洞为零](https://linux.cn/article-15311-1.html?utm_source=rss&utm_medium=rss)
 
-> 作者： linux@linux_dcn (linux)  拉取时间： 2022-11-30 06:04:42
+> 作者： linux@linux_dcn (linux)  拉取时间： 2022-12-04 06:04:50
 
- [系统管理员喜欢 systemd 的 5 个理由](https://linux.cn/article-15296-1.html?utm_source=rss&utm_medium=rss)
+ [使用 Git bisect 命令定位首次引入错误的提交](https://linux.cn/article-15310-1.html?utm_source=rss&utm_medium=rss)
 
-> 作者： linux@linux_dcn (linux)  拉取时间： 2022-11-30 06:04:42
+> 作者： linux@linux_dcn (linux)  拉取时间： 2022-12-04 06:04:50
 
- [硬核观察 #833 欧盟允许在飞行中使用智能手机](https://linux.cn/article-15295-1.html?utm_source=rss&utm_medium=rss)
+ [Bodhi Linux 7_d0_d0 开始测试新的功能和软件包](https://linux.cn/article-15309-1.html?utm_source=rss&utm_medium=rss)
 
-> 作者： linux@linux_dcn (linux)  拉取时间： 2022-11-28 06:05:27
+> 作者： linux@linux_dcn (linux)  拉取时间： 2022-12-04 06:04:50
 
- [5 个 htop 替代：增强你的 Linux 系统监控体验](https://linux.cn/article-15294-1.html?utm_source=rss&utm_medium=rss)
+ [如何在 Arch Linux 中安装 OpenOffice（新手指南）](https://linux.cn/article-15308-1.html?utm_source=rss&utm_medium=rss)
 
-> 作者： linux@linux_dcn (linux)  拉取时间： 2022-11-28 06:05:27
+> 作者： linux@linux_dcn (linux)  拉取时间： 2022-12-04 06:04:50
 
- [如何在 Arch Linux 中安装 elementary OS 的 Pantheon 桌面](https://linux.cn/article-15293-1.html?utm_source=rss&utm_medium=rss)
+ [硬核观察 #837 20 个企业控制了一半的域名解析](https://linux.cn/article-15307-1.html?utm_source=rss&utm_medium=rss)
 
-> 作者： linux@linux_dcn (linux)  拉取时间： 2022-11-28 06:05:27
+> 作者： linux@linux_dcn (linux)  拉取时间： 2022-12-04 06:04:50
 
- [硬核观察 #832 123456 才是第二常见的密码](https://linux.cn/article-15292-1.html?utm_source=rss&utm_medium=rss)
+ [埃隆·马斯克的 Twitter 将添加开源 Signal 协议，实现加密私信](https://linux.cn/article-15306-1.html?utm_source=rss&utm_medium=rss)
 
-> 作者： linux@linux_dcn (linux)  拉取时间： 2022-11-28 06:05:27
+> 作者： linux@linux_dcn (linux)  拉取时间： 2022-12-04 06:04:50
 
- [最佳 Linux 远程桌面客户端](https://linux.cn/article-15291-1.html?utm_source=rss&utm_medium=rss)
+ [【Rust日报】2022_s12_s03 Game Off 2022 光线追踪游戏](https://rustcc.cn/article?id=28313c93-aa56-489c-a500-839297d8a4d6)
 
-> 作者： linux@linux_dcn (linux)  拉取时间： 2022-11-28 06:05:27
+> 作者： null  拉取时间： 2022-12-04 06:04:54
 
- [如何在 Silverblue 上变基到 Fedora Linux 37](https://linux.cn/article-15290-1.html?utm_source=rss&utm_medium=rss)
+ [【Rust日报】2022_s12_s02 wasmer 推出 Wasmer Pack](https://rustcc.cn/article?id=46f97027-7211-4b70-90c1-8f9f16a98b75)
 
-> 作者： linux@linux_dcn (linux)  拉取时间： 2022-11-28 06:05:27
+> 作者： null  拉取时间： 2022-12-04 06:04:54
 
- [OpenCASCADE_sGlue Faces to Shell](http://www.cppblog.com/eryar/archive/2022/11/27/occt_glue_faces_shell.html)
+ [开源一个简单易用的json_srpc2_d0 rust库](https://rustcc.cn/article?id=428f9da3-c90e-448e-8c13-a7545279d7df)
 
-> 作者： eryar  拉取时间： 2022-11-30 06:04:44
+> 作者： null  拉取时间： 2022-12-04 06:04:54
 
- [【Rust日报】2022_s11_s29 Wirefish：基于 Tauri 的跨平台数据包嗅探器](https://rustcc.cn/article?id=5e681b65-55ae-4ef0-be14-3231785583e3)
+ [阿里巴巴斑马智行招聘Rust工程师](https://rustcc.cn/article?id=fa60f468-3571-4463-9655-10af7c66ec2a)
 
-> 作者： null  拉取时间： 2022-11-30 06:04:47
+> 作者： null  拉取时间： 2022-12-04 06:04:54
 
- [新开一期培训《动手学 rust_slibp2p》](https://rustcc.cn/article?id=2097b001-2287-42fb-b109-0a1b25f72f9d)
+ [【Rust日报】2022_s12_s01 Extism _s 使所有软件都可编程扩展](https://rustcc.cn/article?id=920e39d8-4eae-44df-83a0-f294802bcb46)
 
-> 作者： null  拉取时间： 2022-11-30 06:04:47
+> 作者： null  拉取时间： 2022-12-04 06:04:54
 
- [【Rust日报】2022_s11_s28 使用 Rust 编写解释型语言](https://rustcc.cn/article?id=66091de0-37e5-4441-b3b9-2d4a883c129a)
+ [【Solved】对于 tokio select! 宏未完成分支drop的疑惑](https://rustcc.cn/article?id=08dabda3-7249-4ee0-aa22-c8bbe5b0fbcb)
 
-> 作者： null  拉取时间： 2022-11-30 06:04:47
+> 作者： null  拉取时间： 2022-12-04 06:04:54
 
- [tokio_t_ttime_t_tsleep占用资源的情况是怎样的？](https://rustcc.cn/article?id=3cc8ccac-7332-4e9a-b385-51434926be66)
+ [使用tokio，mqtt订阅功能该怎么实现](https://rustcc.cn/article?id=6a86ca4b-9ba0-407c-b55d-e6887204e453)
 
-> 作者： null  拉取时间： 2022-11-30 06:04:47
+> 作者： null  拉取时间： 2022-12-04 06:04:54
 
- [Rust中Future执行底层探秘](https://rustcc.cn/article?id=720e246e-4378-47c2-ad7d-76ba05a1b05e)
+ [【Rust日报】2022_s11_s30 Dora _s 一个 Rust 写的 DHCP 服务](https://rustcc.cn/article?id=5f112db1-6b35-4512-ac33-4f40cda708a4)
 
-> 作者： null  拉取时间： 2022-11-30 06:04:47
+> 作者： null  拉取时间： 2022-12-04 06:04:54
 
- [通过一个例子学习Cargo Features](https://rustcc.cn/article?id=9ce8beea-7e99-4562-a07e-f4a274758998)
+ [《dyn async traits 系列》翻译](https://rustcc.cn/article?id=9962782e-75cf-4b6d-964b-ad9e0bd79629)
 
-> 作者： null  拉取时间： 2022-11-30 06:04:47
+> 作者： null  拉取时间： 2022-12-04 06:04:54
 
- [为Cargo编译的可执行文件增加commit版本号](https://rustcc.cn/article?id=71505d2c-4b1e-4f87-bd65-60093bb14001)
+ [filter方法的返回类型](https://rustcc.cn/article?id=405b7ddb-2dec-4d97-8c41-658897e8b724)
 
-> 作者： null  拉取时间： 2022-11-30 06:04:47
+> 作者： null  拉取时间： 2022-12-04 06:04:54
 
- [rust语法复习笔记(超长文本)](https://rustcc.cn/article?id=21da5594-bad2-45ef-b064-9de70d01dddf)
+ [Rust项目模版](https://rustcc.cn/article?id=2ce87a46-d2d8-4763-960a-ea5c95206c7d)
 
-> 作者： null  拉取时间： 2022-11-30 06:04:47
+> 作者： null  拉取时间： 2022-12-04 06:04:54
 
- [【Rust 日报】2022_s11_s27 用Rust重写ESLint](https://rustcc.cn/article?id=e2056fa3-0536-4eba-9e5f-5c4d3942cf8a)
+ [Daily Hacker News for 2022_s12_s02](https://www.daemonology.net/hn-daily/2022-12-02.html)
 
-> 作者： null  拉取时间： 2022-11-28 06:05:31
+> 作者： null  拉取时间： 2022-12-04 06:05:44
 
- [【Rust日报】2022_s11_s26](https://rustcc.cn/article?id=ec6917ba-c0e5-4766-83b1-26f2cabea655)
+ [Daily Hacker News for 2022_s12_s01](https://www.daemonology.net/hn-daily/2022-12-01.html)
 
-> 作者： null  拉取时间： 2022-11-28 06:05:31
+> 作者： null  拉取时间： 2022-12-04 06:05:44
 
- [所有权疑问](https://rustcc.cn/article?id=edea733d-ec8b-4b06-97bf-a85548666bcb)
+ [Daily Hacker News for 2022_s11_s30](https://www.daemonology.net/hn-daily/2022-11-30.html)
 
-> 作者： null  拉取时间： 2022-11-28 06:05:31
+> 作者： null  拉取时间： 2022-12-04 06:05:44
 
- [【Rust 日报】2022_s11_s25 Rust 真的要上天了！](https://rustcc.cn/article?id=e75e855c-044e-4884-80e4-34975bbb0f19)
+ [Daily Hacker News for 2022_s11_s29](https://www.daemonology.net/hn-daily/2022-11-29.html)
 
-> 作者： null  拉取时间： 2022-11-28 06:05:31
+> 作者： null  拉取时间： 2022-12-04 06:05:44
 
- [Daily Hacker News for 2022_s11_s28](https://www.daemonology.net/hn-daily/2022-11-28.html)
+ [科技爱好者周刊（第 233 期）：生活就像一个鱼缸](http://www.ruanyifeng.com/blog/2022/12/weekly-issue-233.html)
 
-> 作者： null  拉取时间： 2022-11-30 06:05:38
-
- [Daily Hacker News for 2022_s11_s27](https://www.daemonology.net/hn-daily/2022-11-27.html)
-
-> 作者： null  拉取时间： 2022-11-30 06:05:38
-
- [Daily Hacker News for 2022_s11_s26](https://www.daemonology.net/hn-daily/2022-11-26.html)
-
-> 作者： null  拉取时间： 2022-11-28 06:06:21
-
- [Daily Hacker News for 2022_s11_s25](https://www.daemonology.net/hn-daily/2022-11-25.html)
-
-> 作者： null  拉取时间： 2022-11-28 06:06:21
-
- [SegmentFault 2022 年社区周报 Vol_d17](https://segmentfault.com/a/1190000042927015)
-
-> 作者： SegmentFault思否  拉取时间： 2022-11-30 06:07:27
-
- [推荐20个开源的不错前端低代码项目](https://segmentfault.com/a/1190000042810460)
-
-> 作者： xiangzhihong  拉取时间： 2022-11-30 06:07:27
-
- [从 Java 到 Kotlin _s 介绍 Kotlin](https://segmentfault.com/a/1190000042918986)
-
-> 作者： 边城  拉取时间： 2022-11-30 06:07:27
-
- [思否年度有奖征文丨致来时路，一名技术人的 2022](https://segmentfault.com/a/1190000042923114)
-
-> 作者： SegmentFault思否  拉取时间： 2022-11-30 06:07:27
-
- [你只会用前端数据埋点 SDK 吗？](https://segmentfault.com/a/1190000042914318)
-
-> 作者： 熊的猫  拉取时间： 2022-11-30 06:07:27
-
- [SegmentFault 思否技术周刊 Vol_d71 — 解读 Go 语言](https://segmentfault.com/a/1190000042920349)
-
-> 作者： Beverly  拉取时间： 2022-11-30 06:07:27
-
- [聊聊 Docker 的存储驱动 Overlay2](https://segmentfault.com/a/1190000042914483)
-
-> 作者： 张晋涛  拉取时间： 2022-11-30 06:07:27
-
- [嘿，vue中keep_salive有个「大坑」你可能还不知道](https://segmentfault.com/a/1190000042913827)
-
-> 作者： wuwhs  拉取时间： 2022-11-30 06:07:27
+> 作者： null  拉取时间： 2022-12-04 06:10:48
