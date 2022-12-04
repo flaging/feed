@@ -18,7 +18,19 @@
 
 ## 今日更新
 
-## 2022-12-4
+## 2022-12-5
+
+ [有效融合语言模型、图神经网络，文本图训练框架GLEM实现新SOTA](https://www.jiqizhixin.com/articles/2022-12-04-3)
+
+> 作者： 机器之心  拉取时间： 2022-12-05 05:51:41
+
+ [字节跳动李航：人工智能需要新的范式和理论](https://www.jiqizhixin.com/articles/2022-12-04)
+
+> 作者： 机器之心  拉取时间： 2022-12-05 05:51:41
+
+ [追求高性能触觉反馈：腾讯Robotics X用执行器助力盲文读取、VR沉浸体验](https://www.jiqizhixin.com/articles/2022-12-04-2)
+
+> 作者： 机器之心  拉取时间： 2022-12-05 05:51:41
 
  [中国《人工智能领域高价值专利分析报告》发布 百度AI专利价值排名第一](https://www.jiqizhixin.com/articles/2022-12-02-12)
 
@@ -100,6 +112,14 @@
 
 > 作者： 机器之能  拉取时间： 2022-12-04 05:51:50
 
+ [[送码] iOS 倒数日应用新选择，让每一天都值得期待：Happy_tDays](https://sspai.com/post/77093)
+
+> 作者： Peggy_  拉取时间： 2022-12-05 05:51:42
+
+ [「更好用」的国际版 app 好在哪？我对比了这 3 款应用](https://sspai.com/post/76710)
+
+> 作者： Lin0u0  拉取时间： 2022-12-05 05:51:42
+
  [当谈论可持续时，我们在谈什么？](https://sspai.com/post/77063)
 
 > 作者： johnbens  拉取时间： 2022-12-04 05:51:52
@@ -140,6 +160,10 @@
 
 > 作者： 许万里Alva  拉取时间： 2022-12-04 05:51:52
 
+ [数钢管 – 拍照计数，真的可以数钢管，也可以数木头[iPhone_bAndroid]](https://www.appinn.com/shu-gangguan/)
+
+> 作者： 青小蛙  拉取时间： 2022-12-05 05:51:45
+
  [老婆 QQ 发来一句语音卖萌，听得我心花怒放，想把这句语音保留下来](https://www.appinn.com/silk-v3-decoder/)
 
 > 作者： 青小蛙  拉取时间： 2022-12-04 05:51:54
@@ -155,6 +179,50 @@
  [Global Speed – 在线视频播放控制：倍速、倒带_b前进、逐帧分析、标记、AB 重复等[Chrome_bFirefox]](https://www.appinn.com/global-speed-browser-online-video/)
 
 > 作者： 青小蛙  拉取时间： 2022-12-04 05:51:54
+
+ [The #openai and #gpt3 tags are now officially "supported" on DEV](https://dev.to/devteam/the-openai-and-gpt3-tags-are-now-officially-supported-on-dev-1bd)
+
+> 作者： Ben Halpern, The DEV Team  拉取时间： 2022-12-05 05:51:53
+
+ [How JWTs Could Be Dangerous and Its Alternatives](https://dev.to/pragativerma18/how-jwts-could-be-dangerous-and-its-alternatives-3k3j)
+
+> 作者： Pragati Verma  拉取时间： 2022-12-05 05:51:53
+
+ [Submit button outside the form](https://dev.to/dailydevtips1/submit-button-outside-the-form-2m6f)
+
+> 作者： Chris Bongers  拉取时间： 2022-12-05 05:51:53
+
+ [5 Small and Hidden React libraries You Should Already Be Using](https://dev.to/naubit/5-small-and-hidden-react-libraries-you-should-already-be-using-nb5)
+
+> 作者： Al _s Naubit  拉取时间： 2022-12-05 05:51:53
+
+ [Super Useful CSS Resources 🌈](https://dev.to/lissy93/super-useful-css-resources-1ba3)
+
+> 作者： Alicia Sykes  拉取时间： 2022-12-05 05:51:53
+
+ [Kubernetes_t What It Is, How It Works, and Why It_as A Game changer](https://dev.to/pramit_marattha/kubernetes-what-it-is-how-it-works-and-why-its-a-game-changer-15pg)
+
+> 作者： Pramit Marattha  拉取时间： 2022-12-05 05:51:53
+
+ [Hey Tech Recruiter, Here Are Some Tips from a Developer](https://dev.to/eevajonnapanula/hey-tech-recruiter-here-are-some-tips-from-a-developer-4hl8)
+
+> 作者： Eevis (she_bher)  拉取时间： 2022-12-05 05:51:53
+
+ [Thank You DEV 😊](https://dev.to/krishnaagarwal/thank-you-dev-3pfo)
+
+> 作者： Krishna Agarwal  拉取时间： 2022-12-05 05:51:53
+
+ [Anything C can do Rust can do Better](https://dev.to/scottbeeker/anything-c-can-do-rust-can-do-better-2a9a)
+
+> 作者： Scott Beeker  拉取时间： 2022-12-05 05:51:53
+
+ [ChatGPT is Amazing_d And It is FREE!](https://dev.to/mcsee/chatgpt-is-amazing-and-it-is-free-1h12)
+
+> 作者： Maxi Contieri  拉取时间： 2022-12-05 05:51:53
+
+ [Create useful automations with plain Javascript 🧑‍💻](https://dev.to/alagrede/create-useful-automations-with-plain-javascript-1871)
+
+> 作者： Anthony Lagrede  拉取时间： 2022-12-05 05:51:53
 
  [Learn Web Development by Building Projects](https://dev.to/askdevs/learn-web-development-by-building-projects-1kc1)
 
@@ -316,6 +384,10 @@
 
 > 作者： _bu_bOnlyProggingForFun  拉取时间： 2022-12-04 05:58:45
 
+ [TorchPRISM_t Convolutional Neural Network Visualisation and Explanation Framework](https://www.reddit.com/r/pytorch/comments/zc7xfv/torchprism_convolutional_neural_network/)
+
+> 作者： _bu_bAvarentis  拉取时间： 2022-12-05 05:58:39
+
  [[Feedback Requested] Built a GPT_s3 based Chrome Extension to debug CUDA errors](https://www.reddit.com/r/pytorch/comments/zbc3o9/feedback_requested_built_a_gpt3_based_chrome/)
 
 > 作者： _bu_bVideoTo  拉取时间： 2022-12-04 05:58:46
@@ -372,6 +444,18 @@
 
 > 作者： null  拉取时间： 2022-12-04 05:59:41
 
+ [长者离场：一个时代的句号](https://www.ftchinese.com/story/001098065)
+
+> 作者： null  拉取时间： 2022-12-05 05:59:35
+
+ [每周时事分析：他是一个有文化、并让中国真正走向了世界的总书记](https://www.ftchinese.com/story/001098066)
+
+> 作者： null  拉取时间： 2022-12-05 05:59:35
+
+ [苟余行之不迷，虽颠沛其何伤？](https://www.ftchinese.com/story/001098064)
+
+> 作者： null  拉取时间： 2022-12-05 05:59:35
+
  [孙春兰称中国疫情防控面临“新形势”](https://www.ftchinese.com/story/001098062)
 
 > 作者： null  拉取时间： 2022-12-04 05:59:42
@@ -403,6 +487,38 @@
  [A Bird](https://poorlydrawnlines.com/comic/a-bird/)
 
 > 作者： Reza  拉取时间： 2022-12-04 05:59:42
+
+ [shell 对于符号的要求好严格啊，有没有智能的 IDE 啊](https://www.v2ex.com/t/900033)
+
+> 作者： Aurora0  拉取时间： 2022-12-05 05:59:36
+
+ [公司黄了，目前三个多月没发工资，想开车周游全国，做自媒体，是否可行！](https://www.v2ex.com/t/900016)
+
+> 作者： gmlaogong  拉取时间： 2022-12-05 05:59:36
+
+ [2022 年大家年终奖怎么样？](https://www.v2ex.com/t/899988)
+
+> 作者： wonderblank  拉取时间： 2022-12-05 05:59:36
+
+ [私人和重要数据不要存放在笔记软件 Craft 中](https://www.v2ex.com/t/899957)
+
+> 作者： Xmk  拉取时间： 2022-12-05 05:59:36
+
+ [没有国外手机号,好想玩 CHATGPT🥺](https://www.v2ex.com/t/899956)
+
+> 作者： andyJado  拉取时间： 2022-12-05 05:59:36
+
+ [请留下未来你会分享给自己孩子的动漫，仅限动漫](https://www.v2ex.com/t/899934)
+
+> 作者： Genshin2020  拉取时间： 2022-12-05 05:59:36
+
+ [ChatGPT 还不是最可怕的](https://www.v2ex.com/t/899927)
+
+> 作者： qdwang  拉取时间： 2022-12-05 05:59:36
+
+ [全文搜索（full text search）有什么好一点的低成本解决方案？](https://www.v2ex.com/t/899924)
+
+> 作者： ericgui  拉取时间： 2022-12-05 05:59:36
 
  [API 不管操作成功还是失败都返回 200 状态码，自己在返回结果里又定义一个表示是否成功的属性是从哪里传开的坏习惯？](https://www.v2ex.com/t/899875)
 
@@ -460,6 +576,10 @@
 
 > 作者： null  拉取时间： 2022-12-04 05:59:44
 
+ [【喷嚏图卦20221204】感觉就像保留了高考，但把九年义务教育撤了](https://www.dapenti.com/blog/more.asp?name=xilei&id=168360)
+
+> 作者： xilei  拉取时间： 2022-12-05 06:01:17
+
  [【喷嚏图卦20221203】非必要不做核酸](https://www.dapenti.com/blog/more.asp?name=xilei&id=168344)
 
 > 作者： xilei  拉取时间： 2022-12-04 06:01:24
@@ -471,6 +591,10 @@
  [【喷嚏图卦20221201】当时只道是寻常](https://www.dapenti.com/blog/more.asp?name=xilei&id=168310)
 
 > 作者： xilei  拉取时间： 2022-12-04 06:01:24
+
+ [2022年12月4日新闻联播文字版完整版](http://www.xwlb.cn/12614.html)
+
+> 作者： null  拉取时间： 2022-12-05 06:02:07
 
  [2022年12月3日新闻联播文字版完整版](http://www.xwlb.cn/12597.html)
 
@@ -492,6 +616,26 @@
 
 > 作者： null  拉取时间： 2022-12-04 06:02:15
 
+ [美国：谈论经济已没有意义](http://jandan.net/p/111833)
+
+> 作者： 八里  拉取时间： 2022-12-05 06:02:09
+
+ [来自Midjourney的AI艺术画廊](http://jandan.net/p/111831)
+
+> 作者： 八里  拉取时间： 2022-12-05 06:02:09
+
+ [2023的潘通年度色彩是由AI工具Midjourney“创造”的](http://jandan.net/p/111830)
+
+> 作者： 八里  拉取时间： 2022-12-05 06:02:09
+
+ [今日好价 1204](http://jandan.net/p/111829)
+
+> 作者： sein  拉取时间： 2022-12-05 06:02:09
+
+ [Dezeen：2022年十大摩天大楼](http://jandan.net/p/111828)
+
+> 作者： 八里  拉取时间： 2022-12-05 06:02:09
+
  [波兰称德国拍卖了一副偷盗自华沙国家博物馆的康定斯基的画作](http://jandan.net/p/111824)
 
 > 作者： majer  拉取时间： 2022-12-04 06:02:16
@@ -511,6 +655,18 @@
  [今日好价 1203](http://jandan.net/p/111819)
 
 > 作者： sein  拉取时间： 2022-12-04 06:02:16
+
+ [硬核观察 #840 粒子物理学的基础计算机程序后继无人](https://linux.cn/article-15317-1.html?utm_source=rss&utm_medium=rss)
+
+> 作者： linux@linux_dcn (linux)  拉取时间： 2022-12-05 06:04:45
+
+ [你现在可以在 Arch Linux 上安装 Unity 7_d6 桌面了](https://linux.cn/article-15316-1.html?utm_source=rss&utm_medium=rss)
+
+> 作者： linux@linux_dcn (linux)  拉取时间： 2022-12-05 06:04:45
+
+ [微软 Office 365 再次在德国学校被宣布为非法](https://linux.cn/article-15315-1.html?utm_source=rss&utm_medium=rss)
+
+> 作者： linux@linux_dcn (linux)  拉取时间： 2022-12-05 06:04:45
 
  [硬核观察 #839 Steam Linux 市场份额达到新高 1_d44_0](https://linux.cn/article-15314-1.html?utm_source=rss&utm_medium=rss)
 
@@ -547,6 +703,14 @@
  [埃隆·马斯克的 Twitter 将添加开源 Signal 协议，实现加密私信](https://linux.cn/article-15306-1.html?utm_source=rss&utm_medium=rss)
 
 > 作者： linux@linux_dcn (linux)  拉取时间： 2022-12-04 06:04:50
+
+ [【Rust日报】2022_s12_s04 「Rust新闻_b聚合」](https://rustcc.cn/article?id=29b5a984-ddfc-426b-a1cc-75a6e7d11016)
+
+> 作者： null  拉取时间： 2022-12-05 06:04:50
+
+ [记rust操作mysql增删查改](https://rustcc.cn/article?id=5deee423-6b3f-4b1b-ac85-84ab792bc500)
+
+> 作者： null  拉取时间： 2022-12-05 06:04:50
 
  [【Rust日报】2022_s12_s03 Game Off 2022 光线追踪游戏](https://rustcc.cn/article?id=28313c93-aa56-489c-a500-839297d8a4d6)
 
@@ -591,6 +755,10 @@
  [Rust项目模版](https://rustcc.cn/article?id=2ce87a46-d2d8-4763-960a-ea5c95206c7d)
 
 > 作者： null  拉取时间： 2022-12-04 06:04:54
+
+ [Daily Hacker News for 2022_s12_s03](https://www.daemonology.net/hn-daily/2022-12-03.html)
+
+> 作者： null  拉取时间： 2022-12-05 06:05:40
 
  [Daily Hacker News for 2022_s12_s02](https://www.daemonology.net/hn-daily/2022-12-02.html)
 
